@@ -341,9 +341,11 @@ much information about the collection and its transfer as you can at this stage.
 | Accessioned by                               | Add your initials.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Finalizing the record                        | When you have finished filling out the record, press the Save Record button. Use the Print Record button to print at least two copies of the record, one for the collection file and one for the accession files. If you assigned a new manuscript number, press the Description Data button, then click Fill Data, then Save. This creates an entry in the database’s Manuscript Register.                                                                                                                                                                                                                                                                                                                                                                                                              |
 
+<a id="figure2"></a>
 ![Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.](figure2.png "Example of the Brief Description of Materials field to indicate the establishment of a new collection.")
 *Example of the Brief Description of Materials field to indicate the establishment of a new collection.*
 
+<a id="figure3"></a>
 ![Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.](figure3.png "Example of the Brief Description of Materials field to indicate the addition to an established collection.")
 *Example of the Brief Description of Materials field to indicate the addition to an established collection.*
 
