@@ -133,4 +133,4 @@ Smith papers rather than the Jane and Julie Smith papers or the Jane Smith famil
 papers. 
 
 
-<a id="anchor1">[1]</a>All definitions in this document taken from:  `Society of American Archivists, A Glossary of Archival and Records Terminology, 2005 <https://www2.archivists.org/glossary>`_. https://www2.archivists.org/glossary, accessed August 7, 2017.
+<a id="anchor1">[1]</a>All definitions in this document taken from:  [Society of American Archivists, A Glossary of Archival and Records Terminology, 2005](https://www2.archivists.org/glossary). 
