@@ -1,7 +1,7 @@
 
 # Collection Analysis
 
-* [2.1 Determine provenance and original order](21-determine-provenance-and-original-order)
+* [2.1 Determine provenance and original order](#21-determine-provenance-and-original-order)
 * [2.2 Condition assessment/physical inventory](#22-condition-assessment-physical-inventory)
 * [2.3 Determine level of arrangement and description](#23-determine-level-of-arrangement-and-description)
 	* [2.3.1 Identifying intellectual units within collections](#231-identifying-intellectual-units-within-collections)
