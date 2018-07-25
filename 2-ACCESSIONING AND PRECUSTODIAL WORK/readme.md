@@ -1,6 +1,17 @@
 
 # Accessioning and Precustodial Work
 
+* [1.1 Consultations with donors](#11-consultations-with-donors)
+* [1.2 Collections receiving](#12-collections-receiving)
+	* [1.2.1 Receipt of new or potential acquisitions](#121-receipt-of-new-or-potential-acquisitions)
+	* [1.2.2 Paperwork](#122-paperwork)
+	* [1.2.3 Financial appraisal](#123-financial-appraisal)
+* [1.3 Accessioning](#13-accessioning)
+	* [1.3.1 Managing accessioning workflow](#131-managing-accessioning-workflow)
+	* [1.3.2 Creation of the accession record](#132-creation-of-the-accession-record)
+	
+	
+
 Precustodial work is all work that occurs before a collection is formally transferred 
 to the Rose Library. It includes the packing, shipping, and receiving of material, as 
 well as managing the paperwork required to formally transfer a collection or item. 
@@ -30,7 +41,7 @@ Archives at the Rose Library is the University Archivist. The primary point of
 contact for collections receiving for all other units at the Rose Library is the 
 Accessioning & Collections Manager.
 
-### 1.2.4 Receipt of New or Potential Acquisitions 
+### 1.2.1 Receipt of New or Potential Acquisitions 
 
 All collection material should be received and opened/unpacked by the Accessioning 
 and Collections Manager. 
@@ -66,7 +77,7 @@ responsibility to notify the donor/seller. The Accessioning and Collections Mana
 can help coordinate return of the material, once the donor/seller has been notified 
 by the curator. 
 
-### 1.2.5 Paperwork
+### 1.2.2 Paperwork
 
 No collection material may be cataloged or accessioned until the appropriate 
 paperwork has been received. All paperwork should be transferred to the Accessioning 
@@ -218,7 +229,7 @@ include contact information for the donor, the contents of the gift, the physica
 size of the gift, and the date of arrival. The Administrative Assistant is 
 responsible for  following up with the donor to obtain proper paperwork. 
 
-### 1.2.6 Financial Appraisal
+### 1.2.3 Financial Appraisal
 
 Collections may be appraised in two circumstances, if a donor would like to take a 
 tax write off on a gift or if curators need a professional evaluation to determine a 
