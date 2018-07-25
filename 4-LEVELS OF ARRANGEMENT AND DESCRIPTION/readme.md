@@ -293,7 +293,7 @@ miscellany collections will likely be arranged and described to this level as we
 
 
 
-
+*Footnotes:*
 
 <a id="anchor1">[1]</a>Includes basic, collection level, elements such as Title, Date, Extent, the Creator (s) of the collection, a Scope and Content note and a note relaying any access restrictions or conditions.
 
