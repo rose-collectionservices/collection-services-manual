@@ -134,7 +134,7 @@ available to researchers prior to a deeper review for restrictions.
 **Description:**
 
 *	Create a collection level accession record.
-*	Catalog record and finding aid meet DACS multilevel optimum requirements<a href="anchor3"><sup>3</sup></a>.  
+*	Catalog record and finding aid meet DACS multilevel optimum requirements<a href="#anchor3"><sup>3</sup></a>.  
 *	Scope notes for series and subseries are more detailed than they are at the 
 	collection level.  
 *	Container list includes general summary of the contents of each box within the 
