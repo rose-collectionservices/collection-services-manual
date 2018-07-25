@@ -326,7 +326,7 @@ fleshed out as you are able to make it with the information available to you.  N
 all fields are required for each new accession, but it is the intent to capture as 
 much information about the collection and its transfer as you can at this stage. 
 
-![Figure 1: Sample record from the accessions database](/images/figure1.png "Sample record from the accessions database")
+![Figure 1: Sample record from the accessions database](/2-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure1.png "Sample record from the accessions database")
 
 | Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -353,11 +353,11 @@ much information about the collection and its transfer as you can at this stage.
 | Finalizing the record                        | When you have finished filling out the record, press the Save Record button. Use the Print Record button to print at least two copies of the record, one for the collection file and one for the accession files. If you assigned a new manuscript number, press the Description Data button, then click Fill Data, then Save. This creates an entry in the database’s Manuscript Register.                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 <a id="figure2"></a>
-![Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.](/images/figure2.png "Example of the Brief Description of Materials field to indicate the establishment of a new collection.")
+![Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.](/2-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure2.png "Example of the Brief Description of Materials field to indicate the establishment of a new collection.")
 *Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.*
 
 <a id="figure3"></a>
-![Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.](/images/figure3.png "Example of the Brief Description of Materials field to indicate the addition to an established collection.")
+![Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.](/2-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure3.png "Example of the Brief Description of Materials field to indicate the addition to an established collection.")
 *Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.*
 
 
