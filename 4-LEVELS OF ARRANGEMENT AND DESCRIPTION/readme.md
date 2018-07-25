@@ -249,7 +249,7 @@ miscellany collections will likely be arranged and described to this level as we
 *	If possible we should identify arrangement and description levels, as well as 
 	preliminary series or other arrangement schemes, at the time of acquisition.
 	
-## 3.4 Time and Cost Analysis<a href="anchor4"><sup>4</sup></a>
+## 3.4 Time and Cost Analysis<a href="#anchor4"><sup>4</sup></a>
 
 ### 3.4.1 Time:
 
