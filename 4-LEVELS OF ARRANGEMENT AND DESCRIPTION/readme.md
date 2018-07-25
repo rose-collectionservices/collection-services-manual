@@ -9,7 +9,7 @@
 	* [3.1.6 Item level](#316-item-level)
 * [3.2 Assumptions and general guidelines](#32-assumptions-and-general-guidelines)
 * [3.3 Before arranging and describing a collection](#33-before-arranging-and-describing-a-collection)
-* [3.4 Time and cost analysis](#34-time-and-cost-analysis)
+* [3.4 Time and cost analysis](#34-time-and-cost-analysis4)
 	* [3.4.1 Time](#341-time)
 	* [3.4.2 Expense](#342-expense)
 * [3.5 Levels of arrangement quick guide](#35-levels-of-arrangement-quick-guide)
