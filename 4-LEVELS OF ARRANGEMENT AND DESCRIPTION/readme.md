@@ -296,6 +296,9 @@ miscellany collections will likely be arranged and described to this level as we
 
 
 <a id="anchor1">[1]</a>Includes basic, collection level, elements such as Title, Date, Extent, the Creator (s) of the collection, a Scope and Content note and a note relaying any access restrictions or conditions.
-<a id="anchor2">[2]</a>Includes all of the collection-level information already notes, as well as an administrative history or biographical note and access points. 
-<a id="anchor3">[3]</a>This level of record includes all of the collection-level information required of the single-level optimum records, but each series also receives a scope and content note and other relevant descriptive information.  
+
+<a id="anchor2">[2]</a>Includes all of the collection-level information already notes, as well as an administrative history or biographical note and access points.
+ 
+<a id="anchor3">[3]</a>This level of record includes all of the collection-level information required of the single-level optimum records, but each series also receives a scope and content note and other relevant descriptive information. 
+ 
 <a id="anchor4">[4]</a>In this model the assumption is that the most time-consuming aspect of archival processing is the work involved in arrangement, specifically refoldering and file level arrangement.  For that reason, the cost per linear foot was calculated based on arrangement, rather than description levels.  There may be cases where a collection is minimally arranged but described in detail where these estimates would be revised, but this calculation should cover most typical scenarios. Breakdowns of supply and labor costs are included in indices.  
