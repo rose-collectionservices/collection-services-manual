@@ -28,6 +28,8 @@
 	* [5.1.20 Scope and content note](#5120-scope-and-content-note)
 	* [5.1.21 Arrangement note](#5121-arrangement-note)
 	* [5.1.22 Additional finding aids](#5122-additional-finding-aids)
+* [5.2 Using the Microsoft Word template](#52-using-the-microsoft-word-template)
+* [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
 
 "Description is the creation of an accurate representation of…archival material by the process of capturing, collating, analyzing, and organizing 
 information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these 
@@ -864,8 +866,40 @@ This field describes any additional finding aids, such as indexes or original in
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
 
+## 5.2 Using the Microsoft Word Template
 
+There are three finding aids templates:  Nonseries, Series, and Subseries (F:\MARBL\Arrangement & Description Services\Forms).  When writing the finding aid, provide information in each of the required fields plus any additional optional fields that are relevant to a specific collection.  Delete fields that are not relevant.  The template includes all necessary formatting for the collection level description. 
+
+The templates may not include all necessary formatting for container lists.  The Perl script that automatically encodes the container lists is dependent on this formatting and it must be correct for the script to run.  This formatting cannot be applied to container lists retrospectively.  If it is not set prior to beginning the container list, it will need to be applied individually to each multi-line folder title. 
+
+* Click the arrow in the bottom right corner of the paragraph tab on the home ribbon (see figure 2);
+
+![Figure 2: Click the arrow in the bottom right corner of the paragraph tab on the home ribbon](/5-DESCRIPTION/Images/Figure2.jpg "Click the arrow in the bottom right corner of the paragraph tab on the home ribbon")
+
+*Figure 2*
+
+* Set left and right indentations at 0" and special hanging indentation at 1.2" (see figure 3);
+* In the bottom left of the paragraph menu, select "tabs" (see figure 3);
+
+![Figure 3: Set left and right indentations at 0" and special hanging indentation at 1.2"](/5-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0" and special hanging indentation at 1.2"")
+
+*Figure 3*
+
+* Set tabs at .5" and 1" (see figure 4);
+
+![Figure 4: Set tabs at .5" and 1"](/5-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5" and 1"")
+
+*Figure 4*
+
+* Ensure that all extra tabs and spaces at the end of folder titles are deleted. 
+
+## 5.3 Reviewing and Editing Finding Aids
+
+Finding aids go through two rounds of editing and feedback before they're published in EmoryFindingAids.  Send the draft to the Manuscript Archivists, Accessioning and Collections Manager, and Head of Collection Services for editing.  After incorporating feedback from at least two colleagues, share the new draft with the appropriate Curator for further feedback.  Incorporate their suggestions and proceed with encoding and publishing the document.  If the Curator does not return comments within one week, publish the finding aid and incorporate any changes they suggest at a later date. 
+
+Once the finding aid is published, send the permanent link to the donor (via email, if that information is available).  They may have additional questions about how the collection is arranged and described or factual corrections.  It is not necessary to delay publication of a finding aid in order to seek feedback from a collection donor.   
 *Footnotes:*
 
 <a id="anchor1">[1]</a> DACS.
+
 <a id="anchor2">[2]</a> This practice violates DACS rules adopted in 2013.  Collection Services staff made the decision to retain historical practice in these cases to avoid conflation of manuscript collections with EUA collections and to avoid implying that Rose Library had created any individual documents within an artificial collection.
