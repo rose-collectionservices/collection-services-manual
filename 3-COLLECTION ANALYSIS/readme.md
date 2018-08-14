@@ -1,10 +1,10 @@
 
 # Collection Analysis
 
-* [2.1 Determine provenance and original order](#21-determine-provenance-and-original-order)
-* [2.2 Condition assessment/physical inventory](#22-condition-assessmentphysical-inventory)
-* [2.3 Determine level of arrangement and description](#23-determine-level-of-arrangement-and-description)
-	* [2.3.1 Identifying intellectual units within collections](#231-identifying-intellectual-units-within-collections)
+* [3.1 Determine provenance and original order](#31-determine-provenance-and-original-order)
+* [3.2 Condition assessment/physical inventory](#32-condition-assessmentphysical-inventory)
+* [3.3 Determine level of arrangement and description](#33-determine-level-of-arrangement-and-description)
+	* [3.3.1 Identifying intellectual units within collections](#331-identifying-intellectual-units-within-collections)
 
 The first step in processing is conducting a thorough collection analysis.  The 
 analysis is the foundation for all decisions about levels of arrangement and 
@@ -16,7 +16,7 @@ a collection.
 *	Physical control:  The function of tracking the storage of records to ensure that 
 	they can be located.<a href="#anchor1"><sup>1</sup></a>
 	
-## 2.1 Determine Provenance and Original Order
+## 3.1 Determine Provenance and Original Order
 
 *	Provenance: 1. The origin or source of something. - 2. Information regarding the 
 	origins, custody, and ownership of an item or collection.
@@ -49,7 +49,7 @@ on the collection.  Significant time and effort should not be spent recreating
 original order when it's not apparent.  Carefully document your decision-making 
 process, as it will form the basis of the processing note [LINK].  
 
-## 2.2 Condition Assessment/Physical Inventory
+## 3.2 Condition Assessment/Physical Inventory
 
 Assess the current physical condition of the collection (this will actually be done 
 concurrently with determining original order).  Begin by briefly examining the 
@@ -65,7 +65,7 @@ materials found there (e.g. correspondence, minutes, financial records), general
 extremely fragile material.  Refer to the [Preservation During Processing](/9-PRESERVATION/readme.md/#preservation-during-processing) 
 section for additional information.
 
-## 2.3 Determine Level of Arrangement and Description
+## 3.3 Determine Level of Arrangement and Description
 
 Start by analyzing the records (their content and context) at a high level. What does 
 the collection as a whole tell us? What are the major pieces of the collection and 
@@ -88,7 +88,7 @@ effectively and efficiently meet those goals. In general, you are looking for th
 "golden minimum," the least granular level of arrangement and description that will 
 meet the stated access and use goals for the collection.  [LINK]
 
-### 2.3.1 Identifying intellectual units within collections:
+### 3.3.1 Identifying intellectual units within collections:
 
 Archivists will always describe records, at minimum, at the collection level, but 
 most large or more complex collections will have additional groupings of material.  

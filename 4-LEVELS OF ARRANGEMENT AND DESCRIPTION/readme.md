@@ -1,19 +1,19 @@
 
 # Rose Library Levels of Arrangement and Description
 
-* [3.1 Levels of arrangement and description](#31-levels-of-arrangement-and-description)
-	* [3.1.2 Accessioned](#312-accessioned)
-	* [3.1.3 Collection level](#313-collection-level)
-	* [3.1.4 Series level](#314-series-level)
-	* [3.1.5 File level](#315-file-level)
-	* [3.1.6 Item level](#316-item-level)
-* [3.2 Assumptions and general guidelines](#32-assumptions-and-general-guidelines)
-* [3.3 Before arranging and describing a collection](#33-before-arranging-and-describing-a-collection)
-* [3.4 Time and cost analysis](#34-time-and-cost-analysis4)
-	* [3.4.1 Time](#341-time)
-	* [3.4.2 Expense](#342-expense)
-* [3.5 Levels of arrangement quick guide](#35-levels-of-arrangement-quick-guide)
-* [3.6 Levels of description quick guide](#36-levels-of-description-quick-guide)
+* [4.1 Levels of arrangement and description](#41-levels-of-arrangement-and-description)
+	* [4.1.2 Accessioned](#412-accessioned)
+	* [4.1.3 Collection level](#413-collection-level)
+	* [4.1.4 Series level](#414-series-level)
+	* [4.1.5 File level](#415-file-level)
+	* [4.1.6 Item level](#416-item-level)
+* [4.2 Assumptions and general guidelines](#42-assumptions-and-general-guidelines)
+* [4.3 Before arranging and describing a collection](#43-before-arranging-and-describing-a-collection)
+* [4.4 Time and cost analysis](#44-time-and-cost-analysis4)
+	* [4.4.1 Time](#441-time)
+	* [4.4.2 Expense](#442-expense)
+* [4.5 Levels of arrangement quick guide](#45-levels-of-arrangement-quick-guide)
+* [4.6 Levels of description quick guide](#46-levels-of-description-quick-guide)
 
 These guidelines are intended to:
 
@@ -29,9 +29,9 @@ These guidelines are intended to:
 Note that different portions of collections may be processed to different levels.  
 Also note that collections or portions of collections may be arranged at one level and described at another.  By breaking apart these two aspects of processing we have more flexibility in how we approach and make available collections, and we can be more efficient and effective in managing each individual collection and serving our users.
 
-## 3.1 Levels of Arrangement and Description
+## 4.1 Levels of Arrangement and Description
 
-### 3.1.2 Accessioned:
+### 4.1.2 Accessioned:
 
 **Use Cases:** The Accessioning level applies to collections that we receive on 
 deposit, come entirely restricted, or are slated for a more intensive treatment due to 
@@ -66,7 +66,7 @@ review for restrictions at a later date.
 	If there are anticipated privacy considerations or donor-requested restrictions 
 	note that the collection may not accessible.
 	
-### 3.1.3 Collection Level:
+### 4.1.3 Collection Level:
 
 **Use Cases:** Most newly acquired material will be arranged and described at the 
 collection level and opened to researchers for use.   In some cases there may be an 
@@ -108,7 +108,7 @@ inventory and will remain closed until reviewed for restrictions.
 *	Additional descriptive information can be added at the discretion of the 
 	archivist.
 	
-### 3.1.4 Series Level:
+### 4.1.4 Series Level:
 
 **Use cases:** Series level arrangement and description is most appropriate for 
 collections where groupings of material are apparent and relatively distinct.  It is 
@@ -141,7 +141,7 @@ available to researchers prior to a deeper review for restrictions.
 	series or subseries and may be arranged into a logical order (chronological, 
 	etc.).
 
-### 3.1.5 File Level:
+### 4.1.5 File Level:
 
 **Use cases:** File level arrangement and description is good for collections with 
 high research value, expected high use, collections with anticipated file level 
@@ -180,7 +180,7 @@ restrictions.
 	folders that all comprise one intellectual file can be described at the 
 	aggregated file, rather than folder, level.
 
-### 3.1.6 Item Level:
+### 4.1.6 Item Level:
 
 **Use Cases:** Item level arrangement and description is used only under exceptional 
 circumstances. It may be employed when MARBL has a contractual agreement with a donor 
@@ -208,7 +208,7 @@ miscellany collections will likely be arranged and described to this level as we
 *	For certain formats such as art or audiovisual material additional metadata such 
 	as physical form or dimensions may be captured.
 	
-## 3.2 Assumptions and General Guidelines
+## 4.2 Assumptions and General Guidelines
 
 *	"Processed" does not describe one collection state, but rather encompasses a 
 	spectrum of different possible practices of arrangement and description.
@@ -231,7 +231,7 @@ miscellany collections will likely be arranged and described to this level as we
 *	We can apply different levels of arrangement and description for different series 
 	or subseries in a collection.  
 
-## 3.3 Before Arranging and Describing a Collection
+## 4.3 Before Arranging and Describing a Collection
 
 *	Verify that the collection has been formally accessioned (or accession the 
 	collection if the two processes are occurring simultaneously), and clarify any 
@@ -249,9 +249,9 @@ miscellany collections will likely be arranged and described to this level as we
 *	If possible we should identify arrangement and description levels, as well as 
 	preliminary series or other arrangement schemes, at the time of acquisition.
 	
-## 3.4 Time and Cost Analysis<a href="#anchor4"><sup>4</sup></a>
+## 4.4 Time and Cost Analysis<a href="#anchor4"><sup>4</sup></a>
 
-### 3.4.1 Time:
+### 4.4.1 Time:
 
 | Level                                                                | Timeline                    |
 |----------------------------------------------------------------------|-----------------------------|
@@ -262,7 +262,7 @@ miscellany collections will likely be arranged and described to this level as we
 | Item level                                                           |                             |
 
 
-### 3.4.2 Expense:
+### 4.4.2 Expense:
 
 | Level                                                    | Cost per linear foot                                                 |
 |----------------------------------------------------------|----------------------------------------------------------------------|
@@ -273,7 +273,7 @@ miscellany collections will likely be arranged and described to this level as we
 | Item level                                               | **Staff:** $960-$1200 **Supplies:** $8.45 **Average Total: $58.45**   |
 
 
-## 3.5 Levels of Arrangement Quick Guide
+## 4.5 Levels of Arrangement Quick Guide
 
 | Level                                                   | Arrangement                                                                                                                                                                                | Actions                                                                                                                                                        |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -282,7 +282,7 @@ miscellany collections will likely be arranged and described to this level as we
 | File Level Condition 1 (when material arrives foldered) | Put series and folders or volumes in order within boxes. Do not order or arrange material within folders. If arrives unfoldered: Items identified, roughly sorted and placed into folders. | Materials rehoused into archival boxes; refoldering into archival folders only if originals are damaged or do not fit; Check for mold, pests and nitrate film. |
 | Item Level                                              | Individual items arranged within folders or individually foldered.                                                                                                                         | Materials rehoused into archival boxes, items refoldered into archival folders.                                                                                |
 
-## 3.6 Levels of Description Quick Guide
+## 4.6 Levels of Description Quick Guide
 
 | Level             | Description                                                                                                                                                                   |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

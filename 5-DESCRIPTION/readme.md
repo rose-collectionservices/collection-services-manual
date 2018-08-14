@@ -1,33 +1,33 @@
 
 # Description
 
-* [4.1 Finding aids](#41-finding-aids)
-	* [4.1.1 Main entry/creator](#411-main-entrycreator)
-	* [4.1.2 Title statement](#412-title-statement)
-		* [4.1.2.1 Title](#4121-title)
-		* [4.1.2.2 Date](#4122-date)
-		* [4.1.2.3 Extent](#4123-extent)
-		* [4.1.2.4 Abstract](#4124-abstract)
-		* [4.1.2.5 Language note](#4125-language-note)
-		* [4.1.2.6 Restrictions on access](#4126-restrictions-on-access)
-			* [4.1.2.6.1 Conditions governing access](#41261-conditions-governing-access)
-			* [4.1.2.6.2 Physical access](#41262-physical-access)
-		* [4.1.2.7 Terms governing use and reproduction](#4127-terms-governing-use-and-reproduction)
-		* [4.1.2.8 Additional physical form](#4128-additional-physical-form)
-		* [4.1.2.9 Location of originals](#4129-location-of-originals)
-		* [4.1.2.10 Publication note](#41210-publication-note)
-		* [4.1.2.11 Related collections in this repository](#41211-related-collections-in-this-repository)
-		* [4.1.2.12 Related collections in other institutions](#41212-related-collections-in-other-institutions)
-		* [4.1.2.13 Seperated materials](#41213-seperated-materials)
-		* [4.1.2.14 Immediate source of acquisition](#41214-immediate-source-of-acquisition)
-		* [4.1.2.15 Custodial history](#41215-custodial-history)
-		* [4.1.2.16 Citation](#41216-citation)
-		* [4.1.2.17 Processing note](#41217-processing-note)
-		* [4.1.2.18 Appraisal note](#41218-appraisal-note)
-		* [4.1.2.19 Biographical/historical note](#41219-biographicalhistorical-note)
-		* [4.1.2.20 Scope and content note](#41220-scope-and-content-note)
-		* [4.1.2.21 Arrangement note](#41221-arrangement-note)
-		* [4.1.2.22 Additional finding aids](#41222-additional-finding aids)
+* [5.1 Finding aids](#51-finding-aids)
+	* [5.1.1 Main entry/creator](#511-main-entrycreator)
+	* [5.1.2 Title statement](#512-title-statement)
+		* [5.1.2.1 Title](#5121-title)
+		* [5.1.2.2 Date](#5122-date)
+		* [5.1.2.3 Extent](#5123-extent)
+		* [5.1.2.4 Abstract](#5124-abstract)
+		* [5.1.2.5 Language note](#5125-language-note)
+		* [5.1.2.6 Restrictions on access](#5126-restrictions-on-access)
+			* [5.1.2.6.1 Conditions governing access](#51261-conditions-governing-access)
+			* [5.1.2.6.2 Physical access](#51262-physical-access)
+		* [5.1.2.7 Terms governing use and reproduction](#5127-terms-governing-use-and-reproduction)
+		* [5.1.2.8 Additional physical form](#5128-additional-physical-form)
+		* [5.1.2.9 Location of originals](#5129-location-of-originals)
+		* [5.1.2.10 Publication note](#51210-publication-note)
+		* [5.1.2.11 Related collections in this repository](#51211-related-collections-in-this-repository)
+		* [5.1.2.12 Related collections in other institutions](#51212-related-collections-in-other-institutions)
+		* [5.1.2.13 Seperated materials](#51213-seperated-materials)
+		* [5.1.2.14 Immediate source of acquisition](#51214-immediate-source-of-acquisition)
+		* [5.1.2.15 Custodial history](#51215-custodial-history)
+		* [5.1.2.16 Citation](#51216-citation)
+		* [5.1.2.17 Processing note](#51217-processing-note)
+		* [5.1.2.18 Appraisal note](#51218-appraisal-note)
+		* [5.1.2.19 Biographical/historical note](#51219-biographicalhistorical-note)
+		* [5.1.2.20 Scope and content note](#51220-scope-and-content-note)
+		* [5.1.2.21 Arrangement note](#51221-arrangement-note)
+		* [5.1.2.22 Additional finding aids](#51222-additional-finding aids)
 
 "Description is the creation of an accurate representation of…archival material by the process of capturing, collating, analyzing, and organizing 
 information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these 
@@ -57,9 +57,9 @@ archive.  It may also be prudent to focus descriptive efforts on components of a
 have high research value, are especially complex or idiosyncratic, or particularly illuminate something important about the creator.  Conversely, other 
 components of the collection may receive less description.  This is at the archivist's discretion and should be explained in the processing note. 
 
-## 4.1 Finding Aids
+## 5.1 Finding Aids
 
-### 4.1.1 Main Entry/Creator
+### 5.1.1 Main Entry/Creator
 
 **DACS Chapter 2.6:**
 
@@ -124,11 +124,11 @@ For additional guidance, see DACS [LINK] and the Rose Library MARC manual [LINK]
 
 **Corresponding EAD element(s):**  ``<origination></origination>``
 
-###4.1.2 Title Statement
+###5.1.2 Title Statement
 
 The title statement records the title of the collection and the dates of coverage of the collection.
 
-####4.1.2.1 Title
+####5.1.2.1 Title
 
 **DACS Chapter 2.3:**
 
@@ -176,7 +176,7 @@ Processing Note and Style Guide for additional guidance on folder titles.
 
 **Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
-####4.1.2.2 Date
+####5.1.2.2 Date
 
 **DACS Chapter 2.4:**
 
@@ -226,7 +226,7 @@ life of the organization or when the volume of material within the bulk dates is
 		*	Personal papers, 1931-1996 (bulk 1931-1972)
 		
 
-####4.1.2.3 Extent
+####5.1.2.3 Extent
 
 **DACS Chapter 2.5:**
 
@@ -258,7 +258,7 @@ data and/or extent of physical media for born digital content.
 
 **Corresponding EAD element(s):** ``<physdesc><extent></extent></physdesc``
 
-####4.1.2.4 Abstract
+####5.1.2.4 Abstract
 
 **DACS Chapter:**  None.
 
@@ -282,9 +282,9 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 **Corresponding EAD element(s):** ``<abstract></abstract>``
 
-####4.1.2.5 Language Note
+####5.1.2.5 Language Note
 
-**DACS Chapter 4.5:**
+**DACS Chapter 5.5:**
 
 Identifies the language(s), script(s), and symbol systems employed in the materials being described, particularly as they may affect its use.
 
@@ -303,13 +303,13 @@ amounts of material in those languages.
 
 **Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
 
-####4.1.2.6 Restrictions on Access
+####5.1.2.6 Restrictions on Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
-#####4.1.2.6.1 Conditions Governing Access
+#####5.1.2.6.1 Conditions Governing Access
 
-**DACS Chapter 4.1:** 
+**DACS Chapter 5.1:** 
 
 Provides information about access restrictions due to the nature of the information in the materials being described, such as those imposed by the donor, 
 by the repository, or by statutory/regulatory requirements.
@@ -353,9 +353,9 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-#####4.1.2.6.2 Physical Access
+#####5.1.2.6.2 Physical Access
 
-**DACS Chapter 4.2:**
+**DACS Chapter 5.2:**
 
 Provides information about physical access restrictions due to physical characteristics or storage locations that limit, restrict, delay, or otherwise 
 affect access to the materials being described.
@@ -392,9 +392,9 @@ also identify materials that require special handling that goes beyond standard 
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-####4.1.2.7 Terms Governing Use and Reproduction
+####5.1.2.7 Terms Governing Use and Reproduction
 
-**DACS Chapter 4.4:**
+**DACS Chapter 5.4:**
 
 Identifies any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. 
 
@@ -424,7 +424,7 @@ When describing restrictions, precede the first restriction note with "Special r
 
 **Corresponding EAD element(s):** ``<userestrict></userestrict>``
 
-####4.1.2.8 Additional Physical Form
+####5.1.2.8 Additional Physical Form
 
 **DACS Chapter 6.2:**
 
@@ -445,7 +445,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 
 **Corresponding EAD element(s):** ``<altformavail></altformavail>``
 
-####4.1.2.9 Location of Originals
+####5.1.2.9 Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -464,7 +464,7 @@ This note identifies the format of the reproductions and the repository or indiv
 
 **Corresponding EAD element(s):** ``<originalsloc></originalsloc>``
 
-####4.1.2.10 Publication Note
+####5.1.2.10 Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -482,7 +482,7 @@ This note should identify editorial projects based on collection material.  It i
 
 **Corresponding EAD element(s):** ``<bibliography></bibliography>``
 
-####4.1.2.11 Related Collections in this Repository
+####5.1.2.11 Related Collections in this Repository
 
 **DACS Chapter 6.4:**
 
@@ -501,7 +501,7 @@ This field identifies any other collections in the Rose Library that have a clos
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
-####4.1.2.12 Related Collections in Other Institutions
+####5.1.2.12 Related Collections in Other Institutions
 
 **DACS Chapter 6.4:**
 
@@ -522,7 +522,7 @@ This field identifies collections held in other repositories that have a close r
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
-####4.1.2.13 Seperated Materials
+####5.1.2.13 Seperated Materials
 
 This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged or new collections that were created.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
@@ -535,7 +535,7 @@ This field identifies materials that have been physically removed from the colle
 
 **Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
 
-####4.1.2.14 Immediate Source of Acquisition
+####5.1.2.14 Immediate Source of Acquisition
 
 **DACS Chapter 5.2:**
 
@@ -570,7 +570,7 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
 
-####4.1.2.16 Citation
+####5.1.2.16 Citation
 
 **DACS Chapter 7.1:**
 
@@ -590,7 +590,7 @@ This field includes the Rose Library's preferred citation for the collection.  T
 
 **Corresponding EAD element(s):** ``<prefercite></prefercite>``
 
-####4.1.2.17 Processing Note
+####5.1.2.17 Processing Note
 
 **DACS Chapter 7.1:**
 
@@ -609,13 +609,13 @@ Processing notes are used at the series and/or subseries level when it is necess
 *Basic notes:*
 
 * Arranged and described at the folder level by Haylee Harrell, Ingrid Meintjes, and Sarah Quigley, 2017. 
-* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2014. Born digital materials processed by Dorothy Waugh, January, 2016. 
+* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016. 
 
 *Information about original order and/or archivist imposed organization:*
 
 * The collection arrived at the Rose Library in no discernible order. Meaghan O'Riordan aggregated the records by record type during accessioning.   
 * The organization of this collection was primarily devised by Sarah Quigley and Rebecca Sherman during processing in 2012.  However, the collected poetry subseries (2.1a) reflects a combination of Grennan's original order and archivist imposed arrangement.  The collected poetry was arranged by archivists in chronological order by publication date.  Grennan frequently changed the title of a collection during the process of compiling and revising the typescript. Typescripts with these variant titles have been arranged by archivists in alphabetical order within each work, with different drafts in chronological order to the extent that could be determined.  Material for collected works also include working files that contain poems considered for publication in that work but which ultimately were not included.  Some also include working files titled "Towards [work]," as labeled by Grennan.  The original arrangement of these folders has been retained to preserve evidence of early drafting efforts. Many poems in the subseries have multiple drafts which may be located with typescripts of a complete work, working files, and the folder for that individual poem. Not all collected works contain all of these materials. 
-* Processed by Sarah Quigley, October 2014. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
+* Processed by Sarah Quigley, October 2015. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
 * Material arrived at the Rose Library organized broadly by subject by the donor.  Rose Staff retained these categories. 
 
 *Information about preservation actions:*
@@ -635,7 +635,7 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 **Corresponding EAD element(s):** ``<processinfo></processinfo>``
 
-####4.1.2.18 Appraisal Note
+####5.1.2.18 Appraisal Note
 
 **DACS Chapter 5.3:**
 
@@ -730,7 +730,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 
 **Corresponding EAD element(s):** ``<appraisal></appraisal>``
 
-####4.1.2.19 Biographical/Historical Note
+####5.1.2.19 Biographical/Historical Note
 
 **DACS Chapter 2.7:**
 
@@ -767,7 +767,7 @@ The tone of these notes should be informational and avoid judgments about the va
 
 **Corresponding EAD element(s):** ``<bioghist></bioghist>``
 
-####4.1.2.20 Scope and Content Note
+####5.1.2.20 Scope and Content Note
 
 **DACS Chapter 3.1:**
 
@@ -792,7 +792,7 @@ This note is repeatable at the folder level and can be used to present important
 
 **Corresponding EAD element(s):** ``<scopecontent></scopecontent>``
 
-####4.1.2.21 Arrangement Note
+####5.1.2.21 Arrangement Note
 
 **DACS Chapter 3.2:**
 
@@ -802,7 +802,7 @@ Describes the current organization of the collection.
 
 **Required:** Required at collection level.  Repeatable and required at the series and sub-series levels when applicable.
 
-The arrangement note does not include information about the archivist's actions or decisions during processing (see: [4.1.2.17 Processing Note](#41217-processing-note)). 
+The arrangement note does not include information about the archivist's actions or decisions during processing (see: [5.1.2.17 Processing Note](#51217-processing-note)). 
 
 MARC records will require you to use "arranged" or "organized" depending on the level of description in question.  "Arranged" corresponds to the filing sequence while "organized" corresponds to the higher-lever subdivisions of the collection into hierarchical units.   
 
@@ -842,9 +842,9 @@ If you have arranged series into sub-series, the subseries level arrangement not
 
 **Corresponding EAD element(s):** ``<arrangement></arrangement>``
 
-####4.1.2.22 Additional Finding Aids
+####5.1.2.22 Additional Finding Aids
 
-**DACS Chapter 4.6:**
+**DACS Chapter 5.6:**
 
 Identifies any other finding aids to the materials being described, particularly if they are available to the user, and provides information about the form and content of those finding aids. 
 

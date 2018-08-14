@@ -1,14 +1,14 @@
 
 # Accessioning and Precustodial Work
 
-* [1.1 Consultations with donors](#11-consultations-with-donors)
-* [1.2 Collections receiving](#12-collections-receiving)
-	* [1.2.1 Receipt of new or potential acquisitions](#121-receipt-of-new-or-potential-acquisitions)
-	* [1.2.2 Paperwork](#122-paperwork)
-	* [1.2.3 Financial appraisal](#123-financial-appraisal)
-* [1.3 Accessioning](#13-accessioning)
-	* [1.3.1 Managing accessioning workflow](#131-managing-accessioning-workflow)
-	* [1.3.2 Creation of the accession record](#132-creation-of-the-accession-record)
+* [2.1 Consultations with donors](#21-consultations-with-donors)
+* [2.2 Collections receiving](#22-collections-receiving)
+	* [2.2.1 Receipt of new or potential acquisitions](#221-receipt-of-new-or-potential-acquisitions)
+	* [2.2.2 Paperwork](#222-paperwork)
+	* [2.2.3 Financial appraisal](#223-financial-appraisal)
+* [2.3 Accessioning](#23-accessioning)
+	* [2.3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
+	* [2.3.2 Creation of the accession record](#232-creation-of-the-accession-record)
 	
 	
 
@@ -18,7 +18,7 @@ well as managing the paperwork required to formally transfer a collection or ite
 Collection Services staff should be prepared to work with donors, vendors, and 
 curators to provide guidance on any precustodial actions taken by the Library. 
 
-## 1.1 Consultations with donors
+## 2.1 Consultations with donors
 
 Prior to a collection being acquired by the Rose Library, The Head of Collection 
 Services may consult with curators to draft an [Operational Impact Statement](https://emory.box.com/s/btfvoh8gltpob8ynj8uhe3r7348pr455) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
@@ -32,7 +32,7 @@ guidance and assistance on matters such as:
 *	Arrangement and description
 *	Conservation
 
-## 1.2 Collections receiving 
+## 2.2 Collections receiving 
 
 Collections receiving is the physical transfer of collection material from a donor, 
 individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book 
@@ -41,7 +41,7 @@ Archives at the Rose Library is the University Archivist. The primary point of
 contact for collections receiving for all other units at the Rose Library is the 
 Accessioning & Collections Manager.
 
-### 1.2.1 Receipt of New or Potential Acquisitions 
+### 2.2.1 Receipt of New or Potential Acquisitions 
 
 All collection material should be received and opened/unpacked by the Accessioning 
 and Collections Manager. 
@@ -77,7 +77,7 @@ responsibility to notify the donor/seller. The Accessioning and Collections Mana
 can help coordinate return of the material, once the donor/seller has been notified 
 by the curator. 
 
-### 1.2.2 Paperwork
+### 2.2.2 Paperwork
 
 No collection material may be cataloged or accessioned until the appropriate 
 paperwork has been received. All paperwork should be transferred to the Accessioning 
@@ -229,7 +229,7 @@ include contact information for the donor, the contents of the gift, the physica
 size of the gift, and the date of arrival. The Administrative Assistant is 
 responsible for  following up with the donor to obtain proper paperwork. 
 
-### 1.2.3 Financial Appraisal
+### 2.2.3 Financial Appraisal
 
 Collections may be appraised in two circumstances, if a donor would like to take a 
 tax write off on a gift or if curators need a professional evaluation to determine a 
@@ -264,7 +264,7 @@ should be stored in the CTR and/or made available in the Reading Room. Collectio
 Services is not responsible for assisting the appraiser with any billing or travel 
 issues; those inquiries should be directed to the Rose Administrative Assistant.
 
-## 1.3 Accessioning
+## 2.3 Accessioning
 
 Accessioning is the formal act of taking legal and physical control of an archival or 
 manuscript collection. Formally accessioning material helps to establish the 
@@ -283,7 +283,7 @@ limited. Detailed processing is not common at this time, though may be warranted
 Determine the appropriate [level of processing]() at the time of accessioning 
 and then move forward with creating the descriptive documents.
 
-### 1.3.1 Managing Accessioning Workflow
+### 2.3.1 Managing Accessioning Workflow
 
 When material has been either acknowledged or paid for and is ready to be accessioned 
 the Accessioning and Collections Manager will share this information with the 
@@ -302,7 +302,7 @@ accessioning team.
 *	The Accessioning and Collections Manager distributes original paperwork for the 
 	new assignments.
 
-### 1.3.2 Creation of the Accession Record
+### 2.3.2 Creation of the Accession Record
 
 The system of record for accession information is the Accessions Database located on 
 the F: Drive at  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``  All new 
