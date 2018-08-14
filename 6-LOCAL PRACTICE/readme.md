@@ -104,7 +104,7 @@ Restricted material and material that has mold must be housed separately from th
 
 ![Figure 6: Oversized papers box](/6-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use.  You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 6-8 for examples.
+Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use.  You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 7-9 for examples.
 
 ![Figure 7: Record center box with mold](/6-LOCAL%20PRACTICE/Images/Figure7.jpg "Record center box with mold")
 
@@ -120,13 +120,13 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 ### 6.6.3 Restricted Material
 
-Materials deemed restricted should be physically isolated in a separate box. The box should be clearly stamped with the RESTRICTED stamp to avoid any unauthorized access (see figure 9). 
+Materials deemed restricted should be physically isolated in a separate box. The box should be clearly stamped with the RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
 
 ![Figure 10: Restricted material](/6-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
 *Figure 10*
 
-There may additionally be restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 10-13 for examples.
+There may additionally be restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
 
 ![Figure 11: No personal photography](/6-LOCAL%20PRACTICE/Images/Figure11.jpg "No personal photography")
 
