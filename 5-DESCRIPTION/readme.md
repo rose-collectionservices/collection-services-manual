@@ -897,7 +897,8 @@ The templates may not include all necessary formatting for container lists.  The
 
 Finding aids go through two rounds of editing and feedback before they're published in EmoryFindingAids.  Send the draft to the Manuscript Archivists, Accessioning and Collections Manager, and Head of Collection Services for editing.  After incorporating feedback from at least two colleagues, share the new draft with the appropriate Curator for further feedback.  Incorporate their suggestions and proceed with encoding and publishing the document.  If the Curator does not return comments within one week, publish the finding aid and incorporate any changes they suggest at a later date. 
 
-Once the finding aid is published, send the permanent link to the donor (via email, if that information is available).  They may have additional questions about how the collection is arranged and described or factual corrections.  It is not necessary to delay publication of a finding aid in order to seek feedback from a collection donor.   
+Once the finding aid is published, send the permanent link to the donor (via email, if that information is available).  They may have additional questions about how the collection is arranged and described or factual corrections.  It is not necessary to delay publication of a finding aid in order to seek feedback from a collection donor.
+   
 *Footnotes:*
 
 <a id="anchor1">[1]</a> DACS.
