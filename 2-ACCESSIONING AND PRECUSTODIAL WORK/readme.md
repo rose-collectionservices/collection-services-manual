@@ -27,7 +27,7 @@ Additionally, collection services staff may meet with donors or curators to prov
 guidance and assistance on matters such as: 
 
 *	Packing and shipping
-*	Transfer of of born-digital material (see forms and procedures [here](https://emory.box.com/s/ykvtm447e8e3b92gb7kvmqe84o3xugtf) 
+*	Transfer of of born-digital material (see forms and procedures [here](https://emory.box.com/s/ykvtm447e8e3b92gb7kvmqe84o3xugtf)) 
 *	Appraisal
 *	Arrangement and description
 *	Conservation
