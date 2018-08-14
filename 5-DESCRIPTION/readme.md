@@ -783,7 +783,7 @@ Scope and Content Notes are also required at every series and sub-series level. 
 
 This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
 
-![Figure 1: Sample folder level scope and content note](/5-DESCRIPTION/images/Figure1.jpg "Sample folder level scope and content note")
+![Figure 1: Sample folder level scope and content note](/5-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
 
 **Example of good collection level scope and content note:** (link) 
 **Example of good series/sub-series level scope and content note:** (link) 
@@ -792,7 +792,7 @@ This note is repeatable at the folder level and can be used to present important
 
 **Corresponding EAD element(s):** ``<scopecontent></scopecontent>``
 
-####5.1.21 Arrangement Note
+#### 5.1.21 Arrangement Note
 
 **DACS Chapter 3.2:**
 
