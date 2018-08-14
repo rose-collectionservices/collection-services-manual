@@ -124,11 +124,11 @@ For additional guidance, see DACS [LINK] and the Rose Library MARC manual [LINK]
 
 **Corresponding EAD element(s):**  ``<origination></origination>``
 
-###5.1.2 Title Statement
+### 5.1.2 Title Statement
 
 The title statement records the title of the collection and the dates of coverage of the collection.
 
-####5.1.2.1 Title
+#### 5.1.2.1 Title
 
 **DACS Chapter 2.3:**
 
@@ -176,7 +176,7 @@ Processing Note and Style Guide for additional guidance on folder titles.
 
 **Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
-####5.1.2.2 Date
+#### 5.1.2.2 Date
 
 **DACS Chapter 2.4:**
 
@@ -226,7 +226,7 @@ life of the organization or when the volume of material within the bulk dates is
 		*	Personal papers, 1931-1996 (bulk 1931-1972)
 		
 
-####5.1..3 Extent
+#### 5.1..3 Extent
 
 **DACS Chapter 2.5:**
 
@@ -258,7 +258,7 @@ data and/or extent of physical media for born digital content.
 
 **Corresponding EAD element(s):** ``<physdesc><extent></extent></physdesc``
 
-####5.1.4 Abstract
+#### 5.1.4 Abstract
 
 **DACS Chapter:**  None.
 
@@ -282,7 +282,7 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 **Corresponding EAD element(s):** ``<abstract></abstract>``
 
-####5.1.5 Language Note
+#### 5.1.5 Language Note
 
 **DACS Chapter 5.5:**
 
@@ -303,11 +303,11 @@ amounts of material in those languages.
 
 **Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
 
-####5.1.6 Restrictions on Access
+#### 5.1.6 Restrictions on Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
-#####5.1.6.1 Conditions Governing Access
+##### 5.1.6.1 Conditions Governing Access
 
 **DACS Chapter 5.1:** 
 
@@ -353,7 +353,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-#####5.1.6.2 Physical Access
+##### 5.1.6.2 Physical Access
 
 **DACS Chapter 5.2:**
 
@@ -392,7 +392,7 @@ also identify materials that require special handling that goes beyond standard 
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-####5.1.7 Terms Governing Use and Reproduction
+#### 5.1.7 Terms Governing Use and Reproduction
 
 **DACS Chapter 5.4:**
 
@@ -424,7 +424,7 @@ When describing restrictions, precede the first restriction note with "Special r
 
 **Corresponding EAD element(s):** ``<userestrict></userestrict>``
 
-####5.1.8 Additional Physical Form
+#### 5.1.8 Additional Physical Form
 
 **DACS Chapter 6.2:**
 
@@ -445,7 +445,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 
 **Corresponding EAD element(s):** ``<altformavail></altformavail>``
 
-####5.1.9 Location of Originals
+#### 5.1.9 Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -464,7 +464,7 @@ This note identifies the format of the reproductions and the repository or indiv
 
 **Corresponding EAD element(s):** ``<originalsloc></originalsloc>``
 
-####5.1.10 Publication Note
+#### 5.1.10 Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -482,7 +482,7 @@ This note should identify editorial projects based on collection material.  It i
 
 **Corresponding EAD element(s):** ``<bibliography></bibliography>``
 
-####5.1.11 Related Collections in this Repository
+#### 5.1.11 Related Collections in this Repository
 
 **DACS Chapter 6.4:**
 
@@ -501,7 +501,7 @@ This field identifies any other collections in the Rose Library that have a clos
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
-####5.1.12 Related Collections in Other Institutions
+#### 5.1.12 Related Collections in Other Institutions
 
 **DACS Chapter 6.4:**
 
@@ -522,7 +522,7 @@ This field identifies collections held in other repositories that have a close r
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
-####5.1.13 Seperated Materials
+#### 5.1.13 Seperated Materials
 
 This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged or new collections that were created.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
@@ -535,7 +535,7 @@ This field identifies materials that have been physically removed from the colle
 
 **Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
 
-####5.1.14 Immediate Source of Acquisition
+#### 5.1.14 Immediate Source of Acquisition
 
 **DACS Chapter 5.2:**
 
@@ -570,7 +570,7 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
 
-####5.1.16 Citation
+#### 5.1.16 Citation
 
 **DACS Chapter 7.1:**
 
@@ -590,7 +590,7 @@ This field includes the Rose Library's preferred citation for the collection.  T
 
 **Corresponding EAD element(s):** ``<prefercite></prefercite>``
 
-####5.1.17 Processing Note
+#### 5.1.17 Processing Note
 
 **DACS Chapter 7.1:**
 
@@ -635,7 +635,7 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 **Corresponding EAD element(s):** ``<processinfo></processinfo>``
 
-####5.1.18 Appraisal Note
+#### 5.1.18 Appraisal Note
 
 **DACS Chapter 5.3:**
 
@@ -730,7 +730,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 
 **Corresponding EAD element(s):** ``<appraisal></appraisal>``
 
-####5.1.19 Biographical/Historical Note
+#### 5.1.19 Biographical/Historical Note
 
 **DACS Chapter 2.7:**
 
@@ -767,7 +767,7 @@ The tone of these notes should be informational and avoid judgments about the va
 
 **Corresponding EAD element(s):** ``<bioghist></bioghist>``
 
-####5.1.20 Scope and Content Note
+#### 5.1.20 Scope and Content Note
 
 **DACS Chapter 3.1:**
 
@@ -784,6 +784,8 @@ Scope and Content Notes are also required at every series and sub-series level. 
 This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
 
 ![Figure 1: Sample folder level scope and content note](/5-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
+
+*Figure 1: Sample folder level scope and content note*
 
 **Example of good collection level scope and content note:** (link) 
 **Example of good series/sub-series level scope and content note:** (link) 
