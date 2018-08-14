@@ -27,7 +27,7 @@
 	* [5.1.19 Biographical/historical note](#5119-biographicalhistorical-note)
 	* [5.1.20 Scope and content note](#5120-scope-and-content-note)
 	* [5.1.21 Arrangement note](#5121-arrangement-note)
-	* [5.1.22 Additional finding aids](#5122-additional-finding aids)
+	* [5.1.22 Additional finding aids](#5122-additional-finding-aids)
 
 "Description is the creation of an accurate representation of…archival material by the process of capturing, collating, analyzing, and organizing 
 information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these 
@@ -842,7 +842,7 @@ If you have arranged series into sub-series, the subseries level arrangement not
 
 **Corresponding EAD element(s):** ``<arrangement></arrangement>``
 
-####5.1.22 Additional Finding Aids
+#### 5.1.22 Additional Finding Aids
 
 **DACS Chapter 5.6:**
 
