@@ -881,13 +881,13 @@ The templates may not include all necessary formatting for container lists.  The
 * Set left and right indentations at 0" and special hanging indentation at 1.2" (see figure 3);
 * In the bottom left of the paragraph menu, select "tabs" (see figure 3);
 
-![Figure 3: Set left and right indentations at 0" and special hanging indentation at 1.2"](/5-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0" and special hanging indentation at 1.2"")
+![Figure 3: Set left and right indentations at 0" and special hanging indentation at 1.2"](/5-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0" and special hanging indentation at 1.2")
 
 *Figure 3*
 
 * Set tabs at .5" and 1" (see figure 4);
 
-![Figure 4: Set tabs at .5" and 1"](/5-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5" and 1"")
+![Figure 4: Set tabs at .5" and 1"](/5-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5" and 1")
 
 *Figure 4*
 
