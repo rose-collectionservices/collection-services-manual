@@ -1,5 +1,5 @@
 
-#Overview of Archival Processing
+# Overview of Archival Processing
 
 * [1.1 What it means to process](#11-what-it-means-to-process)
 * [1.2 What we do and do not do when we process](#12-what-we-do-and-do-not-do-when-we-process)
