@@ -102,17 +102,19 @@ Restricted material and material that has mold must be housed separately from th
 
 *Oversized papers box (also applies to bound and oversized bound volume boxes):* Label should be placed on the left side of the front of the box. The barcode should be placed to the right of the label. 
 
+![Figure 6: Oversized papers box](/6-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
+
 Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use.  You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 6-8 for examples.
 
-![Figure 6: Record center box with mold](/6-LOCAL%20PRACTICE/Images/Figure6.jpg "Record center box with mold")
+![Figure 7: Record center box with mold](/6-LOCAL%20PRACTICE/Images/Figure7.jpg "Record center box with mold")
 
-*Figure 6: Record center boxes*
+*Figure 7: Record center boxes*
 
-![Figure 7: Hollinger boxes with mold](/6-LOCAL%20PRACTICE/Images/Figure7.jpg "Hollinger boxes with mold")
+![Figure 8: Hollinger boxes with mold](/6-LOCAL%20PRACTICE/Images/Figure8.jpg "Hollinger boxes with mold")
 
-*Figure 7: Hollinger boxes and half Hollinger boxes*
+*Figure 8: Hollinger boxes and half Hollinger boxes*
 
-*Figure 8: Oversized and flat boxes*
+*Figure 9: Oversized and flat boxes*
 
 [Links to flag template and preservation section]
 
@@ -120,23 +122,23 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 Materials deemed restricted should be physically isolated in a separate box. The box should be clearly stamped with the RESTRICTED stamp to avoid any unauthorized access (see figure 9). 
 
-![Figure 9: Restricted material](/6-LOCAL%20PRACTICE/Images/Figure9.jpg "Restricted material")
+![Figure 10: Restricted material](/6-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
-*Figure 9*
+*Figure 10*
 
 There may additionally be restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 10-13 for examples.
 
-![Figure 10: No personal photography](/6-LOCAL%20PRACTICE/Images/Figure10.jpg "No personal photography")
+![Figure 11: No personal photography](/6-LOCAL%20PRACTICE/Images/Figure11.jpg "No personal photography")
 
-*Figure 10: No personal photography*
+*Figure 11: No personal photography*
 
-![Figure 11: Reproduction restrictions](/6-LOCAL%20PRACTICE/Images/Figure11.jpg "Reproduction restrictions")
+![Figure 12: Reproduction restrictions](/6-LOCAL%20PRACTICE/Images/Figure12.jpg "Reproduction restrictions")
 
-*Figure 11: Reproduction restrictions, used primarily for boxes that contain sheet music or scores. When affixing this label to boxes, you may place the label higher on the flap to accommodate barcodes.*
+*Figure 12: Reproduction restrictions, used primarily for boxes that contain sheet music or scores. When affixing this label to boxes, you may place the label higher on the flap to accommodate barcodes.*
 
-![Figure 12: No camera](/6-LOCAL%20PRACTICE/Images/Figure12.jpg "No camera")
+![Figure 13: No camera](/6-LOCAL%20PRACTICE/Images/Figure13.jpg "No camera")
 
-*Figure 12: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
+*Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
 [Link to label template]
 
