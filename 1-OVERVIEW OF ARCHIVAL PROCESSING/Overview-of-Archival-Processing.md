@@ -1,14 +1,18 @@
 
-# Overview of Archival Processing
+#Overview of Archival Processing
 
-## What it means to process:
+* [1.1 What it means to process](#11-what-it-means-to-process)
+* [1.2 What we do and do not do when we process](#12-what-we-do-and-do-not-do-when-we-process)
+* [1.3 How we manage restrictions](#13-how-we-manage-restrictions)
+
+## 1.1 What it means to process:
 
 
 A collection is "processed" when any amount of physical and intellectual control is imposed upon the collection by an archivist.  A processed collection has been at least minimally described through basic inventories and narrative description that includes administrative information as well as contextual information about the collection.   
 
 Archivists process collections by applying their knowledge of professional best practices in collections management, arrangement, description, and preservation to the documents in the collection to make it accessible to researchers.  Processing also includes research about the collection creator and other topics that shed light on the context in which the collection was created and used before acquisition.  Archivists provide this information to patrons in the form descriptive documents such as finding aids and bibliographic catalog records. 
 
-## What we do and do not do when we process:
+## 1.2 What we do and do not do when we process:
 
 
 ### We do:
@@ -34,7 +38,7 @@ Archivists process collections by applying their knowledge of professional best 
 *	Arrange items within files or folders.
 *	Promise to identify every occurrence of personal information.
 
-## How we manage restrictions:
+## 1.3 How we manage restrictions:
 
 In the course of processing a collection, archivists make every reasonable attempt to locate and redact or restrict confidential records.  Confidential records are any records that must be restricted from public access for a period of time to ensure compliance with legal or statutory regulations.  Examples include third party student records (FERPA), personnel records, some medical records, and privileged attorney-client or doctor-patient communications. In addition, as a matter of course, we make a reasonable attempt to identify social security numbers, tax returns, bank account information and medical records and remove or redact this information as well. 
 
