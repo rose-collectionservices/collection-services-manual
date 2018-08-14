@@ -307,7 +307,7 @@ amounts of material in those languages.
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
-#### 5.1.6.1 Conditions Governing Access
+### 5.1.6.1 Conditions Governing Access
 
 **DACS Chapter 5.1:** 
 
@@ -353,7 +353,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-#### 5.1.6.2 Physical Access
+### 5.1.6.2 Physical Access
 
 **DACS Chapter 5.2:**
 
