@@ -74,7 +74,8 @@ The process by which books enter and move through the queue is as follows:
 1. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking. 
 2. After the item is properly marked, the Marking student moves those items to the designated “PreservationPrep” bays. The Rare Book Cataloger monitors this space and sends carts of items to Preservation as needed. These items will be marked “Preservation” in Alma, and may not be requested in Aeon through discovereE. 
 3. When items are finished in Preservation, preservation staff notifies the Rare Book Cataloger and the Cataloger facilitates the return to Rose. The status “Preservation” is removed in Alma and pages reshelve items. As soon as the status is changed, the item can be requested in Aeon. 
-4. The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers.  
+4. The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers. 
+
 **Special Procedures:**
 
 * Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority in the Preservation Department. 
