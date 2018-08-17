@@ -57,7 +57,8 @@ Appraisal decisions should always be made in conjunction with your supervisor an
 
 ## 8.3 Working with Curators and Scheduling Reviews
 
-Appraisal work is a shared responsibility between curators and archivists and should be an ongoing dialogue between collecting and processing staff.  The curatorial team makes the initial decisions about whether or not to acquire all or part of an individual’s papers or an organization’s records.  Once a collection has entered the repository, it may be appropriate for archivists to recommend additional appraisal decisions during accessioning or while processing the collection.  These appraisal recommendations should be included in the processing plan and discussed with the collecting curator.  Any items that are removed from a collection over the course of processing should be retained to be reviewed with the curator before being discarded.   
+Appraisal work is a shared responsibility between curators and archivists and should be an ongoing dialogue between collecting and processing staff.  The curatorial team makes the initial decisions about whether or not to acquire all or part of an individual’s papers or an organization’s records.  Once a collection has entered the repository, it may be appropriate for archivists to recommend additional appraisal decisions during accessioning or while processing the collection.  These appraisal recommendations should be included in the processing plan and discussed with the collecting curator.  Any items that are removed from a collection over the course of processing should be retained to be reviewed with the curator before being discarded. 
+
 It is important to remember that while archivists at the Rose rarely separate materials from collections based on their content, relevance, condition, or other factors, they do perform appraisal on collections when they make decisions about the levels to which to arrange, describe, and preserve collections. Archival appraisal is, at heart, the application of value to materials, an activity that is fundamental to processing. 
  
 ## 8.4 Procedures for Discarding Material
@@ -66,9 +67,9 @@ Material removed from collections should be disposed of in a secure manner.  If 
 
 While most appraisal decisions will vary depending on the collection, there are certain born-digital items that should not typically be transferred to the library. These include computer peripherals (e.g., keyboards, mice, monitors) and networking hardware (e.g., routers, modems). In cases where the library acquires whole computers or laptops, all hardware and casing, with the important exception of any hard drives, can typically be disposed of once disk imaging is complete. Contact Jack Scott to arrange surplus pick-up.  
 
-Do not dispose of casing and additional hardware only if: 
+Do not dispose of casing and additional hardware only: 
 
-* They feature labels and markings intentionally added by the donor/creator that contribute significant meaning to the collection. These should not be labels or markings that simply denote ownership or give instruction on use or function (i.e., “Dorothy’s mouse” or “plug in here”). 
+* If they feature labels and markings intentionally added by the donor/creator that contribute significant meaning to the collection. These should not be labels or markings that simply denote ownership or give instruction on use or function (i.e., “Dorothy’s mouse” or “plug in here”). 
 * In cases where the associated hardware is particularly old or obscure and it has been deemed likely, following consultation with the digital archivist, that this equipment will be required in order to access and transfer digital files from the associated hardware. 
 
 If a donor has requested that we return separated material to them, conduct a review with the appropriate curator as usual, and then pack and prepare the material for return.  Write a memo to accompany the return explaining our rationale for separating and returning the material.  Include a copy in the collection file. Generally we will FedEx collection material to the donors, but, occasionally, curators will want to return separated material themselves; consult with curatorial staff about the most appropriate method of return.  The Accessioning and Collections Manager can assist with arranging shipping. 
@@ -78,6 +79,7 @@ Discarding or returning unwanted collection material should take place promptly.
 ## 8.5 After Processing/Reappraisal
 
 Good collection management practices include occasional review of a repository’s collections to assess their continuing value and their ongoing relevance to an institution’s mission and collecting policy.  At any point the Rose Library may reappraise collections or portions of collections to determine their continuing value.  
+
 If it is determined that a collection or portion of a collection does not fit the scope of the repository's holdings or does not have sufficient research value, the collection or portion of a collection may be deaccessioned.  Additional guidance on best practices and ethical guidelines for deaccessioning collection material can be found in SAA’s [Guidelines for Reappraisal and Deaccessioning](http://www2.archivists.org/category/standards-status/saa-standards-approved). 
 
 ## 8.6 Deaccessioning
