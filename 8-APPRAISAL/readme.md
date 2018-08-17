@@ -7,9 +7,9 @@
 * [8.5 After Processing/Reappraisal](#85-after-processing-reappraisal)
 * [8.6 Deaccessioning](#86-deaccessioning)
 	* [8.6.1 Deaccessioning procedures](#861-deaccessioning-procedures)
-* [8.7 Appraisal of born-digital material](#87-appraisal-of-borndigital-material)
-	* [8.7.1 Pre-acquisition appraisal](#871-preacquisition-appraisal)
-	* [8.7.2 Post-acquisition appraisal](#872-postacquisition-appraisal)
+* [8.7 Appraisal of born-digital material](#87-appraisal-of-born-digital-material)
+	* [8.7.1 Pre-acquisition appraisal](#871-pre-acquisition-appraisal)
+	* [8.7.2 Post-acquisition appraisal](#872-post-acquisition-appraisal)
 
 Appraisal is the process of identifying and selecting material of permanent, archival value to be accessioned and retained by a repository. 
 
