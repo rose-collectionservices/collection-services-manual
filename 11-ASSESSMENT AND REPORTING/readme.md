@@ -4,9 +4,10 @@
 	* [11.1.1 Accessioning](#1111-accessioning)
 	* [11.1.2 Processing](#1112-processing)
 	* [11.1.3 Born-digital collections](#1113-born-digital-collections)
-	* [11.1.4 Cataloging (Print)](#1114-cataloging-print)
+	* [11.1.4 Cataloging (print)](#1114-cataloging-print)
 	* [11.1.5 Receiving](#1115-receiving)
 	* [11.1.6 Emory Finding Aids and Alma](#1116-emory-finding-aids-and-alma)
+* [11.2 Qualitative assessments and impact statements](#112-qualitative-assessments-and-impact-statements)
 
 We collect data and conduct assessments to help us more effectively prioritize, plan, schedule, execute, and communicate the value of our work.   
 
@@ -43,7 +44,7 @@ We track these statistics on a spreadsheet on the F: Drive.  Each person is resp
 
 We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb8uqgc2kl8vqwn6p6316k9bezq9nvm) and a tab in the annual processing report. [link] 
 
-### 11.1.4 Cataloging (Print)
+### 11.1.4 Cataloging (print)
 
 * Number of new monograph titles;
 * Number of monograph issues or volumes;
