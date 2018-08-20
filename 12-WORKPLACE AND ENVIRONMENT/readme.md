@@ -7,11 +7,11 @@
 	* [12.2.1 Physical care](#1221-physical-care)
 	* [12.2.2 Emotional care](#1222-emotional-care)
 
-##Training
+## 12.1 Training
 
 Approaches to training for students and new professional staff will vary.  Students need introductions to both basic archival principles and local practices, while new professional staff may only need orientation to local practice.  Training for new staff may also include training in advanced concepts relating to cataloging and systems.  All training is iterative and will occur as new skills become necessary. 
 
-### Students
+### 12.1.1 Students
 
 Create an orientation packet for a new student's first day. Include:
 
@@ -23,9 +23,9 @@ Create an orientation packet for a new student's first day. Include:
 	 * Student attendance policy
 	 * Collection Services policy and procedure manual
 * Professional readings [for manuscript and archival processing assistants only]:
-	 * Roe, Kathleen D., Arranging and Describing Archives and Manuscripts, Society of American Archivists, 2005.  Chapters 1, 2 and 4 
-	 * O'Toole, James M. and Richard Cox, Understanding Archives and Manuscripts, Society of American Archivists, 2006.  Chapters 3 and 4 (including chapter 2 for an optional historical perspective) 
-	 * Society of American Archivists Core Values and Code of Ethics:  http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics  
+	 * Roe, Kathleen D., Arranging and Describing Archives and Manuscripts, Society of American Archivists, 2005.  Chapters 1, 2 and 4. 
+	 * O'Toole, James M. and Richard Cox, Understanding Archives and Manuscripts, Society of American Archivists, 2006.  Chapters 3 and 4 (including chapter 2 for an optional historical perspective). 
+	 * Society of American Archivists Core Values and Code of Ethics:  http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics.  
 	 
 On the first day, the supervisor should review the library orientation material with the student(s).  It is especially important during this review to talk in detail about the Rose Library welcome and rules document and to set any additional expectations for student behavior.  Emphasize that many of these rules, such as not allowing bags or food on the 9th floor, are for security and preservation of the materials.  If there are additional rules and expectations for working on your team, make these clear during this meeting.  For example, whether or not students may carry their phones with them or what kinds of media they can consume while working.  Also be sure to review the LITS student handbook to ensure the student(s) know how to clock in and out and that they are aware of wider library rules that may differ from those of the Rose Library.  Give the student a tour of the Rose Library, including the 11th floor, and test the student(s)' prox card for access to secure work spaces. 
 
@@ -45,7 +45,7 @@ General tips:
 * Have new staff person shadow other staff when learning new tasks;
 * Rely on staff who are experts in various topics to lead training in those areas.
 
-## 12.2 Self-Care During Porcessing
+## 12.2 Self-Care During Processing
 
 Self-care at work is important.  Our work requires a lot of physical activity such as lifting and carrying heavy boxes that, if done improperly, can lead to injury.  Additionally, we are often asked to work with historical materials documenting difficult or triggering events and topics.  Protecting ourselves physically and mentally is a crucial element of maintaining productivity and remaining good stewards of our collections.  It is important to pay attention to your body; only you will know when something doesn't feel right and you need a break.  Always talk to your supervisor if there is a problem or if you have concerns about something in the workplace.  We can address problems or provide you with resources that can help.   
 
