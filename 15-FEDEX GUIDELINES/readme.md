@@ -51,7 +51,7 @@ It is recommended to *only* use FedEx Express Saver when all of the following cr
 
 ## 15.4 FedEx Express (International Economy)
 
-**INTERBATIONAL SHIPPING**
+**INTERNATIONAL SHIPPING**
 
 * Once the Accessioning and Collections Manager requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.  
 * International FedEx pickup requests are, indeed, *requests*-there is no guarantee that FedEx will accept our request for a pickup. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. From February 2016 to present, none of our requests for pickup have been denied. 
