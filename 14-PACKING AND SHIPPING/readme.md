@@ -21,7 +21,7 @@ When a curator requests packing assistance:
 
 Participating in packing gives Collection Services the opportunity to gather preliminary information about a collection, such as how material is arranged and used on-site.  Collection Services staff should take notes on the original order and use patterns, and photograph the space in which the records were used and kept whenever possible. Retain as many notes about collection material and decisions made on-site as possible while remaining efficient during the packing process. At this point, the packing team learns more information about the collection than anyone else and must be able to transfer the knowledge they gain on the trip to the accessioning team when they return to the library. 
 
-Staff should follow the [Packing Guidelines](#142-packing-guidelines) when packing a collection for transfer to the Rose.  
+Staff should follow [14.1 Packing Guidelines](#141-packing-guidelines) when packing a collection for transfer to the Rose.  
 
 ## 14.1 Packing Guidelines
 
@@ -54,11 +54,12 @@ While packing, keep a running list of the general contents of each box and make 
 
 For example:
 
-| Date:                  |
+| Date: mm/dd/yyyy       |
 |------------------------|
 | List by: [name]        |
 |                        |
 | John Smith, Sr. papers |
+
 | Box | Contents                             |
 |-----|--------------------------------------|
 | 1   | Business correspondence, 1950s-1960s |
@@ -75,7 +76,7 @@ Collection Services members should submit a report of all packing trips [create 
 
 ### 14.1.2 Packing Supplies
 
-The Accessioning and Collections Manager will arrange to have shipping and other needed supplies sent to the packing location in advance of the packing trip see [13.3 Shipping supplies](/13-SUPPLIES#133-shipping-supplies), as well as request shipping labels for the travelers. 
+The Accessioning and Collections Manager will arrange to have shipping and other needed supplies sent to the packing location in advance of the packing trip (see [13.3 Shipping supplies](/13-SUPPLIES#133-shipping-supplies)), as well as request shipping labels for the travelers. 
 
 Collection Services also maintains a packing supplies bag that should accompany staff on packing trips (nota bene: if flying, this bag must travel in checked luggage). This bag contains: 
 
@@ -117,7 +118,7 @@ The most expeditious way to move small, local collections is often to have Rose 
 
 **Hiring local movers:**
 
-The Rose Library currently contracts Flood Brothers movers to coordinate local moves. Both Flood Brothers and the Accessioning and Collections Manager need at least two weeks’ notice to coordinate the move. Our contact at Flood Brothers is Barry Stewart 404-799-3744 ext. 325 barry.stewart@floodbrothers.net.
+The Rose Library currently contracts Flood Brothers movers to coordinate local moves. Both Flood Brothers and the Accessioning and Collections Manager need at least two weeks’ notice to coordinate the move. Our contact at Flood Brothers is Barry Stewart ( ph.:404-799-3744 ext. 325; email: barry.stewart@floodbrothers.net).
 
 To plan a local move the Accessioning and Collections Manager needs to know: 
 
