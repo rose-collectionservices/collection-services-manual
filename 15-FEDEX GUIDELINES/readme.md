@@ -35,11 +35,11 @@ FedEx Express Saver is still significantly more expensive than FedEx Ground. For
 
 It is recommended to *only* use FedEx Express Saver when all of the following criteria are met: 
 
-* (1) the pickup location is a residence; 
-* (2) there are more than 30 boxes;
-* (3) a staff member is unable to spend a day waiting for the pickup;
-* (4) the donor/seller refuses to spend a day waiting for the pickup;
-* (5) the pickup location is relatively close in proximity to Atlanta, Georgia (meaning in the Southeast). Please always offer FedEx Ground to the donor/seller first to gauge flexibility before offering FedEx Express Saver. 
+1. The pickup location is a residence; 
+2. There are more than 30 boxes;
+3. A staff member is unable to spend a day waiting for the pickup;
+4. The donor/seller refuses to spend a day waiting for the pickup;
+5. The pickup location is relatively close in proximity to Atlanta, Georgia (meaning in the Southeast). Please always offer FedEx Ground to the donor/seller first to gauge flexibility before offering FedEx Express Saver. 
 
 * FedEx Express pickups can be scheduled up until 7:15pm Monday-Friday for same day pickup (they will pick up within two hours after the request is made) and up until 1:00pm for Saturday for same day pickup. Saturday pickup is an additional charge. These cut off hours are based on picking up in Atlanta and may vary in other locations but will probably be similar in large cities like Atlanta. *It is prudent to give the Accessioning and Collections Manager at least 24 hours' notice to schedule any FedEx pickup*.
 * FedEx picks up Express shipments Monday-Friday with Saturday pickup available in many areas for an additional charge. 
@@ -50,6 +50,8 @@ It is recommended to *only* use FedEx Express Saver when all of the following cr
 * The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver. 
 
 ## 15.4 FedEx Express (International Economy)
+
+**INTERBATIONAL SHIPPING**
 
 * Once the Accessioning and Collections Manager requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.  
 * International FedEx pickup requests are, indeed, *requests*-there is no guarantee that FedEx will accept our request for a pickup. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. From February 2016 to present, none of our requests for pickup have been denied. 
