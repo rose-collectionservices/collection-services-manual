@@ -80,11 +80,13 @@ If it is not a brand new acquisition (so a collection that has been on site and 
 
 Update finding aid to include the new location in the access restrictions note: 
 
-``	<accessrestrict encodinganalog="506">
+``	
+<accessrestrict encodinganalog="506">
 		<head>Restrictions on Access</head>
 		<p>Unrestricted access.</p>
 		<p>Collection stored off-site. Researchers must contact the Rose Library in advance to access this collection.</p>
-	</accessrestrict>``
+	</accessrestrict>
+	``
 	
 You will need to wait 24 hours after changing the Alma holdings record to an LSC location before you can send the physical boxes offsite (this will ensure that the automated script that loads new barcodes into the LSC inventory control system has time to run and the new barcodes get into the system). 
 
@@ -100,7 +102,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 
 ## 16.8 LSC Ingest Checklist
 
-![Figure 4: LSC Ingest Checklist](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/LSC-Ingest-checklist.pdf "LSC Ingest Checklist")
+![Figure 4: LSC Ingest Checklist](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/LSC-Ingest-checklist.jpg "LSC Ingest Checklist")
 
 
 *Footnotes:*
