@@ -572,6 +572,35 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
 
+### 5.1.15 Custodial History
+
+**DACS Chapter 5.1:**
+
+Provides information on changes of ownership or custody of the material being described, from the time it left the possession of the creator until it was acquired by the repository, that is significant for its authenticity, integrity, and interpretation. 
+
+**Required:** Optional. Preferred when applicable. 
+
+This field is used in conjunction with the Source note (see [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition) for more information) to describe the provenance of the collection from the point at which the material left the possession of the creator until it was arrived at the Rose. It may include:
+
+* The physical location and storage conditions of the collection between creation and donation, including dates if known; 
+* People or institutions acting on the records and the actions that they took, when that information can be made public; 
+* Who packed the collection and prepared it for shipment; 
+* Third party intermediaries involved in mediating the collection in any way; 
+* Archivist or curator involvement in transfer of material.  
+
+This note should be used whenever the collection is not a straightforward transfer directly from the records creator.  The note should provide as much information as can be made public, including contextual information. 
+
+**Examples:**
+
+* Purchased from a dealer; provenance and custodial history unknown. 
+* The Rose Library purchased this collection from book dealer Glenn Horowitz in 2010. The original owner bought it in the early 1970s as the unknown contents of a trunk sold at an auction of abandoned items from a storage facility in Wellfleet, Massachusetts. During the 1960s, Brennan spent her summers in the town. 
+* Purchased from Douglas Turner Ward in 2017. The collection was packed and prepared for transfer from Douglas Turner Ward's home to the Rose Library by the staff of the Boo Hooray Gallery in New York City in 2016. 
+* The Eugene Patterson papers were given by the Patterson family to the Poynter Institute for Media Studies, which then held, organized, and preserved the papers until their transfer to Emory University in 2016.   
+
+**Corresponding MARC field:**  561
+
+**Corresponding EAD element(s):** ``<custodhist></custodhist>``
+
 ### 5.1.16 Citation
 
 **DACS Chapter 7.1:**
