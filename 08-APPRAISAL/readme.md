@@ -93,7 +93,7 @@ Deaccessioning is the process of removing materials or collections from the care
 3. Place the second copy of the memo in CL-2 file. 
 4. Update the shelf list by deleting the location and extent information for the collection and add a note in the note field indicating the disposition of the collection and the date.  Leave the line in the shelf list as a record that we did once have the collection.  The MSS number should not be reassigned to a new collection. 
 5. Add a note to the Descriptive Data form in the Accessions database that the collection has been deaccesioned or transferred.
-6. Add Deaccession information to the [Deaccession master list], (https://emory.app.box.com/file/243187751414).
+6. Add Deaccession information to the [Deaccession master list](https://emory.app.box.com/file/243187751414).
 7. Delete bibliographic records in OCLC and ALMA.
 8. Delete EAD record in the finding aids database.
 9. Alert staff that the collection has been deaccessioned. 
