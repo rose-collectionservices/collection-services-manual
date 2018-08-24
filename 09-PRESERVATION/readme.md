@@ -25,7 +25,7 @@ Conduct the following minor preservation work during processing:
 
 Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival." 
 
-When working with moldy materials, segregate the damaged items from the rest of the collection. Those items will go to the conservation lab for cleaning. When they return, complete processing but keep the moldy material physically segregated. Physically add them to a new box(es) at the end of the collection and describe them intellectually in the finding aid. Label the outside of the box(es) with "Mold Alert" labels according to [instructions in the Local Practice section](/6-LOCAL%20PRACTICE#662-boxing-collections).
+When working with moldy materials, segregate the damaged items from the rest of the collection. Those items will go to the conservation lab for cleaning. When they return, complete processing but keep the moldy material physically segregated. Physically add them to a new box(es) at the end of the collection and describe them intellectually in the finding aid. Label the outside of the box(es) with "Mold Alert" labels according to instructions in  [06 Local Practice](/6-LOCAL%20PRACTICE#662-boxing-collections).
 
 When processing is complete, shelve the box(es) on the ranges designated for housing moldy materials (11-245-A-C) and update the shelf list to indicate the additional location. Moldy materials cannot be sent to the LSC [link]. 
 
