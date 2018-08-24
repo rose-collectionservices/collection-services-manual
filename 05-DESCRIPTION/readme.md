@@ -814,7 +814,7 @@ Scope and Content Notes are also required at every series and sub-series level. 
 
 This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
 
-![Figure 1: Sample folder level scope and content note](/5-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
+![Figure 1: Sample folder level scope and content note](/05-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
 
 *Figure 1: Sample folder level scope and content note*
 
@@ -903,20 +903,20 @@ The templates may not include all necessary formatting for container lists.  The
 
 * Click the arrow in the bottom right corner of the paragraph tab on the home ribbon (see figure 2);
 
-![Figure 2: Click the arrow in the bottom right corner of the paragraph tab on the home ribbon](/5-DESCRIPTION/Images/Figure2.jpg "Click the arrow in the bottom right corner of the paragraph tab on the home ribbon")
+![Figure 2: Click the arrow in the bottom right corner of the paragraph tab on the home ribbon](/05-DESCRIPTION/Images/Figure2.jpg "Click the arrow in the bottom right corner of the paragraph tab on the home ribbon")
 
 *Figure 2*
 
 * Set left and right indentations at 0" and special hanging indentation at 1.2" (see figure 3);
 * In the bottom left of the paragraph menu, select "tabs" (see figure 3);
 
-![Figure 3: Set left and right indentations at 0 and special hanging indentation at 1.2](/5-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0 and special hanging indentation at 1.2")
+![Figure 3: Set left and right indentations at 0 and special hanging indentation at 1.2](/05-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0 and special hanging indentation at 1.2")
 
 *Figure 3*
 
 * Set tabs at .5" and 1" (see figure 4);
 
-![Figure 4: Set tabs at .5 and 1](/5-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5 and 1")
+![Figure 4: Set tabs at .5 and 1](/05-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5 and 1")
 
 *Figure 4*
 
