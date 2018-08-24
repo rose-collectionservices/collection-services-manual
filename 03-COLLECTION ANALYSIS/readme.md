@@ -31,9 +31,7 @@ they can.  For especially large and important collections, curators will write a
 collection prospectus ("one-pager") prior to acquisition describing the history and 
 research value of the material. This document, when available, will be uploaded with 
 other acquisition paperwork to Box. The Rose Library may receive collections directly 
-from the creator or a close family member or from rare book and manuscript dealers.  
-It is rare for dealers to include provenance information with material they sell.  
-However, when it is available to them, they will include it in the dealer description 
+from the creator or a close family member or from rare book and manuscript dealers. It is rare for dealers to include provenance information with material they sell. However, when it is available to them, they will include it in the dealer description 
 that also describes the contents of the material.	
 
 Identifying and preserving original order maintains the relationships and evidential 
@@ -47,7 +45,7 @@ preserved, archivists will need to determine whether the collection and its user
 best served by maintaining the existing disorder or by imposing an arrangement scheme 
 on the collection.  Significant time and effort should not be spent recreating 
 original order when it's not apparent.  Carefully document your decision-making 
-process, as it will form the basis of the processing note [LINK].  
+process, as it will form the basis of the processing note (see [5.1.17 Processing note](/05-DESCRIPTION#5117-processing-note) for more information).  
 
 ## 3.2 Condition Assessment/Physical Inventory
 
@@ -57,7 +55,7 @@ contents of each box. Make sure there is enough space to open boxes and look thr
 folders, paying particular attention to the activities the papers document, topics 
 that they cover, and how they are currently organized.  Note the current arrangement; 
 are the papers arranged alphabetically, chronologically, or topically?  This existing 
-arrangement-- the original order of the collection-- will guide your final arrangement decisions. At this point, the existing order (or apparent disorder) should not be altered.
+arrangement--the original order of the collection--will guide your final arrangement decisions. At this point, the existing order (or apparent disorder) should not be altered.
 
 Keep track of the materials found in the boxes and make a rough outline of the 
 contents of each box paying particular attention to and making note of the types of 
@@ -91,8 +89,7 @@ meet the stated access and use goals for the collection.  [LINK]
 ### 3.3.1 Identifying intellectual units within collections:
 
 Archivists will always describe records, at minimum, at the collection level, but 
-most large or more complex collections will have additional groupings of material.  
-These groupings (which could be series and/or subseries) may correlate to the 
+most large or more complex collections will have additional groupings of material. These groupings (which could be series and/or subseries) may correlate to the 
 functional areas of a person's life or an organization's business activity; be format 
 based; or document particular subjects, interests, or relationships.  In 
 institutional or administrative records, these units will correspond to 
