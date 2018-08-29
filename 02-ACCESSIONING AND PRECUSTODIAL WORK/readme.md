@@ -408,15 +408,15 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 
 ### 2.3.6 Accessioning Checklist
 
-- [] [Create accession record](#232-creation-of-the-accession-record)
-- [] [CL-2: paper and electronic](#235-creating-the-cl-2-file)
-- [] [Arrange and re-house](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
-- [] [Create or update finding aid](/05-DESCRIPTION)
-- [] [Encode finding aid](/05-DESCRIPTION)
-- [] Create catalog record
-- [] [Barcode box(es)](/06-LOCAL-PRACTICE)
-- [] Update information in Box with accession number
-- [] Add to [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] [Create accession record](#232-creation-of-the-accession-record)
+- [ ] [CL-2: paper and electronic](#235-creating-the-cl-2-file)
+- [ ] [Arrange and re-house](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
+- [ ] [Create or update finding aid](/05-DESCRIPTION)
+- [ ] [Encode finding aid](/05-DESCRIPTION)
+- [ ] Create catalog record
+- [ ] [Barcode box(es)](/06-LOCAL-PRACTICE)
+- [ ] Update information in Box with accession number
+- [ ] Add to [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
 
 ## 2.4 Stacks Management
 
