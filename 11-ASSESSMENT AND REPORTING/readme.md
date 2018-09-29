@@ -60,10 +60,11 @@ Danowski and Billops-Hatch print cataloging statistics are also reported annuall
 
 * Number of new acquisitions received;
 * Number of purchases paid for;
-* Number of purchases acquired and paid for within the same quarter;
-* Number of gifts received and documented.
+* Number of purchases acquired and paid for within the same quarter and fiscal year;
+* Number of gifts received and documented within the same quarter and fiscal year;
+* Extents of material received.
 
-The Accessioning and Collections manager collects and keeps these statistics. 
+The Acquisitions Assistant tracks purchases and gifts in the [Acquisitions Receiving Logs](https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol). The Accessioning and Collections Manager [compiles the collections receiving statistics](https://emory.box.com/s/u78dhmnv3ewxkesvt4wk8kri363dx2m9) based on that tracking. 
 
 ### 11.1.6 Emory Finding Aids and Alma
 
