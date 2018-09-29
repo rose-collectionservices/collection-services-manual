@@ -140,7 +140,7 @@ FedEx can pick up collections from donors' homes except in the following situati
 
 ### 14.2.2.1 Shipping supplies
 
-The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/so6v6ihkq4e3658yqy3xuhmpehz4ixgl), and curators should consult with them thoroughly about what material should be sent.
+The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/zb6r0acdgrltogu9d299idqsd04qlihf), and curators should consult with them thoroughly about what material should be sent.
 
 If shipping supplies are needed, please contact the Acquisitions Assistant with:
 
@@ -181,7 +181,7 @@ The Library Mail Clerk cannot create international shipping labels. To create in
 4. Enter all of the pertinent information and click “Ship”;
 5. A pdf of the labels will be created.
 
-Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our [packing instructions.](https://emory.box.com/s/so6v6ihkq4e3658yqy3xuhmpehz4ixgl)
+Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our [packing instructions.](https://emory.box.com/s/zb6r0acdgrltogu9d299idqsd04qlihf)
 
 ULINE does not ship internationally. To provide the donor/seller with packing supplies, we either: 
 
