@@ -167,12 +167,13 @@ collecting area. The Acquisitions Assistant is responsible for combining paperwo
 *	**Step 2:** Gifts Ready for Acknowledgement by Rose Director
 
 	*	The Acquisitions Assistant notifies the Accessioning and Collections Manager with a Box tag.
-	*   	If the gift contains manuscript material, the Accessioning and Collections Manager notifies the accessioning team via a Box tag to alert them that the material can now be accessioned.  
-	*	At this point, the Accessioning and Collections Manager also moves material to the accessioning and cataloging areas, as needed. 
-	*	The Acquisitions Assistant notifies the Office Manager with a Box tag.  
-	*	The Office Manager drafts an acknowledgement letter, requests Director's signature, and mails the letter. 
-	*   	The Office Manager tags the Acquisition Assistant in Box confirming acknowledgment letter sent.  
-	*   	At this point, the Acquisitions Assistant moves the documentation to the step 3 folder. 
+	*	If the gift contains manuscript material, the Accessioning and Collections Manager notifies the accessioning team via a Box tag to alert them that the material can now be accessioned.
+	*	At this point, the Accessioning and Collections Manager also moves material to the accessioning and cataloging areas, as
+needed. 
+	*	The Acquisitions Assistant notifies the Office Manager with a Box tag. 
+	*	The Office Manager drafts an acknowledgement letter, requests Director's signature, and mails the letter.
+	*	The Office Manager tags the Acquisition Assistant in Box confirming acknowledgment letter sent. 
+	*	At this point, the Acquisitions Assistant moves the documentation to the step 3 folder.
 		
 *	**Step 3:** Gifts Ready for AAE Acknowledgment
 
