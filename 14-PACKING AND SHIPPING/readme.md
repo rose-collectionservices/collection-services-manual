@@ -11,7 +11,7 @@
 		* [14.2.2.3 International shipping](#14223-international-shipping)
 
 
-Collection Services staff occasionally travel to a donor/seller (generally with the collecting curator) to assist in packing collections for transfer to the Rose. This will involve packing all desired material into standard sized boxes provided by the Rose and attaching shipping labels as appropriate. After the packing is complete, the Accessioning and Collections Manager will arrange for the move of the material (generally via FedEx).  If there are any particularly fragile or valuable items, those should be hand-carried by the archivist rather than shipped.  If this situation should arise, consult with the Head of Collection Services to determine a plan of action.
+Collection Services staff occasionally travel to a donor/seller (generally with the collecting curator) to assist in packing collections for transfer to the Rose. This will involve packing all desired material into standard sized boxes provided by the Rose and attaching shipping labels as appropriate. After the packing is complete, the Acquisitions Assistant will arrange for the move of the material (generally via FedEx).  If there are any particularly fragile or valuable items, those should be hand-carried by the archivist rather than shipped.  If this situation should arise, consult with the Head of Collection Services to determine a plan of action.
 
 When a curator requests packing assistance: 
 
@@ -76,7 +76,7 @@ Collection Services members should submit a report of all packing trips [create 
 
 ### 14.1.2 Packing Supplies
 
-The Accessioning and Collections Manager will arrange to have shipping and other needed supplies sent to the packing location in advance of the packing trip (see [13.3 Shipping supplies](/13-SUPPLIES#133-shipping-supplies)), as well as request shipping labels for the travelers. 
+The Acquisitions Assistant will arrange to have shipping and other needed supplies sent to the packing location in advance of the packing trip (see [13.3 Shipping supplies](/13-SUPPLIES#133-shipping-supplies)), as well as request shipping labels for the travelers. 
 
 Collection Services also maintains a packing supplies bag that should accompany staff on packing trips (nota bene: if flying, this bag must travel in checked luggage). This bag contains: 
 
@@ -107,7 +107,7 @@ Collections in the Atlanta area are transferred to the library in one of two way
 * Emory staff move material ourselves;
 * We hire a local moving company to move the collection to the Rose.
 
-For either of these options the collection should be boxed in shelf-ready boxes and labeled. The Accessioning and Collections Manager should be given as much notice as possible in order to arrange a supply order and stacks space for the material. 
+For either of these options the collection should be boxed in shelf-ready boxes and labeled. The Acquisitions Assistant and the Accessioning and Collections Manager should be given as much notice as possible in order to arrange a supply order and stacks space for the material, respectively. 
 
 **Emory staff moves materials:**
 
@@ -118,9 +118,9 @@ The most expeditious way to move small, local collections is often to have Rose 
 
 **Hiring local movers:**
 
-The Rose Library currently contracts Flood Brothers movers to coordinate local moves. Both Flood Brothers and the Accessioning and Collections Manager need at least two weeks’ notice to coordinate the move. Our contact at Flood Brothers is Barry Stewart ( ph.:404-799-3744 ext. 325; email: barry.stewart@floodbrothers.net).
+The Rose Library currently contracts Flood Brothers movers to coordinate local moves. Both Flood Brothers and the Acquisitions Assistant need at least two weeks’ notice to coordinate the move. Our contact at Flood Brothers is Barry Stewart ( ph.:404-799-3744 ext. 325; email: barry.stewart@floodbrothers.net).
 
-To plan a local move the Accessioning and Collections Manager needs to know: 
+To plan a local move the Acquisitions Assistant needs to know: 
 
 * Pick up address(es);
 * Donor contact information;
@@ -140,48 +140,48 @@ FedEx can pick up collections from donors' homes except in the following situati
 
 ### 14.2.2.1 Shipping supplies
 
-The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions [link] as well as the information about packing trips in this manual [link] prior to the trip. If donors/sellers are doing the packing, they should be provided with the packing instructions [link], and curators should consult with them thoroughly about what material should be sent.
+The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/so6v6ihkq4e3658yqy3xuhmpehz4ixgl), and curators should consult with them thoroughly about what material should be sent.
 
-If shipping supplies are needed, please contact the Accessioning and Collections Manager with:
+If shipping supplies are needed, please contact the Acquisitions Assistant with:
 
-* Number of boxes (in increments of 25);
-* Amount of packing tape (in increments of 12);
+* Number of boxes (sold in packs of 25);
+* Amount of packing tape (sold in packs of 12 rolls);
 * Any other supplies needed.
 
-Please also provide the shipping address and contact information for a recipient at the location, including name and phone number. Please allow 3 business days from point of order for supplies to arrive to the destination. [link to supplies]
+Typically, a good ratio is one pack of tape (12 rolls) per pack of boxes (25 boxes). Please also provide the shipping address and contact information for a recipient at the location, including name and phone number. Please allow 3 business days from point of order for supplies to arrive to the destination.
 
 ### 14.2.2.2 Domestic shipping 
 
 [Link out to FedEx Shipping Options & Guidelines for more information]
 
-Rose Library staff is responsible for procuring prepaid FedEx labels and providing them to the necessary parties. The Accessioning and Collections Manager will email the Library Mail Clerk to request labels or the Facilities & Multimedia Assistant, if the Library Mail Clerk is out of the office. The email should include the return address (meaning the address where it is being picked up) with contact name and phone number, approximate number of boxes, and the total approximate weight, which is typically estimated at 125lbs per box. All shipping labels should be addressed to the Accessioning and Collections Manager. Labels may either be mailed to the donor/seller or carried by the Rose Library staff person traveling to pack a collection. The Library Mail Clerk will mail the labels, if needed.
+Rose Library staff is responsible for procuring prepaid FedEx labels and providing them to the necessary parties. The Acquisitions Assistant will email the Library Mail Clerk to request labels or the Facilities & Multimedia Assistant, if the Library Mail Clerk is out of the office. The email should include the return address (meaning the address where it is being picked up) with contact name and phone number and the approximate amount of boxes. All shipping labels should be addressed to the Acquisitions Assistant. Labels may either be mailed to the donor/seller or carried by the Rose Library staff person traveling to pack a collection. The Library Mail Clerk will mail the labels, if needed.
 
-Once a collection is packed, the boxes will either need to be taken to a FedEx location or the Accessioning and Collections Manager will need to schedule a FedEx pickup. Some things to note:
+Once a collection is packed, the boxes will either need to be taken to a FedEx location or the Acquisitions Assistant will need to schedule a FedEx pickup. Some things to note:
 
 * FedEx pickups require 48 hours’ notice from the first hour of the desired eight hour pickup window. 
 * An adult over the age of 18 must be present in order for FedEx to pick up. 
 * FedEx will not offer or guarantee a call prior to arrival. 
 * FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, for example when donors/sellers are older. 
 
-To request a pickup from FedEx for domestic shipping, the Accessioning and Collections Manager will:
+To request a pickup from FedEx for domestic shipping, the Acquisitions Assistant will:
 
 1. Call the FedEx customer service line at 1-800-463-3339.
-2. Provide our account number: 3221-62-669.
+2. Provide our account number located [here.](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r)
 3. Request a remote pickup; FedEx Ground is standard.
 4. Provide the same information that was provided for the shipping labels: pickup address, contact name and phone number, number of boxes, approximate total weight of entire shipment, as well as the requested day of pickup of the donor/seller.
 5. Note the confirmation number and forward that information to the donor and curator. Indicate that this number is not a tracking number and may only be used by calling the 1-800 customer service number.
 
 ### 14.2.2.3 International shipping
 
-The Library Mail Clerk cannot create international shipping labels. To create international shipping labels for FedEx, the Accessioning and Collections Manager will:
+The Library Mail Clerk cannot create international shipping labels. To create international shipping labels for FedEx, the Acquisitions Assistant will:
 
 1. Go to [fedex.com](www.fedex.com);
-2. Log into *My Profile*;
+2. [Log into *My Profile*](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r);
 3. Under Shipping, select “Create Shipment”;
 4. Enter all of the pertinent information and click “Ship”;
 5. A pdf of the labels will be created.
 
-Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our packing instructions [link].
+Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our [packing instructions.](https://emory.box.com/s/so6v6ihkq4e3658yqy3xuhmpehz4ixgl)
 
 ULINE does not ship internationally. To provide the donor/seller with packing supplies, we either: 
 
@@ -190,16 +190,16 @@ ULINE does not ship internationally. To provide the donor/seller with packing su
 
 Sometimes, the Rose Library will contract out to a vendor to pack internationally, and that vendor will also need to be made aware of our packing requirements. They should include cost of shipping supplies when they provide an invoice for their services to the Administrative Assistant. Similarly, if staff is travelling to pack, staff can purchase supplies locally and charge to their corporate card, or on the Libraries’ FedEx account for purchases from FedEx.
 
-Once the donor/seller is ready to ship, the Accessioning and Collections Manager will request a pickup from FedEx for international shipping:
+Once the donor/seller is ready to ship, the Acquisitions Assistant will request a pickup from FedEx for international shipping:
 
 1.	Call the FedEx customer service line at 1-800-463-3339;
-2.	Provide our account number: 3221-62-669;
+2.	Provide our [account number](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r);
 3.	Request a “Remote Pickup” for international FedEx Express;
 4.	Provide the same information that was provided for the shipping labels.
 
 For international shipping, there is no guarantee that FedEx will accept our request for a pickup. Once we make the request, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. Donors/sellers also have the option to drop off their packages at a FedEx location.
 
-The Accessioning and Collections Manager should be provided with tracking numbers in all cases.
+The Acquisitions Assistant should be provided with tracking numbers in all cases.
 
 
 
