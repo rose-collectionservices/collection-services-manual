@@ -114,24 +114,27 @@ by collecting area.
 	
 	*	Curators or Acquisitions Assistant upload preliminary paperwork for prospective acquisitions such as invoices, One-Pagers, or Appraisal reports to this folder.      
 	*	Acquisitions Assistant either confirms that a seller is an active vendor with the University or contacts new vendors and sellers to obtain vendor paperwork. 
-	*	Acquisitions Assistant confirms that all required paperwork has been submitted and combines the vital documents into one file. Vital documents include the invoice, the Deed of Sale, vendor documents, if applicable, and the PRF.  
+	*	If vendor paperwork is needed, once it is received, the Acquisitions Assistant performs a quality check and then forwards the forms to the Budget Analyst with LITS Finance for processing.
+	*	Acquisitions Assistant confirms that all required paperwork has been submitted and combines the vital documents into one file. Vital documents include the invoice, the Deed of Sale, if applicable, and the PRF.  
 	*	File titles should be structured to include the vendor name, invoice number 
 		and fiscal year. For example: "Vendor or Seller Name_Invoice Number_Fiscal 
 		Year," such as "John Doe Bookseller_123456_FY17." 
-	*	Once all paperwork is submitted, the file moves to step 2.
+	*	Once all paperwork is submitted, the Acquisitions Assistant moves the file to step 2.
 	
 *	**Step 2:** Submitted PRFs
 	
 	*	Acquisitions Assistant tags the Associate Director and Director to approve the disbursement of funds.   
 	*	Director or Associate Director will approve in the Box comment section.
-	*	Once the purchase has been approved, the file moves to step 3.
+	*	Once the purchase has been approved, the Acquisitions Assistant will submit the payment in Alma and enter the POL# and date in the appropriate fields on the PRF. [link]
+	*	Acquisitions Assistant moves the file to step 3.
 	
 *	**Step 3:** Verified
 
-	*	Acquisitions Assistant tags the Senior Accounting Assistant in LITS Finance “Submitted in Alma, POL #” 
-	*	At some future point, the Senior Accounting Assistant in LITS Finance will comment with final payment information but, for now, the acquisition is considered “paid” and can move forward in the process. 
+	*	Acquisitions Assistant tags the Senior Accounting Assistant in LITS Finance “Submitted in Alma, POL #” for purchases below the approval threshold for domestic vendors or international vendors receiving checks. Acquisitions Assistant tags the Budget Analyst in LITS Finance for domestic purchases above the approval threshold and all international wire transfer payments. 
+	*	For the purposes of the Rose Library, the acquisition is considered paid for and can move forward for processing.
 	*	The Acquisitions Assistant tags the Accessioning and Collections Manager, “Acquisition complete” 
-	*	The Accessioning and Collections Manager tags the accessioning team on purchases including manuscript material to alert them that the material can now be accessioned. The Accessioning and Collections Manager will also physically move material to shelving in the accessioning and cataloging areas, as needed. 
+	*	The Accessioning and Collections Manager tags the accessioning team on purchases including manuscript material to alert them that the material can now be accessioned. The Accessioning and Collections Manager will also physically move material to shelving in the accessioning and cataloging areas. 
+	*	At some future point, the Senior Accounting Assistant or Budget Analyst in LITS Finance will comment with final payment information.
 			
 At the end of each fiscal year, the Acquisitions Assistant moves all 
 completed paperwork in the Step 3 folder for purchases into a new subfolder titled 
@@ -143,48 +146,42 @@ The following [paperwork](https://emory.app.box.com/folder/2791519373) is requir
 
 *	Signed Gift in Kind Contribution Form (required for all gifts)
 *	Deed of Gift (required for manuscript collections that a donor or appraiser 
-	values over $5000 and for which the donor wants to claim a taxwrite-off, or collections with any terms, conditions, or restrictions 
+	values over $5000 and for which the donor wants to claim a tax write-off, or collections with any terms, conditions, or restrictions 
 	imposed by the donor)
 	
-**NOTE:** For gifts containing only books, the Rose Library only requires a Gift-in-Kind Contribution Form in order to proceed with cataloging, but Emory's department of Development and Alumni Relations (DAR) may require additional paperwork and an appraisal, depending on the value that the donor places on the gift. In this case it is DAR's responsibility to pursue documentation beyond the Gift in Kind Contribution Form.
+**NOTE:** For gifts containing only books, the Rose Library only requires a Gift-in-Kind Contribution Form in order to proceed with cataloging, but Emory's department of Advancement and Alumni Engagement (AAE) may require additional paperwork and an appraisal, depending on the value that the donor places on the gift. In this case it is AAE's responsibility to pursue documentation beyond the Gift in Kind Contribution Form.
 
 **Managing Gift Paperwork in Box**
 
 The Rose Library manages gift paperwork on Box through the [Rose Library Gift in Kind 
 Process folder](https://emory.app.box.com/folder/1957394682). This folder is organized into subfolders by process step and then by 
-collecting area.  The Acquisitions Assistant is responsible for 
-combining paperwork into a single PDF file, moving that file between the Box folders, 
-and tagging appropriate parties for next steps.
+collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps.
 
 *	**Step 1:** Gifts Received by Acquisitions Assistant 
 
 	*	Curators or Acquisitions Assistant upload preliminary paperwork for prospective acquisitions. This could include one pagers, appraisal reports, or Box Notes detailing conversations and negotiations with donors.  
 	*	Curators are responsible for procuring the appropriate paperwork from donors.
-	*	All files should follow the naming convention:  "Donor Name_Calendar Year 
-		Received," such as "John Doe_2016."
-	*	Once an acquisition has a completed Gift in Kind Contribution Form, and, if necessary, a Deed of Gift, the Acquisitions Assistant moves the paperwork to the folder.
+	*	All files should follow the naming convention:  "Donor Name_Calendar Year Received," such as "John Doe_2016."
+	*	Once an acquisition has a completed Gift in Kind Contribution Form, and, if necessary, a Deed of Gift, the Acquisitions Assistant moves the paperwork to the step 2 folder.
 		
 *	**Step 2:** Gifts Ready for Acknowledgement by Rose Director
 
 	*	The Acquisitions Assistant notifies the Accessioning and Collections Manager with a Box tag.
-	*   If the gift contains manuscript material, the Accessioning and Collections Manager notifies the accessioning team via a Box tag to alert them that the material can now be accessioned.  
+	*   	If the gift contains manuscript material, the Accessioning and Collections Manager notifies the accessioning team via a Box tag to alert them that the material can now be accessioned.  
 	*	At this point, the Accessioning and Collections Manager also moves material to the accessioning and cataloging areas, as needed. 
-	*	The Acquisitions Assistant notifies the Administrative Assistant with a Box tag.  
-	*	The Administrative Assistant drafts an acknowledgement letter and facilitates getting it signed by the Director. 
-	*   The Administrative Assistant sends the acknowledgement letter and leaves a note in Box with this information.  
-	*   At that point, the Acquisitions Assistant moves the documentation to Gifts Ready for DAR Acknowledgment. 
+	*	The Acquisitions Assistant notifies the Office Manager with a Box tag.  
+	*	The Office Manager drafts an acknowledgement letter, requests Director's signature, and mails the letter. 
+	*   	The Office Manager tags the Acquisition Assistant in Box confirming acknowledgment letter sent.  
+	*   	At this point, the Acquisitions Assistant moves the documentation to the step 3 folder. 
 		
-*	**Step 3:** Gifts Ready for DAR Acknowledgment
+*	**Step 3:** Gifts Ready for AAE Acknowledgment
 
-	*	The Acquisitions Assistant tags the Director and Assistant Director of Development for the Libraries on Box. 
-	*	DAR will acknowledge the gift and file a copy of the Gift in Kind in their 
-		records.
+	*	The Acquisitions Assistant tags the Director and Assistant Director of AAE for the Libraries on Box. 
+	*	AAE will send a gift receipt, log the gift in their database, and file a copy of the Gift-in-Kind Contribution Form in their records.
 		
-At the end of the calendar year, the Acquisitions Assistant moves all 
-completed paperwork in the Step 3 folder for gifts into a new subfolder for the 
-calendar year.
+At the end of the calendar year, the Acquisitions Assistant moves all completed paperwork in the Step 3 folder for gifts into a new subfolder for the calendar year.
 
-Unsolicited gifts are documented in the Step 1: Gifts Received by Acquisitions Assistant, usually with a Boxnote, but may be represented with a letter, or other documentation from the donor. When creating a Boxnote for an unsolicited gift, include contact information for the donor, the contents of the gift, the physical size of the gift, and the date of arrival. The curator must confirm that they would like to accept these gifts prior to moving forward. The Acquisitions Assistant is responsible for following up with the donor to obtain proper paperwork and may contact the Administrative Assistant to mail a donor packet to them if the only available contact information is a mailing address.  
+Unsolicited gifts are documented in the Step 1: Gifts Received by Acquisitions Assistant, usually with a Boxnote, but may be represented with a letter, or other documentation from the donor. When creating a Boxnote for an unsolicited gift, include contact information for the donor, the contents of the gift, the physical size of the gift, and the date of arrival. The curator must confirm that they would like to accept these gifts prior to moving forward. The Acquisitions Assistant is responsible for following up with the donor to obtain proper paperwork.  
  
 
 ### 2.2.3 Financial Appraisal
@@ -196,16 +193,11 @@ Collections may be appraised in two circumstances:
 
 It is the donor's responsibility to arrange appraisals for tax purposes.
 
-Collection Services staff may occasionally be called on to assist in coordinating and 
-facilitating financial appraisals of Rose Library collections or potential 
-acquisitions.  While we can facilitate the work of professional appraisers, Rose 
-Library staff cannot provide or estimate a value for any special collections material 
-per the [ACRL Code of Ethics for Special Collections Librarians](http://rbms.info/standards/code_of_ethics/), nor can we provide any tax advice to 
-donors.  
+Every effort should be made to arrange financial appraisal of collection material prior to physical transfer to the Rose Library.
 
-If a curator or administrator chooses to engage an appraiser, they must schedule the 
-appointment with the appraiser and contact the Accessioning and Collections Manager 
-or Head of Collection Services as early as possible.
+Collection Services staff may occasionally be called on to assist in coordinating and facilitating financial appraisals of Rose Library collections or potential acquisitions. While we can facilitate the work of professional appraisers, Rose Library staff cannot provide or estimate a value for any special collections material per the [ACRL Code of Ethics for Special Collections Librarians](http://rbms.info/standards/code_of_ethics/), nor can we provide any tax advice to donors.  
+
+If a curator or administrator chooses to engage an appraiser, they must schedule the appointment with the appraiser and contact the Accessioning and Collections Manager or Head of Collection Services as early as possible.
 
 Once an appraisal is scheduled, the Accessioning and Collections Manager will: 
 
@@ -214,12 +206,14 @@ Once an appraisal is scheduled, the Accessioning and Collections Manager will:
 *	Move the material to the Collections Transition Room (CTR) in advance of the visit
 *	Return material to its holding location when the appraisal is concluded
 
-Invoices for an appraiser’s services should be directed to the Administrative Assistant. Appraisal reports prepared for collection material we are acquiring should be provided to the Acquisitions Assistant, who will post them to Box for everyone’s access.  
+Invoices for an appraiser’s services should be directed to the Office Manager. Appraisal reports prepared for collection material we are acquiring should be provided to the Acquisitions Assistant, who will post them to Box for everyone’s access.  
 
-**NOTE:** this is the only instance when unaccessioned and uncataloged material 
+**NOTE:** This is the only instance when unaccessioned and uncataloged material 
 should be stored in the CTR and/or made available in the Reading Room. Collection 
 Services is not responsible for assisting the appraiser with any billing or travel 
-issues; those inquiries should be directed to the Rose Administrative Assistant.
+issues; those inquiries should be directed to the Office Manager.
+
+On very rare occasions, it may be requested that financial appraisal be conducted on collections too large to move to the CTR. This requires additional notice to properly staff the appraiser during their stay on our secure floor. It is not the responsibility of Collection Services staff to accompany the appraiser but, rather, the responsibility of the curator. 
 
 ## 2.3 Accessioning
 
@@ -250,7 +244,7 @@ accessioning team.
 *	The Accessioning and Collections Manager maintains a whiteboard with all new 
 	manuscript acquisitions and marks the ones that are ready for discussion at the 
 	weekly accessioning meeting.
-*	During this meeting, the Accessioning and Collections Manager and the Acquisitions Assistant updates the team on 
+*	During this meeting, the Accessioning and Collections Manager and the Acquisitions Assistant update the team on 
 	the status of pending collections and gives information on any significant, new 
 	collections that have entered the acquisitions process.
 *	The accessioning team members add collections to their individual accessioning 
@@ -394,17 +388,17 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 
 **To update this file for a new acquisition:** 
 
-* Create a folder in F:/MARBL/CL-2 Vital Docs using the naming convention “Main Entry MSS XXXX.” 
+* Create a folder in [CL-2 Permanent Manuscript Collection Files](https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp) using the naming convention “Main Entry MSS XXXX.” 
 * Copy the paperwork from the acquisitions folder to the folder you just created; 
 * Using Adobe X/Pro, insert a PDF of the accession record into the file;
 * Re-title the document with the accession record number (e.g. Year-Month-Accession Number) and save the PDF by in the new folder.
 
 **To update this file for an addition:** 
 
-* Copy the paperwork from the acquisitions folder to the CL-2 folder to which it belongs;
+* Copy the paperwork from the acquisitions folder to the CL-2 folder to which it belongs in [CL-2 Permanent Manuscript Collection Files](https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp);
+* If a folder does not exist, create a folder using the naming convention "Main Entry MSS XXXX" and move the existing file to that folder. Then copy the paperwork from the acquisitions folder to the folder just created.
 * Using Adobe X/Pro, insert a PDF of the accession record into the file;
-* Re-title the document with the accession record number (e.g. Year-Month-Accession Number) and add to existing collection folder;
-* If a folder does not exist, create a folder using the naming convention "Main Entry MSS XXXX," and add the existing file to that folder, as well as the new file just created, named with the accession number. 
+* Re-title the document with the accession record number (e.g. Year-Month-Accession Number).
 
 ### 2.3.6 Accessioning Checklist
 
@@ -413,10 +407,13 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 - [ ] [Arrange and re-house](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 - [ ] [Create or update finding aid](/05-DESCRIPTION)
 - [ ] [Encode finding aid](/05-DESCRIPTION)
-- [ ] Create catalog record
-- [ ] [Barcode box(es)](/06-LOCAL-PRACTICE)
-- [ ] Update information in Box with accession number
-- [ ] Add to [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] Create or update catalog record
+- [ ] [Label and barcode container(s)](/06-LOCAL-PRACTICE)
+- [ ] Add barcodes to Alma and EAD
+- [ ] Update acquisitions paperwork in Box with accession number
+- [ ] Add to or update [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] If material includes audiovisual material, complete the [Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
+- [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
 
 ## 2.4 Stacks Management
 
@@ -451,15 +448,15 @@ We have five primary stacks locations:
 
 We communicate stack locations by giving a range and bay for an item:
 
-* Ranges are one side of an aisle.  These are numbered, and, in the book stacks, also given an A or B designation;
-* Bays are sections of shelving within the range.  The bays receive alphabetical designations.  When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right;
+* Ranges are one side of an aisle. These are numbered, and, in the book stacks, also given an A or B designation;
+* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right;
 * Shelves are the individual shelves within a bay.
 
 ### 2.4.2 Shelf Lists
 
-Collection Services and Emory University Archives staff manage the locations of all Manuscript and Archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection.  It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material.   All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
+Collection Services and Emory University Archives staff manage the locations of all Manuscript and Archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material. All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
 
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access.  Our contact to retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main phone number is 404-733-6200.
+**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access. Our contact to retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main phone number is 404-733-6200.
 
 The shelf list should be updated:
 
