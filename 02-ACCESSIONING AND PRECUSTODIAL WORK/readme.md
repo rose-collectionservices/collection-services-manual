@@ -4,7 +4,7 @@
 * [2.1 Consultations with donors](#21-consultations-with-donors)
 * [2.2 Collections receiving](#22-collections-receiving)
 	* [2.2.1 Receipt of new or potential acquisitions](#221-receipt-of-new-or-potential-acquisitions)
-	* [2.2.2 Paperwork](#222-paperwork)
+	* [2.2.2 Paperwork](#222-paperwork1)
 	* [2.2.3 Financial appraisal](#223-financial-appraisal)
 * [2.3 Accessioning](#23-accessioning)
 	* [2.3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
@@ -71,7 +71,7 @@ responsibility to notify the donor/seller. The Acquisitions Assistant
 can help coordinate return of the material, once the donor/seller has been notified 
 by the curator. 
 
-### 2.2.2 Paperwork
+### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
 
 No collection material may be cataloged or accessioned until the appropriate 
 paperwork has been received. All paperwork should be transferred to the Acquisitions Assistant.  
@@ -501,7 +501,9 @@ For lost print material:
 * If the item is found, the rare book cataloger will remove the missing status from the item record in Alma. 
 * If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
 
+---
 
+<a id="anchor1">[1]</a> Access copies of documents referenced in this section are available [here](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/related-files/).
 
 
 
