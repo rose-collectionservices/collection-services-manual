@@ -32,7 +32,7 @@ Newspaper clippings should be appraised for their relevancy to a collection and 
 
 ## 6.5 Audiovisual Material
 
-Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. For additional information about AV workflows see [LINK] 
+Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. For additional information about AV workflows see [Processing guidelines for audiovisual materials](https://github.com/rose-collectionservices/collection-services-manual/blob/master/06-LOCAL%20PRACTICE/processing-guidelines-for-audiovisual-materials.md) 
 
 ## 6.6 Housing and Storage
 
