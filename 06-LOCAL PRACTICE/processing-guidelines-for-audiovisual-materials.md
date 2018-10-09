@@ -71,7 +71,7 @@ Within the parentheses, the number of boxes or items should be included.  As see
 
 CLPs, or combined LP boxes should be listed in the extent in parentheses with the number of boxes.  The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
-![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15 "Representing CLPs in the container list")
+![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization.
 
