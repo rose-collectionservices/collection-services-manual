@@ -4,6 +4,7 @@
 * [9.2 Sending collection material to the Conservation Lab](#92-sending-collection-material-to-the-conservation-lab)
 	* [9.2.1 Manuscript and archival material](#921-manuscript-and-archival-material)
 	* [9.2.2 Books](#922-books)
+	* [9.2.3 Audiovisual Material](#923-audiovisual-material)
 
 ## 9.1 Preservation during Processing
 
@@ -22,6 +23,7 @@ Conduct the following minor preservation work during processing:
 * Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library manuscript preservation liaison. 
 * Sleeve torn documents in mylar and flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved. 
 * Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course. 
+* Enter information about audiovisual materials into the [Audiovisual Inventory Update Form](https://emory.box.com/s/8s91q65h56yqxop1t37o11oc06qv52qf) to be considered for digitization, noting if there are commercial recordings.
 
 Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival." 
 
@@ -80,3 +82,18 @@ The process by which books enter and move through the queue is as follows:
 
 * Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority in the Preservation Department. 
 * Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Preservation liaison or the Head of Collection Services. In this case, whomever delivers the item to the Preservation Office will mark it as unavailable in Alma. 
+
+### 9.2.3 Audiovisual Material
+
+While the audiovisual liaison works independently of the the Head of Collection Services, Rose Library Preservation Liaison, Rare Book Cataloger, and Accessioning and Collections Manager, audiovisual materials are also reviewed and sent to the Conservation Lab for preservation.  The process by which manuscript and archives items enter and move through the queue is as follows:
+
+1. Because audiovisual materials are only accessible via digital surrogates, digitization is considered a preservation component through the access of the materials. During processing, audiovisual materials should be physically grouped together, and the [Audiovisual Inventory Update Form](https://emory.box.com/s/8s91q65h56yqxop1t37o11oc06qv52qf) should be filled out for the collection. This information will be marked as priority for digitization. Note: commercial recordings are not necessarily removed at this time since access may be granted on the rarity of the items.
+2. Rose Library liaison will add the item to the [Conservation List](https://emory.box.com/s/r7oai35rw67twxqws63wg953s96vn7hy) on Box 
+3. Rose Library liaison assesses priority of the material as well as the risk assessment for digitization.
+4. If [items are requested by patrons](https://emory.box.com/s/hv0grh9jpgqiq9qpjff9773mobp4va0e), Research Services staff will track the transaction in AEON 
+5. Rose Library liaison will create a collection-level record in the Keep, and deliver item and Audiovisual Conservator on demand, updating the Conservation List with dates of delivery.
+6. Rose Library liaison and Audiovisual Conservator will discuss the estimated return date.
+7. Once returned, the Rose Library liaison will update the Conservation List, the rights statement, and Keep metadata as well as create digital access object tags in the encoded finding aid.  Research Services staff will be notified if the transaction is patron driven. 
+8. Rose Library liaison will return materials to shelf
+
+
