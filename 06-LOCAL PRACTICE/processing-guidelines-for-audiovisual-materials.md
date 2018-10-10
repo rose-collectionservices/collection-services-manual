@@ -1,5 +1,9 @@
 # Processing guidelines for audiovisual materials
 
+* [6.5.1 Accessioning/minimal level processing](#651-accessioningminimal-level-processing)
+	* [6.5.1.1 Rehousing upon accessioning](#6511-rehousing-upon-accessioning)
+	* [6.5.1.2 Processing](#6512-processing)
+
 In order to keep the Rose Library in line with current best practices and standards, the arrangement and description of audiovisual materials in our holdings will change.  Many changes are based on the documentation of the Archives of American Art grant project (CLIR, "Hidden Collections," 2012-2015).  More information about that project is available on AAA’s website (http://www.aaa.si.edu/collections/projects/clir).
 
 Since The Rose is conducting more thorough processing at the point of accession, much of the work of processing audiovisual materials will be done at this point.  There will, however, be more focus on the physical storage and identification of the materials at this point than on the intellectual arrangement of the materials in a finding aid.
