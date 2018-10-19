@@ -242,7 +242,7 @@ accessioning team.
 
 *	When new acquisitions are ready to be accessioned, the Accessioning and 
 	Collections Manager tags the accessioning team in Box.
-*	The Accessioning and Collections Manager maintains a whiteboard with all new 
+*	The Accessioning and Collections Manager and Acquisitions Assistant maintain a whiteboard with all new 
 	manuscript acquisitions and marks the ones that are ready for discussion at the 
 	weekly accessioning meeting.
 *	During this meeting, the Accessioning and Collections Manager and the Acquisitions Assistant update the team on 
@@ -250,12 +250,12 @@ accessioning team.
 	collections that have entered the acquisitions process.
 *	The accessioning team members add collections to their individual accessioning 
 	queues based on current workloads and specific expertise.
-*	The Accessioning and Collections Manager distributes original paperwork for the 
+*	The Accessioning and Collections Manager and/or Acquisitions Assistant distributes original paperwork for the 
 	new assignments.
 
 ### 2.3.2 Creation of the Accession Record
 
-The system of record for accession information is the Accessions Database located on the F: Drive:  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``.  All new collection material receives a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be at least one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
+The system of record for accession information is ArchivesSpace located on the F: Drive:  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``.  All new collection material receives a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be at least one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
 
 **Navigating the Database and Using Microsoft Access**
 
@@ -379,9 +379,9 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 
 The permanent collection files document the history of a collection including, solicitation, acquisition, processing, and later communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
 
-When we receive a new collection, the accessioning archivist is responsible for creating the collection file and adding a copy of the accession record and any other collection documentation to the newly created file. The [collection file’s label](<https://emory.box.com/s/44zvlovvklb77d58kz8w50u5pgkdn5b8>) should include the main entry and the manuscript number.  The files are stored alphabetically by main entry. 
+When we receive a new collection, the accessioning archivist is responsible for creating the collection file and adding a copy of the accession record and any other collection documentation to the newly created file. The [collection file’s label](<https://emory.box.com/s/44zvlovvklb77d58kz8w50u5pgkdn5b8>) should include the main entry and the manuscript number. The files are stored alphabetically by main entry. 
 
-If you pull a collection file from the cabinet for longer than a brief time, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
+If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
 
 ### 2.3.5.1 Electronic CL-2 File (Vital Docs Folder)
 
@@ -404,10 +404,14 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 ### 2.3.6 Accessioning Checklist
 
 - [ ] [Create accession record](#232-creation-of-the-accession-record)
-- [ ] [CL-2: paper and electronic](#235-creating-the-cl-2-file)
+- [ ] Write accession number on the acquisitions paperwork
+- [ ] [CL-2 file: create or update](#235-creating-the-cl-2-file)
 - [ ] [Arrange and re-house](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
-- [ ] [Create or update finding aid](/05-DESCRIPTION)
-- [ ] [Encode finding aid](/05-DESCRIPTION)
+- [ ] [Create finding aid for new collections](/05-DESCRIPTION)
+- [ ] Request review of new finding aids from team; revise once feedback is received
+- [ ] Request review of new finding aids from curator and revise as needed
+- [ ] [Encode finding aid for new collections](/05-DESCRIPTION)
+- [ ] [Update encoded finding aid for additions](/05-DESCRIPTION)
 - [ ] Create or update catalog record
 - [ ] [Label and barcode container(s)](/06-LOCAL-PRACTICE)
 - [ ] Add barcodes to Alma and EAD
@@ -415,6 +419,10 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 - [ ] Add to or update [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
 - [ ] If material includes audiovisual material, complete the [Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
 - [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] Move containers to permanent physical locations
+- [ ] Update [processing statistics spreadsheet](<https://emory.box.com/s/h6dx8ec5u7imivhe5rnnoz09qumr20ht>)
+- [ ] Announce new collections or significant additions on the #collections Slack channel
+- [ ] Inform or request that curators inform donors and/or creators that new collections are now open
 
 ## 2.4 Stacks Management
 
