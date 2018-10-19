@@ -385,21 +385,8 @@ If you pull a collection file from the cabinet for longer than a business day, y
 
 ### 2.3.5.1 Electronic CL-2 File (Vital Docs Folder)
 
-We also maintain an [electronic vital documents folder](<https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp>) which you will need to create or update when accessioning a new acquisition. Vital documents include the accession records, PRFs, invoices, appraisal reports, Deeds of Sale, Gift-in-Kind Contribution Forms, and Deeds of Gift but do not include supplemental or secondary paperwork such as one-pagers, inventories, and dealer descriptions. 
+There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp>) available on Box. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on Box and can serve as the electronic record. Once material is accessioned, archivists leave a Box comment on the acquisitions paperwork for the material and include (1) the accession number, (2) the date accessioned, and (3) the collections to which material was added or the new collection information, if a new collection was created. From FY19 forward, please refer to the physical CL-2 file and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
-**To update this file for a new acquisition:** 
-
-* Create a folder in [CL-2 Permanent Manuscript Collection Files](https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp) using the naming convention “Main Entry MSS XXXX.” 
-* Copy the paperwork from the acquisitions folder to the folder you just created; 
-* Using Adobe X/Pro, insert a PDF of the accession record into the file;
-* Re-title the document with the accession record number (e.g. Year-Month-Accession Number) and save the PDF by in the new folder.
-
-**To update this file for an addition:** 
-
-* Copy the paperwork from the acquisitions folder to the CL-2 folder to which it belongs in [CL-2 Permanent Manuscript Collection Files](https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp);
-* If a folder does not exist, create a folder using the naming convention "Main Entry MSS XXXX" and move the existing file to that folder. Then copy the paperwork from the acquisitions folder to the folder just created.
-* Using Adobe X/Pro, insert a PDF of the accession record into the file;
-* Re-title the document with the accession record number (e.g. Year-Month-Accession Number).
 
 ### 2.3.6 Accessioning Checklist
 
