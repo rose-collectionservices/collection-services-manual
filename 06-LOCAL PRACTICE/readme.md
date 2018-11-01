@@ -82,7 +82,7 @@ When possible, **framed items** such as photographs, certificates, or artwork, s
 
 *Figure 2*
 
-There are three sizes for labels. The most commonly used is the 4" x 3 1/3" labels. These are used for record center boxes and Hollinger boxes [link to template].  Smaller labels measuring 4" x 2" are used for the half Hollinger boxes as well as the OP boxes [link to template].  There is an additional template for the 4" x 2" labels, specifically formatted for OP boxes measuring 1.5" in depth. 
+There are three sizes for labels. The most commonly used is the [4" x 3 1/3" labels](https://emory.box.com/s/ngo8fl1q6sstzznvui8kcy07zaiac1xo). These are used for record center boxes and Hollinger boxes.  Smaller labels measuring [4" x 2"](https://emory.box.com/s/ahsll1tcbeyyzjfwfxep0u21xhwvklfp) are used for the half Hollinger boxes as well as the OP boxes.  There is an [additional template for the 4" x 2" labels](https://emory.box.com/s/gk9skuimm2rvv6djpsxm2fyhasnsw3ya), specifically formatted for OP boxes measuring 1.5" in depth. 
 
 Restricted material and material that has mold must be housed separately from the rest of the collection.  Restricted material should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.   
 
@@ -116,7 +116,9 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 *Figure 9: Oversized and flat boxes*
 
-[Links to flag template and preservation section]
+[Links to flag template](https://emory.box.com/s/zpcg59awf14f1wjiqy72x5oc4ahifzdv) 
+
+[Link to preservation section](/9-PRESERVATION/readme.md)
 
 ### 6.6.3 Restricted Material
 
@@ -140,7 +142,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-[Link to label template]
+[Link to label template](https://emory.box.com/s/henpz5g7cn4yrdty84lkvxeg7cq6ecgw)
 
 
 
