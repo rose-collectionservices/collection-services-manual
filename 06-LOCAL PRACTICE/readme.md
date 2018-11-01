@@ -116,9 +116,9 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 *Figure 9: Oversized and flat boxes*
 
-[Links to flag template](https://emory.box.com/s/zpcg59awf14f1wjiqy72x5oc4ahifzdv) 
+[Link to flag template](https://emory.box.com/s/zpcg59awf14f1wjiqy72x5oc4ahifzdv) 
 
-[Link to preservation section](/9-PRESERVATION/readme.md)
+[Link to preservation section](/09-PRESERVATION)
 
 ### 6.6.3 Restricted Material
 
