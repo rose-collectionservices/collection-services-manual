@@ -413,7 +413,7 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 - [ ] [Encode finding aid for new collections](/05-DESCRIPTION)
 - [ ] [Update encoded finding aid for additions](/05-DESCRIPTION)
 - [ ] Create or update catalog record
-- [ ] [Label and barcode container(s)](/06-LOCAL-PRACTICE)
+- [ ] [Label and barcode container(s)](/06-LOCAL PRACTICE)
 - [ ] Add barcodes to Alma and EAD
 - [ ] Update acquisitions paperwork in Box with accession number
 - [ ] Add to or update [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
