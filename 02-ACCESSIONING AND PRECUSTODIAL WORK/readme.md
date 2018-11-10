@@ -416,7 +416,7 @@ We also maintain an [electronic vital documents folder](<https://emory.box.com/s
 - [ ] [Label and barcode container(s)](/06-LOCAL%20PRACTICE)
 - [ ] Add barcodes to Alma and EAD
 - [ ] Update acquisitions paperwork in Box with accession number
-- [ ] Add to or update [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] Add to or update the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) and the pending tab if applicable
 - [ ] If material includes audiovisual material, complete the [Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
 - [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
 - [ ] Move containers to permanent physical locations
