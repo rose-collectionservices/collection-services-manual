@@ -52,4 +52,5 @@ Refer to the Rose Library guide to GitHub for technical instructions (forthcomin
 *Footnotes:*
 
 <a id="anchor1">[1]</a> Language and process borrowed in large part and with much gratitude from the Rockefeller Archive Center Documentation Site Content Approval Policy: http://docs.rockarch.org/docs-policy/
+
 <a id="anchor2">[2]</a> In some cases, links from Collection Services repositories to information that cannot be shared publicly require authentication.
