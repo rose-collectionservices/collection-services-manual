@@ -2,7 +2,7 @@
 
 * [Introduction](#introduction)
 * [Table of contents](#table-of-contents)
-* [Rose Library Collection Services documentation approval policy](#rose-library-collection-services-documentation-approval-policy)
+* [Rose Library Collection Services documentation approval policy](#rose-library-collection-services-documentation-approval-policy1)
 
 ## Introduction
 
