@@ -27,9 +27,9 @@ Placeholder for Carrie's introductory text
 * [15: FedEx guidelines](/15-FEDEX%20GUIDELINES)
 * [16: LSC transfer policies and procedures](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES)
 
-## Rose Library Collection Services documentation approval policy
+## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
-Documentation created by the Collection Services department of the Stuart A. Rose Manuscript, Archives, and Rare Book Library includes the policies, workflows, processes, manuals, and forms that are integral to the operations of Collection Services and are intended for long-term use. In order for staff to control, use, and share this documentation, Collection Services is stored and maintained using GitHub. All documentation on the platform is publicly available.<a href="#anchor1"><sup>1</sup></a>  This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the larger archival community and other interested users. 
+Documentation created by the Collection Services department of the Stuart A. Rose Manuscript, Archives, and Rare Book Library includes the policies, workflows, processes, manuals, and forms that are integral to the operations of Collection Services and are intended for long-term use. In order for staff to control, use, and share this documentation, Collection Services is stored and maintained using GitHub. All documentation on the platform is publicly available.<a href="#anchor1"><sup>2</sup></a>  This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the larger archival community and other interested users. 
 
 This policy defines the process by which existing documentation is expanded and revised.
 
@@ -51,4 +51,5 @@ Refer to the Rose Library guide to GitHub for technical instructions (forthcomin
 
 *Footnotes:*
 
-<a id="anchor1">[1]</a>In some cases, links from Collection Services repositories to information that cannot be shared publicly require authentication.
+<a id="anchor1">[1]</a> Language and process borrowed in large part and with much gratitude from the Rockefeller Archive Center Documentation Site Content Approval Policy: http://docs.rockarch.org/docs-policy/
+<a id="anchor2">[2]</a> In some cases, links from Collection Services repositories to information that cannot be shared publicly require authentication.
