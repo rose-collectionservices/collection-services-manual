@@ -39,7 +39,10 @@ All public content is shared under a [Creative Commons Zero](https://creativecom
 
 It is expected and encouraged that documentation be reviewed and revised periodically to ensure that it is accurate and reflects current practice. All changes should be submitted through a pull request in the corresponding GitHub repository.
 
-* Staff may merge their own pull requests without further review or approval where revisions are minor (e.g., stylistic changes, minor corrections, etc.);
+* Staff may commit changes directly to the master branch where revisions are very minor (e.g., small stylistic changes, minor corrections, etc.).
+
+All other changes must be submitted via a pull request:
+
 * If a staff member revises documentation following a broader Collection Services discussion or is the listed content owner of the documentation in question, they may merge the resulting pull request without further approval but are encouraged to invite at least one other member of staff to review their changes including, where appropriate, the listed content owner.
 * Substantive changes should be reviewed and approved by at least one other member of staff including, where relevant, the listed content owner. Where required, review should take place within three working days of a request being made.
 * If a determination is made to remove a piece of documentation in its entirety, notify any Collection Services team member with administrative access to the Collection Services GitHub account.
