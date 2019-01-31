@@ -1,5 +1,7 @@
 # Supplies
 
+Content owner: **Sarah Quigley**
+
 * [13.1 Office supplies](#131-office-supplies)
 * [13.2 Archival supplies](#132-archival-supplies)
 * [13.3 Shipping supplies](#133-shipping-supplies)

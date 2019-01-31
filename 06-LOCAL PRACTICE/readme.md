@@ -1,5 +1,7 @@
 # Local Practice
 
+Content owner: **Sarah Quigley**
+
 * [6.1 Original folders](#61-original-folders)
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)

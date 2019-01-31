@@ -1,6 +1,8 @@
 
 # Description
 
+Content owner: **Sarah Quigley**
+
 * [5.1 Finding aids](#51-finding-aids)
 	* [5.1.1 Main entry/creator](#511-main-entrycreator)
 	* [5.1.2 Title statement](#512-title-statement)

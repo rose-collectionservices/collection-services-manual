@@ -1,5 +1,7 @@
 # Appraisal
 
+Content owner: **Sarah Quigley**
+
 * [8.1 Before processing](#81-before-processing)
 * [8.2 During arrangement](#82-during-arrangement)
 * [8.3 Working with curators and scheduling reviews](#83-working-with-curators-and-scheduling-reviews)

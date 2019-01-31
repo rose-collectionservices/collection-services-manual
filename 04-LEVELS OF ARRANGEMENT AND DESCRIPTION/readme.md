@@ -1,6 +1,8 @@
 
 # Rose Library Levels of Arrangement and Description
 
+Content owner: **Sarah Quigley**
+
 * [4.1 Levels of arrangement and description](#41-levels-of-arrangement-and-description)
 	* [4.1.2 Accessioned](#412-accessioned)
 	* [4.1.3 Collection level](#413-collection-level)

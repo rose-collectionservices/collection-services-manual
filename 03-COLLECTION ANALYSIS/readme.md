@@ -1,6 +1,8 @@
 
 # Collection Analysis
 
+Content owner: **Sarah Quigley**
+
 * [3.1 Determine provenance and original order](#31-determine-provenance-and-original-order)
 * [3.2 Condition assessment/physical inventory](#32-condition-assessmentphysical-inventory)
 * [3.3 Determine level of arrangement and description](#33-determine-level-of-arrangement-and-description)

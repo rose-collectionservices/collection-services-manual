@@ -1,5 +1,7 @@
 # Workplace and Environment
 
+Content owner: **Sarah Quigley**
+
 * [12.1 Training](#121-training)
 	* [12.1.1 Students](#1211-students)
 	* [12.1.2 New Staff](#1212-new-staff)

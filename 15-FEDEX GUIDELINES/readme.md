@@ -1,5 +1,7 @@
 # FedEx Shipping Options and Guidelines
 
+Content owner: **Meaghan O'Riordan**
+
 * [15.1 FedEx drop-off](#151-fedex-drop-off)
 * [15.2 FedEx Ground](#152-fedex-ground)
 * [15.3 FedEx Express (Express Saver)](#153-fedex-express-express-saver)

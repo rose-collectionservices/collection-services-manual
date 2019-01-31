@@ -1,5 +1,7 @@
 # Packing and Shipping Records to the Rose Library
 
+Content owner: **Meaghan O'Riordan**
+
 * [14.1 Packing guidelines](#141-packing-guidelines)
 	* [14.1.1 Physical Handling](#1411-physical-handling)
 	* [14.1.2 Packing Supplies](#1412-packing-supplies)

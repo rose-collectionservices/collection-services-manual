@@ -1,5 +1,7 @@
 # Restriction and Separation Policies and Procedures
 
+Content owner: **Sarah Quigley**
+
 * [7.1 Restricted material](#71-restricted-material)
 	* [7.1.2 Donor imposed restrictions](#712-donor-imposed-restrictions)
 	* [7.1.3 Preservation](#713-preservation)
