@@ -272,7 +272,7 @@ miscellany collections will likely be arranged and described to this level as we
 | Series level                                             | **Staff:** $80-$200 **Supplies:** $16.87 **Average Total: $157.00**  |
 | File level (when material arrives foldered)              | **Staff:** $240-$480 **Supplies:** $23.14 **Average Total: $383.00** |
 | File level (when material is unorganized and unfoldered) | **Staff:** $600-$800 **Supplies:** $23.14 **Average Total: $723.00** |
-| Item level                                               | **Staff:** $960-$1200 **Supplies:** $8.45 **Average Total: $58.45**   |
+| Item level                                               | **Staff:** $960-$1200 **Supplies:** $45.50 **Average Total: $1125**   |
 
 
 ## 4.5 Levels of Arrangement Quick Guide
