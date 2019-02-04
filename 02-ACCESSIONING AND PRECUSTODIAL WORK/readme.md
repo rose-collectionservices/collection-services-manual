@@ -408,7 +408,7 @@ There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30
 - [ ] Add to or update the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) and the pending tab if applicable
 - [ ] If material includes audiovisual material, complete the [Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
 - [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
-- [ ] Flag materials separated from the collection for cataloging
+- [ ] [Flag](<https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd> "https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd") materials separated from the collection for cataloging
 - [ ] Move containers to permanent physical locations
 - [ ] Update [processing statistics spreadsheet](<https://emory.box.com/s/h6dx8ec5u7imivhe5rnnoz09qumr20ht>)
 - [ ] Announce new collections or significant additions on the #collections Slack channel
