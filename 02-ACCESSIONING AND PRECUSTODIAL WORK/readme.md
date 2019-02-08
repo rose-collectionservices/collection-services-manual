@@ -157,11 +157,11 @@ The following [paperwork](https://emory.app.box.com/folder/2791519373) is requir
 
 The Rose Library manages gift paperwork on Box through the [Rose Library Gift in Kind 
 Process folder](https://emory.app.box.com/folder/1957394682). This folder is organized into subfolders by process step and then by 
-collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps.
+collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps. Prior to receipt of material, curators may use the [Prospective Gifts folder](<https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1> "https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1") to upload relevant documentation for gifts under consideration.
 
 *	**Step 1:** Gifts Received by Acquisitions Assistant 
 
-	*	Curators or Acquisitions Assistant upload preliminary paperwork for prospective acquisitions. This could include one pagers, appraisal reports, or Box Notes detailing conversations and negotiations with donors.  
+	*	Curators or Acquisitions Assistant upload preliminary paperwork for acquisitions received. This could include one pagers, appraisal reports, or Box Notes detailing conversations and negotiations with donors.  
 	*	Curators are responsible for procuring the appropriate paperwork from donors.
 	*	All files should follow the naming convention:  "Donor Name_Calendar Year Received," such as "John Doe_2016."
 	*	Once an acquisition has a completed Gift in Kind Contribution Form, and, if necessary, a Deed of Gift, the Acquisitions Assistant moves the paperwork to the step 2 folder.
