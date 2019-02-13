@@ -86,7 +86,7 @@ curator to make sure you know what the repository's goals are for the collection
 that you can determine what level of arrangement and description will most 
 effectively and efficiently meet those goals. In general, you are looking for the 
 "golden minimum," the least granular level of arrangement and description that will 
-meet the stated access and use goals for the collection.  [Greene and Meissner] (<http://www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf> "http://www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf")
+meet the stated access and use goals for the collection. [Greene and Meissner](<www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf> "www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf")
 
 ### 3.3.1 Identifying intellectual units within collections:
 
