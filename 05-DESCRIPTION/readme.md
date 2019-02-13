@@ -122,7 +122,7 @@ necessary.  The Rare Book Cataloger can also establish headings through the Libr
 | Positive Impact, Inc.                    | Archivist created                     |
 
 
-For additional guidance, see DACS [LINK] and the Rose Library MARC manual [LINK].
+For additional guidance, see [DACS](<www.archivists.org/standards/DACS> "www.archivists.org/standards/DACS") and the Rose Library MARC manual.
 
 **Corresponding MARC field:**  1xx
 
@@ -722,7 +722,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 
 *Disposition Schedules (Required if applicable):*
 
-* Need language here for EUA about how we deal with retention schedules (link out to retention schedule) 
+* For Emory University Archives material, disposition may be dictated by the [University's retention schedules](<http://records.emory.edu/retention-schedules/> "http://records.emory.edu/retention-schedules/")
 
 *Documenting Certain Activities (Required if applicable):*
 
