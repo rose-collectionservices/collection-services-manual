@@ -52,7 +52,7 @@ We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb
 * Number of serial issues;
 * Parent collection/collecting area (General monographs and serials, Danowski monographs and serials, Emory University Archives, and selected other project-based categories as needed).
 
-We track these statistics on a [spreadsheet])(<https://emory.app.box.com/folder/42712015208> "https://emory.app.box.com/folder/42712015208")
+We track these statistics on a [spreadsheet](<https://emory.app.box.com/folder/42712015208> "https://emory.app.box.com/folder/42712015208")
 
 Danowski and Billops-Hatch print cataloging statistics are also reported annually to their respective boards. 
 
