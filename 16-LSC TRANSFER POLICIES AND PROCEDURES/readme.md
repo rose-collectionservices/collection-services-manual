@@ -107,7 +107,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 
 *Footnotes:*
 
-<a id="anchor1">[1]</a> For a full set of guidelines and criteria for sending material to the LSC please see the Rose-LSC Policy and Criteria Document [LINK] and [16.3 Basic Minimum Housing Guidelines](#163-basic-minimum-housing-guidelines).
+<a id="anchor1">[1]</a> For a full set of guidelines and criteria for sending material to the LSC please see the [Rose-LSC Policy and Criteria Document](<https://emory.app.box.com/file/51648381053> "https://emory.app.box.com/file/51648381053") and [16.3 Basic Minimum Housing Guidelines](#163-basic-minimum-housing-guidelines).
 
 <a id="anchor2">[2]</a> Additional details on physical processing requirements can be found in the Rose Library LSC Physical Processing Requirements document and the LSC Policy Decision Document- Physical Processing of Materials.
 
