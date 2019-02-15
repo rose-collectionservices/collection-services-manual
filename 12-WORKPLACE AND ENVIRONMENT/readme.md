@@ -37,7 +37,7 @@ It's helpful at this point to remind them that they aren't expected to memorize 
 
 ### 12.1.2 New Staff
 
-In advance of a new staff person starting work, review the Rose Library [onboarding checklist](https://emory.box.com/s/vezrlfps7nsdy6jhd641lndpb3ok8oy2) and new staff handbook [link]. 
+In advance of a new staff person starting work, review the Rose Library [onboarding checklist](https://emory.box.com/s/vezrlfps7nsdy6jhd641lndpb3ok8oy2) and new staff [handbook](https://emory.app.box.com/file/370161613929). 
 
 New professional staff will have the benefit of graduate training in library and/or archival theory, and may also have prior professional experience.  It won't be necessary to spend a lot of time reviewing basic practice with them.  However, it is important to gauge their experience and knowledge and plan training accordingly.  Most training will be focused on local practice and ensuring the new staff person's performance meets expectations for consistency, clarity, attention to detail, and problem solving.  Set expectations early and continue to reinforce training as the person gains proficiency.  Remember that the nature of special collections work means that training will occur over a period of months, not weeks. 
 
