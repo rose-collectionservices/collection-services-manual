@@ -25,7 +25,7 @@ We keep statistics in the following areas:
 * Linear footage and OP/BV count of accessioned collections;
 * Number of items for additions to miscellany or artificial collections.
 
-We track these through the accessioning database and can generate reports as needed. [File path] 
+We track these through ArchivesSpace and can generate reports as needed.
 
 ### 11.1.2 Processing
 
@@ -34,7 +34,7 @@ We track these through the accessioning database and can generate reports as nee
 * Level to which collection is arranged and described;
 * Number of GB processed.
 
-We track these statistics on a spreadsheet on the F: Drive.  Each person is responsible for managing their own stats and getting them to Head of Collection Services quarterly.  [File path/Box link] 
+We track these statistics on a [spreadsheet](<https://emory.app.box.com/file/243119095713> "https://emory.app.box.com/file/243119095713").  Each person is responsible for managing their own stats and getting them to Head of Collection Services quarterly.  
 
 ### 11.1.3 Born-Digital Collections
 
@@ -42,7 +42,7 @@ We track these statistics on a spreadsheet on the F: Drive.  Each person is resp
 * Amount ingested into the Keep (in GB);
 * Amount processed and made available in RR (in GB). 
 
-We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb8uqgc2kl8vqwn6p6316k9bezq9nvm) and a tab in the annual processing report. [link] 
+We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb8uqgc2kl8vqwn6p6316k9bezq9nvm) and a tab in the [annual processing report](<https://emory.app.box.com/file/243119095713> "https://emory.app.box.com/file/243119095713")
 
 ### 11.1.4 Cataloging (print)
 
@@ -52,7 +52,7 @@ We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb
 * Number of serial issues;
 * Parent collection/collecting area (General monographs and serials, Danowski monographs and serials, Emory University Archives, and selected other project-based categories as needed).
 
-We track these statistics on a spreadsheet on the F: Drive. [File path/Box link] 
+We track these statistics on a [spreadsheet])(<https://emory.app.box.com/folder/42712015208> "https://emory.app.box.com/folder/42712015208")
 
 Danowski and Billops-Hatch print cataloging statistics are also reported annually to their respective boards. 
 
