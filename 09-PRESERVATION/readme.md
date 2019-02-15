@@ -31,7 +31,7 @@ Do not attempt to mend documents with pressure sensitive tape, even tape markete
 
 When working with moldy materials, segregate the damaged items from the rest of the collection. Those items will go to the conservation lab for cleaning. When they return, complete processing but keep the moldy material physically segregated. Physically add them to a new box(es) at the end of the collection and describe them intellectually in the finding aid. Label the outside of the box(es) with "Mold Alert" labels according to instructions in  [6.6.2 Boxing collections](/06-LOCAL%20PRACTICE#662-boxing-collections).
 
-When processing is complete, shelve the box(es) on the ranges designated for housing moldy materials (11-245-A-C) and update the shelf list to indicate the additional location. Moldy materials cannot be sent to the LSC [link]. 
+When processing is complete, shelve the box(es) on the ranges designated for housing moldy materials (11-245-A-C) and update the shelf list to indicate the additional location. Moldy materials cannot be sent to the LSC per Rose [policy](https://emory.app.box.com/file/51648381053). 
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. 
 
@@ -44,7 +44,7 @@ The Head of Collection Services, Rose Library Preservation Liaison, Rare Book Ca
 The process by which manuscript and archives items enter and move through the queue is as follows: 
 
 1. If preservation problems are found, notify the Rose Library preservation liaison for manuscripts and archives who will consult with the Preservation Office. The Rose Library preservation liaison is the only staff person who may transfer manuscript and archives material the preservation lab. Conservators will not accept material for treatment from any other staff person. 
-2. Rose Library liaison will add the item to the conservation list on Box [link].   
+2. Rose Library liaison will add the item to the [conservation list](https://emory.app.box.com/file/48967021481).   
 3. Rose Library liaison assesses the problem/material and assigns it a category based on the following criteria: extent of damage, value, use, relationship to other projects, and other institutional needs (such as loans).  
 4. Rose Library liaison creates a transaction for the item in Aeon. For processed collections, create the transaction by requesting the item through the finding aid. For unprocessed collections, create a transaction manually. Manual transactions must include: 
 	* Document type [MSS or EUA];
