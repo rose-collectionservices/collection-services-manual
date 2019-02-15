@@ -62,8 +62,8 @@ Generally, staff does not evaluate collection contents for subjectively sensitiv
 When materials have been designated as restricted, Collection Services will: 
  
 * Physically isolate restricted documents from the rest of the collection and clearly label the boxes as restricted; * Create access copies and surrogates for fragile material when possible;
-* Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description.  In cases where the donor may not want information about restrictions to be made public, describe the material as normal and [redact] (<https://emory.app.box.com/file/195790907452> "https://emory.app.box.com/file/195790907452") it in the EAD finding aid;
-* Include the types of records that are restricted, the reason for the restriction, and the date of expiration in [Restrictions on Access] (/05-DESCRIPTION) notes;
+* Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description.  In cases where the donor may not want information about restrictions to be made public, describe the material as normal and [redact](<https://emory.app.box.com/file/195790907452> "https://emory.app.box.com/file/195790907452") it in the EAD finding aid;
+* Include the types of records that are restricted, the reason for the restriction, and the date of expiration in [Restrictions on Access](/05-DESCRIPTION#516%20restrictions%20on%20access) notes;
 * Fully document restrictions via deeds of gift/sale, correspondence, memos, etc., in the permanent collection file.  
 
 ## 7.2 Redacted Material
