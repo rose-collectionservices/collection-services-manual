@@ -57,14 +57,13 @@ To the best of our ability, and the extent that is reasonable based on the level
 The legal right to privacy ends with an individual’s death.  Restrictions on social security numbers, grade sheets, or other potentially confidential records can be lifted at the end of a person’s life, and we will not redact this information about deceased individuals. 
  
 Generally, staff does not evaluate collection contents for subjectively sensitive information.  Staff will not restrict material without a request from the donor or an affected third party, or outside of accordance with University policy or state and federal statute.  Collection Services will make this decision in consultation with the Head of Collection Services, the curator responsible for acquisition, the donor, and in accordance with professional ethical standards. 
- 
-[Refer/link to University Policy here] 
+  
  
 When materials have been designated as restricted, Collection Services will: 
  
 * Physically isolate restricted documents from the rest of the collection and clearly label the boxes as restricted; * Create access copies and surrogates for fragile material when possible;
-* Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description.  In cases where the donor may not want information about restrictions to be made public, describe the material as normal and redact it in the EAD finding aid [link to instructions];
-* Include the types of records that are restricted, the reason for the restriction, and the date of expiration in Restrictions on Access notes [link to description section for this note];
+* Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description.  In cases where the donor may not want information about restrictions to be made public, describe the material as normal and [redact] (<https://emory.app.box.com/file/195790907452> "https://emory.app.box.com/file/195790907452") it in the EAD finding aid;
+* Include the types of records that are restricted, the reason for the restriction, and the date of expiration in [Restrictions on Access] (/05-DESCRIPTION) notes;
 * Fully document restrictions via deeds of gift/sale, correspondence, memos, etc., in the permanent collection file.  
 
 ## 7.2 Redacted Material
