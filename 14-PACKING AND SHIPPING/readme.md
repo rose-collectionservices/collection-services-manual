@@ -74,7 +74,7 @@ For example:
 
 If a collection includes born-digital files stored on the donor's current computer, the curator should notify the Head of Collection Services and the Digital Archivist at least two weeks in advance of any packing trip in order to allow time to plan and gather information and fill out the Born Digital Acquisitions [content](https://emory.box.com/s/xysd8qt76libb81gjgc8g23lza6qj409) and [technical](https://emory.box.com/s/6orsm5gbipf6zqk5xh80onh0lxazq4h2) surveys.
 
-Collection Services members should submit a report of all packing trips [create and link] to the Head of Collection Services to be shared with the accessioning team. The report will include the container list made while on site, a general report of the physical space and how the records were created and used, and a high level collection analysis indicating potential series, along with any photographs they took of the collection before and during packing.  
+Collection Services members should submit a report of all packing trips to the Head of Collection Services to be shared with the accessioning team. The report will include the container list made while on site, a general report of the physical space and how the records were created and used, and a high level collection analysis indicating potential series, along with any photographs they took of the collection before and during packing.  
 
 ### 14.1.2 Packing Supplies
 
@@ -153,8 +153,6 @@ If shipping supplies are needed, please contact the Acquisitions Assistant with:
 Typically, a good ratio is one pack of tape (12 rolls) per pack of boxes (25 boxes). Please also provide the shipping address and contact information for a recipient at the location, including name and phone number. Please allow 3 business days from point of order for supplies to arrive to the destination.
 
 ### 14.2.2.2 Domestic shipping 
-
-[Link out to FedEx Shipping Options & Guidelines for more information]
 
 Rose Library staff is responsible for procuring prepaid FedEx labels and providing them to the necessary parties. The Acquisitions Assistant will email the Library Mail Clerk to request labels or the Facilities & Multimedia Assistant, if the Library Mail Clerk is out of the office. The email should include the return address (meaning the address where it is being picked up) with contact name and phone number and the approximate amount of boxes. All shipping labels should be addressed to the Acquisitions Assistant. Labels may either be mailed to the donor/seller or carried by the Rose Library staff person traveling to pack a collection. The Library Mail Clerk will mail the labels, if needed.
 
