@@ -10,6 +10,8 @@ In order to keep the Rose Library in line with current best practices and standa
 
 Since The Rose is conducting more thorough processing at the point of accession, much of the work of processing audiovisual materials will be done at this point.  There will, however, be more focus on the physical storage and identification of the materials at this point than on the intellectual arrangement of the materials in a finding aid.
 
+For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.app.box.com/file/405055386579> "https://emory.app.box.com/file/405055386579").
+
 ## 6.5.1 Accessioning/Minimal Level Processing
 
 Audiovisual materials will be rehoused upon accessioning into boxes labeled AV.  If more than one box is used, it is preferable to keep audio and visual boxes (e.g. keep all audio together in one box and remove video to another.  This will aid in digitization procedures).  Individual items can be rehoused as well at this point (audiocassettes should be in some kind of case) to ensure that damage does not occur.  
