@@ -791,10 +791,10 @@ Historical notes contain a brief overview of the evolution and development of a 
 * Names of organizational leaders and other significant people involved with the organization, particularly those documented in the collection;
 * Organizational structure, especially as it relates to/illuminates the arrangement of the collection.
 
-The tone of these notes should be informational and avoid judgments about the value or importance of the creator's life and/or work.  Notes should be only as lengthy as necessary to convey the most important information about the creator and should focus on aspects of their life or history that directly relate to the contents of the collection.  They are meant to illuminate the ways in which the records in the collection were created, compiled, and used by an individual or organization.  It is not necessary to include every element of a biography or history.  If the creator is especially well known, notes can be shorter since information about the creator is readily available elsewhere.  For large and particularly complex collections, it may be necessary to include biographical or historical notes at the series level.  This will be rare, but can allow for a shorter overview at the collection level and more specific information at the series level where it's most relevant (see: Southern Christian Leadership Conference records: http://pid.emory.edu/ark:/25593/90wfs). 
+The tone of these notes should be informational and avoid judgments about the value or importance of the creator's life and/or work.  Notes should be only as lengthy as necessary to convey the most important information about the creator and should focus on aspects of their life or history that directly relate to the contents of the collection.  They are meant to illuminate the ways in which the records in the collection were created, compiled, and used by an individual or organization.  It is not necessary to include every element of a biography or history.  If the creator is especially well known, notes can be shorter since information about the creator is readily available elsewhere.  For large and particularly complex collections, it may be necessary to include biographical or historical notes at the series level.  This will be rare, but can allow for a shorter overview at the collection level and more specific information at the series level where it's most relevant (see: [Southern Christian Leadership Conference records:](<http://pid.emory.edu/ark:/25593/90wfs> "http://pid.emory.edu/ark:/25593/90wfs"). 
 
-**Example of good biographical note:** (link) 
-**Example of good historical note:**  (link) 
+**Example of good biographical note:** [Richard Blanco papers:](<https://findingaids.library.emory.edu/documents/blanco1431/> "https://findingaids.library.emory.edu/documents/blanco1431/") 
+**Example of good historical note:**  [Druid Hills Civic Association records:](<https://findingaids.library.emory.edu/documents/druid65/> "https://findingaids.library.emory.edu/documents/druid65/")
 
 **Corresponding MARC field:**  545
 
@@ -820,8 +820,8 @@ This note is repeatable at the folder level and can be used to present important
 
 *Figure 1: Sample folder level scope and content note*
 
-**Example of good collection level scope and content note:** (link) 
-**Example of good series/sub-series level scope and content note:** (link) 
+**Example of good collection level scope and content note:** [Neighbor's Network (Atlanta, GA) records:](<http://pid.emory.edu/ark:/25593/cr5vv> "http://pid.emory.edu/ark:/25593/cr5vv") 
+**Example of good series/sub-series level scope and content note:** [Natasha Trethewey papers, Series 7: Born Digital materials:](<https://findingaids.library.emory.edu/documents/trethewey1272/series7/> "https://findingaids.library.emory.edu/documents/trethewey1272/series7/") 
 
 **Corresponding MARC field:**  520
 
