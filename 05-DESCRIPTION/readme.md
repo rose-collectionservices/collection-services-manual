@@ -930,12 +930,12 @@ Also change the following autoformat settings in Microsoft Word:
 * Go to Proofing
 * Click "AutoCorrect Options"
 * Under BOTH the "AutoFormat" and "AutoFormat as You Type" tabs, deselect:
-	* "Straight Quotes with "Smart Quotes
+	* "Straight Quotes with "Smart Quotes"
 	* Ordinals (1st) with superscript
 	* Fractions (1/2) with fraction character
 	* Hyphens (--) with dash
 	
-Microsoft Word will also autoformat ellipses in a way that our perl script cannot read, but this cannot be changed in setting. When you type an ellipsis, backspace once. If this deletes the entire ellipsis, retype and backspace again. This should leave three periods that are readable by the script.
+Microsoft Word will also autoformat ellipses in a way that our perl script cannot read, but this cannot be changed in settings. When you type an ellipsis, backspace once. If this deletes the entire ellipsis, retype and backspace again. This should leave three periods that are readable by the script.
 
 
 ## 5.3 Reviewing and Editing Finding Aids
