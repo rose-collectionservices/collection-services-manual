@@ -73,6 +73,8 @@ When possible, **framed items** such as photographs, certificates, or artwork, s
 
 **Bound volumes (BV)** and **oversized bound volumes (OBV)** are usually ledgers, scrapbooks, photograph albums, or other bound items.  Bound items that will fit in Hollinger document case should be placed in folders and stored as normal. Bound items that will fit in boxes up to 20" x 24" and are part of collections that are or will be stored primarily at the LSC should be stored as normal and the boxes given regular box numbers. Bound items that are part of collections that are or will be stored onsite and are too large to reside with the rest of collection should be boxed separately and identified in the finding aid as BVs or OBVs. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying it. Bound items that are part of collections that are or will be stored at the LSC and are too large for a 20 x 24" box should be identified with a strip of acid-free card stock, identified as an OBV in the finding aid, and placed on appropriate shelving onsite.
 
+**Numbering oversized and bound items (OP, BV, and OBV)** is similar to numbering regular size boxes and folders. Boxes for bound and oversized material is numbered sequentially with OP, BV, or OBV preceding the numeral. For example, OP1, OP2, BV1, OBV1, etc. Folders or bound items within the boxes are also numbered sequentially in the same fashion as regular size folders. For example, OP1/1, OP1/2, BV1/1, etc. External housing should be labeled with a printed label (see below). Within boxes, folders and items may be labeled by hand.
+
 **Box labels** should include the following information (see figure 2 for an example): 
 
 * Emory University;
