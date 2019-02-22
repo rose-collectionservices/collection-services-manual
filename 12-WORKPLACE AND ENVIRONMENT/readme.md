@@ -92,9 +92,7 @@ Much of the work of processing requires sitting for long periods of time and can
 
 See http://ergonomics.ucr.edu/signs_symptoms.html for more information.
 
-For every four hours worked, take a 15-minute break to stand up, walk around, and stretch.  Do this at the two-hour mark.  If this is not adequate, spend a few minutes stretching each hour.  There are examples below of stretches you can do to avoid injuries caused by poor posture, sitting for long periods, and repetitive activities.  If there are tasks you can do while standing, such as sorting materials, you should feel free to do so. 
-
-[Insert stretching and desk yoga images here] 
+For every four hours worked, take a 15-minute break to stand up, walk around, and stretch.  Do this at the two-hour mark.  If this is not adequate, spend a few minutes stretching each hour.  There are examples online of stretches you can do to avoid injuries caused by poor posture, sitting for long periods, and repetitive activities.  If there are tasks you can do while standing, such as sorting materials, you should feel free to do so.  
 
 Archival collections frequently arrive at the archives dirty from age and/or poor storage environments.  Dirt and dust can aggravate allergies causing runny nose, cough, and itchy eyes.  As archivists we must also occasionally work with hazardous materials such as mold.  Mold inhalation can cause serious illness so it is especially important to protect yourself.  Your supervisor can provide you with protective gear. 
 
