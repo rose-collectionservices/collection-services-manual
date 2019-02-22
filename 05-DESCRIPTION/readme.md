@@ -535,7 +535,7 @@ This field identifies materials that have been physically removed from the colle
 * The Rose Library holds books formerly owned by James Amos Porter. These materials may be located in the Emory University online catalog by searching for: Porter, James Amos, former owner. Among these is the rare The Gilly Willies (Hamburg, 1960), written and illustrated by Porter's student, Mildred Thompson. 
 * The May Miller papers were originally received as part of this collection and separated to form their own collection due to their size, research value, and distinct provenance. 
 
-**Corresponding MARC field:**  ??
+**Corresponding MARC field:**  544
 
 **Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
 
