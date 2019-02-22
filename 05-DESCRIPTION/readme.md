@@ -924,6 +924,20 @@ The templates may not include all necessary formatting for container lists.  The
 
 * Ensure that all extra tabs and spaces at the end of folder titles are deleted. 
 
+Also change the following autoformat settings in Microsoft Word:
+
+* Go to Options
+* Go to Proofing
+* Click "AutoCorrect Options"
+* Under BOTH the "AutoFormat" and "AutoFormat as You Type" tabs, deselect:
+	* "Straight Quotes with "Smart Quotes
+	* Ordinals (1st) with superscript
+	* Fractions (1/2) with fraction character
+	* Hyphens (--) with dash
+	
+Microsoft Word will also autoformat ellipses in a way that our perl script cannot read, but this cannot be changed in setting. When you type an ellipsis, backspace once. If this deletes the entire ellipsis, retype and backspace again. This should leave three periods that are readable by the script.
+
+
 ## 5.3 Reviewing and Editing Finding Aids
 
 Finding aids go through two rounds of editing and feedback before they're published in EmoryFindingAids.  Send the draft to the Manuscript Archivists, Accessioning and Collections Manager, and Head of Collection Services for editing.  After incorporating feedback from at least two colleagues, share the new draft with the appropriate Curator for further feedback.  Incorporate their suggestions and proceed with encoding and publishing the document.  If the Curator does not return comments within one week, publish the finding aid and incorporate any changes they suggest at a later date. 
