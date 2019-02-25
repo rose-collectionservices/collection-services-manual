@@ -64,7 +64,8 @@ Upon receipt of material the Acquisitions Assistant will:
 *	Open and unpack collection material less than 1 linear foot.
 *	Add all material to either the [Gift or Purchase Acquisitions Log](https://emory.app.box.com/folder/2493112313) as appropriate.
 *	Create a stub accession record in ArchivesSpace with an accompanying custody transfer event record.
-*	Place the items and any accompanying documentation onto the appropriate shelf for curatorial review for material less than 1 linear foot. 
+*	Place the items and any accompanying documentation onto the appropriate shelf for curatorial review for material less than 1
+linear foot. 
 *   	Consult with the Accessioning and Collections Manager to locate stacks space for collection material greater than 1 linear foot.
 *	Alert the Curator that material is ready to be reviewed (Curator will make final decision on whether to move forward with the acquisition).
 	
