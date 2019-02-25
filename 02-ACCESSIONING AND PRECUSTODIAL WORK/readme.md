@@ -90,7 +90,7 @@ Purchase Payments folder](https://emory.app.box.com/folder/1583996619) and the [
 
 **Paperwork Required for Purchase Payment**
 
-The Rose Library requires the following [forms](<https://emory.app.box.com/folder/2123324954>"https://emory.app.box.com/folder/2123324954") for purchases: 
+The Rose Library requires the following [forms](<https://emory.app.box.com/folder/2123324954> "https://emory.app.box.com/folder/2123324954") for purchases: 
 
 *	Invoice (Acquisitions Assistant will generate an invoice for purchases from private individuals)
 *	Payment Request Form (PRF)
@@ -109,14 +109,14 @@ The Rose Library requires the following [forms](<https://emory.app.box.com/folde
 **Managing Purchase Paperwork in Box**
 
 The Rose Library manages purchase paperwork on Box through the [Rose Library Purchases 
-Payments folder](<https://emory.app.box.com/folder/1583996619>"https://emory.app.box.com/folder/1583996619").  This folder is organized into subfolders by process step and then 
+Payments folder](<https://emory.app.box.com/folder/1583996619> "https://emory.app.box.com/folder/1583996619").  This folder is organized into subfolders by process step and then 
 by collecting area.   
 
 *	**Step 1:** Received and Pending
 	
 	*	Curators or Acquisitions Assistant upload preliminary paperwork for prospective acquisitions such as invoices, One-Pagers, or Appraisal reports to this folder.      
 	*	Acquisitions Assistant either confirms that a seller is an active vendor with the University or contacts new vendors and sellers to obtain vendor paperwork. 
-	*	If vendor paperwork is needed, once it is received, the Acquisitions Assistant performs a quality check and then submits a [Finance Support Center ticket](<https://eufinancesupportcenter.force.com/>"https://eufinancesupportcenter.force.com/") for processing.
+	*	If vendor paperwork is needed, once it is received, the Acquisitions Assistant performs a quality check and then submits a [Finance Support Center ticket](<https://eufinancesupportcenter.force.com/> "https://eufinancesupportcenter.force.com/") for processing.
 	*	If required, once the Deed of Sale is counter-signed by the Director, the Acquisitions Assistant will make a copy and mail to the seller.
 	*	Acquisitions Assistant confirms that all required paperwork has been submitted and combines the vital documents into one file. Vital documents include the invoice, the Deed of Sale, if applicable, and the PRF.  
 	*	File titles should be structured to include the vendor name, invoice number 
@@ -146,7 +146,7 @@ completed paperwork in the Step 3 folder for purchases into a new subfolder titl
 
 **Paperwork Required for Gifts in Kind**
 
-The following [paperwork](<https://emory.app.box.com/folder/2791519373>"https://emory.app.box.com/folder/2791519373") is required to process and accession gifts: 
+The following [paperwork](<https://emory.app.box.com/folder/2791519373> "https://emory.app.box.com/folder/2791519373") is required to process and accession gifts: 
 
 *	Signed Gift in Kind Contribution Form (required for all gifts)
 *	Deed of Gift (required for manuscript collections that a donor or appraiser 
@@ -158,7 +158,7 @@ The following [paperwork](<https://emory.app.box.com/folder/2791519373>"https://
 **Managing Gift Paperwork in Box**
 
 The Rose Library manages gift paperwork on Box through the [Rose Library Gift in Kind 
-Process folder](<https://emory.app.box.com/folder/1957394682>"https://emory.app.box.com/folder/1957394682"). This folder is organized into subfolders by process step and then by collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps. Prior to receipt of material, curators may use the [Prospective Gifts folder](<https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1> "https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1") to upload relevant documentation for gifts under consideration.
+Process folder](<https://emory.app.box.com/folder/1957394682> "https://emory.app.box.com/folder/1957394682"). This folder is organized into subfolders by process step and then by collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps. Prior to receipt of material, curators may use the [Prospective Gifts folder](<https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1>  "https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1") to upload relevant documentation for gifts under consideration.
 
 *	**Step 1:** Gifts Received by Acquisitions Assistant 
 
@@ -196,7 +196,7 @@ It is the donor's responsibility to arrange appraisals for tax purposes.
 
 Every effort should be made to arrange financial appraisal of collection material prior to physical transfer to the Rose Library.
 
-Collection Services staff may occasionally be called on to assist in coordinating and facilitating financial appraisals of Rose Library collections or potential acquisitions. While we can facilitate the work of professional appraisers, Rose Library staff cannot provide or estimate a value for any special collections material per the [ACRL Code of Ethics for Special Collections Librarians](http://rbms.info/standards/code_of_ethics/), nor can we provide any tax advice to donors.  
+Collection Services staff may occasionally be called on to assist in coordinating and facilitating financial appraisals of Rose Library collections or potential acquisitions. While we can facilitate the work of professional appraisers, Rose Library staff cannot provide or estimate a value for any special collections material per the [ACRL Code of Ethics for Special Collections Librarians](<http://rbms.info/standards/code_of_ethics/> "http://rbms.info/standards/code_of_ethics/"), nor can we provide any tax advice to donors.  
 
 If a curator or administrator chooses to engage an appraiser, they must schedule the appointment with the appraiser and contact the Accessioning and Collections Manager or Head of Collection Services as early as possible.
 
