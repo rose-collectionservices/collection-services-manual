@@ -255,7 +255,7 @@ accessioning team.
 
 ### 2.3.2 Creation of the Accession Record
 
-The system of record for accession information is [ArchivesSpace](<https://emory.lyrasistechnology.org/>"https://emory.lyrasistechnology.org/"). The Acquisitions Assistant will create a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
+The system of record for accession information is [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/"). The Acquisitions Assistant will create a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
 
 **Navigating the Database and Using Microsoft Access**
 
