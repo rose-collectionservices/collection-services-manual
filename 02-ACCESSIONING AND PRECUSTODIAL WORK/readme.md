@@ -66,7 +66,7 @@ Upon receipt of material the Acquisitions Assistant will:
 *	Create a stub accession record in ArchivesSpace with an accompanying custody transfer event record.
 *	Place the items and any accompanying documentation onto the appropriate shelf for curatorial review for material less than 1
 linear foot. 
-*   	Consult with the Accessioning and Collections Manager to locate stacks space for collection material greater than 1 linear foot.
+*	Consult with the Accessioning and Collections Manager to locate stacks space for collection material greater than 1 linear foot.
 *	Alert the Curator that material is ready to be reviewed (Curator will make final decision on whether to move forward with the acquisition).
 	
 If the curator decides to not move forward with an acquisition, it is the curator's 
