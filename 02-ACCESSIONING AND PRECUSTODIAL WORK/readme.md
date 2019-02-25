@@ -57,16 +57,16 @@ Small packages will be delivered to the Rose Library mailroom. Larger packages o
 
 **New Acquisition Storage:**
 
-Acquisitions that measure 10 linear feet or fewer will be unpacked and stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labelled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. These labels can be in the form of printed or handwritten labels, depending on which is most efficient. If the collection arrives with temporary box numbers, no need to re-number, re-write, or add to a printed label. The Accessioning and Collections Manager will log all new acquisitions greater than 1 linear foot in the pending acquisitions tab on the Master Shelf List. 
+Acquisitions that measure 10 linear feet or fewer will be unpacked and stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labelled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. These labels can be in the form of printed or handwritten labels, depending on which is most efficient. If the collection arrives with temporary box numbers, no need to re-number, re-write, or add to a printed label. The Acquisitions Assistant will log all new acquisitions greater than 1 linear foot in the pending acquisitions tab on the Master Shelf List. 
 
 Upon receipt of material the Acquisitions Assistant will:  
 
 *	Open and unpack collection material less than 1 linear foot.
 *	Add all material to either the [Gift or Purchase Acquisitions Log](https://emory.app.box.com/folder/2493112313) as appropriate.
+*	Create a stub accession record in ArchivesSpace with an accompanying custody transfer event record.
 *	Place the items and any accompanying documentation onto the appropriate shelf for curatorial review for material less than 1 linear foot. 
-*   Consult with the Accessioning and Collections Manager to locate stacks space forcollection material greater than 1 linear foot.
-*	Alert the Curator that material is ready to be reviewed (Curator will make final 
-	decision on whether to move forward with the acquisition).
+*   	Consult with the Accessioning and Collections Manager to locate stacks space for collection material greater than 1 linear foot.
+*	Alert the Curator that material is ready to be reviewed (Curator will make final decision on whether to move forward with the acquisition).
 	
 If the curator decides to not move forward with an acquisition, it is the curator's 
 responsibility to notify the donor/seller. The Acquisitions Assistant 
@@ -76,7 +76,7 @@ by the curator.
 ### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
 
 No collection material may be cataloged or accessioned until the appropriate 
-paperwork has been received. All paperwork should be transferred to the Acquisitions Assistant.  
+paperwork has been received. All original paperwork should be transferred to the Acquisitions Assistant.  
 
 **Managing Paperwork in Box**
 
@@ -86,22 +86,22 @@ application, creating and maintaining a record of communications for each
 acquisition.  
 
 There are two Box folders that we use to manage this process-the [Rose Library 
-Purchase Payments folder](https://emory.app.box.com/folder/1583996619) and the [Rose Library Gift in Kind process folder](https://emory.app.box.com/folder/1957394682).  Each of these folders is subdivided by step in the acquisition process and then by major collecting area. As new collections move through the acquisitions process, the Acquisitions Assistant will update the files and move the paperwork into a folder associated with the next stage of the process.  As paperwork moves through the process, the Acquisitions Assistant will use the tagging and task list functionsin Box to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required. 
+Purchase Payments folder](https://emory.app.box.com/folder/1583996619) and the [Rose Library Gift in Kind process folder](https://emory.app.box.com/folder/1957394682).  Each of these folders is subdivided by step in the acquisition process and then by major collecting area. As new collections move through the acquisitions process, the Acquisitions Assistant will update the files and move the paperwork into a folder associated with the next stage of the process.  As paperwork moves through the process, the Acquisitions Assistant will use the tagging and task list functions in Box to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required. 
 
 **Paperwork Required for Purchase Payment**
 
-The Rose Library requires the following [forms](https://emory.app.box.com/folder/2123324954) for purchases: 
+The Rose Library requires the following [forms](<https://emory.app.box.com/folder/2123324954>"https://emory.app.box.com/folder/2123324954") for purchases: 
 
-*	Invoice (Acquisitions Assistant will generate an invoice to accompany a Deed of Sale)
+*	Invoice (Acquisitions Assistant will generate an invoice for purchases from private individuals)
 *	Payment Request Form (PRF)
 *	Deed of Sale (for purchases from private individuals)
-*	Domestic Vendors: Supplier/Individual Information Form (SIIF) and an ACH Payment 
+*	Domestic Vendors and Sellers: Supplier/Individual Information Form (SIIF) and an ACH Payment
 	Authorization Form (ACH)
-*	International Vendors: W-8BEN-E (businesses)/W-8BEN (individuals) and Foreign 
+*	International Vendors and Sellers: W-8BEN-E (businesses)/W-8BEN (individuals) and Foreign 
 	Wire Transfer Form (Note: These must be submitted with the vendor every time they are paid, regardless of how long it has been since they were last paid.)
 *	Vendor Forms are required when any of the following are true: 
 
-	*	The seller is new
+	*	The Rose Library has never purchased from the seller.
 	*	The Rose Library has not purchased from the seller within the last 14 months
 	*	The seller's information (including address) has changed since we last 
 		purchased material from them
@@ -109,14 +109,15 @@ The Rose Library requires the following [forms](https://emory.app.box.com/folder
 **Managing Purchase Paperwork in Box**
 
 The Rose Library manages purchase paperwork on Box through the [Rose Library Purchases 
-Payments folder](https://emory.app.box.com/folder/1583996619).  This folder is organized into subfolders by process step and then 
+Payments folder](<https://emory.app.box.com/folder/1583996619>"https://emory.app.box.com/folder/1583996619").  This folder is organized into subfolders by process step and then 
 by collecting area.   
 
 *	**Step 1:** Received and Pending
 	
 	*	Curators or Acquisitions Assistant upload preliminary paperwork for prospective acquisitions such as invoices, One-Pagers, or Appraisal reports to this folder.      
 	*	Acquisitions Assistant either confirms that a seller is an active vendor with the University or contacts new vendors and sellers to obtain vendor paperwork. 
-	*	If vendor paperwork is needed, once it is received, the Acquisitions Assistant performs a quality check and then forwards the forms to the Budget Analyst with LITS Finance for processing.
+	*	If vendor paperwork is needed, once it is received, the Acquisitions Assistant performs a quality check and then submits a [Finance Support Center ticket](<https://eufinancesupportcenter.force.com/>"https://eufinancesupportcenter.force.com/") for processing.
+	*	If required, once the Deed of Sale is counter-signed by the Director, the Acquisitions Assistant will make a copy and mail to the seller.
 	*	Acquisitions Assistant confirms that all required paperwork has been submitted and combines the vital documents into one file. Vital documents include the invoice, the Deed of Sale, if applicable, and the PRF.  
 	*	File titles should be structured to include the vendor name, invoice number 
 		and fiscal year. For example: "Vendor or Seller Name_Invoice Number_Fiscal 
@@ -127,15 +128,16 @@ by collecting area.
 	
 	*	Acquisitions Assistant tags the Associate Director and Director to approve the disbursement of funds.   
 	*	Director or Associate Director will approve in the Box comment section.
-	*	Once the purchase has been approved, the Acquisitions Assistant will submit the payment in Alma and enter the POL# and date in the appropriate fields on the PRF. [link]
+	*	Once the purchase has been approved, the Acquisitions Assistant will submit the payment in Alma and enter the PO# and date in the appropriate fields on the PRF.
 	*	Acquisitions Assistant moves the file to step 3.
 	
 *	**Step 3:** Verified
 
-	*	Acquisitions Assistant tags the Senior Accounting Assistant in LITS Finance “Submitted in Alma, POL #” for purchases below the approval threshold for domestic vendors or international vendors receiving checks. Acquisitions Assistant tags the Budget Analyst in LITS Finance for domestic purchases above the approval threshold and all international wire transfer payments. 
+	*	Acquisitions Assistant tags the Budget Analyst and Senior Accounting Assistant in LITS Finance with the comment “Submitted in Alma, PO #” 
 	*	For the purposes of the Rose Library, the acquisition is considered paid for and can move forward for processing.
-	*	The Acquisitions Assistant tags the Accessioning and Collections Manager, “Acquisition complete” 
-	*	The Accessioning and Collections Manager tags the accessioning team on purchases including manuscript material to alert them that the material can now be accessioned. The Accessioning and Collections Manager will also physically move material to shelving in the accessioning and cataloging areas. 
+	*	The Acquisitions Assistant tags the Accessioning and Collections Manager with the comment “Ready” 
+	*	If the purchase contains manuscript material, once it is assigned for accessioning, the Accessioning and Collections Manager will tag the assigned accessioner. The Accessioning and Collections Manager will also physically move material to shelving in the accessioning area. 
+	*	If the purchase only contains print material, the Accessioning and Collections Manager will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
 	*	At some future point, the Senior Accounting Assistant or Budget Analyst in LITS Finance will comment with final payment information.
 			
 At the end of each fiscal year, the Acquisitions Assistant moves all 
@@ -144,7 +146,7 @@ completed paperwork in the Step 3 folder for purchases into a new subfolder titl
 
 **Paperwork Required for Gifts in Kind**
 
-The following [paperwork](https://emory.app.box.com/folder/2791519373) is required to process and accession gifts: 
+The following [paperwork](<https://emory.app.box.com/folder/2791519373>"https://emory.app.box.com/folder/2791519373") is required to process and accession gifts: 
 
 *	Signed Gift in Kind Contribution Form (required for all gifts)
 *	Deed of Gift (required for manuscript collections that a donor or appraiser 
@@ -156,8 +158,7 @@ The following [paperwork](https://emory.app.box.com/folder/2791519373) is requir
 **Managing Gift Paperwork in Box**
 
 The Rose Library manages gift paperwork on Box through the [Rose Library Gift in Kind 
-Process folder](https://emory.app.box.com/folder/1957394682). This folder is organized into subfolders by process step and then by 
-collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps. Prior to receipt of material, curators may use the [Prospective Gifts folder](<https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1> "https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1") to upload relevant documentation for gifts under consideration.
+Process folder](<https://emory.app.box.com/folder/1957394682>"https://emory.app.box.com/folder/1957394682"). This folder is organized into subfolders by process step and then by collecting area. The Acquisitions Assistant is responsible for combining paperwork into a single PDF file, moving that file between the Box folders, and tagging appropriate parties for next steps. Prior to receipt of material, curators may use the [Prospective Gifts folder](<https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1> "https://emory.box.com/s/zkxs4vcq7pj93qqk3req2eowv8mk5hn1") to upload relevant documentation for gifts under consideration.
 
 *	**Step 1:** Gifts Received by Acquisitions Assistant 
 
@@ -169,17 +170,14 @@ collecting area. The Acquisitions Assistant is responsible for combining paperwo
 *	**Step 2:** Gifts Ready for Acknowledgement by Rose Director
 
 	*	The Acquisitions Assistant notifies the Accessioning and Collections Manager with a Box tag.
-	*	If the gift contains manuscript material, the Accessioning and Collections Manager notifies the accessioning team via a Box tag to alert them that the material can now be accessioned.
-	*	At this point, the Accessioning and Collections Manager also moves material to the accessioning and cataloging areas, as
-needed. 
-	*	The Acquisitions Assistant notifies the Office Manager with a Box tag. 
-	*	The Office Manager drafts an acknowledgement letter, requests Director's signature, and mails the letter.
-	*	The Office Manager tags the Acquisition Assistant in Box confirming acknowledgment letter sent. 
-	*	At this point, the Acquisitions Assistant moves the documentation to the step 3 folder.
+	*	If the gift contains manuscript material, once it is assigned for accessioning, the Accessioning and Collections Manager will tag the assigned accessioner. The Accessioning and Collections Manager will also physically move material to shelving in the accessioning area. 
+	*	If the gift only contains print material, the Accessioning and Collections Manager will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
+	*	The Acquisitions Assistant drafts an acknowledgement letter, requests Director's signature, and mails the letter along with a copy of the finalized paperwork to the donor
+	*	At this point, the Acquisitions Assistant adds the acknowledgment letter to the PDF and moves the documentation to the step 3 folder.
 		
 *	**Step 3:** Gifts Ready for AAE Acknowledgment
 
-	*	The Acquisitions Assistant tags the Director and Assistant Director of AAE for the Libraries on Box. 
+	*	The Acquisitions Assistant tags the Assistant Director of AAE for the Libraries on Box. 
 	*	AAE will send a gift receipt, log the gift in their database, and file a copy of the Gift-in-Kind Contribution Form in their records.
 		
 At the end of the calendar year, the Acquisitions Assistant moves all completed paperwork in the Step 3 folder for gifts into a new subfolder for the calendar year.
@@ -240,10 +238,8 @@ Determine the appropriate [level of processing](/04-LEVELS%20OF%20ARRANGEMENT%20
 
 When material has been either acknowledged or paid for and is ready to be accessioned 
 the Accessioning and Collections Manager will share this information with the 
-accessioning team. 
+accessioning team.
 
-*	When new acquisitions are ready to be accessioned, the Accessioning and 
-	Collections Manager tags the accessioning team in Box.
 *	The Accessioning and Collections Manager and Acquisitions Assistant maintain a whiteboard with all new 
 	manuscript acquisitions and marks the ones that are ready for discussion at the 
 	weekly accessioning meeting.
@@ -252,12 +248,13 @@ accessioning team.
 	collections that have entered the acquisitions process.
 *	The accessioning team members add collections to their individual accessioning 
 	queues based on current workloads and specific expertise.
-*	The Accessioning and Collections Manager and/or Acquisitions Assistant distributes original paperwork for the 
+*	The Acquisitions Assistant distributes original paperwork for the 
 	new assignments.
+*	The Accessioning and Collections Manager will tag the appropriate accessioner in the electronic version of the paperwork on Box.
 
 ### 2.3.2 Creation of the Accession Record
 
-The system of record for accession information is ArchivesSpace located on the F: Drive:  ``F:/MARBL/Accession Database/Manuscript Accessions.mbd``.  All new collection material receives a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be at least one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
+The system of record for accession information is [ArchivesSpace](<https://emory.lyrasistechnology.org/>"https://emory.lyrasistechnology.org/"). The Acquisitions Assistant will create a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
 
 **Navigating the Database and Using Microsoft Access**
 
