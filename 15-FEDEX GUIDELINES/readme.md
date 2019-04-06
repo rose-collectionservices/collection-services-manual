@@ -20,7 +20,7 @@ Whenever possible, FedEx should **not** be used to move local collections. Colle
 **DOMESTIC SHIPPING ONLY**
 
 * FedEx Ground cannot be used for international shipments;
-* FedEx Ground pickups can be scheduled to occur for the next business day. *It is prudent to give the Acquisitions Assistant at least 24 hours' notice to schedule any FedEx pickup*. 
+* FedEx Ground pickups can be scheduled to occur for the next business day. *It is prudent to give the Accessioning Archivist at least 24 hours' notice to schedule any FedEx pickup*. 
 * FedEx picks up Ground shipments Monday-Friday. For businesses, they will come during business hours, 8:00am-6:00pm. For residences, they will come anytime between 8:00am and 8:00pm, and they will also pick up on Saturdays.  
 * The donor/seller or another adult, such as a Rose Library staff member, over the age of 18 must be present for the FedEx pickup. FedEx may arrive any time during the designated window. 
 * FedEx will not offer or guarantee a call prior to arrival. 
@@ -43,7 +43,7 @@ It is recommended to *only* use FedEx Express Saver when all of the following cr
 4. The donor/seller refuses to spend a day waiting for the pickup;
 5. The pickup location is relatively close in proximity to Atlanta, Georgia (meaning in the Southeast). Please always offer FedEx Ground to the donor/seller first to gauge flexibility before offering FedEx Express Saver. 
 
-* FedEx Express pickups can be scheduled up until 7:15pm Monday-Friday for same day pickup (they will pick up within two hours after the request is made) and up until 1:00pm for Saturday for same day pickup. Saturday pickup is an additional charge. These cut off hours are based on picking up in Atlanta and may vary in other locations but will probably be similar in large cities like Atlanta. *It is prudent to give the Acquisitions Assistant at least 24 hours' notice to schedule any FedEx pickup*.
+* FedEx Express pickups can be scheduled up until 7:15pm Monday-Friday for same day pickup (they will pick up within two hours after the request is made) and up until 1:00pm for Saturday for same day pickup. Saturday pickup is an additional charge. These cut off hours are based on picking up in Atlanta and may vary in other locations but will probably be similar in large cities like Atlanta. *It is prudent to give the Accessioning Archivist at least 24 hours' notice to schedule any FedEx pickup*.
 * FedEx picks up Express shipments Monday-Friday with Saturday pickup available in many areas for an additional charge. 
 * A specific timeframe may be designated for a pickup (such as between 10:00am and 2:00pm); FedEx mainly wants to know how late they can pick up the shipment, as opposed to how early they can pick up the shipment. 
 * The donor/seller or another adult, such as a Rose Library staff member, over the age of 18 must be present for the FedEx pickup. 
@@ -55,7 +55,7 @@ It is recommended to *only* use FedEx Express Saver when all of the following cr
 
 **INTERNATIONAL SHIPPING**
 
-* Once the Acquisitions Assistant requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.  
+* Once the Accessioning Archivist requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.  
 * International FedEx pickup requests are, indeed, *requests*-there is no guarantee that FedEx will accept our request for a pickup. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. From February 2016 to present, none of our requests for pickup have been denied. 
 * Donors/sellers also have the option to drop off their packages at a FedEx location. This is especially encouraged in terms of international shipping, when possible, since the FedEx request is not guaranteed.  
  
