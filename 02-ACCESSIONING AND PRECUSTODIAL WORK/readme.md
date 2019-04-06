@@ -294,7 +294,7 @@ Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace
 
 | Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Title [Required]                             | Assign a title for the accession. For new collections, titles should include both a name segment and the nature of the material being described. The title should be formed according to the rules outlined in the [Description section](05-DESCRIPTION#512-title-statement) of the manual. For additions, the title should include the collection title and the word "additions." If the additions are a single item or record type, the title can include that information (e.g., Dianora Niccolini papers audiovisual additions). For additions to miscellany collections, the title will mirror the title of the corresponding paperwork on Box (e.g., Langdon Manor Books_187_FY19, Adam Schachter_2018, etc.).|
+| Title [Required]                             | Assign a title for the accession. For new collections, titles should include both a name segment and the nature of the material being described. The title should be formed according to the rules outlined in the [Description section](05-DESCRIPTION/#512-title-statement) of the manual. For additions, the title should include the collection title and the word "additions." If the additions are a single item or record type, the title can include that information (e.g., Dianora Niccolini papers audiovisual additions). For additions to miscellany collections, the title will mirror the title of the corresponding paperwork on Box (e.g., Langdon Manor Books_187_FY19, Adam Schachter_2018, etc.).|
 | Identifier [Required]                        |  All collection material acquired by the Rose Library is assigned a unique accession number, consisting of the year, the month, and the next accession number in sequence for the month [e.g., 2017-06-34]. ![Figure 6: Identifier](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure6.png "Figure 6: Identifier")|
 | Accession Date [Required]                    |  This field will pre-populate the current date. To change the date, click on the calendar and select the correct date. This date should always match the day the accession record was originally created and the accession number assigned. ![Figure 7: Accession Date](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure7.png "Figure 7: Accession date")|
 | Collection Description [Required]            | Include a brief description of the scope and contents of the collection ![Figure 8: Collection description](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure8.png "Figure 8: Collection description")|
@@ -387,9 +387,9 @@ To link a related accession, click the "Add Related Accession" button in the rig
 
 From the "Relationship Type" drop down menu, select "Part of" to indicate that material has been acquired as part of a larger whole.
 
-•	From the "This accession" drop down menu, choose "Forms part of" or "Has part"
-•	Type the title into the "Accession" search box and select the correct accession record
-•	"Relator type" defaults to "Part of"
+*	From the "This accession" drop down menu, choose "Forms part of" or "Has part"
+*	Type the title into the "Accession" search box and select the correct accession record
+*	"Relator type" defaults to "Part of"
 
 The easiest way to link accessions is to create the record for the first accession, then link to that record from this subrecord on any subsequent accessions. Choose "forms part of" when completing the subsequent accessions. The links will also appear on the original record with "has part" appearing under "this accession."
 
@@ -403,9 +403,9 @@ The image below shows the accession record for the Homer G. Phillips School of N
 
 You should never have to select "sibling" as a relationship type. The sibling relationship is for linking accession records of accruals to the same collection. Rose Library will be tracking those relationships in the resource record, not the accession record. If you identify a possible exception, discuss with the accessioning team and we will decide as a group if sibling is the correct relationship type. If it is, then complete the subrecord as follows:
 
-•	"This accession" will pre-populate with "Is sibling of"
-•	Type the title into the "Accession" search box and select the correct accession record
-•	Relator type defaults to "Bound with relationship"
+*	"This accession" will pre-populate with "Is sibling of"
+*	Type the title into the "Accession" search box and select the correct accession record
+*	Relator type defaults to "Bound with relationship"
 
 #### Subjects Subrecord [Do not use]
 
@@ -515,15 +515,15 @@ Like all collection material, born-digital media and files should not be accessi
 
 If a hybrid collection includes known born-digital media and/or hardware:
 
-* During the weekly accessioning meeting, the Accessioning and Collections Manager assigns hybrid collection to a member of the accessioning team. 
+* During the weekly accessioning meeting, the Accessioning Archivist assigns hybrid collection to a member of the accessioning team. 
 * The accessioning archivist adds information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored as a tab in the master shelf list.
 * The accessioning archivist accessions the born-digital media and/or hardware with the rest of the collection, using the digital archives controlled vocabulary (listed below) to describe what is included.
-* Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks. The Digital Archivist and Accessioning and Collections Manager will identify a storage location for computer towers and laptops.  The accessioning team member will shelve the computer and record the location in the born-digital inventory and the master shelf list.
+* Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks. The Digital Archivist and Accessioning Archivist will identify a storage location for computer towers and laptops.  The accessioning team member will shelve the computer and record the location in the born-digital inventory and the master shelf list.
 * If it is a small amount of born-digital material, the accessioning archivist should create the disk images for the collection.  This decision should be made in consultation with the digital archivist.
 
 If a collection (or addition to a collection) is comprised exclusively of born-digital media and/or hardware:
 
-* The Accessioning and Collections Manager notifies and assigns accessioning responsibilities to the Digital Archivist. born-digital media and/or hardware is temporarily stored in the accessioning area until retrieved by the digital archivist for accessioning.
+* The Accessioning Archivist notifies and assigns accessioning responsibilities to the Digital Archivist. born-digital media and/or hardware is temporarily stored in the accessioning area until retrieved by the digital archivist for accessioning.
 * The digital archivist accessions the born-digital media and/or hardware, using the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
 * Where possible, the digital archivist will image disks and ingest disk images into the digital repository at the point of accessioning.
 * The digital archivist adds information about the file transfer to the born-digital inventory, which is stored as a tab in the master shelf list. The archivist should also note whether they have ingested the material into the digital repository.
@@ -533,16 +533,16 @@ If a collection (or addition to a collection) is comprised exclusively of born-d
 
 If a hybrid collection includes a file transfer:
 
-* The receiving digital archivist notifies the Accessioning and Collections Manager that a file transfer has been received.
+* The receiving digital archivist notifies the Accessioning Archivist that a file transfer has been received.
 * The receiving digital archivist moves the transferred files to a temporary storage location on the digital archive lab’s local hard drives. Due to preservation concerns, the digital archivist may ingest transferred files into the digital repository prior to the completion of accessioning.
-* During the weekly accessioning meeting, the Accessioning and Collections Manager assigns hybrid collection to a member of the accessioning team. 
+* During the weekly accessioning meeting, the Accessioning Archivist assigns hybrid collection to a member of the accessioning team. 
 * The accessioning archivist adds information about the file transfer to the born-digital inventory, and notes whether they have ingested the files into the digital repository.
 * The accessioning archivist accessions the file transfer with the rest of the collection, using the term “Digital files” taken from the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
 
 If a collection (or addition to a collection) is comprised exclusively of a file transfer:
 
-* The receiving digital archivist notifies the Accessioning and Collections Manager that a file transfer has been received.
-* During the weekly accessioning meeting, the Accessioning and Collections Manager assigns the collection to a digital archivist. 
+* The receiving digital archivist notifies the Accessioning Archivist that a file transfer has been received.
+* During the weekly accessioning meeting, the Accessioning Archivist assigns the collection to a digital archivist. 
 * The digital archivist accessions the file transfer, using the term “Digital files” taken from the digital archives controlled vocabulary (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)) to describe what is included.
 * The digital archivist ingests the transferred files into the digital repository.
 * The digital archivist adds information about the file transfer to the born-digital inventory, and notes that files have been ingested into the digital repository.
@@ -566,13 +566,13 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 
 The permanent collection files document the history of a collection including, solicitation, acquisition, processing, and later communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
 
-When we receive a new collection, the accessioning archivist is responsible for creating the collection file and adding a copy of the accession record and any other collection documentation to the newly created file. The [collection file’s label](<https://emory.box.com/s/44zvlovvklb77d58kz8w50u5pgkdn5b8>) should include the main entry and the manuscript number. The files are stored alphabetically by main entry. 
+When we receive a new collection, the staff member accessioning the material is responsible for creating the collection file and adding collection documentation to the newly created file. Some of this documentation should be transferred to the archivist from the Accessioning Archivist while others can be printed from Box. The [collection file’s label](<https://emory.box.com/s/44zvlovvklb77d58kz8w50u5pgkdn5b8>) should include the main entry and the manuscript number. The files are stored alphabetically by main entry. 
 
 If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
 
 ### 2.3.5.1 Electronic CL-2 File (Vital Docs Folder)
 
-There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp>) available on Box. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on Box and can serve as the electronic record. Once material is accessioned, archivists leave a Box comment on the acquisitions paperwork for the material and include (1) the accession number, (2) the date accessioned, and (3) the collections to which material was added or the new collection information, if a new collection was created. From FY19 forward, please refer to the physical CL-2 file and/or the electronic acquisitions paperwork for information concerning the history of collections.
+There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30794qns4e3n1v5i20qp>) available on Box. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on Box and can serve as the electronic record. Once material is accessioned, archivists leave a Box comment on the acquisitions paperwork for the material and include (1) the accession number, (2) the date accessioned, and (3) the collections to which material was added or the new collection information, if a new collection was created. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
 
 ### 2.3.6 Accessioning Checklist
@@ -590,10 +590,10 @@ There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30
 - [ ] [Label and barcode container(s)](/06-LOCAL%20PRACTICE)
 - [ ] Add barcodes to Alma and EAD
 - [ ] Update acquisitions paperwork in Box with accession number
-- [ ] Add to or update the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) and the pending tab if applicable
-- [ ] If material includes audiovisual material, complete the [Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
+- [ ] Add to or update the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>), including the pending tab if applicable
+- [ ] If material includes audiovisual material, complete [this Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
 - [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
-- [ ] [Flag](<https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd> "https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd") materials separated from the collection for cataloging
+- [ ] [Flag](<https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd> "https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd") materials separated from the collection for cataloging and place on the appropriate range on Level 9
 - [ ] Move containers to permanent physical locations
 - [ ] Update [processing statistics spreadsheet](<https://emory.box.com/s/h6dx8ec5u7imivhe5rnnoz09qumr20ht>)
 - [ ] Announce new collections or significant additions on the #collections Slack channel
@@ -601,9 +601,9 @@ There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30
 
 ## 2.4 Stacks Management
 
-The Accessioning and Collections Manager is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Accessioning and Collections Manager will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space. 
+The Accessioning Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Accessioning Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space. 
 
-We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Accessioning and Collections Manager who will contact the Facilities Coordinator, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.  
+We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Accessioning Archivist who will contact the Facilities Coordinator, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.  
 
 ### 2.4.1 Stack Locations
 
@@ -613,32 +613,33 @@ We have five primary stacks locations:
 * Manuscript Stacks, the first room off of the elevator on Level 11
 	* Majority of manuscript collections
 	* EUA Collections
-	* Bound Volumes from MSS collections
+	* Oversized bound volumes from MSS collections
+	* Bound volumes from EUA collections
 * The Nunnery, through the Manuscript stacks
 	* Manuscript collections
 	* Vault
 	* XOP shelving
 	* Born digital media shelving
 	* Mold segregation shelving
-	* Oversized Bound volumes
+	* Oversized bound volumes from MSS collections
 * The Abbey, through and connected to the Nunnery
-	* Oversized Papers
-	* Bound volumes
+	* Oversized papers (OP)
+	* Bound volumes from MSS collections
 	* Hanging art storage
 	* Rolled storage
 	* EUA XOP shelving
-	* Southern Newspapers
+	* Southern newspapers
 * Library Service Center
 
 We communicate stack locations by giving a range and bay for an item:
 
 * Ranges are one side of an aisle. These are numbered, and, in the book stacks, also given an A or B designation;
-* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right;
+* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right. Always read bays left to right when you face them.
 * Shelves are the individual shelves within a bay.
 
 ### 2.4.2 Shelf Lists
 
-Collection Services and Emory University Archives staff manage the locations of all Manuscript and Archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material. All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
+Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material. All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
 
 **Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access. Our contact to retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main phone number is 404-733-6200.
 
@@ -660,28 +661,28 @@ The [Finding Aid for Books](<https://emory.box.com/s/n1dtneh6v2d5uzi46ue6hwbswrq
 
 ### 2.4.3 Empty Space Map
 
-Collection Services maintains a [map](<https://emory.box.com/s/lv7cuyj10ncxj0xvs70jvugcg1zlghms>) of the empty space on Level 11.  This map indicates where there is available space for new collections. It should be updated any time collection material is moved to, from, or around on Level 11. The Accessioning and Collections Manager will periodically verify the document to ensure that it is up to date.	
+Collection Services maintains a [map](<https://emory.box.com/s/lv7cuyj10ncxj0xvs70jvugcg1zlghms>) of the empty space on Level 11.  This map indicates where there is available space for new collections. It should be updated any time collection material is moved to, from, or around on Level 11. The Accessioning Archivist will periodically verify the document to ensure that it is up to date.
 
 ### 2.4.4 Lost Items
 
 Occasionally, staff may be unable to locate items in both the manuscript and print collections. 
 
-An item is determined to be missing once two staff members plus the Accessioning and Collections Manager and, in the case of print material, the Rare Book Cataloger, have searched for the item and been unable to locate it. 
+An item is determined to be missing once two staff members plus the Accessioning Archivist and, in the case of print material, the Rare Book Cataloger, have searched for the item and been unable to locate it. 
 
 For lost manuscript material: 
 
-* The Accessioning and Collections Manager will redact the item from the finding aid (see [7.2 Redacted material](/07-RESTRICTION%20AND%20SEPARATION/#72-redacted-material) for more information).
-* The Accessioning and Collections Manager will add the item to the [spreadsheet for missing items](<https://emory.box.com/s/zad5xqqh3u9flbh2ejynbcnsx5gzpwa0>) maintained on Box.
-* Every three months the Accessioning and Collections Manager and one other member of the unit should search for these items again. 
-* If the item is found, The Accessioning and Collections Manager will remove it from the spreadsheet and un-redact the finding aid. 
+* The Accessioning Archivist will redact the item from the finding aid (see [7.2 Redacted material](/07-RESTRICTION%20AND%20SEPARATION/#72-redacted-material) for more information).
+* The Accessioning Archivist will add the item to the [spreadsheet for missing items](<https://emory.box.com/s/zad5xqqh3u9flbh2ejynbcnsx5gzpwa0>) maintained on Box.
+* Every three months the Accessioning Archivist and one other member of the unit should search for these items again. 
+* If the item is found, The Accessioning Archivist will remove it from the spreadsheet and un-redact the finding aid. 
 * If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
-* If the item is not found, the Accessioning and Collections Manager will note the date of the search in the spreadsheet.
+* If the item is not found, the Accessioning Archivist will note the date of the search in the spreadsheet.
 
 For lost print material: 
 
-* The rare book cataloger will mark the item as missing in Alma [LINK TO CATALOGING MANUAL] 
-* Every three months, the Accessioning and Collections Manager and Rare Book Cataloger will generate a missing item report from Alma and search for these items again. 
-* If the item is found, the rare book cataloger will remove the missing status from the item record in Alma. 
+* The Rare Book Cataloger will mark the item as missing in Alma [LINK TO CATALOGING MANUAL] 
+* Every three months, the Accessioning Archivist and Rare Book Cataloger will generate a missing item report from Alma and search for these items again. 
+* If the item is found, the Rare Book Cataloger will remove the missing status from the item record in Alma. 
 * If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
 
 ---
