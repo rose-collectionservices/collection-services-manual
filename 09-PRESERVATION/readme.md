@@ -37,7 +37,7 @@ For questions about possible preservation needs in a collection, consult the Ros
 
 ## 9.2 Sending Collection Material to the Conservation Lab 
  
-The Head of Collection Services, Rose Library Preservation Liaison, Rare Book Cataloger, and Accessioning and Collections Manager meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
+The Head of Collection Services, Rose Library Preservation Liaison, Rare Book Cataloger, and Accessioning Archivist meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
 
 ### 9.2.1 Manuscript and Archival Material
 
