@@ -262,7 +262,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 
 **At the time of accessioning, staff will:**
 
-*	Update and complete any fields in the accession record that the Accessioning Archivist could not complete during receipt, according to the[Emory Libraries Accession Record Field Usage Guidelines] (<https://emory.box.com/s/j5hijot3pyhgsmu7zpgr4txja5z4s5xg> "https://emory.box.com/s/j5hijot3pyhgsmu7zpgr4txja5z4s5xg"). 
+*	Update and complete any fields in the accession record that the Accessioning Archivist could not complete during receipt, according to the [Emory Libraries Accession Record Field Usage Guidelines] (<https://emory.box.com/s/j5hijot3pyhgsmu7zpgr4txja5z4s5xg> "https://emory.box.com/s/j5hijot3pyhgsmu7zpgr4txja5z4s5xg"). 
 *	Create an event record attached to the accession record to document that the collection has been accessioned
 	*	Type is equal to "accession"
 	*	The role of the staff member linked as an agent is "accessioner"
