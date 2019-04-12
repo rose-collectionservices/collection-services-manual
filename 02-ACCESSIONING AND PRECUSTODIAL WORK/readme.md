@@ -369,7 +369,7 @@ When accessioning a new collection, resource records will be spawned from the ac
 
 [See Creating a Resource Record in ArchivesSpace](<https://emory.box.com/s/8wufebttfft87ymgwlyk9mgx7vji6lkt> "https://emory.box.com/s/8wufebttfft87ymgwlyk9mgx7vji6lkt") for spawning instructions.
 
-When accessioning additions to a new collection, add a related resources subrecord here. Click "Add Related Resource in the right corner of the subrecord.
+When accessioning additions to a collection, add a related resources subrecord here. Click "Add Related Resource" in the right corner of the subrecord.
 
 ![Figure 17: Add Related Resources Subrecord](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure17.png "Figure 17: Add Related Resources Subrecord")
 
