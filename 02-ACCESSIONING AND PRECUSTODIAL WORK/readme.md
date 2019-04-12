@@ -268,11 +268,11 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	The role of the staff member linked as an agent is "accessioner"
 	*	Date is the date the event record is created
 *	Spawn a resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.box.com/s/opcjwk8gxmwcnvt3n2q651t5c04wllun> "https://emory.box.com/s/opcjwk8gxmwcnvt3n2q651t5c04wllun") for stub resource records
-*	Tag the curator in a comment on the acquisitions paperwork on Box with the accession record
+*	Tag the curator in a comment on the acquisitions paperwork on Box with the accession number and collection information
 *	Gather the original documentation, as well as print copies of other pieces of documentation from Box to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice or Gift-in-Kind Contribution Form if there is no deed.
 *	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
 
-The below instructions explain how to make each of these records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
+The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
 
 ### 2.3.2 Creation of the Accession Record
 
