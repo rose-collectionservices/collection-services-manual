@@ -488,14 +488,6 @@ If the collection is a purchase, also record the currency in which the purchase 
 
 When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number in a Box comment on the electronic version of the acquisitions paperwork and on the original paperwork, which will be filed in the physical CL-2 file.
 
-<a id="figure2"></a>
-![Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure2.png "Example of the Brief Description of Materials field to indicate the establishment of a new collection.")
-*Figure 2: Example of the Brief Description of Materials field to indicate the establishment of a new collection.*
-
-<a id="figure3"></a>
-![Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/images/figure3.png "Example of the Brief Description of Materials field to indicate the addition to an established collection.")
-*Figure 3: Example of the Brief Description of Materials field to indicate the addition to an established collection.*
-
 ## 2.3.3 Accessioning Digital Objects
 
 In order to ensure consistency across accession records, archivists should use the digital archives controlled vocabulary to describe digital objects (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)).
