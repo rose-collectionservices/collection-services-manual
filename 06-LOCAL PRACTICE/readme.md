@@ -49,7 +49,8 @@ Folders should be labeled with the following information:
 * Series/subseries title, if applicable;
 * Bolded header, if applicable;
 * Box number;
-* Folder number.
+* Folder number;
+* When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
 
 ![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
@@ -112,7 +113,7 @@ Restricted material and material that has mold must be housed separately from th
 
 ![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use.  You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 7-9 for examples.
+Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use. Oversized boxes may not always have enough space on the front for one or both labels. In this case, put the labels in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 7-9 for examples.
 
 ![Figure 7: Record center box with mold](/06-LOCAL%20PRACTICE/Images/Figure7.jpg "Record center box with mold")
 
@@ -121,6 +122,10 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 ![Figure 8: Hollinger boxes with mold](/06-LOCAL%20PRACTICE/Images/Figure8.jpg "Hollinger boxes with mold")
 
 *Figure 8: Hollinger boxes and half Hollinger boxes*
+
+![Figure 9: Flat boxes with mold](06-LOCAL PRACTICE/Images/Figure9a.jpg "Flat boxes with mold")
+![Figure 9: Flat boxes with mold](06-LOCAL PRACTICE/Images/Figure9b.jpg "Flat boxes with mold")
+![Figure 9: Flat boxes with mold](06-LOCAL PRACTICE/Images/Figure9c.jpg "Flat boxes with mold")
 
 *Figure 9: Oversized and flat boxes*
 
