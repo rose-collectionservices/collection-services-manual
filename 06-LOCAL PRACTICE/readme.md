@@ -123,11 +123,11 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 *Figure 8: Hollinger boxes and half Hollinger boxes*
 
-![Figure 9: Oversized and flat boxes](06-LOCAL PRACTICE/Images/Figure9a.jpg "Figure 9: Oversized and flat boxes")
+![Figure 9: Oversized and flat boxes](06-LOCAL%20PRACTICE/Images/Figure9a.jpg "Figure 9: Oversized and flat boxes")
 
-![Figure 9: Oversized and flat boxes](06-LOCAL PRACTICE/Images/Figure9b.jpg "Figure 9: Oversized and flat boxes")
+![Figure 9: Oversized and flat boxes](06-LOCAL%20PRACTICE/Images/Figure9b.jpg "Figure 9: Oversized and flat boxes")
 
-![Figure 9: Oversized and flat boxes](06-LOCAL PRACTICE/Images/Figure9c.jpg "Figure 9: Oversized and flat boxes")
+![Figure 9: Oversized and flat boxes](06-LOCAL%20PRACTICE/Images/Figure9c.jpg "Figure 9: Oversized and flat boxes")
 
 *Figure 9: Oversized and flat boxes*
 
