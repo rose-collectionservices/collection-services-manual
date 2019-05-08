@@ -56,8 +56,8 @@ To order shipping supplies:
 
 To order barcodes:
 
-* Email Anna Lech-Mlynarz (almlyna@emory.edu), who coordinates the barcodes for the Libraries) to alert her that we will be ordering barcodes. She will respond with the first barcode number that we should request when we put in our order. 
-* Send a request to Abby Ellerbe via Service Now with the following information:   
+* Email Yvette Wright (libypw@emory.edu), who coordinates the barcodes for the Libraries) to alert her that we will be ordering barcodes. She will respond with the first barcode number that we should request when we put in our order. 
+* Send a request to Library Finance [via Service Now] (https://emory.app.box.com/file/454337476603) with the following information:   
 	* Number of barcodes to be ordered (10,000 is common, but not mandated);
 	* Vendor information (Vernon Library Supplies);
 	* Font: Kumdure;
