@@ -288,7 +288,7 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 ### 5.1.5 Language Note
 
-**DACS Chapter 5.5:**
+**DACS Chapter 4.5:**
 
 Identifies the language(s), script(s), and symbol systems employed in the materials being described, particularly as they may affect its use.
 
@@ -313,7 +313,7 @@ This field is a combination of two DACS elements: Conditions Governing Access an
 
 ### 5.1.6.1 Conditions Governing Access
 
-**DACS Chapter 5.1:** 
+**DACS Chapter 4.1:** 
 
 Provides information about access restrictions due to the nature of the information in the materials being described, such as those imposed by the donor, 
 by the repository, or by statutory/regulatory requirements.
@@ -359,7 +359,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 ### 5.1.6.2 Physical Access
 
-**DACS Chapter 5.2:**
+**DACS Chapter 4.2:**
 
 Provides information about physical access restrictions due to physical characteristics or storage locations that limit, restrict, delay, or otherwise 
 affect access to the materials being described.
@@ -398,7 +398,7 @@ also identify materials that require special handling that goes beyond standard 
 
 ### 5.1.7 Terms Governing Use and Reproduction
 
-**DACS Chapter 5.4:**
+**DACS Chapter 4.4:**
 
 Identifies any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. 
 
