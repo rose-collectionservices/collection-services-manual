@@ -8,7 +8,6 @@ Content owner: **Sarah Quigley**
 * [13.4 Barcodes](#134-barcodes)
 * [13.5 Paying for supplies using Service Now](#135-paying-for-supplies-using-service-now)
 
-Many of the strategies for physical self-care, such as physical activity throughout the day and staying well-hydrated, also promote emotional self-care.   
 
 Office supplies, bond paper, and box labels are located in the 9th floor copy room. Additional supplies are stored in the Collection Transition Room on the 10th floor or in the 2nd floor mail room. To access the supplies in the mail room, speak with mail room and/or facilities staff who can locate and retrieve what you need.
 
@@ -17,21 +16,20 @@ Office supplies, bond paper, and box labels are located in the 9th floor copy ro
 To order office supplies:
 
 * Office supplies must be ordered through Staples.
-* There are order sheets for office supplies in the CTR and BizHub room where you can log requests for standardoffice supples.
-* For specialized supplies, send the Administrative Assistant a list of the item(s) you need.  Include links to the item(s) from the Staples website.
+* To order supplies, send Moffett Morris a list of the item(s) you need. Include links to the item(s) from the Staples website.
 
 ## 13.2 Archival Supplies
 
 To order archival supplies:
 
 * Send a list of the item(s) and quantity you need to the appropriate Collection Services staff person.
-* When preparing to rebox a manuscript collection, request a new supply of Hollinger boxes as early as you can to avoid depleting the supply of boxes on hand.Most orders arrive within one to two weeks.  Hollinger willexpedite shipping if their supply can accommodate a rush order, but this should be rare.
+* When preparing to rebox a manuscript collection, request a new supply of Hollinger boxes as early as you can to avoid depleting the supply of boxes on hand. Most orders arrive within one to two weeks. Hollinger will expedite shipping if their supply can accommodate a rush order, but this should be rare.
 * If you notice that the supply of an item normally kept on hand is low or has been used up, notify the Collection Services staff person and they will replenish the stock.
 * The Collection Services staff person will submit orders to the appropriate vendor, typically via email.
-	* To order from Hollinger Metal Edge, emailBenita Jo Scott directly at benita@metaledgeinc.com. Include the item number, item description, and quantity needed in the email.Hollinger will send an invoice to be paid and the Collection Services staff person will submit for payment via Service Now.
-	* Order Paigemiracleboxes directly from James (Jim) Mikedes at JMikedes@paigecompany.com or 800-223-1901 x144. Jim will need a corporate card number and the staff person will be reimbursed.You can also order Paige boxes directly from the Paige Company at 800-223-1901.
-	* Place Demco orders using Woodruff Library account 100064250. Demco will send an invoice and the Collection Services staff person will submit for payment via Service Now.
-* The Collection Services staff person in charge of supplies tracks items in a spreadsheet at F:\MARBL\Supplies. At the end of each fiscal year, they tally the total annual supply expenditure and add it to the first worksheet of the spreadsheet. 
+	* To order from Hollinger Metal Edge, email Benita Jo Scott directly at benita@metaledgeinc.com. Include the item number, item description, and quantity needed in the email. Hollinger will send an invoice to be paid and the Collection Services staff person will submit for payment via Service Now.
+	* Order Paige miracle boxes directly from James (Jim) Mikedes at JMikedes@paigecompany.com or 800-223-1901 x144. Jim will need a corporate card number and the staff person will be reimbursed. You can also order Paige boxes directly from the Paige Company at 800-223-1901.
+	* Place Demco orders using Woodruff Library account (see Collection Services staff for number). Demco will send an invoice and the Collection Services staff person will submit for payment via Service Now.
+* The Collection Services staff person in charge of supplies tracks items in a [spreadsheet on Box](<https://emory.box.com/s/ebhprb8yzcxbazo5lznr1q5fpw7a4ne5>"https://emory.box.com/s/ebhprb8yzcxbazo5lznr1q5fpw7a4ne5"). At the end of each fiscal year, they tally the total annual supply expenditure and add it to the first worksheet of the spreadsheet. 
 * When orders arrive, move them from the Level 2 mailroom to Level 9 in a timely fashion, calling on help from others available. Label them clearly and put them away in the archival supply storage area. 
 
 ## 13.3 Shipping Supplies
