@@ -22,10 +22,12 @@ Upon accessioning, materials should be rehoused into AV Masters boxes.  Some ind
 
 When replacing housing, unless the original housing is completely blank, photocopy old housing and folder the copy of the original container in its entirety with the media object (to later be cross referenced). Be sure to photocopy printed information on the original media housing that relates to the media such as brand, footage length, tape thickness, etc. 
 
+In cases, where there are only a few phonographs, we utilize the CLPs, or combined LP boxes which house items from collections that would not fill an entire LP box.  This may be done at accessioning, but since these materials require boxes that are taller than ordinary Hollinger boxes, they require special shelving, so we house materials from multiple collections within one box, hence the title "combined LP." The phonographs should be labeled with a divider that identifies the collection with the MSS number and collection name. The label on the box should reflect the collections held within the box.  While preferable to keep materials from collections together, it is not necessary. 
+
 Since The Rose Library is conducting more thorough processing at the point of accession, there are two levels that will be used to arrange and describe the materials at this point: enhanced and minimal.  
 
 * Enhanced arrangement and description:
-	* If there are a few items, the items should be listed out at the title level if the individual items are well-labeled, and items have important access points for researchers (e.g. names of important figures, exhibition titles or locations, or titles of media artworks).
+	* If there are few items, the items should be listed out at the title level if the individual items are well-labeled, and items have important access points for researchers (e.g. names of important figures, exhibition titles or locations, or titles of media artworks).
 	* If the materials are part of an obvious series (i.e. "part 1, part 2…") the items can be listed at that level with a note about the number of items.
 	* If any detailed documentation of materials' content exists in the collection (e.g. transcripts, shot lists, or logs describing content), cross reference the documentation rather than describing any detailed content of the media itself in the finding aid.
 	
@@ -33,9 +35,9 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 
 * Minimal arrangement and description:
 	* Items should be removed to an AV Masters box.
-	* Brief content description taken from labels on media or accompanying documentation.
-	* Number of materials and formats should be noted.
+	* Brief content description taken from labels on media or accompanying documentation. Just listing that the box contains audiovisual materials is not enough, and care should be taken to provide content description
 	* Grouping related to media is sufficient if unable to verify specific content or sequence of media items.
+	* Number of materials and formats should be noted.
 	* Duplicate and originals will be filed together if possible.
 	
 * In both cases: 
@@ -75,9 +77,7 @@ Within the extent, audiovisual materials should be listed as "AV Masters" and in
 
 Extent: 5 linear feet (10 boxes), 25 oversized papers (OP), 2 extra oversized papers (XOP), 1 bound volume (BV), and AV Masters: 2 linear feet (1 box, 5 film canisters)
 
-Within the parentheses, the number of boxes or items should be included.  As seen in the example above, the box count refers to the number of either Hollinger or record center boxes.  Other types of containers include film canisters and combined boxes (for example, CLP#). 
-
-CLPs, or combined LP boxes should be listed in the extent in parentheses with the number of boxes.  The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
+Within the parentheses, the number of boxes or items should be included.  As seen in the example above, the box count refers to the number of either Hollinger or record center boxes.  Other types of containers include film canisters and combined boxes (for example, CLP#). Within the extent, CLPs should be listed in the extent in parentheses with the number of boxes.  The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
 ![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
 
