@@ -33,8 +33,8 @@ curators to provide guidance on any precustodial actions taken by the Library.
 
 ## 2.1 Consultations with donors
 
-Prior to a collection being acquired by the Rose Library, The Head of Collection 
-Services may consult with curators to draft an [Operational Impact Statement](https://emory.box.com/s/btfvoh8gltpob8ynj8uhe3r7348pr455) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+Prior to a collection being acquired by the Rose Library, the Head of Collection 
+Processing may consult with curators to draft an [Operational Impact Statement](https://emory.box.com/s/btfvoh8gltpob8ynj8uhe3r7348pr455) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
 Additionally, collection services staff may meet with donors or curators to provide 
 guidance and assistance on matters such as: 
@@ -116,8 +116,8 @@ Most of this folder is organized into subfolders by process step. Step 1 is furt
 	
 	*	Accessioning Archivist will upload paperwork for acquisitions received, such as invoices, deeds of sale, or preliminary inventories to this folder. The Accessioning Archivist will also move to this folder any paperwork in the Prospective Purchases folder that corresponds with acquisitions that have been received to move forward.
 	*	Accessioning Archivist requests curatorial review and fund identification for received purchase acquisitions by tagging the appropriate curator in the comments section of the documentation for the acquisition.
-	*	Accessioning Archivist confirms whether a seller is an active vendor with the University and contacts new or inactive vendors and sellers to obtain vendor paperwork. 
-	*	If vendor paperwork is needed, once it is received, the Accessioning Archivist performs a quality check and then submits a [Finance Support Center ticket](<https://eufinancesupportcenter.force.com/> "https://eufinancesupportcenter.force.com/") for processing.
+	*	Accessioning Archivist confirms whether a seller is an active vendor with the University in [Compass](<https://emory.box.com/s/anml5x4c6rr14zgjjlk2j4zv45rzk060> "https://emory.box.com/s/anml5x4c6rr14zgjjlk2j4zv45rzk060") and contacts new or inactive vendors and sellers to obtain vendor paperwork. 
+	*	If vendor paperwork is needed, once it is received, the Accessioning Archivist performs a quality check and then submits a [Finance Support Center ticket](<https://emory.box.com/s/0rb3h1h3no20jam3ff8759jiq6qisuug> "https://emory.box.com/s/0rb3h1h3no20jam3ff8759jiq6qisuug") for processing.
 	*	If required, once the Deed of Sale or Deed Addendum is counter-signed by the Director (via Operational Manager), the Accessioning Archivist will make a copy and mail to the seller. The Rose Library retains the original signed and counter-signed deed.
 	*	Curator comments on the paperwork on Box to indicate to the Accessioning Archivist that they have reviewed the material and to communicate fund to use
 	*	Accessioning Archivist confirms that all required paperwork has been submitted and is complete and combines the vital documents into one file. Vital documents include the invoice and the Deed of Sale or Deed Addendum when applicable.
@@ -128,7 +128,8 @@ Most of this folder is organized into subfolders by process step. Step 1 is furt
 	
 	*	Accessioning Archivist tags the Director to approve the disbursement of endowed and restricted funds when this approval has not previously been communicated via the curators' monthly meeting   
 	*	Director will approve in the Box comment section when requested
-	*	Once the purchase has been approved, the Accessioning Archivist will submit the payment in Alma
+	*	If the vendor record in Compass needed to be created or updated, the Accessioning Archivist will [create or update the vendor record in Alma](<https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1> "https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1")
+	*	Accessioning Archivist will [submit the payment in Alma](<https://emory.box.com/s/drh6lj0l40s6wybxnu1wyeyjcwtijsz5> "https://emory.box.com/s/drh6lj0l40s6wybxnu1wyeyjcwtijsz5")
 	*	Accessioning Archivist moves the file to step 3.
 	
 *	**Step 3:** Verified
@@ -152,6 +153,8 @@ The following [paperwork](<https://emory.box.com/s/lqbn512mhhmyeutew1rvfw2vl6f52
 *	Deed of Gift (short) (required for additions of manuscript material to existing artificial collections, such as Black print culture collection, or small additions of books to existing book collections, such as the Danowski Poetry Library)
 **OR**
 *	Deed Addendum (required for additions to existing collection by the same donor or signed the original deed - original deed can be a deed of sale or deed of gift)
+
+*Please note that the Rose Library does not accept the Gift-in-Kind Contribution Form as documentation for physical, legal, and intellectual transfer. All gifts must be accompanied by a Deed of Gift or Deed Addendum in order to be added to the collection.*
 	
 **Managing Gift Paperwork in Box**
 
@@ -162,17 +165,18 @@ The Rose Library manages gift paperwork on Box through the [Rose Library Gifts-i
 1.	Curators or Accessioning Archivist uploads preliminary paperwork for acquisitions received. This could include one pagers, appraisal reports, or Box Notes detailing conversations and negotiations with donors.  
 	*	Curators are responsible for procuring the appropriate paperwork from donors.
 	*	All files should follow the naming convention:  "Donor Name_Calendar Year Received," such as "John Doe_2016."
-2.	Once all completed paperwork for an acquisition has been received, the Accessioning Archivist drafts an acknowledgment letter and passes to the Operational Manager for the Director's signature. 
-3.	If completed paperwork includes a Deed of Gift or Deed of Gift Addendum, the Accessioning Archivist will also pass that paperwork to the Operational Manager for the Director's signature.
-4.	Once the acknowledgment letter and deed, when applicable, have been signed by the Director, the Accessioning Archivist will make a copy of the original gift paperwork and mail the copies with the acknowledgment letter to the donor.
-5.	Accessioning Archivist will tag the Assistant Director of Alumni and Advancement Engagement (AAE) in the comments section of the documentation to let them know that the gift is ready for recording.
-6.	If the gift contains any amount of manuscript material, once it is assigned for accessioning, the Accessioning Archivist will tag the assigned accessioner. The Accessioning Archivist will also physically move material comprised of 5 linear feet or fewer to shelving in the accessioning area, as space allows.
-7.	If the gift contains any amount of print material, the Accessioning Archivist will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
-8.	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the CL-2 file upon accessioning and a copy of the paperwork will be placed with the print material.
+2.	Once all completed paperwork for an acquisition has been received, the Accessioning Archivist drafts an acknowledgment letter and passes to the Operational Manager along with the Deed of Gift or Deed Addendum for the Director's signature. 
+3.	Once the acknowledgment letter and deed have been signed by the Director, the Accessioning Archivist will make a copy of the original gift paperwork and mail the copies with the acknowledgment letter to the donor.
+4.	Accessioning Archivist will tag the Assistant Director of Alumni and Advancement Engagement (AAE) in the comments section of the documentation to let them know that the gift is ready for recording.
+5.	If the gift contains any amount of manuscript material, the Accessioning Archivist will physically move material comprised of 5 linear feet or fewer to shelving in the accessioning area, as space allows.
+6.	If the gift contains any amount of print material, the Accessioning Archivist will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
+7.	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the CL-2 file upon accessioning and a copy of the paperwork will be placed with the print material.
 				
 At the end of the calendar year, the Accessioning Archivist moves all completed paperwork in the curatorial folders to their respective Past Gifts folders into a new subfolder for the calendar year.
 
-Unsolicited gifts received are documented in the curatorial folders, usually with a Boxnote, but may be represented with a letter, or other documentation from the donor. When creating a Boxnote for an unsolicited gift, include contact information for the donor, the contents of the gift, the physical size of the gift, and the date of arrival. The curator must confirm that they would like to accept these gifts prior to moving forward. The Accessioning Archivist is responsible for following up with the donor to obtain proper paperwork when the curator does not have a prior relationship with the donor.
+Unsolicited gifts received are documented in the curatorial folders, usually with a Boxnote, but may be represented with a letter, or other documentation from the donor. When creating a Boxnote for an unsolicited gift, include contact information for the donor, the contents of the gift, the physical size of the gift, and the date of arrival. The curator must confirm that they would like to accept these gifts prior to moving forward. The Accessioning Archivist is responsible for following up with the donor to obtain proper paperwork only when the curator does not have a prior relationship with the donor.
+
+While Rose Library staff will make an effort to obtain a Gift-in-Kind Contribution Form for AAE, it is ultimately the responsibility of AAE to obtain this form from donors. AAE should primarily work with curators to obtain this form, as opposed to Collection Services staff.
 
 ### 2.2.3 Financial Appraisal
 
@@ -181,13 +185,15 @@ Collections may be appraised in two circumstances:
 1. If a donor would like to take a tax write-off greater than $5000 on a gift or;
 2. If curators need a professional evaluation to determine a fair purchase price for a prospective acquisition.   
 
-It is the donor's responsibility to arrange appraisals for tax purposes.
+It is the donor's responsibility to arrange and pay for appraisals for tax purposes.
 
 Every effort should be made to arrange financial appraisal of collection material prior to physical transfer to the Rose Library.
 
+Please refer to [this reference sheet](<https://emory.box.com/s/h5iysaoex9ftfa9sa9pjn5ur2uhd86cj> "https://emory.box.com/s/h5iysaoex9ftfa9sa9pjn5ur2uhd86cj") concerning tax deductions for more information about charitable gifts.
+
 Collection Services staff may occasionally be called on to assist in coordinating and facilitating financial appraisals of Rose Library collections or potential acquisitions. While we can facilitate the work of professional appraisers, Rose Library staff cannot provide or estimate a value for any special collections material per the [ACRL Code of Ethics for Special Collections Librarians](<http://rbms.info/standards/code_of_ethics/> "http://rbms.info/standards/code_of_ethics/"), nor can we provide any tax advice to donors.  
 
-If a curator or administrator chooses to engage an appraiser, they must schedule the appointment with the appraiser and contact the Accessioning Archivist or Head of Collection Services as early as possible.
+If a curator or administrator chooses to engage an appraiser, they must schedule the appointment with the appraiser and contact the Accessioning Archivist or Assistant Director for Collection Strategies as early as possible.
 
 Once an appraisal is scheduled, the Accessioning Archivist will: 
 
@@ -238,9 +244,9 @@ accessioning team.
 	queues based on current workloads and specific expertise.
 *	The Accessioning Archivist distributes original paperwork for the 
 	new assignments.
-*	The Accessioning Archivist will tag the appropriate accessioner in the electronic version of the paperwork on Box.
+*	The electronic version of the paperwork will be linked to from the accession record in ArchivesSpace in the External Documents sub-record.
 
-The system of record for accession information is [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/"). The Accessioning Archivist will create a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be one record for each invoice, deed, and/or Gift-in-Kind Contribution form. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
+The system of record for accession information is [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/"). The Accessioning Archivist will create a record in this database upon receipt. One accession record should be created per acquisition, meaning there should be one record for each invoice and/or deed/deed addendum. For collections acquired through a simultaneous purchase and gift, there should be separate accession records for each contract.
 
 **When manuscript material is received, the Accessioning Archivist will:** 
 
@@ -250,9 +256,9 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	Type is equal to "custody transfer"
 	*	The role of the selector linked as an agent is "curator"
 	*	Date of receipt can be found in the appropriate [Rose Acquisitions Log](<https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol> "https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol")
-*	When an agreement, such as a Deed of Sale or Gift or Gift-in-Kind Contribution Form, is present and has been signed by the donor and counter-signed by the Director, document the agreement in an event record attached to the accession record.
+*	When deed or deed addendum is present and has been signed by the donor and counter-signed by the Director, document the agreement in an event record attached to the accession record.
 	*	Type is equal to "agreement signed"
-	*	The role of the signer linked as an agent is "authorizer"
+	*	The role of the donor or seller or signed the deed is linked as an agent with the label of "authorizer"
 	*	Date of signing can be found on the paperwork
 *	For additions to collections, link the appropriate resource record during this initial documentation upon receipt. 
 	*	*The Accessioning Archivist will **not** spawn new resource records for new collection material during initial documentation upon receipt.*
@@ -269,7 +275,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	Date is the date the event record is created
 *	Spawn a resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.box.com/s/opcjwk8gxmwcnvt3n2q651t5c04wllun> "https://emory.box.com/s/opcjwk8gxmwcnvt3n2q651t5c04wllun") for stub resource records
 *	Tag the curator in a comment on the acquisitions paperwork on Box with the accession number and collection information
-*	Gather the original documentation, as well as print copies of other pieces of documentation from Box to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice or Gift-in-Kind Contribution Form if there is no deed.
+*	Gather the original documentation, as well as print copies of other pieces of documentation from Box to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice if there is no deed.
 *	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
 
 The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
