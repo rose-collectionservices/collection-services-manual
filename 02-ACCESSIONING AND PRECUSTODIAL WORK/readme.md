@@ -639,7 +639,7 @@ We communicate stack locations by giving a range and bay for an item:
 
 Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material. All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
 
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access. Our contact to retrieve material at CV Fine Art is Steve Cyr, and his extension is 143. The main phone number is 404-733-6200.
+**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com. 
 
 The shelf list should be updated:
 
