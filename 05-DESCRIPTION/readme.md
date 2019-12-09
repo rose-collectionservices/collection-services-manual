@@ -526,7 +526,7 @@ This field identifies collections held in other repositories that have a close r
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
-### 5.1.13 Seperated Materials
+### 5.1.13 Separated Materials
 
 This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged or new collections that were created.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
