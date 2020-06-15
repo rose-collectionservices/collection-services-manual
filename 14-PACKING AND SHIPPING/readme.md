@@ -142,7 +142,7 @@ FedEx can pick up collections from donors' homes except in the following situati
 
 ### 14.2.2.1 Shipping supplies
 
-The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/zb6r0acdgrltogu9d299idqsd04qlihf), and curators should consult with them thoroughly about what material should be sent.
+The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/v3pyo8lns5qeexc5umm8egc2gh1rm58t), and curators should consult with them thoroughly about what material should be sent.
 
 If shipping supplies are needed, please contact the Accessioning Archivist with:
 
