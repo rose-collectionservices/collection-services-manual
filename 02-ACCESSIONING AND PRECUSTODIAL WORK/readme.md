@@ -36,7 +36,7 @@ curators to provide guidance on any precustodial actions taken by the Library.
 Prior to a collection being acquired by the Rose Library, the Head of Collection 
 Processing may consult with curators to draft an [Operational Impact Statement](https://emory.box.com/s/btfvoh8gltpob8ynj8uhe3r7348pr455) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
-Additionally, collection services staff may meet with donors or curators to provide 
+Additionally, Collection Services staff may meet with donors or curators to provide 
 guidance and assistance on matters such as: 
 
 *	Packing and shipping
@@ -53,24 +53,26 @@ Collections receiving is the physical transfer of collection material from a don
 
 All collection material should be received and opened by the Accessioning Archivist. 
 
-Small packages will be delivered to the Rose Library mailroom. Larger packages or groups of multiple packages (often new collections or additions to collections) will be delivered to the main Woodruff Library mailroom. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival. 
+All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Accessioning Archivist for pickup. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival. 
 
 **New Acquisition Storage:**
 
-Acquisitions that measure 5 linear feet or fewer will be stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing. The Accessioning Archivist will log all new acquisitions not being added to an artificial collection in the pending acquisitions tab on the Master Shelf List. 
+Acquisitions that measure 5 linear feet or fewer will be stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. This information can be written clearly in marker on each container or labels can be created using [this template](<https://emory.box.com/s/czbhl1ny8twzalh17mymwx12hj5tkajy> "https://emory.box.com/s/czbhl1ny8twzalh17mymwx12hj5tkajy"). If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
 
 Upon receipt of material the Accessioning Archivist will:  
 
 *	Open collection material less than 1 linear foot.
-*	Add all material to either the [Gift or Purchase Acquisitions Log](<https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol> "https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol") as appropriate.
-*	Create a stub accession record in ArchivesSpace with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum, the Accessioning Archivist will also add an agreement signed event record.
+*	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/") with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
+*	For manuscript and archives material: Log in Airtable or update status of existing record in Airtable.
+*	For books: Log receipt using [this form](<https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u> "https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u"), which adds the item(s) to [this spreadsheet](<https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u> "https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u"). 
 *	Place the items and any accompanying documentation onto the appropriate curatorial review shelf (for material comprised of 5 linear feet or fewer)
 *	Locate stacks space for collection material greater than 5 linear feet and keep accompanying documentation in a secure file to process as needed
+*	Record the location of manuscript and archives material in the pending acquisitions tab of the [Master Shelf List](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu> "https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu").
 *	Alert the appropriate curator that material is ready to be reviewed and provide location if other than curatorial review shelf. The curator will make final decision on whether to move forward with the acquisition.
 	
 If the curator decides to not move forward with an acquisition, it is the curator's 
 responsibility to notify the donor/seller. The Accessioning Archivist
-can help coordinate return of the material, once the donor/seller has been notified 
+can help coordinate return of the material once the donor/seller has been notified 
 by the curator. 
 
 ### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
@@ -86,18 +88,18 @@ application, creating and maintaining a record of communications for each
 acquisition.  
 
 There are two Box folders that we use to manage this process. These can be found in the Rose Library structure under Core Service Areas-->Acquisitions and include the [Rose Library 
-Purchases folder](https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn) and the [Rose Library Gifts-in-Kind folder](https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l). The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Accessioning Archivist will update the files and move or update the paperwork as needed. As paperwork moves through the process, the Accessioning Archivist will use the tagging, commenting, and task list functions in Box to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required. 
+Purchases folder](https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn) and the [Rose Library Gifts-in-Kind folder](https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l). The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Accessioning Archivist will update the files and move or update the paperwork as needed. As paperwork moves through the process, the Accessioning Archivist will use the tagging, commenting, and task list functions in Box to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required.
+
+There is a top level folder in the Acquisitions folder called [Potential Acquisitions Reports](<https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31> "https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31") for acquisitions to be discussed during curators meetings. When a curator completes the Potential Acquisitions Report form, a formatted Word document of the results will appear in this folder while, simultaneously, a record of the results appears in the Accessioning Workflow Airtable base.
 
 **Paperwork Required for Purchase Payment**
 
 The Rose Library requires the following [forms](<https://emory.box.com/s/p1i8rtvbcvyxckekfginv6cowf2vtvmd> "https://emory.box.com/s/p1i8rtvbcvyxckekfginv6cowf2vtvmd") for purchases: 
 
 *	Invoice (Accessioning Archivist will generate an invoice for purchases from individuals)
-*	Deed of Sale or Deed Addendum (for purchases from individuals)
-*	Domestic Vendors and Sellers: Supplier/Individual Information Form (SIIF) and an ACH Payment
-	Authorization Form (ACH)
-*	International Vendors and Sellers: W-8BEN-E (businesses)/W-8BEN (individuals) and Foreign 
-	Wire Transfer Form (Note: These must be submitted with the vendor every time they are paid, regardless of how long it has been since they were last paid.)
+*	Deed of Sale or Deed Addendum (for purchases from individuals). A Deed Addendum may be used for purchase of additions to existing collection by the same donor who signed the original deed - original deed can be a deed of sale or deed of gift.
+*	Domestic Vendors and Sellers: [Supplier/Individual Information Form (SIIF)](<https://finance.emory.edu/home/procurement/support-center/index.html> "https://finance.emory.edu/home/procurement/support-center/index.html") and [W-9](<https://www.irs.gov/forms-pubs/about-form-w-9> "https://www.irs.gov/forms-pubs/about-form-w-9")
+*	International Vendors and Sellers: [W-8BEN-E (businesses)/W-8BEN](<https://www.irs.gov/forms-pubs/about-form-w-8> "https://www.irs.gov/forms-pubs/about-form-w-8") (individuals) and Foreign Wire Transfer Form (Note: These must be submitted with the vendor every time they are paid, regardless of how long it has been since they were last paid.)
 *	Vendor Forms are required when any of the following are true: 
 
 	*	The Rose Library has never purchased from the seller.
@@ -108,17 +110,17 @@ The Rose Library requires the following [forms](<https://emory.box.com/s/p1i8rtv
 **Managing Purchase Paperwork in Box**
 
 The Rose Library manages purchase paperwork on Box through the [Rose Library Purchases 
-folder](<https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn> "https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn"). In the top level section of this folder, there is a folder for [Prospective Purchases](<https://emory.box.com/s/142vagn0xslnkgfoltk68e7kjvvlbj6t> "https://emory.box.com/s/142vagn0xslnkgfoltk68e7kjvvlbj6t") where curators and archivists may upload paperwork for acquisitions under discussion, such as one-pagers, appraisal reports, and operational impact statements.
+folder](<https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn> "https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn").
 
 Most of this folder is organized into subfolders by process step. Step 1 is further subdivided by collecting area.   
 
 *	**Step 1:** Received and Pending
 	
-	*	Accessioning Archivist will upload paperwork for acquisitions received, such as invoices, deeds of sale, or preliminary inventories to this folder. The Accessioning Archivist will also move to this folder any paperwork in the Prospective Purchases folder that corresponds with acquisitions that have been received to move forward.
+	*	Accessioning Archivist will upload paperwork for acquisitions received, such as invoices, deeds of sale, or preliminary inventories to this folder. The Accessioning Archivist will also move to this folder any paperwork in the Potential Acquisitions Reports folder that corresponds with acquisitions that have been received to move forward.
 	*	Accessioning Archivist requests curatorial review and fund identification for received purchase acquisitions by tagging the appropriate curator in the comments section of the documentation for the acquisition.
 	*	Accessioning Archivist confirms whether a seller is an active vendor with the University in [Compass](<https://emory.box.com/s/anml5x4c6rr14zgjjlk2j4zv45rzk060> "https://emory.box.com/s/anml5x4c6rr14zgjjlk2j4zv45rzk060") and contacts new or inactive vendors and sellers to obtain vendor paperwork. 
-	*	If vendor paperwork is needed, once it is received, the Accessioning Archivist performs a quality check and then submits a [Finance Support Center ticket](<https://emory.box.com/s/0rb3h1h3no20jam3ff8759jiq6qisuug> "https://emory.box.com/s/0rb3h1h3no20jam3ff8759jiq6qisuug") for processing.
-	*	If required, once the Deed of Sale or Deed Addendum is counter-signed by the Director (via Operational Manager), the Accessioning Archivist will make a copy and mail to the seller. The Rose Library retains the original signed and counter-signed deed.
+	*	If vendor paperwork is needed, once it is received, the Accessioning Archivist performs a quality check and then submits a Supplier Request form in Emory Express for processing.
+	*	If required, once the Deed of Sale or Deed Addendum is counter-signed by the Director (via Operational Manager), the Accessioning Archivist will make a copy and mail to the seller. The Rose Library retains the original signed and counter-signed deed for our permanent collection file records.
 	*	Curator comments on the paperwork on Box to indicate to the Accessioning Archivist that they have reviewed the material and to communicate fund to use
 	*	Accessioning Archivist confirms that all required paperwork has been submitted and is complete and combines the vital documents into one file. Vital documents include the invoice and the Deed of Sale or Deed Addendum when applicable.
 	*	File titles should be structured to include the vendor name, invoice number and fiscal year. For example: "Vendor or Seller Name_Invoice Number_Fiscal Year," such as "John Doe Bookseller_123456_FY17." 
@@ -128,17 +130,17 @@ Most of this folder is organized into subfolders by process step. Step 1 is furt
 	
 	*	Accessioning Archivist tags the Director to approve the disbursement of endowed and restricted funds when this approval has not previously been communicated via the curators' monthly meeting   
 	*	Director will approve in the Box comment section when requested
-	*	If the vendor record in Compass needed to be created or updated, the Accessioning Archivist will [create or update the vendor record in Alma](<https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1> "https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1")
+	*	If the vendor record in Compass needed to be created or updated in the previous step, the Accessioning Archivist will [create or update the vendor record in Alma](<https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1> "https://emory.box.com/s/ddk6knla3zdiy5850e4brchyucplzoa1")
 	*	Accessioning Archivist will [submit the payment in Alma](<https://emory.box.com/s/drh6lj0l40s6wybxnu1wyeyjcwtijsz5> "https://emory.box.com/s/drh6lj0l40s6wybxnu1wyeyjcwtijsz5")
 	*	Accessioning Archivist moves the file to step 3.
 	
 *	**Step 3:** Verified
 
 	*	Accessioning Archivist tags the Budget Analyst and Senior Accounting Assistant in LITS Finance with the comment “Submitted in Alma, PO #” 
-	*	For the purposes of the Rose Library, the acquisition is considered paid for and can move forward for processing.
+	*	For the purposes of the Rose Library, the acquisition is considered paid for and can move forward for accessioning or cataloging.
 	*	If the purchase contains any amount of manuscript material, the Accessioning Archivist will physically move material comprised of 5 linear feet or fewer to shelving in the accessioning area, as space allows.
 	*	If the purchase contains any amount of print material, the Accessioning Archivist will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
-	*	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the CL-2 file upon accessioning and a copy of the paperwork will be placed with the print material.
+	*	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the permanent collection file (CL-2) upon accessioning and a copy of the paperwork will be placed with the print material.
 	*	At some future point, the Senior Accounting Assistant or Budget Analyst in LITS Finance will comment with final payment information.
 			
 At the end of each fiscal year, the Accessioning Archivist moves all completed paperwork in the Step 3 folder for purchases into the Past Fiscal Years folder and into a new subfolder titled "FY--" (e.g., FY16).
@@ -152,13 +154,13 @@ The following [paperwork](<https://emory.box.com/s/lqbn512mhhmyeutew1rvfw2vl6f52
 **OR**
 *	Deed of Gift (short) (required for additions of manuscript material to existing artificial collections, such as Black print culture collection, or small additions of books to existing book collections, such as the Danowski Poetry Library)
 **OR**
-*	Deed Addendum (required for additions to existing collection by the same donor or signed the original deed - original deed can be a deed of sale or deed of gift)
+*	Deed Addendum (required for additions to existing collection by the same donor who signed the original deed - original deed can be a deed of sale or deed of gift)
 
 *Please note that the Rose Library does not accept the Gift-in-Kind Contribution Form as documentation for physical, legal, and intellectual transfer. All gifts must be accompanied by a Deed of Gift or Deed Addendum in order to be added to the collection.*
 	
 **Managing Gift Paperwork in Box**
 
-The Rose Library manages gift paperwork on Box through the [Rose Library Gifts-in-Kind folder](<https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l> "https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l"). This folder is organized into subfolders by collecting area and tags are used to indicate in which stage of the process a particular gift is. The Accessioning Archivist is responsible for combining paperwork into a single PDF file, updating the stage tags, and tagging appropriate parties for next steps. Prior to receipt of material, curators and archivists may use the [Prospective Gifts folder](<https://emory.box.com/s/j0ntttlmd3i5t6fgyha4t0xrkhto7emw> "https://emory.box.com/s/j0ntttlmd3i5t6fgyha4t0xrkhto7emw") to upload relevant documentation for gifts under consideration, such as one-pagers, appraisal reports, and operational impact statements.
+The Rose Library manages gift paperwork on Box through the [Rose Library Gifts-in-Kind folder](<https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l> "https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l"). This folder is organized into subfolders by collecting area and tags are used to indicate in which stage of the process a particular gift is. The Accessioning Archivist is responsible for combining paperwork into a single PDF file, updating the stage tags, and tagging appropriate parties for next steps. Prior to receipt of material, curators and archivists may use the [Potential Acquisitions Reports](<https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31> "https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31") to upload relevant documentation for gifts under consideration, such as one-pagers, appraisal reports, and operational impact statements.
 
 **The gifts process includes the following steps:**
 
@@ -170,7 +172,7 @@ The Rose Library manages gift paperwork on Box through the [Rose Library Gifts-i
 4.	Accessioning Archivist will tag the Assistant Director of Alumni and Advancement Engagement (AAE) in the comments section of the documentation to let them know that the gift is ready for recording.
 5.	If the gift contains any amount of manuscript material, the Accessioning Archivist will physically move material comprised of 5 linear feet or fewer to shelving in the accessioning area, as space allows.
 6.	If the gift contains any amount of print material, the Accessioning Archivist will physically move material to shelving in the recent acquisitions range on Level 9 for cataloging.
-7.	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the CL-2 file upon accessioning and a copy of the paperwork will be placed with the print material.
+7.	When acquisitions contain both manuscript and print material, the original paperwork stays with the manuscript material to be placed in the permanent collection file (CL-2) upon accessioning and a copy of the paperwork will be placed with the print material.
 				
 At the end of the calendar year, the Accessioning Archivist moves all completed paperwork in the curatorial folders to their respective Past Gifts folders into a new subfolder for the calendar year.
 
@@ -234,8 +236,8 @@ When material has been either acknowledged or paid for and is ready to be access
 the Accessioning Archivist will share this information with the 
 accessioning team.
 
-*	The Accessioning Archivist maintains a whiteboard with all new 
-	manuscript acquisitions and marks the ones that are ready for discussion at the 
+*	The Accessioning Archivist maintains an Airtable with all new 
+	manuscript acquisitions, and there is a view called "Accessioning To-Be-Assigned" populated with the ones that are ready for discussion at the 
 	weekly accessioning meeting.
 *	During this meeting, the Accessioning Archivist updates the team on 
 	the status of pending collections and gives information on any significant, new 
@@ -265,6 +267,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 *	If portions of the same accession are being added to multiple collections:
 	*	In the disposition field of the basic information sub-record, describe the disposition of each portion; provide a brief description of the material and the title of the collection to which it is being added
 	*	Link each relevant resource record to the accession record
+*	Add or update the status of the acquisition in the Accessioning Workflow Airtable base
 
 **At the time of accessioning, staff will:**
 
@@ -277,6 +280,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 *	Tag the curator in a comment on the acquisitions paperwork on Box with the accession number and collection information
 *	Gather the original documentation, as well as print copies of other pieces of documentation from Box to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice if there is no deed.
 *	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
+*	Update the status of the acquisition in the Accessioning Workflow Airtable base
 
 The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
 
@@ -591,9 +595,11 @@ There are legacy [electronic CL-2 files](<https://emory.box.com/s/x0pxqe6ugysh30
 - [ ] Add to or update the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>), including the pending tab if applicable
 - [ ] If material includes audiovisual material, complete [this Google Form](https://goo.gl/forms/0ci0HmF2QKUMKOTJ2)
 - [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>)
+- [ ] If there are websites related to the collection that we should track as part of our web archiving program, please complete this form.
 - [ ] [Flag](<https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd> "https://emory.box.com/s/1rkqk1l8mozpu72p186c0r511m7vqyzd") materials separated from the collection for cataloging and place on the appropriate range on Level 9
 - [ ] Move containers to permanent physical locations
 - [ ] Update [processing statistics spreadsheet](<https://emory.box.com/s/h6dx8ec5u7imivhe5rnnoz09qumr20ht>)
+- [ ] Update record in Accessioning Workflow Airtable base
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
 
@@ -637,12 +643,13 @@ We communicate stack locations by giving a range and bay for an item:
 
 ### 2.4.2 Shelf Lists
 
-Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material. All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
+Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet called the Master Shelf List](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu>) located on Box. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material (pending tab). All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
 
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access.  The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com. 
+**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com. 
 
 The shelf list should be updated:
 
+* When new collection material is received (in the pending tab)
 * When a new collection is accessioned (physical or born digital)
 * When the extent of a collection changes 
 * When a collection has physically moved from one location to another
@@ -659,7 +666,7 @@ The [Finding Aid for Books](<https://emory.box.com/s/n1dtneh6v2d5uzi46ue6hwbswrq
 
 ### 2.4.3 Empty Space Map
 
-Collection Services maintains a [map](<https://emory.box.com/s/lv7cuyj10ncxj0xvs70jvugcg1zlghms>) of the empty space on Level 11.  This map indicates where there is available space for new collections. It should be updated any time collection material is moved to, from, or around on Level 11. The Accessioning Archivist will periodically verify the document to ensure that it is up to date.
+Collection Services maintains a [map](<https://emory.box.com/s/lv7cuyj10ncxj0xvs70jvugcg1zlghms>) of the empty space on Levels 9 and 11. This map indicates where there is available space for new collections. It should be updated any time collection material is moved to, from, or around on Levels 9 and 11. The Accessioning Archivist will periodically verify the document to ensure that it is up to date.
 
 ### 2.4.4 Lost Items
 
