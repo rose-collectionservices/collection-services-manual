@@ -64,7 +64,7 @@ Upon receipt of material the Accessioning Archivist will:
 *	Open collection material less than 1 linear foot.
 *	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/") with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
 *	For manuscript and archives material: Log in Airtable or update status of existing record in Airtable.
-*	For books: Log receipt using [this form](<https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u> "https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u"), which adds the item(s) to [this spreadsheet](<https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u> "https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCTD3hG6srJAvbpTUR-Ov6lUOFBHTEQ4U05GNjRHQjBNRE9FUUpGV1U0Ny4u"). 
+*	For books: Log receipt using [this form](<https://emory.box.com/s/4vh45g2c57z3vq8o0k5yr23r0kyga6rk> "https://emory.box.com/s/4vh45g2c57z3vq8o0k5yr23r0kyga6rk"), which adds the item(s) to [this spreadsheet](<https://emory.box.com/s/lx0sz5cnl32i96koyt9zlac3bybum63k> "https://emory.box.com/s/lx0sz5cnl32i96koyt9zlac3bybum63k"). 
 *	Place the items and any accompanying documentation onto the appropriate curatorial review shelf (for material comprised of 5 linear feet or fewer)
 *	Locate stacks space for collection material greater than 5 linear feet and keep accompanying documentation in a secure file to process as needed
 *	Record the location of manuscript and archives material in the pending acquisitions tab of the [Master Shelf List](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu> "https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu").
@@ -73,7 +73,9 @@ Upon receipt of material the Accessioning Archivist will:
 If the curator decides to not move forward with an acquisition, it is the curator's 
 responsibility to notify the donor/seller. The Accessioning Archivist
 can help coordinate return of the material once the donor/seller has been notified 
-by the curator. 
+by the curator.
+
+For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol> "https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol") on Box.
 
 ### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
 
@@ -662,7 +664,7 @@ The notes field can be used to record:
 * Unusual location information
 * Notes on if a collection has been deaccessioned or transferred 
 
-The [Finding Aid for Books](<https://emory.box.com/s/n1dtneh6v2d5uzi46ue6hwbswrqbb5s4>) provides locations for book collections in the stacks on Level 9.
+The [Finding Aid](<https://emory.box.com/s/n1dtneh6v2d5uzi46ue6hwbswrqbb5s4>) provides locations for book collections in the stacks on Level 9.
 
 ### 2.4.3 Empty Space Map
 
