@@ -20,7 +20,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.10 Publication note](#5110-publication-note)
 	* [5.1.11 Related collections in this repository](#5111-related-collections-in-this-repository)
 	* [5.1.12 Related collections in other institutions](#5112-related-collections-in-other-institutions)
-	* [5.1.13 Seperated materials](#5113-seperated-materials)
+	* [5.1.13 Separated materials](#5113-seperated-materials)
 	* [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition)
 	* [5.1.15 Custodial history](#5115-custodial-history)
 	* [5.1.16 Citation](#5116-citation)
