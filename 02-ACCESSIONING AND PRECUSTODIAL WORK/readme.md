@@ -264,11 +264,8 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	Type is equal to "agreement signed"
 	*	The role of the donor or seller or signed the deed is linked as an agent with the label of "authorizer"
 	*	Date of signing can be found on the paperwork
-*	For additions to collections, link the appropriate resource record during this initial documentation upon receipt. 
-	*	*The Accessioning Archivist will **not** spawn new resource records for new collection material during initial documentation upon receipt.*
 *	If portions of the same accession are being added to multiple collections:
 	*	In the disposition field of the basic information sub-record, describe the disposition of each portion; provide a brief description of the material and the title of the collection to which it is being added
-	*	Link each relevant resource record to the accession record
 *	Add or update the status of the acquisition in the Accessioning Workflow Airtable base
 
 **At the time of accessioning, staff will:**
