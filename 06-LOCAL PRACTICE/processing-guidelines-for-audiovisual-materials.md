@@ -44,7 +44,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	* If physical media is labeled with a lot of detail, it is not necessary to include all detail in the finding aid, containers with content written on them should be photocopied and cross referenced with the item.
 	* At the point of accessioning, there is no requirement to play media to identify content. Audiovisual material with no documentation should be labeled "unidentified," and further described by physical format (e.g. "unidentified, undated [original: audio cassette]").
 	* If unlabeled media is found with paper records but the relationship is unclear, it is better to leave it with those records to preserve a possible relationship; the presence of AV can be noted in a scope note for the paper component. 
-	* If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection.  However, if this is done, and the archivist should note the identity of each title with the following language: 
+	 If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection.  However, if this is done, and the archivist should note the identity of each title with the following language: 
 	"Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
 	
 	The following language should be included at the series and/or subseries level regarding the accessibility: 
