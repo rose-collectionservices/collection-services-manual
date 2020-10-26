@@ -46,6 +46,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	* If unlabeled media is found with paper records but the relationship is unclear, it is better to leave it with those records to preserve a possible relationship; the presence of AV can be noted in a scope note for the paper component. 
 	* If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection.  However, if this is done, and the archivist should note the identity of each title with the following language: 
 	"Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
+	
 	The following language should be included at the series and/or subseries level regarding the accessibility: 
 	"Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions.  A list of titles are included in the inventory for researchers to identify the holdings of the creator.  These materials are available commercially and can be accessed via other sources."
 	
