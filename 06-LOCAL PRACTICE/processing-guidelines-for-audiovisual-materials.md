@@ -76,6 +76,7 @@ While we can refer to the individual cassette, film, or tape as an item, it is i
 To identify the material within the finding aid, folder titles that include audiovisual items should end with [original: format type].  For example:
 
 ![Figure 14: Representing AV in the container list](/06-LOCAL%20PRACTICE/Images/Figure14.jpg "Representing AV in the container list")
+Note: Image includes a date format that is no longer used.  The approved format is Year Month Day.
 
 There is no need for a folder number within the AV box.  In some cases, as in off-site digitization projects involving a large number of items, these item-numbers will be generated for the purpose of tracking the materials.  In this case, we will keep the numbers.  Instances where item-numbers (usually transferred to a folder number in the finding aid) should not be compiled just to have a folder number (i.e. if the number isn't needed for an external cause, we do not create this numbering system for processing). If this information is available, it can be used, but collections with small amounts of audiovisual materials, this is unnecessary.
 
@@ -90,6 +91,7 @@ Extent: 5 linear feet (10 boxes), 25 oversized papers (OP), 2 extra oversized pa
 Within the parentheses, the number of boxes or items should be included.  As seen in the example above, the box count refers to the number of either Hollinger or record center boxes.  Other types of containers include film canisters and combined boxes (for example, CLP#). Within the extent, CLPs should be listed in the extent in parentheses with the number of boxes.  The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
 ![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
+Note: Image includes a date format that is no longer used.  The approved format is Year Month Day.
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization.
 
