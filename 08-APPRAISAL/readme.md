@@ -90,15 +90,16 @@ Deaccessioning is the process of removing materials or collections from the care
 
 ### 8.6.1 Deaccessioning Procedures
 
-1. Prepare two copies of a memo outlining disposition of collection. Template is located at [here](https://emory.app.box.com/file/243188365476).
-2. Create a CL-2c file [Deaccessions] with the repository's name and file one copy of memo. 
-3. Place the second copy of the memo in CL-2 file. 
-4. Update the shelf list by deleting the location and extent information for the collection and add a note in the note field indicating the disposition of the collection and the date.  Leave the line in the shelf list as a record that we did once have the collection.  The MSS number should not be reassigned to a new collection. 
-5. Add a note to the Descriptive Data form in the Accessions database that the collection has been deaccesioned or transferred.
-6. Add Deaccession information to the [Deaccession master list](https://emory.app.box.com/file/243187751414).
-7. Delete bibliographic records in OCLC and ALMA.
-8. Delete EAD record in the finding aids database.
-9. Alert staff that the collection has been deaccessioned. 
+1. Write a memo to the collection file outlining disposition of collection, specifically including justification for deaccession. Template is located [here](https://emory.app.box.com/file/243188365476).
+2. If transferring to another institution, complete the appropriate transfer form, located [here](https://emory.box.com/s/lqbn512mhhmyeutew1rvfw2vl6f527n4). Use the Intra-institution form if transferring material to another Emory repository. Use the Inter-institution transfer form if transferring material to a non-Emory institution. 
+3. Save electronic copies of the transfer form and memo to the Deaccessioning folder on [Box](https://emory.box.com/s/5zgpfjyjc1icn17lp2o7c1ku25j0mprq).
+4. Place hard copies of transfer form and memo in the CL-2 file.
+5. Update the shelf list by deleting the location and extent information for the collection and add a note in the note field indicating the disposition of the collection and the date.  Leave the line in the shelf list as a record that we did once have the collection.  The MSS number should not be reassigned to a new collection. 
+6. In ArchivesSpace, add a Deaccession subrecord to the collection Resource record. In the “Description” field, link to the electronic deaccession memo in the Deaccessioning folder on Box. In the “Date” field, change type to single and enter the date of deaccession.
+7. Add Deaccession information to the [Deaccession master list](https://emory.app.box.com/file/243187751414).
+8. Delete bibliographic records in OCLC and ALMA.
+9. Delete EAD record in the finding aids database.
+10. Alert staff that the collection has been deaccessioned. 
 
 ## 8.7 Appraisal of Born-Digital Material  
 
