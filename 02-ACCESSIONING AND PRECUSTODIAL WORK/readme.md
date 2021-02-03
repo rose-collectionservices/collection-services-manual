@@ -63,8 +63,7 @@ Upon receipt of material the Accessioning Archivist will:
 
 *	Open collection material less than 1 linear foot.
 *	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://emory.lyrasistechnology.org/> "https://emory.lyrasistechnology.org/") with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
-*	For manuscript and archives material: Log in Airtable or update status of existing record in Airtable.
-*	For books: Log receipt using [this form](<https://emory.box.com/s/4vh45g2c57z3vq8o0k5yr23r0kyga6rk> "https://emory.box.com/s/4vh45g2c57z3vq8o0k5yr23r0kyga6rk"), which adds the item(s) to [this spreadsheet](<https://emory.box.com/s/lx0sz5cnl32i96koyt9zlac3bybum63k> "https://emory.box.com/s/lx0sz5cnl32i96koyt9zlac3bybum63k"). 
+*	Log in Airtable in the [Acquisitions and Accessioning base](<https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3> "https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3") or update status of existing record in Airtable. 
 *	Place the items and any accompanying documentation onto the appropriate curatorial review shelf (for material comprised of 5 linear feet or fewer)
 *	Locate stacks space for collection material greater than 5 linear feet and keep accompanying documentation in a secure file to process as needed
 *	Record the location of manuscript and archives material in the pending acquisitions tab of the [Master Shelf List](<https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu> "https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu").
@@ -75,7 +74,7 @@ responsibility to notify the donor/seller. The Accessioning Archivist
 can help coordinate return of the material once the donor/seller has been notified 
 by the curator.
 
-For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol> "https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol") on Box.
+For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol> "https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol") on OneDrive.
 
 ### 2.2.2 Paperwork<a href="#anchor1"><sup>1</sup></a>
 
@@ -84,15 +83,15 @@ paperwork has been received. All original paperwork should be transferred to the
 
 **Managing Paperwork in Box**
 
-Rose staff stores and manages all acquisitions-related paperwork on Box.  Box allows 
+Rose staff stores and manages all acquisitions-related paperwork on OneDrive. OneDrive allows 
 staff to access shared folders and communicate with one another inside the 
 application, creating and maintaining a record of communications for each 
 acquisition.  
 
-There are two Box folders that we use to manage this process. These can be found in the Rose Library structure under Core Service Areas-->Acquisitions and include the [Rose Library 
-Purchases folder](https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn) and the [Rose Library Gifts-in-Kind folder](https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l). The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Accessioning Archivist will update the files and move or update the paperwork as needed. As paperwork moves through the process, the Accessioning Archivist will use the tagging, commenting, and task list functions in Box to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required.
+There are two OneDrive folders that we use to manage this process. These can be found in the Rose Library structure under Acquisitions and include the [Rose Library 
+Purchases folder](https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn) and the [Rose Library Gifts-in-Kind folder](https://emory.box.com/s/3rvsv79sitkit3xwdqtnx1hv063y8o0l). The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Accessioning Archivist will update the files and move or update the paperwork as needed. As paperwork moves through the process, the Accessioning Archivist will use the tagging, commenting, and task list functions in OneDrive to update Rose Library and LITS staff members about the status of the acquisition or to alert someone when an action is required.
 
-There is a top level folder in the Acquisitions folder called [Potential Acquisitions Reports](<https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31> "https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31") for acquisitions to be discussed during curators meetings. When a curator completes the Potential Acquisitions Report form, a formatted Word document of the results will appear in this folder while, simultaneously, a record of the results appears in the Accessioning Workflow Airtable base.
+There is a top level folder in the Acquisitions folder called [Potential Acquisitions Reports](<https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31> "https://emory.box.com/s/0y3bp9tbhpcdjiq8ldbrnezmczjwlu31") for acquisitions to be discussed during curators meetings. When a curator completes the Potential Acquisitions Report form, a formatted Word document of the results will appear in this folder while, simultaneously, a record of the results appears in the Acquisitions & Accessioning Airtable base.
 
 **Paperwork Required for Purchase Payment**
 
@@ -111,7 +110,7 @@ The Rose Library requires the following [forms](<https://emory.box.com/s/p1i8rtv
 		
 **Managing Purchase Paperwork in Box**
 
-The Rose Library manages purchase paperwork on Box through the [Rose Library Purchases 
+The Rose Library manages purchase paperwork on OneDrive through the [Rose Library Purchases 
 folder](<https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn> "https://emory.box.com/s/0jyoj8ia07zmbr09z9xcv3dfz8gc9zjn").
 
 Most of this folder is organized into subfolders by process step. Step 1 is further subdivided by collecting area.   
