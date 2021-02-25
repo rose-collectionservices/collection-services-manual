@@ -34,13 +34,13 @@ curators to provide guidance on any precustodial actions taken by the Library.
 ## 2.1 Consultations with donors
 
 Prior to a collection being acquired by the Rose Library, the Head of Collection 
-Processing may consult with curators to draft an [Operational Impact Statement](https://emory.box.com/s/btfvoh8gltpob8ynj8uhe3r7348pr455) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+Processing may consult with curators to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
 Additionally, Collection Services staff may meet with donors or curators to provide 
 guidance and assistance on matters such as: 
 
 *	Packing and shipping
-*	Transfer of of born-digital material (see forms and procedures [here](https://emory.box.com/s/ykvtm447e8e3b92gb7kvmqe84o3xugtf)) 
+*	Transfer of of born-digital material (see forms and procedures [here](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
 *	Appraisal
 *	Arrangement and description
 *	Conservation
@@ -57,7 +57,7 @@ All packages delivered onsite will be delivered to the main Woodruff Library mai
 
 **New Acquisition Storage:**
 
-Acquisitions that measure 5 linear feet or fewer will be stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. This information can be written clearly in marker on each container or labels can be created using [this template](<https://emory.box.com/s/czbhl1ny8twzalh17mymwx12hj5tkajy> "https://emory.box.com/s/czbhl1ny8twzalh17mymwx12hj5tkajy"). If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
+Acquisitions that measure 5 linear feet or fewer will be stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. This information can be written clearly in marker on each container or labels can be created using [this template](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv"). If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
 
 Upon receipt of material the Accessioning Archivist will:  
 
