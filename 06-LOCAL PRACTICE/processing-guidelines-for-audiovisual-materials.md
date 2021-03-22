@@ -10,7 +10,7 @@ In order to keep the Rose Library in line with current best practices and standa
 
 Since The Rose Library is conducting more thorough processing at the point of accession, much of the arranging and describing of audiovisual materials will be done at this point, focusing mainly on the physical storage and identification of the materials rather than on the intellectual arrangement of the materials in a finding aid.
 
-For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.app.box.com/file/405055386579> "https://emory.app.box.com/file/405055386579").
+For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r> "https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r").
 
 ## 6.5.1 Accessioning/Minimal Level Processing
 
@@ -53,7 +53,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 	"Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions.  A list of titles are included in the inventory for researchers to identify the holdings of the creator.  These materials are available commercially and can be accessed via other sources."
 	
-At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.box.com/s/q5roxs9gnbm3xmn6q1x0xjecjbrypqxu).
+At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
 ### 6.5.1.2 Processing
 
