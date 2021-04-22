@@ -1,5 +1,7 @@
 # LSC Ongoing Ingest Policies and Procedures for Archives and Manuscripts 
 
+Current owner: **Meaghan O'Riordan**
+
 * [16.1 Determining eligibility for transfer to LSC](#161-determining-eligibility-for-transfer-to-lsc1)
 * [16.2 Physical processing](#162-physical-processing2)
 * [16.3 Basic minimum housing guidelines](#163-basic-minimum-housing-guidelines)
@@ -107,7 +109,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 
 *Footnotes:*
 
-<a id="anchor1">[1]</a> For a full set of guidelines and criteria for sending material to the LSC please see the [Rose-LSC Policy and Criteria Document](<https://emory.app.box.com/file/51648381053> "https://emory.app.box.com/file/51648381053") and [16.3 Basic Minimum Housing Guidelines](#163-basic-minimum-housing-guidelines).
+<a id="anchor1">[1]</a> For a full set of guidelines and criteria for sending material to the LSC please see the [Rose-LSC Policy and Criteria Document](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Rose-LSC_Policy_Criteria.docx?d=web794d841d474991b44387ec87b59741&csf=1&web=1&e=CsUInY) and [16.3 Basic Minimum Housing Guidelines](#163-basic-minimum-housing-guidelines).
 
 <a id="anchor2">[2]</a> Additional details on physical processing requirements can be found in the Rose Library LSC Physical Processing Requirements document and the LSC Policy Decision Document- Physical Processing of Materials.
 
