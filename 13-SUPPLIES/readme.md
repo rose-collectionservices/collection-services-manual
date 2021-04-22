@@ -28,7 +28,7 @@ To order archival supplies:
 * The Collection Services staff person will submit orders to the appropriate vendor, typically via email.
 	* To order from Hollinger Metal Edge, email Pam Hamilton directly at pam@metaledgeinc.com. Include the item number, item description, and quantity needed in the email. Hollinger will send an invoice to be paid and the Collection Services staff person will submit for payment via Service Now.
 	* Order Paige miracle boxes directly from the Paige Company at 800-223-1901 using your coroporate card. Should you need to order boxes to be delivered to multiple addresses, order directly from James (Jim) Mikedes at JMikedes@paigecompany.com or 800-223-1901 x144. 
-* The Collection Services staff person in charge of supplies tracks items in a [spreadsheet on Box](<https://emory.box.com/s/ebhprb8yzcxbazo5lznr1q5fpw7a4ne5>). At the end of each fiscal year, they tally the total annual supply expenditure and add it to the first worksheet of the spreadsheet. 
+* The Collection Services staff person in charge of supplies tracks items in a [spreadsheet on OneDrive](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Supplies/Manuscript%20supplies%20by%20FY.xls?d=w80669ca22cb04347910d5c9d56940905&csf=1&web=1&e=t62Cdl). At the end of each fiscal year, they tally the total annual supply expenditure and add it to the first worksheet of the spreadsheet. 
 * When orders arrive, move them from the Level 2 mailroom to Level 9 in a timely fashion, calling on help from others available. Label them clearly and put them away in the archival supply storage area. 
 
 ## 13.3 Shipping Supplies
