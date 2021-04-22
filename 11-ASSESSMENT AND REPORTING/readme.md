@@ -1,5 +1,7 @@
 # Assessment and Reporting
 
+Current owner: **Sarah Quigley**
+
 * [11.1 Output Metrics and Statistics](#111-output-metrics-and-statistics)
 	* [11.1.1 Accessioning](#1111-accessioning)
 	* [11.1.2 Processing](#1112-processing)
@@ -34,7 +36,7 @@ We track these through ArchivesSpace and can generate reports as needed.
 * Level to which collection is arranged and described;
 * Number of GB processed.
 
-We track these statistics on a [spreadsheet](<https://emory.app.box.com/file/243119095713> "https://emory.app.box.com/file/243119095713").  Each person is responsible for managing their own stats and getting them to Head of Collection Services quarterly.  
+We track these statistics on a [spreadsheet](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=JviidN).  Each person is responsible for managing their own stats and getting them to Head of Collection Services quarterly.  
 
 ### 11.1.3 Born-Digital Collections
 
@@ -42,7 +44,7 @@ We track these statistics on a [spreadsheet](<https://emory.app.box.com/file/243
 * Amount ingested into the Keep (in GB);
 * Amount processed and made available in RR (in GB). 
 
-We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb8uqgc2kl8vqwn6p6316k9bezq9nvm) and a tab in the [annual processing report](<https://emory.app.box.com/file/243119095713> "https://emory.app.box.com/file/243119095713")
+We track these statistics in the [Master Shelf List](https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=GhjIw4) and a tab in the [annual processing report](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=JviidN)
 
 ### 11.1.4 Cataloging (print)
 
@@ -52,7 +54,7 @@ We track these statistics in the [Master Shelf List](https://emory.box.com/s/zxb
 * Number of serial issues;
 * Parent collection/collecting area (General monographs and serials, Danowski monographs and serials, Emory University Archives, and selected other project-based categories as needed).
 
-We track these statistics on a [spreadsheet](<https://emory.app.box.com/folder/42712015208> "https://emory.app.box.com/folder/42712015208")
+We track these statistics on a [spreadsheet](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Cataloging%20Statistics?csf=1&web=1&e=h94Gik)
 
 Danowski and Billops-Hatch print cataloging statistics are also reported annually to their respective boards. 
 
@@ -64,7 +66,7 @@ Danowski and Billops-Hatch print cataloging statistics are also reported annuall
 * Number of gifts received and documented within the same quarter and fiscal year;
 * Extents of material received.
 
-The Accessioning Archivist tracks purchases and gifts in the [Acquisitions Receiving Logs](https://emory.box.com/s/zjnllx6bntj7hnzlh1m8heebibm030ol). The Accessioning Archivist [compiles the collections receiving statistics](https://emory.box.com/s/u78dhmnv3ewxkesvt4wk8kri363dx2m9) based on that tracking. 
+The Accessioning Archivist tracks purchases and gifts in the [Acquisitions Receiving Logs](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=OgfSLd). The Accessioning Archivist [compiles the collections receiving statistics](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Collection%20Receiving%20Stats.xlsx?d=wb6581d8eed0c40a8be282a8c50f6a871&csf=1&web=1&e=76eI5M) based on that tracking. 
 
 ### 11.1.6 Emory Finding Aids and Alma
 
