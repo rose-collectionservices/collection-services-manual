@@ -25,7 +25,7 @@ Content owner: **Sarah Quigley**
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
-When writing descriptive records for the Rose Library you should conform first and foremost to the conventions of the descriptive or bibliographic standard (DACS, MARC) that you are using.  The Emory University Communications and Public Affairs Office provides additional [style guidance](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html) for Emory publications related content and Collection Services maintains a [unit-specific style guide](https://emory.app.box.com/notes/161764012821) for issues that commonly arise during description, including grammatical and spelling preferences and guidance on formulating folder titles. 
+When writing descriptive records for the Rose Library you should conform first and foremost to the conventions of the descriptive or bibliographic standard (DACS, MARC) that you are using.  The Emory University Communications and Public Affairs Office provides additional [style guidance](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html) for Emory publications related content and Collection Services maintains a [unit-specific style guide](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/CS%20Formatting%20and%20Style%20Guide.docx?d=w2df9086f1e054dae8759c45d7167703c&csf=1&web=1&e=jZhKev) for issues that commonly arise during description, including grammatical and spelling preferences and guidance on formulating folder titles. 
 
 ## 6.1 Original Folders
 
@@ -206,7 +206,7 @@ When possible, **framed items** such as photographs, certificates, or artwork, s
 *Figure 2*
 
 
-There are three sizes for labels. The most commonly used is the [4" x 3 1/3" labels](https://emory.box.com/s/ngo8fl1q6sstzznvui8kcy07zaiac1xo). These are used for record center boxes and Hollinger boxes.  Smaller labels measuring [4" x 2"](https://emory.box.com/s/ahsll1tcbeyyzjfwfxep0u21xhwvklfp) are used for the half Hollinger boxes as well as the OP boxes.  There is an [additional template for the 4" x 2" labels](https://emory.box.com/s/gk9skuimm2rvv6djpsxm2fyhasnsw3ya), specifically formatted for OP boxes measuring 1.5" in depth. 
+There are three sizes for labels. The most commonly used is the [4" x 3 1/3" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20101-200.doc?d=w22bbbb9e7367446a8b9f668b968c1827&csf=1&web=1&e=zxIl64). These are used for record center boxes and Hollinger boxes.  Smaller labels measuring [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh) are used for the half Hollinger boxes as well as the OP boxes.  There is an [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4), specifically formatted for OP boxes measuring 1.5" in depth. 
 
 
 Restricted material and material that has mold must be housed separately from the rest of the collection.  Restricted material should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.   
@@ -247,7 +247,7 @@ Boxes that contain **moldy material** should be labeled with two brightly colore
 
 *Figure 9: Oversized and flat boxes*
 
-[Link to flag template](https://emory.box.com/s/zpcg59awf14f1wjiqy72x5oc4ahifzdv) 
+[Link to flag template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates?csf=1&web=1&e=uxFzdG) 
 
 [Link to preservation section](/09-PRESERVATION)
 
@@ -273,7 +273,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-[Link to label template](https://emory.box.com/s/henpz5g7cn4yrdty84lkvxeg7cq6ecgw)
+[Link to label template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels?csf=1&web=1&e=2sa8bd)
 
 
 
