@@ -277,6 +277,8 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	Type is equal to "accession"
 	*	The role of the staff member linked as an agent is "accessioner"
 	*	Date is the date the event record is created
+
+*	If creating a new collection, assign a new manuscript number by taking the next number in sequence in the [Manuscript Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk")
 *	Spawn a resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE") for stub resource records
 *	Print any needed documentation from OneDrive using the external documents link in the accession record and combine with any physical documentation in hand to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice if there is no deed.
 *	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
@@ -367,7 +369,7 @@ An agent is a person, corporate body, family, or software responsible in some wa
 
 Add an agent subrecord for both the source and the creator of the accession, even if they are the same. 
 
-[See Creating an Agent Record in ArchivesSpace.](<https://emory.box.com/s/6ifmuof95mn09ncfl2tueyj5c9kwiyt0> "https://emory.box.com/s/6ifmuof95mn09ncfl2tueyj5c9kwiyt0")
+[See Creating an Agent Record in ArchivesSpace.](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc")
 
 Agent records for curators and archivists responsible for the accession will be added to event records.
 
@@ -377,7 +379,7 @@ All accession records must be linked to a resource record.
 
 When accessioning a new collection, resource records will be spawned from the accession record and automatically linked.
 
-[See Creating a Resource Record in ArchivesSpace](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc") for spawning instructions.
+[See Creating a Resource Record in ArchivesSpace](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_ResourceRecords.docx?d=w3f0763fa10134a8d842f4ec3aaf92ee9&csf=1&web=1&e=fVaPQ4> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_ResourceRecords.docx?d=w3f0763fa10134a8d842f4ec3aaf92ee9&csf=1&web=1&e=fVaPQ4") for spawning instructions.
 
 When accessioning additions to a collection, add a related resources subrecord here. Click "Add Related Resource" in the right corner of the subrecord.
 
@@ -598,6 +600,8 @@ There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sit
 - [ ] Move containers to permanent physical locations
 - [ ] Update [processing statistics spreadsheet](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG")
 - [ ] Update record in [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa")
+- [ ] If shelving onsite, update the [Stacks Space Map](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=vyfuBV> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=vyfuBV")
+- [ ] Notify Accessioning Archivist of new or modified containers
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
 
