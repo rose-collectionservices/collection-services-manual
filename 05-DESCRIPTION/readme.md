@@ -20,7 +20,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.10 Publication note](#5110-publication-note)
 	* [5.1.11 Related collections in this repository](#5111-related-collections-in-this-repository)
 	* [5.1.12 Related collections in other institutions](#5112-related-collections-in-other-institutions)
-	* [5.1.13 Separated materials](#5113-seperated-materials)
+	* [5.1.13 Separated materials](#5113-separated-materials)
 	* [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition)
 	* [5.1.15 Custodial history](#5115-custodial-history)
 	* [5.1.16 Citation](#5116-citation)
@@ -32,6 +32,12 @@ Content owner: **Sarah Quigley**
 	* [5.1.22 Additional finding aids](#5122-additional-finding-aids)
 * [5.2 Using the Microsoft Word template](#52-using-the-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
+* [5.4 Anti Oppressive Archival Description Principles and Guidelines](#54-anti-oppressive-archival-description-principles-and-guidelines)
+	* [5.4.1 Describing Race and Ethnicity](#541-describing-race-and-ethnicity)
+	* [5.4.2 Describing Enslavement and Colonization](#542-describing-enslavement-and-colonization)
+	* [5.4.3 Describing Sexuality](#543-describing-sexuality)
+	* [5.4.4 Describing Gender](#544-describing-gender)
+	* [5.4.5 Resources](#545-resources)
 
 "Description is the creation of an accurate representation of…archival material by the process of capturing, collating, analyzing, and organizing 
 information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these 
@@ -944,8 +950,189 @@ Finding aids go through two rounds of editing and feedback before they're publis
 
 Once the finding aid is published, send the permanent link to the donor (via email, if that information is available).  They may have additional questions about how the collection is arranged and described or factual corrections.  It is not necessary to delay publication of a finding aid in order to seek feedback from a collection donor.
    
+## 5.4 Anti Oppressive Archival Description Principles and Guidelines
+
+These guidelines for creating inclusive, anti-oppressive archival description were developed as part of a project to acknowledge and remediate harmful language in the Rose Library's archival descriptive tools. These guidelines are also intended to aid in the creation of all new archival description. This document contains rules and suggestions for describing the marginalized communities most commonly documented in Rose Library’s collections. It includes references to helpful resources for describing identities and circumstances less well-represented in our holdings.  It does not currently address the use of LCSH subject headings in finding aids. We are watching closely other initiatives in the Libraries to address subject headings and will revise our policies when we can be in alignment with them.
+
+**Principles**
+
+While Rose Library staff includes people of color and LGBTQIA+ people, we acknowledge that we are a staff of predominantly white, cisgender, heterosexual archivists who are responsible for describing historically underrepresented communities of which we are mostly not part. We are obligated to describe the individuals and communities documented in our collections with care and respect and to minimize as much as possible the detrimental effects of our limited and privileged experiences.  
+ 
+The description we create reflects our institutional and professional ethics and values; centers the needs of our users and the communities we document; contributes to a welcoming and supportive environment for users; is transparent about our knowledge, expertise, and biases; and is a function of archival practice that requires continuous reflection and improvement.<a href="#anchor3"><sup>3</sup></a>
+ 
+We include donors/creators in the creation of our description as much as possible and invite feedback and correction from user and donor communities. 
+
+**General Guidelines**
+
+* When choosing language, first ask yourself why you’re choosing a word or phrase and how it benefits our users. 
+* When transcribing description provided by donors/creators, contextualize potentially derogatory titles made by the creator where possible by using quotation marks and writing a robust and transparent processing note that addresses the use of those terms.
+* Describe creators/subjects as they describe themselves.
+* Prioritize people’s humanity over their identities, occupations, or relationships.
+* Default to person-first language unless you know the individual or community you’re describing prefers alternate terminology (i.e., person with a disability vs. disabled person).
+* Use people’s names and do not identify them by their relationships to others alone (i.e., Jane Smith not Mrs. John Smith or the wife of John Smith).
+* Be as specific as you can be (i.e., Korean not Asian).
+* Do not use euphemistic language to describe difficult topics such as racist or gendered violence.
+* Avoid use of the passive voice.
+	
+**Revision Cycle**
+
+We are committed to regularly revising and revisiting our past description. We will undertake a systematic review of finding aids as part of the adoption of these guidelines. We will also continue our existing practice of inviting revision suggestions and reports of errors in our finding aids from users. 
+
+We acknowledge that we are applying our 21st Century understanding of race, gender, and sexuality to groups and individuals who may not have held the same understanding. We know that there is often no way to know how a historical figure identified or was perceived in the context of their own time, place, and community.  In describing archival collections and their creators, we often make assumptions about an individual’s race or gender that may not be in line with their own self-identification. We will let information in the collections guide our description and will correct our description if/when we become aware of new information.
+
+Additionally, preferred terminology for describing individuals or communities changes over time. The guidelines that we are recommending today may not be appropriate in the future. We will periodically review and update these guidelines to ensure that our descriptive policies reflect current best practices and meet contemporary cultural norms. 
+
+### 5.4.1 Describing Race and Ethnicity
+
+**Principles to Consider**
+
+* Always identify race and ethnicity when it's known. 
+* Be as specific as possible. For example, if you know an individual is Korean, describe them as such rather than using the more general term, Asian.
+* Describe whiteness as you would describe the racial and ethnic identities of people of color to avoid presenting whiteness as the default and othering non-white identities. 
+* Ensure your description includes terms that are acceptable within the individual's community, especially when describing individuals whose race or ethnicity is less familiar to you or underrepresented in our collections.
+* When transcribing description provided by donors/creators, contextualize potentially derogatory titles made by the creator where possible by using quotation marks and writing a robust and transparent processing note that addresses the use of those terms.
+
+**Preferred Terms**
+
+* African American 
+* Black person, always capitalized 
+	* Be sensitive to possible generational or individual preferences for African American vs. Black. 
+* white person, never capitalized 
+* Native American, American Indian, or Indigenous American when describing groups or individuals with unknown tribal affiliation or where multiple identities are represented
+	* Be sensitive to personal preference when deciding which term to use; each is acceptable within different communities but may be unacceptable in others. 
+* People/person of color, when describing groups or individuals with multiple or unknown racial and ethnic identities 
+
+**Language to Avoid**
+
+* Caucasian has its roots in racist anthropological/scientific practices and should not be used as a synonym for white.<a href="#anchor4"><sup>4</sup></a> 
+* Be careful not to automatically default to African American for creators and subjects who may identify as Caribbean American, Afro-Latinx, etc., or who may be foreign-born. 
+* Do not use people/person of color when referring to one specific racial or ethnic identity. 
+* Do not use outdated terms that were once acceptable, even if those terms are prevalent in the collection.
+* Blacks, whites, etc.
+* Consider “nation,” “language group,” or “ethnicity” instead of “tribe.”
+
+### 5.4.2 Describing Enslavement and Colonization
+
+**Principles to Consider**<a href="#anchor5"><sup>5</sup></a>
+
+* Many of the Rose Library's collections documenting enslavement in the United States will do so from the perspective of the white enslavers. Make every effort to surface and highlight the records documenting enslaved persons in the collection.
+* Use the names of enslaved people whenever possible.
+* If you’re writing about violence, rape, assault and coercion under slavery, name that violence rather than obscuring it with euphemisms.
+* North American 19th Century Black activists often were activists for decades after the Civil War. Calling them “abolitionists” is reductive and obscures the depth of their work following the Civil War. 
+* Slavery was the economic foundation of every country in the Americas, not just the United States. Be specific and only use "America" when referring to the entire landmass. 
+* Be specific when using the names of nations that often were not nations at the time of consideration, or at least underscore their colonial political condition until independence, i.e. abolition in Cuba does not occur until 1886, when it was still a colony of Spain. 
+* Be aware of shifting allegiances with regards to national identities as claimed by the people on the ground themselves: if a child was born free in Western Africa, captured and traded to Havana, and lives the majority of his adult life in New Orleans, how would you describe him? Understand and highlight his multilingual, diasporic, multiple existence. 
+* When transcribing description provided by donors/creators, contextualize potentially derogatory titles made by the creator where possible by using quotation marks and writing a robust and transparent processing note that addresses the use of those terms.
+
+**Preferred Terms**
+
+* Enslaved (Africans, people, mothers, workers, artisans, children, etc.)
+	* Using enslaved (as an adjective) rather than “slave” (as a noun) disaggregates the condition of being enslaved with the status of “being” a slave. People weren’t slaves; they were enslaved. 
+* Free (man, woman, child, person)
+* Captive (Africans, fathers, families, workers, infants, etc.)
+* Enslaver (rather than many of the terms below)
+* Enslaved laborers instead of nannies, domestic servants 
+	* Describe the type of labor they did instead of using a term that obscures their enslavement, such as "enslaved woman/man who worked as…"
+	* Consider using terms such as "enslaved nanny" or "enslaved domestic servant"
+* Freedom seeker instead of fugitive 
+* Consider using not only the term “stolen labor,” but also “stolen labor, knowledge and skills.” 
+
+**Language to Avoid**
+
+* Slave master  
+	* The term “master” transmits the aspirations and values of the enslaving class without naming the practices they engaged. 
+* Slaveholder 
+* Slave owner 
+	* Alternatives: those who claimed people as property, those who held people in slavery, etc. 
+* Planter (when referring to enslavers) 
+* Slave mistress and enslaved mistress (to name sexual violence/relations/conditions)
+	* Both terms imply romantic or consensual relationships.
+* Slave concubine and enslaved concubine 
+* Slave breeding/breeders (for forced reproduction) 
+* Chattel
+* Domestic servants 
+* "Runaway slave” 
+	* Alternatives: “fugitives from slavery” or “self-liberated” or “self-emancipated” individuals 
+* No one was “born a slave,” instead people were born with “free” or “slave” status.
+* When describing plantations, avoid valorizing and nostalgic language that obscures the realities of slavery.
+
+### 5.4.3 Describing Sexuality
+
+**Principles to Consider**
+
+* Avoid framing collection description exclusively around a person’s sexual identity - their materials have historic value beyond their sexual identity. 
+* Remember that language or identity can be generational; language changes over time and words used now haven't always been acceptable, i.e. queer, and words commonly used in the past may have pejorative meanings to contemporary audiences.
+* Where possible have a conversation with the donor, creator, or person depicted in the materials, or other stakeholders, about how they identify and how they would prefer to be identified. Defer to that identification. If you are unable to communicate with a person directly about their identification, then defer to evidence in the collection. 
+* To provide context, make it clear when a creator has used language that some people might find outdated or offensive in their materials by creating a transparent processing note and including additional notation where necessary such as quotation marks. 
+* Remember that individual actions and behaviors do not always neatly correspond to a particular identity category. In cases where collections contain evidence of queer behaviors or relationships, but no evidence that the actors involved claimed a queer identity, it is preferable to describe the contents of a collection (i.e. love letters between X and Y) rather than assign an identity category to a person that may be inaccurate or inappropriate.
+
+**Preferred Terms**
+
+* Use language that conveys support. Using supportive language can convey to a reader that our reading room is a welcoming place for the LGBTQIA+ community. 
+
+**Language to Avoid**
+
+* Avoid incorporating historically derogatory terms unless the term has been expressly used, embraced, or reclaimed by the donor, creator, person, or group represented in the material as a key piece of their self-description or identity 
+	* Contextualize potentially derogatory titles made by the creator where possible by using quotation marks and writing a robust and transparent processing note that addresses the use of those terms. 
+* Avoid using euphemistic or silencing language that would imply non-normative sexualities are shameful or shouldn’t be stated plainly (if appropriate and respectful of how the individual identified or lived their life). Consider taking a holistic approach when giving identity to an individual. What clues are in the materials or resources used to write the finding aid that provide the needed evidence for this identification? 
+* Avoid using language that assumes or frames heterosexuality as the norm or default, i.e. assuming a women’s partner is automatically a man. 
+* Avoid using generalizing language that applies an individual’s identity to an entire group.
+
+### 5.4.4 Describing Gender
+
+**Principles to Consider**
+
+* When a historical person’s gender identity is not known, privilege clues about gender found in contemporary sources from close friends or family rather than legal or medical descriptions.  In the absence of contemporary historical sources use your best judgment.  
+* Recognize that gender presentations may change over time or manifest differently in different contexts or social groups. Use the most recent or most appropriate to the context represented in the records in your description. 
+* When transcribing description provided by donors/creators, contextualize potentially derogatory titles made by the creator where possible by using quotation marks and writing a robust and transparent processing note that addresses the use of those terms.
+
+**Preferred Terms**
+
+* Use the gender identity and pronouns used by the individual you are describing. 
+* Use they/them pronouns when describing nonbinary or gender diverse individuals whose pronouns are unknown. 
+* Identify women by their given names, not their husband's names. Make every reasonable effort to identify their names if it is not obvious from the collection material. 
+* Provide all relevant names in narrative description when possible; this is particularly important for individuals who may be known professionally and privately by different names (for example, maiden names and married names). 
+* Only use the word transgender as an adjective. 
+* Use of the singular, gender neutral pronoun "they" is acceptable.
+
+**Language to Avoid**
+
+* Do not refer to gender identity or pronouns as "preferred." 
+* Avoid the use of the universal "he" or "man." 
+* If a trans* person has transitioned and dissociated from the gender and gendered identity they were assigned at birth, do not use their dead name in the description. Refer to the individual only by the name(s) they used after transitioning.  Only use birth names with permission. 
+	* If an individual's Library of Congress authorized name is still their dead name, do not use it as a main entry and talk to Beth about updating the record.
+* Avoid the use of language that pathologizes trans* individuals. 
+
+
+### 5.4.5 Resources
+
+In writing these guidelines we have drawn heavily on the following resources.
+ 
+These guidelines are a starting place and do not give comprehensive guidance on how to describe all communities or individuals. When in doubt or when describing identity categories not covered by these guidelines, refer to these or other appropriate resources.  
+
+* [American Psychological Association, Style and Grammar Guidelines, "Bias-Free Language"](<https://apastyle.apa.org/style-grammar-guidelines/bias-free-language> "https://apastyle.apa.org/style-grammar-guidelines/bias-free-language")
+* [Archives for Black Lives in Philadelphia, Anti-Racist Description Resources](<https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf> "https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf")
+* [Association of Moving Image Archivsts (AMIA) crowd-sourced list of DEI controlled vocabularies](<https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit#gid=0> "https://docs.google.com/spreadsheets/d/19solOX6tQTYvlF4lr_JNz2WlcsA76CcK3bxvYZ8cHzg/edit#gid=0")
+* [Chicago Manual of Style, "Grammar and Usage"](<https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/psec249.html> "https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/psec249.html") 
+* [Conscious Style Guide](<https://consciousstyleguide.com/> "https://consciousstyleguide.com/")
+* [Dean, Jackie, "Conscious Editing of Archival Description at UNC Chapel Hill"](<http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf> "http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf")
+* [Duke blog post of various resources](<https://blogs.library.duke.edu/bitstreams/2019/08/16/approaches-toward-managing-problematic-metadata/> "https://blogs.library.duke.edu/bitstreams/2019/08/16/approaches-toward-managing-problematic-metadata/")
+* [Foreman, P. Gabrielle, et al., "Writing about Slavery/Teaching About Slavery: This Might Help," community-sourced document](<https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic> "https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic") 
+* [Hart, L. J., "Conscious Language for a Jim Crow Archive" video](<https://cdr.lib.unc.edu/concern/multimeds/6q182q97n> "https://cdr.lib.unc.edu/concern/multimeds/6q182q97n")
+* [Princeton Inclusive Description Working Group](<https://blogs.princeton.edu/techsvs/2020/02/28/inclusive-description-working-group/> "https://blogs.princeton.edu/techsvs/2020/02/28/inclusive-description-working-group/")
+* [The Radical Copyeditor's Style Guide for Writing about Transgender People](<https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/> "https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/")
+* [Safe Zone Project glossary](<https://thesafezoneproject.com/resources/vocabulary/> "https://thesafezoneproject.com/resources/vocabulary/")  
+* [Sunshine State Digital Network Metadata Working Group, Inclusive Metadata and Conscious Editing Resources](<https://docs.google.com/document/d/1APavAd1p1f9y1vBUudQIuIsYnq56ypzNYJYgDA9RNbU/edit> "https://docs.google.com/document/d/1APavAd1p1f9y1vBUudQIuIsYnq56ypzNYJYgDA9RNbU/edit")
+* [Tang, Annie, Dorothy Berry, Kelly Bolding, and Rachel E. Winston, "Toward Culturally Competent Archival (Re)Description of Marginalized Histories," slides from SAA2018 session](<https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1023&context=library_presentations> "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1023&context=library_presentations")
+
 *Footnotes:*
 
 <a id="anchor1">[1]</a> DACS.
 
 <a id="anchor2">[2]</a> This practice violates DACS rules adopted in 2013.  Collection Services staff made the decision to retain historical practice in these cases to avoid conflation of manuscript collections with EUA collections and to avoid implying that Rose Library had created any individual documents within an artificial collection.
+
+<a id="anchor3">[3]</a> DACS
+
+<a id="anchor4">[4]</a> Carol C. Mukhopadhyay, "Getting Rid of the Word 'Caucasian,'" Everyday Anti-Racism: Getting Real about Race in School, ed. Mica Pollock, (New York: The New Press, 2008), 12-16.
+
+<a id="anchor5">[5]</a> Much of this section is taken from P. Gabrielle Foreman, "Writing about Slavery/Teaching About Slavery: This Might Help," community-sourced document, accessed March 9, 2021, https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic
