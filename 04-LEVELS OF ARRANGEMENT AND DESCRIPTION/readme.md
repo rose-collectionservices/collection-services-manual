@@ -261,7 +261,7 @@ miscellany collections will likely be arranged and described to this level as we
 | Series level                                                         | 2-5 hours per linear foot   |
 | File level condition 1 (when material arrives foldered)              | 6-12 hours per linear foot  |
 | File level condition 2 (when material is unorganized and unfoldered) | 15-20 hours per linear foot |
-| Item level                                                           |                             |
+| Item level                                                           | 25-40 hours per linear foot |
 
 
 ### 4.4.2 Expense:
