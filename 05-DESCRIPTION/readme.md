@@ -1099,7 +1099,7 @@ Additionally, preferred terminology for describing individuals or communities ch
 
 * Do not refer to gender identity or pronouns as "preferred." 
 * Avoid the use of the universal "he" or "man." 
-* If a trans* person has transitioned and dissociated from the gender and gendered identity they were assigned at birth, do not use their dead name in the description. Refer to the individual only by the name(s) they used after transitioning.  Only use birth names with permission. 
+* If a trans* person has transitioned and dissociated from the gender and gendered identity they were assigned at birth, do not use their dead name in the description. Refer to the individual only by the name(s) they used after transitioning.  Only use names assigned at birth with permission. 
 	* If an individual's Library of Congress authorized name is still their dead name, do not use it as a main entry and talk to Beth about updating the record.
 * Avoid the use of language that pathologizes trans* individuals. 
 
