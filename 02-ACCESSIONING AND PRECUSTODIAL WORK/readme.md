@@ -279,7 +279,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 	*	Date is the date the event record is created
 
 *	If creating a new collection, assign a new manuscript number by taking the next number in sequence in the [Manuscript Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk")
-*	Spawn a resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE") for stub resource records
+*	Link to an existing resource record for additions to collections or spawn a new resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE") for stub resource records
 *	Print any needed documentation from OneDrive using the external documents link in the accession record and combine with any physical documentation in hand to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice if there is no deed.
 *	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
 *	Update the status of the acquisition in the [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa"). Changing the status to "Complete" will automatically send the curator an email.
@@ -581,7 +581,7 @@ There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sit
 
 ### 2.3.6 Accessioning Checklist
 
-- [ ] [Create accession record](#232-creation-of-the-accession-record)
+- [ ] [Create/update accession record](#232-creation-of-the-accession-record)
 - [ ] Write accession number on the acquisitions paperwork
 - [ ] [CL-2 file: create or update](#235-creating-the-cl-2-file)
 - [ ] [Arrange and re-house](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
