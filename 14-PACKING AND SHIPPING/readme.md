@@ -72,7 +72,7 @@ For example:
 | 6   | Family photographs, 1940s?-1980s     |
 | 7   | Family correspondence, 1940s?-1980s  |
 
-If a collection includes born-digital files stored on the donor's current computer, the curator should notify the Head of Collection Services and the Digital Archivist at least two weeks in advance of any packing trip in order to allow time to plan and gather information and fill out the Born Digital Acquisitions [content](https://emory.box.com/s/xysd8qt76libb81gjgc8g23lza6qj409) and [technical](https://emory.box.com/s/6orsm5gbipf6zqk5xh80onh0lxazq4h2) surveys.
+If a collection includes born-digital files stored on the donor's current computer, the curator should notify the Head of Collection Services and the Digital Archivist at least two weeks in advance of any packing trip in order to allow time to plan and gather information and fill out the Born Digital Acquisitions [content](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents/Born-Digital_survey.docx?d=wcccb3b8e8603434b9f77f69aa3d405b9&csf=1&web=1&e=2I5cNF) and [technical](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Digital%20Collections/Forms,%20Surveys,%20and%20Handouts/BD_technicalSurvey.docx?d=w82829536ed7f4d64b460cad6dbd06bc0&csf=1&web=1&e=Oy0E7f) surveys.
 
 Collection Services members should submit a report of all packing trips to the Head of Collection Services to be shared with the accessioning team. The report will include the container list made while on site, a general report of the physical space and how the records were created and used, and a high level collection analysis indicating potential series, along with any photographs they took of the collection before and during packing.  
 
@@ -142,7 +142,7 @@ FedEx can pick up collections from donors' homes except in the following situati
 
 ### 14.2.2.1 Shipping supplies
 
-The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.box.com/s/v3pyo8lns5qeexc5umm8egc2gh1rm58t), and curators should consult with them thoroughly about what material should be sent.
+The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Packing%20instructions%20for%20donors%20shipping%20via%20FedEx.docx?d=w220c3220f3094b58938b27df8e17d4d1&csf=1&web=1&e=M3Iv30), and curators should consult with them thoroughly about what material should be sent.
 
 If shipping supplies are needed, please contact the Accessioning Archivist with:
 
@@ -166,7 +166,7 @@ Once a collection is packed, the boxes will either need to be taken to a FedEx l
 To request a pickup from FedEx for domestic shipping, the Accessioning Archivist will:
 
 1. Call the FedEx customer service line at 1-800-463-3339.
-2. Provide our account number located [here.](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r)
+2. Provide our account number located [here.](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/FedEx%20Account%20Information.docx?d=w1c94ec7fcaa04736ae2ecdf540770e5f&csf=1&web=1&e=tETqVb)
 3. Request a remote pickup; FedEx Ground is standard.
 4. Provide the same information that was provided for the shipping labels: pickup address, contact name and phone number, number of boxes, approximate total weight of entire shipment, as well as the requested day of pickup of the donor/seller.
 5. Note the confirmation number and forward that information to the donor and curator. Indicate that this number is not a tracking number and may only be used by calling the 1-800 customer service number.
@@ -176,12 +176,12 @@ To request a pickup from FedEx for domestic shipping, the Accessioning Archivist
 The Library Mail Clerk cannot create international shipping labels. To create international shipping labels for FedEx, the Accessioning Archivist will:
 
 1. Go to [fedex.com](www.fedex.com);
-2. [Log into *My Profile*](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r);
+2. [Log into *My Profile*](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/FedEx%20Account%20Information.docx?d=w1c94ec7fcaa04736ae2ecdf540770e5f&csf=1&web=1&e=tETqVb);
 3. Under Shipping, select “Create Shipment”;
 4. Enter all of the pertinent information and click “Ship”;
 5. A pdf of the labels will be created.
 
-Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our [packing instructions.](https://emory.box.com/s/zb6r0acdgrltogu9d299idqsd04qlihf)
+Once the labels are created, they may either be emailed as a .pdf to the donor/seller for printing or printed and mailed to the individual. This is a good opportunity to share with them our [packing instructions.](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Packing%20instructions%20for%20donors%20shipping%20via%20FedEx.docx?d=w220c3220f3094b58938b27df8e17d4d1&csf=1&web=1&e=M3Iv30)
 
 ULINE does not ship internationally. To provide the donor/seller with packing supplies, we either: 
 
@@ -193,7 +193,7 @@ Sometimes, the Rose Library will contract out to a vendor to pack internationall
 Once the donor/seller is ready to ship, the Accessioning Archivist will request a pickup from FedEx for international shipping:
 
 1.	Call the FedEx customer service line at 1-800-463-3339;
-2.	Provide our [account number](https://emory.box.com/s/w4pibaqahkkqx7qq7rkw4me33m6lw35r);
+2.	Provide our [account number](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/FedEx%20Account%20Information.docx?d=w1c94ec7fcaa04736ae2ecdf540770e5f&csf=1&web=1&e=tETqVb);
 3.	Request a “Remote Pickup” for international FedEx Express;
 4.	Provide the same information that was provided for the shipping labels.
 
