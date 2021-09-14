@@ -19,7 +19,7 @@ Content owner: **Meaghan O'Riordan**
 	- [17.9.5 Ellipses](#1795-ellipses)
 	- [17.9.6 Hyphenation](#1796-hyphenation)
 	- [17.9.7 Lists](#1797-lists)
-	- [17.9.8 Semicolons](#1798-semicolons)
+	- [17.9.8 Semicolons and colons](#1798-semicolons-and-colons)
 	- [17.9.9 Spacing](#1799-spacing)
 - [17.10 Style Guides](#1710-style-guides)
 - [17.11 Terminology](#1711-terminology)
@@ -45,6 +45,7 @@ DACS, RDA, and name authority rules trump this style guide.
 
 - Capitalize the full or shortened version of a proper name but not generic categories
 	- Academie Royale de Peinture et de Sculpture, Academie Royale, *not* the Academy
+	- civil rights movement *not* Civil Rights Movement
 
 - Capitalize the proper names of nationalities, peoples, races, and tribes
 	- Jewish, French, Hispanic, Native American, Latino, Eskimo, Cherokee, African American, Asian
@@ -393,7 +394,7 @@ Punctuate ordered lists but not unordered lists:
 - Label and barcode boxes
 1. Label and barcode boxes
 
-### 17.9.8 Semicolons
+### 17.9.8 Semicolons and Colons
 
 - If the second clause is introduced by a conjunctive adverb such as *however* or *therefore*, use a semicolon
 	- The artist has worked in several media; however, she now prefers acrylics.
@@ -404,6 +405,8 @@ Punctuate ordered lists but not unordered lists:
 - Use a semicolon between items in a list or series when each listed item contains other marks of punctuation
 	- The sites being considered for the new Volkswagen plant are Waterloo, Iowa; Savannah, Georgia; Freestone, Virginia; and Rockville, Oregon.
 		- However: The sites being considered for the new Volkswagen plant are Iowa, Georgia, Virginia, and Oregon.
+
+- Use a colon to denote sections of a container list when series and subseries are not being used but there are significant groupings of material that should be listed together in the container list. The first word after a colon used for this purpose in a file title should be capitalized.
 
 ### 17.9.9 Spacing
 
