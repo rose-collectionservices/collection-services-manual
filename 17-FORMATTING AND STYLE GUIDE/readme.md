@@ -50,9 +50,10 @@ DACS, RDA, and name authority rules trump this style guide.
 - Capitalize the proper names of nationalities, peoples, races, and tribes
 	- Jewish, French, Hispanic, Native American, Latino, Eskimo, Cherokee, African American, Asian
 
-- Lowercase distinctions of color
-	- black, white
-	- National designation is preferred to black as a designator of race, unless the figure specifically refers to themselves as black
+- Capitalization of races
+	- Black is always capitalized
+	- white is not capitalized
+	- National designation should included as a designator of race or national origin when appropriate
                 - African, African American, British, Guyanese, Haitian American, Nepalese
 
 - Lowercase papers, records, collection, etc. in titles
