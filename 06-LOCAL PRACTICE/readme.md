@@ -18,8 +18,9 @@ Content owner: **Sarah Quigley**
 	* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
 * [6.5 Audiovisual material](#65-audiovisual-material)
-	* [6.5.1.1 Rehousing upon accessioning](#6511-rehousing-upon-accessioning)
-	* [6.5.1.2 Processing](#6512-processing)
+	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
+	* [6.5.2 Processing](#6512-processing)
+	* [6.5.3 Notes on Access] (#653-notes-on-access)
 * [6.6 Housing and storage](#66-housing-and-storage)
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
@@ -204,7 +205,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
-### 6.5.1.2 Processing
+### 6.5.2 Processing
 
 Audiovisual materials should be fully processed in conjunction with the paper materials of the collection, and minimal level processing should have been done at accessioning, so materials should be identified at least at that level.  It is likely that as of 2016, most collections will have not gone through the accession procedure listed above, so extra attention should be paid to those materials that have not been identified.  Regardless of the accessioning procedure followed, the following will need to be done for identification:
 
@@ -245,6 +246,15 @@ Within the parentheses, the number of boxes or items should be included.  As see
 Note: Image includes a date format that is no longer used.  The approved format is Year Month Day.
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization. Processing staff should use the [Media Guide](https://emory.sharepoint.com/:b:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Media%20Guide.pdf?csf=1&web=1&e=vawA0O) to identify formats.
+
+### 6.5.3 Notes on Access
+If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection. However, if this is done, and the archivist should note the identity of each title with the following language:
+
+"Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
+
+The following language should be included at the series and/or subseries level regarding the accessibility:
+
+"Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
 
 ## 6.6 Housing and Storage
 
