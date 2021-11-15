@@ -205,7 +205,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
-### 6.5.2 Processing
+## 6.5.2 Processing
 
 Audiovisual materials should be fully processed in conjunction with the paper materials of the collection, and minimal level processing should have been done at accessioning, so materials should be identified at least at that level.  It is likely that as of 2016, most collections will have not gone through the accession procedure listed above, so extra attention should be paid to those materials that have not been identified.  Regardless of the accessioning procedure followed, the following will need to be done for identification:
 
@@ -247,7 +247,7 @@ Note: Image includes a date format that is no longer used.  The approved format 
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization. Processing staff should use the [Media Guide](https://emory.sharepoint.com/:b:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Media%20Guide.pdf?csf=1&web=1&e=vawA0O) to identify formats.
 
-### 6.5.3 Notes on Access
+## 6.5.3 Notes on Access
 If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection. However, if this is done, and the archivist should note the identity of each title with the following language:
 
 "Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
