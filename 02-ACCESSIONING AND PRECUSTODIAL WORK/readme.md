@@ -62,7 +62,7 @@ Acquisitions that measure 5 linear feet or fewer will be stored on the new acqui
 Upon receipt of material the Accessioning Archivist will:  
 
 *	Open collection material less than 1 linear foot.
-*	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://emory.lyrasistechnology.org/staff//> "https://emory.lyrasistechnology.org/staff/") with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
+*	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://archives.libraries.emory.edu/staff/> "https://archives.libraries.emory.edu/staff") with an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
 *	Log in Airtable in the [Acquisitions and Accessioning base](<https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3> "https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3") or update status of existing record in Airtable. 
 *	Place the items and any accompanying documentation onto the appropriate curatorial review shelf (for material comprised of 5 linear feet or fewer)
 *	Locate stacks space for collection material greater than 5 linear feet and keep accompanying documentation in a secure file to process as needed
