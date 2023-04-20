@@ -553,7 +553,7 @@ Identifies the source from which the repository directly acquired the materials 
 
 **Required:** Required at the collection level. 
 
-The source note should always include the method by which a collection was acquired, who it was acquired from (in as much detail as appropriate), and the year acquired.  If the source is an individual (or individuals), full names are preferred.   
+The source note should always include the method by which a collection was acquired, who it was acquired from (in as much detail as appropriate), and the year acquired.  If the source is an individual (or individuals), full names are preferred. In cases where the initial information is not included, update additions to the collection with the full name (e.g. 2022 additions were a gift from (name). There will be some mixed descriptive practice on many of the older finding aids for collections with additions over the years, but use current practice for any new additions.
 
 The source field only describes the transaction by which the library receives materials. The custodial history note can be used to provide information about the history of the collection beyond the immediate source from which the library acquired the material.  The custodial history note is also the appropriate place to note the relationship between the creator of a collection and the source from which we acquired it.   
 
