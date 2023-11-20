@@ -150,8 +150,7 @@ The title best describes the contents of the collection, including the creator a
 name of the creator as part of the collection title.  If a collection contains the administrative records of an organization or corporate body, use the 
 term "records."  If a manuscript collection contains a variety of materials belonging to an individual or family, use the term "papers."  If the 
 collection is artificially created by an individual or by the Rose Library, use the term "collection."  If the collection consists of a single record type 
-or is overwhelmingly dominated by a single record type, use a term that describes the record type.  Capitalize only the first word and proper nouns in the 
-title. 
+or is overwhelmingly dominated by a single record type, use a term that describes the record type.  Capitalize only the first word and proper nouns in the title. Titles where married (or otherwise partnered) couples share a last name are represented in the title by their first names with the last name used only once as in the example, "John and Mary Smith."
 
 **Examples:**
 
