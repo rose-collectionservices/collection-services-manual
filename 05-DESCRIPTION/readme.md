@@ -533,13 +533,14 @@ This field identifies collections held in other repositories that have a close r
 
 ### 5.1.13 Separated Materials
 
-This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged or new collections that were created.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
+This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged, new collections that were created, or collection that include materials held by another Emory entity.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
 **Examples:**
 
 * The Rose Library holds books formerly owned by James Amos Porter. These materials may be located in the Emory University online catalog by searching for: Porter, James Amos, former owner. Among these is the rare The Gilly Willies (Hamburg, 1960), written and illustrated by Porter's student, Mildred Thompson. 
-* The May Miller papers were originally received as part of this collection and separated to form their own collection due to their size, research value, and distinct provenance. 
-
+* The May Miller papers were originally received as part of this collection and separated to form their own collection due to their size, research value, and distinct provenance.
+* The C.W. Stibbe papers were initially receieved by the Michael C. Carlos Museum as part of their acquisition of sherds which are still housed at the museum.
+  
 **Corresponding MARC field:**  544
 
 **Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
