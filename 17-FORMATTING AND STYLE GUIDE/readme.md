@@ -395,6 +395,16 @@ Punctuate ordered lists but not unordered lists:
 - Label and barcode boxes
 1. Label and barcode boxes
 
+File titles that repeat are identified by a bracketed number after the title.  Titles that use this system should match completely including dates. 
+
+   Correspondence, 1913-1914 [1]
+   Correspondence, 1913-1914 [2]
+    not
+   Correspondence, 1913-1914 [1]
+   Correspondence, 1915-1916 [2]
+
+File titles can use [1 of 2] instead of the previous format example to designate that the materials were arranged by the creator of the collection in that order, used when removing materials from a binder to multiple folders.
+
 ### 17.9.8 Semicolons and Colons
 
 - If the second clause is introduced by a conjunctive adverb such as *however* or *therefore*, use a semicolon
