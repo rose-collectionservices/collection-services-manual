@@ -852,7 +852,8 @@ For small and/or simple collections and collections with box level inventories, 
 	* Examples:
 		* Arranged in alphabetical order. 
 		* Arranged by record type, then in alphabetical order. 
-		* Arranged in chronological order. 
+		* Arranged in chronological order.
+		* Arranged in the order in which it was recieved.  (this is used in cases, especially upon accessioning, where little or no arrangement is done)
 		
 If a collection is divided into series, the collection level arrangement note must: 
 
