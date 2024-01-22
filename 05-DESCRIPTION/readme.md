@@ -239,10 +239,9 @@ life of the organization or when the volume of material within the bulk dates is
 
 **DACS Chapter 2.5:**
 
-Indicates the extent and the physical nature of the materials being described. This is handled in two parts, a number (quantity) and an expression of the 
-extent or material type.
+Indicates the extent and the physical nature of the materials being described. This is handled in two parts, a number (quantity in linear feet) and a container summary specifying the material type.
 
-**Required:** Required at the collection, series, and sub-series levels.  
+**Required:** Required at the collection level only.  
 
 This field describes the collection's linear footage, number of boxes, extent of oversized material, number of boxes of audiovisual material, and bytes of 
 data and/or extent of physical media for born digital content.  
