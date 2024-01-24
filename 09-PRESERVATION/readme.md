@@ -90,10 +90,10 @@ Collection Services staff may identify items that need repair at the point of ca
 
 The process by which books enter and move through the queue is as follows: 
 
-1.The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers. 
-2. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking. 
+1. The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers.
+2. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking.
 3. After the item is properly marked, the Marking student moves those items to the designated “PreservationPrep” bays.
-4. Items are added to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG). 
+4. Items are added to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).
 5. Once the Rose Library liaison/Rare Book Cataloger is ready to send an item down to the conservation lab:
 	* Create an Aeon request for the item.
    	* In Aeon, document that the item is being sent to conservation:	
@@ -103,7 +103,7 @@ The process by which books enter and move through the queue is as follows:
    	* In Aeon, using the "Reprint Callslip" button, print one copy of the call slip.  
 		* One half of the call slip stays with the item as it travels to the conservation lab.
 		* One half of the call slip is put in place of the book in the shelving location.
-   	* Update the conservation list to reflect that the item has been sent to conservation. 
+   	* Update the conservation list to reflect that the item has been sent to conservation.
 6. When the item is returned, the Rose Library liaison/Rare Book Cataloger will:
 	* Reshelve the book. 
 	* In Aeon, remove the request from that activity (done on the request itself).
