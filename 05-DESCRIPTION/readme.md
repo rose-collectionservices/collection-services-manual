@@ -249,7 +249,7 @@ data and/or extent of physical media for born digital content.
 **Extent Subrecord in ArchivesSpace:**
 
 *	Portion = Whole
-*	Number = [enter number of total linear feet]
+*	Number = [enter number of total linear feet, as calculated in ArchivesSpace]
 *	Type = Linear Feet
 *	Container Summary = (in parentheses list number of boxes, oversized papers boxes, etc.)
 
@@ -267,11 +267,11 @@ data and/or extent of physical media for born digital content.
 *	(54 boxes, 9 oversized papers boxes (OP), 1 extra-oversized paper (XOP), 3 bound volumes (BV), 2 oversized bound volumes (OBV), and 3 AV 
 	Masters (AV))
 
-**Examples of ArchivesSpace Extent Subrecords**
+**Examples of ArchivesSpace Extent Subrecords:**
 
-![Figure5: Extent subrecord 1](/05-DESCRIPTION/Images/Figure5.png "Extent subrecord example 1")
+![Figure5: Extent subrecord 1](/05-DESCRIPTION/Images/Figure5.jpg "Extent subrecord example 1")
 
-![Figure6: Extent subrecord 2](/05-DESCRIPTION/Images/Figure6.png "Extent subrecord example 2")
+![Figure6: Extent subrecord 2](/05-DESCRIPTION/Images/Figure6.jpg "Extent subrecord example 2")
  
 **Corresponding MARC field:**  300
 
