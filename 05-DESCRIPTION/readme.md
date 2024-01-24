@@ -246,7 +246,14 @@ Indicates the extent and the physical nature of the materials being described. T
 This field describes the collection's linear footage, number of boxes, extent of oversized material, number of boxes of audiovisual material, and bytes of 
 data and/or extent of physical media for born digital content.  
 
-**Examples:**
+**Extent Subrecord in ArchivesSpace:**
+
+*	Portion = Whole
+*	Number = [enter number of total linear feet]
+*	Type = Linear Feet
+*	Container Summary = (in parentheses list number of boxes, oversized papers boxes, etc.)
+
+**Examples in ArchivesSpace:**
 
 *	30 linear feet (43 boxes)
 *	3 oversized papers boxes (OP)
