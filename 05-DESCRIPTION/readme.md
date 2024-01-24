@@ -239,7 +239,7 @@ life of the organization or when the volume of material within the bulk dates is
 
 **DACS Chapter 2.5:**
 
-Indicates the extent and the physical nature of the materials being described. This is handled in two parts, a number (quantity in linear feet) and a container summary specifying the material type.
+Indicates the extent and the physical nature of the materials being described. This is handled in two parts, a number (quantity in linear feet) and a container summary specifying the material types.
 
 **Required:** Required at the collection level only.  
 
@@ -249,9 +249,9 @@ data and/or extent of physical media for born digital content.
 **Extent Subrecord in ArchivesSpace:**
 
 *	Portion = Whole
-*	Number = [enter number of total linear feet, as calculated in ArchivesSpace]
+*	Number = [Enter number of total linear feet of ALL containers, as calculated automatically by ArchivesSpace.]
 *	Type = Linear Feet
-*	Container Summary = (in parentheses list number of boxes, oversized papers boxes, etc.)
+*	Container Summary = [In parentheses list number of boxes, oversized papers boxes, etc. When you calculate extent in ArchivesSpace, it will automatically count the total number of containers in the container summary. You must manually edit the container summary field to reflect the guidelines below, in which other material types are subtracted from the total number of containers.]
 
 **Examples of Container Summaries:**
 
