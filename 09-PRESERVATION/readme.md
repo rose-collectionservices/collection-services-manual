@@ -39,53 +39,81 @@ For questions about possible preservation needs in a collection, consult the Ros
 
 ## 9.2 Sending Collection Material to the Conservation Lab 
  
-The Head of Collection Services, Rose Library Preservation Liaison, Rare Book Cataloger, and Accessioning Archivist meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
+The Head of Collection Services, Rose Library Preservation Liaison, and Rare Book Cataloger meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
 
-### 9.2.1 Manuscript and Archival Material
+### 9.2.1 Manuscript and EUA Material
 
 The process by which manuscript and archives items enter and move through the queue is as follows: 
 
-1. If preservation problems are found, notify the Rose Library preservation liaison for manuscripts and archives who will consult with the Preservation Office. The Rose Library preservation liaison is the only staff person who may transfer manuscript and archives material the preservation lab. Conservators will not accept material for treatment from any other staff person. 
+Identification of preservation issue and initial assessment:
+1. If preservation problems are found, notify the Rose Library preservation liaison for manuscripts and archives who will consult with the Conservation Unit. The Rose Library preservation liaison is the only staff person who may transfer manuscript and archives material to the conservation lab. Conservators will not accept material for treatment from any other staff person. 
 2. Rose Library liaison will add the item to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).   
-3. Rose Library liaison assesses the problem/material and assigns it a category based on the following criteria: extent of damage, value, use, relationship to other projects, and other institutional needs (such as loans).  
-4. Rose Library liaison creates a transaction for the item in Aeon. For processed collections, create the transaction by requesting the item through the finding aid. For unprocessed collections, create a transaction manually. Manual transactions must include: 
-	* Document type [MSS or EUA];
-	* Title [Collection title statement];
-	* Item description [Folder title or brief description of material if unprocessed];
-	* Author [Creator/Main entry];
-	* Call number [MSS or Series number];
-	* Volume/Box;
-	* Folder.
-5. Rose Library liaison adds description of the preservation problem to the notes field on the request. 
-6. Using the "Print Request" button, print three copies of call slip: 
-	* One for the Rose Library liaison's records;
-	* One that travels with the item to the Preservation Office;
-	* And one to put in place of the item in the box or folder (if necessary).
-7. In Aeon, the Rose Library liaison will check the item out to In Conservation--Normal Workflow and place a copy of the call slip in the box or folder in place of the item. 
-8. If necessary, the Rose Library liaison will add the note [Restricted: In preservation] to the proper folder(s) in the collection finding aid. 
-9. Rose Library liaison will deliver item and call slip to the Preservation Office during the monthly meeting. Moldy materials receive immediate attention and can be delivered off-schedule. 
-10. Rose Library liaison and preservation staff will discuss the level and types of treatment.  A due date for return of the item to the Rose Library should also be determined. 
-11. When the item is returned, the Rose Library liaison will refile the item in the collection and check the item back in using Aeon. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist. 
-12. The Rose Library liaison will add a new note to the request record including both a description of the problem, a description of the treatment, and the date the item was returned. The liaison will reprint the call slip and file it in the collection CL-2 file. Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record. 
-13. The Rose Library preservation liaison for manuscripts and archives meets on the first Monday of every month with the Preservation Office to discuss the current list of materials on the spreadsheet awaiting treatment, in addition to the materials undergoing treatment, in order to ensure everything is on schedule. 
+3. Rose Library liaison assesses the problem/material and assigns it a category based on the following criteria: extent of damage, value, use, relationship to other projects, and other institutional needs (such as loans).
+
+Transferring items to the conservation lab:
+1. Rose Library liaison meets monthly with the conservation staff. In advance of that meeting, the Rose Library liaison checks in with the conservation staff to see if they are ready to accept additional materials for treatment. During the monthly meeting, they discuss the current list of materials on the spreadsheet awaiting treatment, in addition to the materials already in the conservation lab undergoing treatment, in order to ensure everything is on schedule.  
+2. Once the Rose Library liaison is ready to send an item down to the conservation lab:
+	* Create an Aeon request for the item. For processed collections, request the item through ArchivesSpace. For unprocessed collections, create a transaction manually. Manual transactions must include: 
+		* Title [Collection title statement];
+		* Item description [Folder title or brief description of material if unprocessed];
+		* Author [Creator/Main entry];
+   		* Shelf location [if there is an existing shelf location];
+   	 	* Call number [MSS or Series number];
+		* Volume/Box;
+		* Folder.
+   	* In Aeon, document that the item is being sent to conservation:	
+		* Add a note to the notes field on the request, which describes the preservation problem and states that the item is being sent down to the conservation lab. 
+		* Assign that request to the activity "Rose - Preservation - MSS, EUA, and books."
+		* Route the request to "In Conservation - Normal Workflow."
+   	* In Aeon, using the "Reprint Callslip" button, print one copy of the call slip.  
+		* One half of the call slip stays with the item as it travels to the conservation lab.
+		* One half of the call slip is put in place of the box in the shelving location, or in the case of single items is placed inside the box from which the item was removed.
+   	* Update the conservation list to reflect that the item has been sent to conservation.
+   	* If appropriate, the Rose Library liaison will add a Restrictions on Access note to the archival object or resource record in ArchivesSpace. 
+3. Rose Library liaison will deliver the item with call slip to the conservation staff during the monthly meeting. 
+4. Rose Library liaison and conservation staff will discuss the level and types of treatment.  A due date for return of the item to the Rose Library should also be determined if appropriate. 
+
+Once items have been returned from conservation:
+1. When the item is returned, the Rose Library liaison will:
+	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist. 
+	* In Aeon, remove the request from that activity (done on the request itself).
+	* In Aeon, route the request to "Request finished."
+ 	* Update the conservation list to reflect that treatment is complete and has been returned. 	 
+2. The Rose Library liaison will add a new note to the request record including both a description of the problem, a description of the treatment, and the date the item was returned. The liaison will reprint the call slip and file it in the collection CL-2 file. Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record. 
+
 
 ### 9.2.2 Books
 
-The Rare Book Cataloger is responsible for managing and tracking workflow of books and broadsides to Preservation.  
+The Rose Library preservation liaison is currently responsible for managing and tracking the workflow of books to the conservation lan. (The Rare Book Cataloger would normally be responsible for this.) 
 
 Collection Services staff may identify items that need repair at the point of cataloging, during stacks walk-throughs, in the reading room, or before items go on or return from exhibition. Very infrequently items are too fragile to catalog and move directly to Preservation. Any item that needs preservation should be brought to the attention of the Rare Book Cataloger.  
 
 The process by which books enter and move through the queue is as follows: 
 
-1. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking. 
-2. After the item is properly marked, the Marking student moves those items to the designated “PreservationPrep” bays. The Rare Book Cataloger monitors this space and sends carts of items to Preservation as needed. These items will be marked “Preservation” in Alma, and may not be requested in Aeon through discovereE. 
-3. When items are finished in Preservation, preservation staff notifies the Rare Book Cataloger and the Cataloger facilitates the return to Rose. The status “Preservation” is removed in Alma and pages reshelve items. As soon as the status is changed, the item can be requested in Aeon. 
-4. The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers. 
+1.The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers. 
+2. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking. 
+3. After the item is properly marked, the Marking student moves those items to the designated “PreservationPrep” bays.
+4. Items are added to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG). 
+5. Once the Rose Library liaison/Rare Book Cataloger is ready to send an item down to the conservation lab:
+	* Create an Aeon request for the item.
+   	* In Aeon, document that the item is being sent to conservation:	
+		* Add a note to the notes field on the request, which describes the preservation problem and states that the item is being sent down to the conservation lab. 
+		* Assign that request to the activity "Rose - Preservation - MSS, EUA, and books."
+		* Route the request to "In Conservation - Normal Workflow."
+   	* In Aeon, using the "Reprint Callslip" button, print one copy of the call slip.  
+		* One half of the call slip stays with the item as it travels to the conservation lab.
+		* One half of the call slip is put in place of the book in the shelving location.
+   	* Update the conservation list to reflect that the item has been sent to conservation. 
+6. When the item is returned, the Rose Library liaison/Rare Book Cataloger will:
+	* Reshelve the book. 
+	* In Aeon, remove the request from that activity (done on the request itself).
+	* In Aeon, route the request to "Request finished."
+ 	* Update the conservation list to reflect that treatment is complete and has been returned. 	 
 
 **Special Procedures:**
 
-* Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority in the Preservation Department. 
-* Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Preservation liaison or the Head of Collection Services. In this case, whomever delivers the item to the Preservation Office will mark it as unavailable in Alma. 
+* Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority for treatment. 
+* Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Rose Library preservation liaison. 
 
 ### 9.2.3 Audiovisual Material
 
