@@ -253,22 +253,26 @@ data and/or extent of physical media for born digital content.
 *	Type = Linear Feet
 *	Container Summary = (in parentheses list number of boxes, oversized papers boxes, etc.)
 
-**Examples in ArchivesSpace:**
+**Examples of Container Summaries:**
 
-*	30 linear feet (43 boxes)
-*	3 oversized papers boxes (OP)
-*	1 oversized papers box and 1 oversized papers folder (OP)
-*	4 extra-oversized papers (XOP)
-*	2 bound volumes (BV)
-*	2 oversized bound volumes (OBV)
-*	2 microfilm reels (MF)
-*	1 framed item (FR)
-*	AV Masters: .5 linear feet (1 box)
-*	5.8 megabytes (484 files) born digital material
-*	8.25 linear feet (9 boxes) and 647 megabytes (226 files) of born digital materials
-*	54 linear feet (54 boxes), 9 oversized papers boxes (OP), 1 extra-oversized paper (XOP), 3 bound volumes (BV), 2 oversized bound volumes (OBV), and AV 
-	Masters: 2.5 linear feet (3 boxes)
-	
+*	(43 boxes)
+*	(3 oversized papers box and 1 oversized papers folder (OP))
+*	(4 extra-oversized papers (XOP))
+*	(2 bound volumes (BV))
+*	(2 oversized bound volumes (OBV))
+*	(2 microfilm reels (MF))
+*	(1 framed item (FR))
+*	(3 AV Masters (AV))
+*	(5.8 megabytes (484 files) born digital material (3 BD boxes))
+*	(54 boxes, 9 oversized papers boxes (OP), 1 extra-oversized paper (XOP), 3 bound volumes (BV), 2 oversized bound volumes (OBV), and 3 AV 
+	Masters (AV))
+
+**Examples of ArchivesSpace Extent Subrecords**
+
+![Figure5: Extent subrecord 1](/05-DESCRIPTION/Images/Figure5.png "Extent subrecord example 1")
+
+![Figure6: Extent subrecord 2](/05-DESCRIPTION/Images/Figure6.png "Extent subrecord example 2")
+ 
 **Corresponding MARC field:**  300
 
 **Corresponding EAD element(s):** ``<physdesc><extent></extent></physdesc``
