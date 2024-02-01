@@ -25,6 +25,10 @@ Content owner: **Sarah Quigley**
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
 	* [6.6.3 Restricted Material](#663-restricted-material)
+ * [6.7 Documenting missing boxes and items]
+   	* [6.7.1 Documenting missing boxes]
+   	* [6.7.2 Documenting missing items/folders]
+   	* [6.7.3 Documenting missing items/folders without an identified container]
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
@@ -371,6 +375,25 @@ There may additionally be restrictions on how patrons may use material, such as 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
 [Link to label template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels?csf=1&web=1&e=2sa8bd)
+
+## 6.7 Documenting missing boxes and items
+
+### 6.7.1. Documenting missing boxes
+
+* If a MSS or EUA box is missing (and you can reasonably conclude that the container actually existed at one point):
+  	* In In ASpace, change the current location for that container to “MISSING."
+  	  	* Status = current
+  	  	* Start date = add date when box was confirmed as missing
+  	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
+  	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
+  	  	* Figure 14: Example of location field for a missing container
+  ![Figure 14: Missing box location field 1](/06//06-LOCAL%20PRACTICE/Images/Figure14.jpg "Missing box location field 1")
+		* Figure 15: Another example of location field for a missing container
+  ![Figure 15: Missing box location field 2](/06//06-LOCAL%20PRACTICE/Images/Figure15.jpg "Missing box location field 2") 
+
+### 6.7.2 Documenting missing items/folders
+
+### 6.7.3 Documenting missing items/folders without an identified container
 
 
 
