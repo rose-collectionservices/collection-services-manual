@@ -25,10 +25,10 @@ Content owner: **Sarah Quigley**
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
 	* [6.6.3 Restricted Material](#663-restricted-material)
- * [6.7 Documenting missing boxes and items]
-   	* [6.7.1 Documenting missing boxes]
-   	* [6.7.2 Documenting missing items/folders]
-   	* [6.7.3 Documenting missing items/folders without an identified container]
+ * [6.7 Documenting missing boxes and items](#67-documenting-missing-boxes-and-items)
+   	* [6.7.1 Documenting missing boxes](#671-documenting-missing-boxes)
+   	* [6.7.2 Documenting missing items/folders](#672-documenting-missing-items/folders)
+   	* [6.7.3 Documenting missing items/folders without an identified container](#673-documenting-missing-items/folders-without-an-identified-container)
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
