@@ -386,9 +386,9 @@ There may additionally be restrictions on how patrons may use material, such as 
   	  	* Start date = add date when box was confirmed as missing
   	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
   	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
-  	  	* Figure 14: Example of location field for a missing container
+  	  	* Figure 16: Example of location field for a missing container
   ![Figure 16: Missing box location field 1](/06//06-LOCAL%20PRACTICE/Images/Figure16.jpg "Missing box location field 1")
-		* Figure 15: Another example of location field for a missing container
+		* Figure 17: Another example of location field for a missing container
   ![Figure 17: Missing box location field 2](/06//06-LOCAL%20PRACTICE/Images/Figure17.jpg "Missing box location field 2") 
 
 ### 6.7.2 Documenting missing items/folders
