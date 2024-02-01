@@ -233,13 +233,7 @@ There is no need for a folder number within the AV box.  In some cases, as in of
 
 Duplicates should be kept until material is digitized whereupon they can be considered for weeding.
 
-**Extent:**
-
-Within the extent, audiovisual materials should be listed as "AV Masters" and include the linear footage.  For example:
-
-Extent: 5 linear feet (10 boxes), 25 oversized papers boxes (OP), 2 extra oversized papers (XOP), 1 bound volume (BV), and AV Masters: 2 linear feet (1 box, 5 film canisters)
-
-Within the parentheses, the number of boxes or items should be included.  As seen in the example above, the box count refers to the number of either Hollinger or record center boxes.  Other types of containers include film canisters and combined boxes (for example, CLP#). Within the extent, CLPs should be listed in the extent in parentheses with the number of boxes.  The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
+For CLPs: The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
 ![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
 
