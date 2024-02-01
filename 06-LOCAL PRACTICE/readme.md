@@ -25,7 +25,6 @@ Content owner: **Sarah Quigley**
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
 	* [6.6.3 Restricted Material](#663-restricted-material)
-	* [6.6.4 Box Extent Quick Reference](#664-box-extent-quick-reference)
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
@@ -373,26 +372,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 [Link to label template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels?csf=1&web=1&e=2sa8bd)
 
-### 6.6.4 Box Extent Quick Reference
 
-Below is a chart with extents for the boxes we use most frequently. The rule of thumb is to (1) measure the width of the short side of the box in inches, (2) convert to feet, and (3) round up to the nearest 0.125. All extents should end in 0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, or 0.875.
-
-| Box Type                                 | Extent            |
-|------------------------------------------|-------------------|
-| Slim Document Case (Half Hollinger)      | 0.25 linear foot  |
-| Document Case (Hollinger)                | 0.5 linear foot   | 
-| Record Storage Box                       | 1 linear foot     |
-| Drop Front Box (9x11)	           	   | 0.75 linear foot  |
-| Drop Front Box (10x13)	           | 0.875 linear foot |
-| Drop Front Box (14x18)                   | 1.25 linear feet  |
-| Drop Front Box (11x14)                   | 1 linear foot     |
-| Drop Front Box (11x15)	           | 1 linear foot     |
-| Drop Front Box (16x20)	           | 1.375 linear feet |
-| Drop Front Box (20x24)                   | 1.75 linear feet  |
-| Drop Front Print & Negative Box (5x6.75) | 0.5 linear foot   |
-| Phonograph Record Box			   | 0.5 linear foot   |
-| Clamshell Box (10x15)                    | 0.875 linear foot |
-| Clamshell Box (11x17)                    | 1 linear foot     |
 
 
 
