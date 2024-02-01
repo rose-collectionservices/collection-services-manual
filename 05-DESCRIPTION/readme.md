@@ -266,6 +266,7 @@ data and/or extent of physical media for born digital content.
 *	(5.8 megabytes (484 files) born digital material (3 BD boxes))
 *	(54 boxes, 9 oversized papers boxes (OP), 1 extra-oversized paper (XOP), 3 bound volumes (BV), 2 oversized bound volumes (OBV), and 3 AV 
 	Masters (AV))
+*	(8 boxes, 1 oversized papers box and 1 oversized papers folder (OP), and AV materials (1 AV Master, 1 film canister, and 1 CLP))
 
 **Examples of ArchivesSpace Extent Subrecords:**
 
