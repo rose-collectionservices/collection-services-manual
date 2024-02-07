@@ -390,7 +390,7 @@ also identify materials that require special handling that goes beyond standard 
 
 **Examples of notes that must be used verbatim:**
 
-*	Collection stored off-site. Researchers must contact the Rose Library in advance to access this collection.
+*	Collection stored off-site; materials must be requested two business days in advance of appointment.
 *	Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
 	access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
 	access to audiovisual material.
