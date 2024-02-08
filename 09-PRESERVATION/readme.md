@@ -75,11 +75,12 @@ Transferring items to the conservation lab:
 
 Once items have been returned from conservation:
 1. When the item is returned, the Rose Library liaison will:
-	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist. 
-	* In Aeon, remove the request from that activity (done on the request itself).
-	* In Aeon, route the request to "Request finished."
- 	* Update the conservation list to reflect that treatment is complete and has been returned. 	 
-2. The Rose Library liaison will add a new note to the request record including both a description of the problem, a description of the treatment, and the date the item was returned. The liaison will reprint the call slip and file it in the collection CL-2 file. Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record. 
+	* In Aeon, add a new note to the request including a description of the problem, a description of the treatment, and the date the item was returned. (Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record.) 
+ 	* Print the Aeon request and file it in the CL-2 file. 	 
+ 	* Remove the request from that activity (done on the request itself).
+	* Route the request to "Request finished."
+ 	* Update the conservation list to reflect that treatment is complete and has been returned.
+  	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.  	 
 
 
 ### 9.2.2 Books
