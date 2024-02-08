@@ -80,7 +80,8 @@ Once items have been returned from conservation:
  	* Remove the request from that activity (done on the request itself).
 	* Route the request to "Request finished."
  	* Update the conservation list to reflect that treatment is complete and has been returned.
-  	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.  	 
+  	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.
+     	* Remove any restrictions from the item/s in ASpace, if necessary.  	 
 
 
 ### 9.2.2 Books
