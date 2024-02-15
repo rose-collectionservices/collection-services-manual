@@ -1,6 +1,6 @@
 # Preservation
 
-Content owner: **Sarah Quigley**
+Content owner: **Becky Sherman**
 
 * [9.1 Preservation during Processing](#91-preservation-during-processing)
 * [9.2 Sending collection material to the Conservation Lab](#92-sending-collection-material-to-the-conservation-lab)
