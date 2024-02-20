@@ -25,7 +25,8 @@ Conduct the following minor preservation work during processing:
 * Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library manuscript preservation liaison. 
 * Sleeve torn documents in mylar and flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved. 
 * Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course. 
-* Do **not** attempt to mend documents with pressure sensitive tape, even tape marketed as "archival." 
+* Do **not** attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
+* Handle audiovisual materials according to [6.5 Audiovisual material](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-LOCAL%20PRACTICE#65-audiovisual-material).
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison.
 
@@ -90,7 +91,7 @@ Once items have been returned from conservation:
 	* Route the request to "Request finished."
  	* Update the conservation list to reflect that treatment is complete and has been returned.
   	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.
-     	* Remove any restrictions from the item/s in ASpace, if necessary.  	 
+   	* Remove any restrictions from the item/s in ASpace, if necessary.  	 
 
 
 ### 9.2.2 Books
