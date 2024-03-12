@@ -376,7 +376,7 @@ When applicable, the following language is used for EUA use restriction notes:
 **Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:**
 
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
-*	The first note listed should be prefaced with "Special restrictions apply:" before the rest of the note.
+*	The first note listed should be preceded by "Special restrictions apply:" before the rest of the note.
 *	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note should be in a separate Conditions Governing Access note.
 *	You will want to add a Conditions Governing Access note that requires system action at the appropriate hierarchical level, since it will apply to all series/subseries/AOs beneath that level and note.
   
@@ -391,14 +391,20 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
-![Figure7](/05-DESCRIPTION/Images/Figure7.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*Figure 7 (below): Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
+*![Figure7](/05-DESCRIPTION/Images/Figure7.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
+*Figure 8 (below): Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.*
 ![Figure8](/05-DESCRIPTION/Images/Figure8.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
 
 
+
+*Figure 9 (below): Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.*
 ![Figure9](/05-DESCRIPTION/Images/Figure9.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
-  
+
+
+
 ### 5.1.6.2 Physical Access
 
 **DACS Chapter 4.2:**
@@ -437,6 +443,17 @@ also identify materials that require special handling that goes beyond standard 
 **Corresponding MARC field:**  506
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
+
+**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:**
+
+*	See instructions for this note field above under 5.1.6.1 Conditions Governing Access. The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
+	
+
+**Examples of ArchivesSpace Conditions Governing Access notes:**
+
+*Figure 10 (below): Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
+*![Figure10](/05-DESCRIPTION/Images/Figure10.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+
 
 ### 5.1.7 Terms Governing Use and Reproduction
 
