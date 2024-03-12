@@ -379,6 +379,7 @@ When applicable, the following language is used for EUA use restriction notes:
 *	The first note listed should be prefaced with "Special restrictions apply:" before the rest of the note.
 *	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note should be in a separate Conditions Governing Access note.
 *	You will want to add a Conditions Governing Access note that requires system action at the appropriate hierarchical level, since it will apply to all series/subseries/AOs beneath that level and note.
+  
 *	Type = Conditions Governing Access
 *	Label [this was migrated but is not necessary to add manually] = Restrictions on Access
 *	Publish = [box should be checked]
@@ -390,9 +391,13 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
-![Figure7: Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level](/05-DESCRIPTION/Images/Figure7.jpg "Figure7")
+![Figure7](/05-DESCRIPTION/Images/Figure7.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
-![Figure8: Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal)](/05-DESCRIPTION/Images/Figure8.jpg "Figure8")
+
+![Figure8](/05-DESCRIPTION/Images/Figure8.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
+
+
+![Figure9](/05-DESCRIPTION/Images/Figure9.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
   
 ### 5.1.6.2 Physical Access
 
