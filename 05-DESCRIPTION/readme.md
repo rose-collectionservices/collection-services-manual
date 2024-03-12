@@ -373,11 +373,11 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace**
+**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:**
 
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 *	The first note listed should be prefaced with "Special restrictions apply:" before the rest of the note.
-*	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note needs to be in a separate Conditions Governing Access note.
+*	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note should be in a separate Conditions Governing Access note.
 *	You will want to add a Conditions Governing Access note that requires system action at the appropriate hierarchical level, since it will apply to all series/subseries/AOs beneath that level and note.
 *	Type = Conditions Governing Access
 *	Label [this was migrated but is not necessary to add manually] = Restrictions on Access
@@ -387,6 +387,12 @@ When applicable, the following language is used for EUA use restriction notes:
    	*  Select "Unrestricted" or select neither if there are no restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
 * 	Restriction Begin = [leave blank unless necessary to add]
 * 	Restriction End = [enter date]
+
+**Examples of ArchivesSpace Conditions Governing Access notes:**
+
+![Figure7: Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level](/05-DESCRIPTION/Images/Figure7.jpg "Figure7")
+
+![Figure8: Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal)](/05-DESCRIPTION/Images/Figure8.jpg "Figure8")
   
 ### 5.1.6.2 Physical Access
 
