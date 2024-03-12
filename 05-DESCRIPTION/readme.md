@@ -373,6 +373,21 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
+**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace**
+
+*	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
+*	The first note listed should be prefaced with "Special restrictions apply:" before the rest of the note.
+*	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note needs to be in a separate Conditions Governing Access note.
+*	You will want to add a Conditions Governing Access note that requires system action at the appropriate hierarchical level, since it will apply to all series/subseries/AOs beneath that level and note.
+*	Type = Conditions Governing Access
+*	Label [this was migrated but is not necessary to add manually] = Restrictions on Access
+*	Publish = [box should be checked]
+*	Select the local access restriction type:
+  	*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
+   	*  Select "Unrestricted" or select neither if there are no restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
+* 	Restriction Begin = [leave blank unless necessary to add]
+* 	Restriction End = [enter date]
+  
 ### 5.1.6.2 Physical Access
 
 **DACS Chapter 4.2:**
