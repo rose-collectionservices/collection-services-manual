@@ -378,7 +378,8 @@ When applicable, the following language is used for EUA use restriction notes:
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 *	The first note listed should be preceded by "Special restrictions apply:" before the rest of the note.
 *	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note should be in a separate Conditions Governing Access note.
-*	You will want to add a Conditions Governing Access note that requires system action at the appropriate hierarchical level, since it will apply to all series/subseries/AOs beneath that level and note.
+*	Collection level notes are also displayed at the series/subseries/file leve in ASpace in the public user interface, so there is no need to repeat collection level notes at lower hierarchical levels.  
+*	A Conditions Governing Access note that requires system action needs to be added at the appropriate hierarchical level, since it will apply to all series/subseries/files beneath that level. For example, a restriction that makes items unrequestable at the series level will apply to all subseries and files in that series.
   
 *	Type = Conditions Governing Access
 *	Label [this was migrated but is not necessary to add manually] = Restrictions on Access
