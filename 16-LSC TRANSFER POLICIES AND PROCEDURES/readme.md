@@ -17,7 +17,7 @@ LSC is the preferred storage location for most types of collection materials and
 
 No glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images are eligible for transfer. 
 
-No collection material that has active or previously treated mold can be transferred.  
+No collection that has active mold may be transferred to the LSC; however, materials that were treated for mold may be transferred.
 
 ## 16.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
  
