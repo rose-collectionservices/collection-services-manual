@@ -373,7 +373,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:**
+**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:** (DRAFT!)
 
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 *	The first note listed should be preceded by "Special restrictions apply:" before the rest of the note.
