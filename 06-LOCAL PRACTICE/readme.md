@@ -24,9 +24,9 @@ Content owner: **Sarah Quigley**
 * [6.6 Housing and storage](#66-housing-and-storage)
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
- 	* [6.6.3 General labels]
-  	* [6.6.4 Labels for materials treated for mold]	
-	* [6.6.5 Boxing and Labeling Restricted Material](#663-restricted-material)
+ 	* [6.6.3 General labels](#663-general-labels)
+  	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
+	* [6.6.5 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
  * [6.7 Documenting missing boxes and items](#67-documenting-missing-boxes-and-items)
    	* [6.7.1 Documenting missing boxes](#671-documenting-missing-boxes)
    	* [6.7.2 Documenting missing items/folders](#672-documenting-missing-items/folders)
