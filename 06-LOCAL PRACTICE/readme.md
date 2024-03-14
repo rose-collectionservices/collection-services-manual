@@ -24,7 +24,9 @@ Content owner: **Sarah Quigley**
 * [6.6 Housing and storage](#66-housing-and-storage)
 	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections](#662-boxing-collections)
-	* [6.6.3 Restricted Material](#663-restricted-material)
+ 	* [6.6.3 General labels]
+  	* [6.6.4 Labels for materials treated for mold]	
+	* [6.6.5 Boxing and Labeling Restricted Material](#663-restricted-material)
  * [6.7 Documenting missing boxes and items](#67-documenting-missing-boxes-and-items)
    	* [6.7.1 Documenting missing boxes](#671-documenting-missing-boxes)
    	* [6.7.2 Documenting missing items/folders](#672-documenting-missing-items/folders)
@@ -297,6 +299,8 @@ Legacy content: While we currently have materials identified by "BV" and "OBV," 
 
 **OP, XOP, BV, and OBV numbering** is similar to numbering regular size boxes and folders. Boxes for bound and oversized material **staying onsite** are numbered sequentially with OP, BV, or OBV preceding the numeral. For example, OP1, OP2, BV1, OBV1, etc. Folders or bound items within the boxes are also numbered sequentially in the same fashion as regular size folders. For example, OP1/1, OP1/2, BV1/1, etc. External housing should be labeled with a printed label (see below). Within boxes, folders and items may be labeled by hand. Folders going directly on shelves (e.g., 24" x 36" OP folders or 36" x 48" XOP folders) should have a printed label placed in the bottom lefthand corner of the folder opening. *Note: Oversized and bound material going to the LSC should receive regular box and folder numbers.*
 
+### 6.6.3 General labels
+
 **Box labels** should include the following information (see figure 2 for an example): 
 
 * Emory University;
@@ -331,29 +335,27 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 ![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-Boxes that contain **moldy material** should be labeled with two brightly colored alert labels: "Mold Alert," and "Researcher Alert."  These should be placed on the box so that the "Mold Alert" label faces out on the shelf and the "Researcher Alert" label is visible to patrons when the boxes are in use. Oversized boxes may not always have enough space on the front for one or both labels. In this case, put the labels in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the labels to the boxes but make sure the labels are taped on at least two sides and not in danger of being ripped off by frequent use. See figures 7-9 for examples.
+### 6.6.4 Labels for materials treated for mold
 
-![Figure 7: Record center box with mold](/06-LOCAL%20PRACTICE/Images/Figure7.jpg "Record center box with mold")
+Boxes that contain materials that have been treated for mold should be labeled with a mold notice label on the end of the box; mold notice labels should be printed on white paper. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
-*Figure 7: Record center boxes*
+![Figure 7](/06-LOCAL%20PRACTICE/Images/Figure7.jpg)
 
-![Figure 8: Hollinger boxes with mold](/06-LOCAL%20PRACTICE/Images/Figure8.jpg "Hollinger boxes with mold")
+*Figure 7: Record center box with mold notice label*
 
-*Figure 8: Hollinger boxes and half Hollinger boxes*
+![Figure 8: Slim document case with mold notice label](/06-LOCAL%20PRACTICE/Images/Figure8.jpg "Slim document case with mold notice label")
 
-![Figure 9: Oversized and flat boxes](/06-LOCAL%20PRACTICE/Images/Figure9a.jpg "Figure 9: Oversized and flat boxes")
+*Figure 8: Slim document case wtih mold notice label*
 
-![Figure 9: Oversized and flat boxes](/06-LOCAL%20PRACTICE/Images/Figure9b.jpg "Figure 9: Oversized and flat boxes")
+![Figure 9: Oversized box with mold notice label](/06-LOCAL%20PRACTICE/Images/Figure9.jpg "Figure 9: Oversized box with mold notice label")
 
-![Figure 9: Oversized and flat boxes](/06-LOCAL%20PRACTICE/Images/Figure9c.jpg "Figure 9: Oversized and flat boxes")
-
-*Figure 9: Oversized and flat boxes*
+*Figure 9: Oversized box with mold notice label*
 
 [Link to flag template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates?csf=1&web=1&e=uxFzdG) 
 
 [Link to preservation section](/09-PRESERVATION)
 
-### 6.6.3 Restricted Material
+### 6.6.5 Boxing and Labeling Restricted Material
 
 Materials deemed restricted should be physically isolated in a separate box. The box should be clearly stamped with the RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
 
