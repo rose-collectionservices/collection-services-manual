@@ -337,7 +337,7 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 ### 6.6.4 Labels for materials treated for mold
 
-Boxes that contain materials that have been treated for mold should be labeled with a mold notice label on the end of the box; mold notice labels should be printed on white paper. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
+Boxes that contain materials that have been treated for mold should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
 ![Figure 7](/06-LOCAL%20PRACTICE/Images/Figure7.jpg)
 
