@@ -373,16 +373,17 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:** (DRAFT!)
+**Conditions Governing Access note field in ArchivesSpace:** (DRAFT!)
 
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
-*	The first note listed should be preceded by "Special restrictions apply:" before the rest of the note.
-*	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date). If the note requires the system to take action to impose restrictions and make containers unrequestable, that that note should be in a separate Conditions Governing Access note.
+*	Each note field contents should be preceded by "Special restrictions apply:" before the content of the note.
+*	Standard informational notes can be added in a single note field, with a space in between notes, unless the note requires the system to take a separate action (i.e. restrict items until a particular date).
+*	If the note requires the system to take action to impose restrictions and make containers unrequestable (i.e. you are selecting that the local access restriction type is "Restricted"), that that note needs to be in a separate Conditions Governing Access note field. This will allow the system or the archivist to more easily delete those notes when the restrictions have expired.
 *	Collection level notes are also displayed at the series/subseries/file leve in ASpace in the public user interface, so there is no need to repeat collection level notes at lower hierarchical levels.  
-*	A Conditions Governing Access note that requires system action needs to be added at the appropriate hierarchical level, since it will apply to all series/subseries/files beneath that level. For example, a restriction that makes items unrequestable at the series level will apply to all subseries and files in that series.
+*	A Conditions Governing Access note that requires system action needs to be added at the appropriate hierarchical level, since it will apply to all series/subseries/files beneath that level. For example, a restriction that makes items unrequestable at the series level will apply to all subseries and files in that series. At the collection or series level there may be a Conditions Governing Access note that contains general information about restrictions (with a local access restriction type of unrestricted), while at the subseries or file level there may be an additional separate Conditions Governing Access note that is actionable to make those specific containers unrequestable (with a local access restriction type of restricted--see examples below).
   
 *	Type = Conditions Governing Access
-*	Label [this was migrated but is not necessary to add manually] = Restrictions on Access
+*	Label = [none] [Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
 *	Publish = [box should be checked]
 *	Select the local access restriction type:
   	*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
