@@ -382,14 +382,15 @@ When applicable, the following language is used for EUA use restriction notes:
 *	Collection level notes are also displayed at the series/subseries/file leve in ASpace in the public user interface, so there is no need to repeat collection level notes at lower hierarchical levels.  
 *	A Conditions Governing Access note that requires system action needs to be added at the appropriate hierarchical level, since it will apply to all series/subseries/files beneath that level. For example, a restriction that makes items unrequestable at the series level will apply to all subseries and files in that series. At the collection or series level there may be a Conditions Governing Access note that contains general information about restrictions (with a local access restriction type of unrestricted), while at the subseries or file level there may be an additional separate Conditions Governing Access note that is actionable to make those specific containers unrequestable (with a local access restriction type of restricted--see examples below).
   
-*	Type = Conditions Governing Access
-*	Label = [none] [*Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
-*	Publish = [box should be checked]
-*	Select the local access restriction type:
-  	*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
-   	*  Select "Unrestricted" or select neither if there are no actionable restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
-* 	Restriction Begin = [leave blank unless necessary to add]
-* 	Restriction End = [enter date]
+*	Field specifics
+	*  	Type = Conditions Governing Access
+	*  	Label = [none] [*Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
+	*	Publish = [box should be checked]
+	*	Select the local access restriction type:
+  		*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
+   		*  Select "Unrestricted" or select neither if there are no actionable restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
+	* 	Restriction Begin = [leave blank unless necessary to add]
+	* 	Restriction End = [enter date]
 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
