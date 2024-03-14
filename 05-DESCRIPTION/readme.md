@@ -11,7 +11,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.3 Extent](#513-extent)
 	* [5.1.4 Abstract](#514-abstract)
 	* [5.1.5 Language note](#515-language-note)
-	* [5.1.6 Restrictions on access](#516-restrictions-on-access)
+	* [5.1.6 Conditions governing access](#516-conditions-governing-access)
 		* [5.1.6.1 Conditions governing access](#5161-conditions-governing-access)
 		* [5.1.6.2 Physical access](#5162-physical-access)
 	* [5.1.7 Terms governing use and reproduction](#517-terms-governing-use-and-reproduction)
@@ -323,7 +323,7 @@ amounts of material in those languages.
 
 **Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
 
-### 5.1.6 Restrictions on Access
+### 5.1.6 Conditions Governing Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
@@ -373,7 +373,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-**Conditions Governing Access note field in ArchivesSpace:** (DRAFT!)
+**Conditions Governing Access note field in ArchivesSpace:**
 
 *	The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 *	Each note field contents should be preceded by "Special restrictions apply:" before the content of the note.
@@ -383,11 +383,11 @@ When applicable, the following language is used for EUA use restriction notes:
 *	A Conditions Governing Access note that requires system action needs to be added at the appropriate hierarchical level, since it will apply to all series/subseries/files beneath that level. For example, a restriction that makes items unrequestable at the series level will apply to all subseries and files in that series. At the collection or series level there may be a Conditions Governing Access note that contains general information about restrictions (with a local access restriction type of unrestricted), while at the subseries or file level there may be an additional separate Conditions Governing Access note that is actionable to make those specific containers unrequestable (with a local access restriction type of restricted--see examples below).
   
 *	Type = Conditions Governing Access
-*	Label = [none] [Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
+*	Label = [none] [*Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
 *	Publish = [box should be checked]
 *	Select the local access restriction type:
   	*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
-   	*  Select "Unrestricted" or select neither if there are no restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
+   	*  Select "Unrestricted" or select neither if there are no actionable restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
 * 	Restriction Begin = [leave blank unless necessary to add]
 * 	Restriction End = [enter date]
 
