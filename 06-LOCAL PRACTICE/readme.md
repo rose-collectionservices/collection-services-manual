@@ -339,6 +339,8 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 Boxes that contain materials that have been treated for mold should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
+[For more information on moldy materials, see the preservation section](/09-PRESERVATION)
+
 ![Figure 7](/06-LOCAL%20PRACTICE/Images/Figure7.jpg)
 
 *Figure 7: Record center box with mold notice label*
@@ -351,9 +353,9 @@ Boxes that contain materials that have been treated for mold should be labeled w
 
 *Figure 9: Oversized box with mold notice label*
 
-[Link to flag template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates?csf=1&web=1&e=uxFzdG) 
+[Link to flag template]([https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates?csf=1&web=1&e=uxFzdG](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=U4PCuG)) 
 
-[Link to preservation section](/09-PRESERVATION)
+
 
 ### 6.6.5 Boxing and Labeling Restricted Material
 
