@@ -23,14 +23,14 @@ Content owner: **Sarah Quigley**
 	* [6.5.3 Notes on Access] (#653-notes-on-access)
 * [6.6 Housing and storage](#66-housing-and-storage)
 	* [6.6.1 Folders](#661-folders)
-	* [6.6.2 Boxing collections](#662-boxing-collections)
+	* [6.6.2 Boxing collections and numbering boxes](#662-boxing-collections-and-numbering-boxes)
  	* [6.6.3 General labels](#663-general-labels)
   	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.6.5 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
  * [6.7 Documenting missing boxes and items](#67-documenting-missing-boxes-and-items)
    	* [6.7.1 Documenting missing boxes](#671-documenting-missing-boxes)
-   	* [6.7.2 Documenting missing items/folders](#672-documenting-missing-items/folders)
-   	* [6.7.3 Documenting missing items/folders without an identified container](#673-documenting-missing-items/folders-without-an-identified-container)
+   	* [6.7.2 Documenting missing items--folders](#672-documenting-missing-items-folders)
+   	* [6.7.3 Documenting missing items--folders without an identified container](#673-documenting-missing-items-folders-without-an-identified-container)
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
@@ -275,7 +275,7 @@ Folders should be labeled with the following information:
 
 Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
 
-### 6.6.2 Boxing Collections
+### 6.6.2 Boxing Collections and Numbering Boxes
 
 Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collection in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 
@@ -283,9 +283,10 @@ Folders should be placed within the box with enough room that the archivist's fi
 
 **Audiovisual materials** should be removed from the general holdings and placed in boxes labeled "AV." Ideally, sound recordings should be separated from video recordings, but if there is only a small amount in the collection (less than one box), they can be housed together. Phonographs, because of their size, often do not fit on regular sized shelves and are housed on the LP shelves in the Nunnery. In the case that there are not enough LPs from one collection to fill a phonograph box, they may be housed in one of the combined LP (CLP) boxes. 
 
-**Restricted material** must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.
+**Material that has been treated for mold** must be housed separately from the rest of the collection [(see 6.6.4)](#664-labels-for-materials-treated-for-mold).   
 
-**Material that has been treated for mold** must be housed separately from the rest of the collection.  
+**Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
+
 
 **Oversized materials**
 
@@ -339,6 +340,8 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 Boxes that contain materials that have been treated for mold should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
+[Link to mold notice label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=zsUoTU)
+
 [For more information on moldy materials, see the preservation section](/09-PRESERVATION)
 
 ![Figure 7](/06-LOCAL%20PRACTICE/Images/Figure7.jpg)
@@ -353,13 +356,10 @@ Boxes that contain materials that have been treated for mold should be labeled w
 
 *Figure 9: Oversized box with mold notice label*
 
-[Link to flag template]([https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates?csf=1&web=1&e=uxFzdG](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=U4PCuG)) 
-
-
 
 ### 6.6.5 Boxing and Labeling Restricted Material
 
-Materials deemed restricted should be physically isolated in a separate box. The box should be clearly stamped with the RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
+Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid. The box should be clearly stamped with the red RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
 
 ![Figure 10: Restricted material](/06-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
@@ -379,7 +379,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-[Link to label template](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels?csf=1&web=1&e=2sa8bd)
+
 
 ## 6.7 Documenting missing boxes and items
 
