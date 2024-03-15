@@ -14,7 +14,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.6 Conditions governing access](#516-conditions-governing-access)
 		* [5.1.6.1 Conditions governing access](#5161-conditions-governing-access)
 		* [5.1.6.2 Physical access](#5162-physical-access)
-	* [5.1.7 Terms governing use and reproduction](#517-terms-governing-use-and-reproduction)
+	* [5.1.7 Conditions governing use](#517-conditions-governing-use)
 	* [5.1.8 Additional physical form](#518-additional-physical-form)
 	* [5.1.9 Location of originals](#519-location-of-originals)
 	* [5.1.10 Publication note](#5110-publication-note)
@@ -458,7 +458,7 @@ also identify materials that require special handling that goes beyond standard 
 *![Figure10](/05-DESCRIPTION/Images/Figure10.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
-### 5.1.7 Terms Governing Use and Reproduction
+### 5.1.7 Conditions Governing Use
 
 **DACS Chapter 4.4:**
 
