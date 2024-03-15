@@ -2,11 +2,12 @@
 
 Content owner: **Becky Sherman**
 
-* [9.1 Preservation during Processing](#91-preservation-during-processing)
-* [9.2 Sending collection material to the Conservation Lab](#92-sending-collection-material-to-the-conservation-lab)
-	* [9.2.1 Manuscript and archival material](#921-manuscript-and-archival-material)
-	* [9.2.2 Books](#922-books)
-	* [9.2.3 Audiovisual Material](#923-audiovisual-material)
+* [9.1 General Preservation during Processing](#91-preservation-during-processing)
+* [9.2 Moldy Materials](#92-moldy-materials)
+* [9.3 Sending collection material to the Conservation Lab](#93-sending-collection-material-to-the-conservation-lab)
+	* [9.3.1 Manuscript and archival material](#931-manuscript-and-archival-material)
+	* [9.3.2 Books](#932-books)
+	* [9.3.3 Audiovisual Material](#933-audiovisual-material)
 
 ## 9.1 Preservation during Processing
 
@@ -30,8 +31,7 @@ Conduct the following minor preservation work during processing:
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison.
 
-
-**Moldy material:**
+## 9.2 Moldy Materials
 
 When you encounter moldy materials while processing or accessioning: 
 * Segregate the damaged items from the rest of the collection. 
@@ -47,11 +47,11 @@ When contaminated materials return from being treated:
 * It is highly preferred to send items that have been treated for mold to the LSC following treatment.
    
 
-## 9.2 Sending Collection Material to the Conservation Lab 
+## 9.3 Sending Collection Material to the Conservation Lab 
  
 The Head of Collection Services, Rose Library Preservation Liaison, and Rare Book Cataloger meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
 
-### 9.2.1 Manuscript and EUA Material
+### 9.3.1 Manuscript and EUA Material
 
 The process by which manuscript and archives items enter and move through the queue is as follows: 
 
@@ -94,7 +94,7 @@ Once items have been returned from conservation:
    	* Remove any restrictions from the item/s in ASpace, if necessary.  	 
 
 
-### 9.2.2 Books
+### 9.3.2 Books
 
 The Rose Library preservation liaison is currently responsible for managing and tracking the workflow of books to the conservation lan. (The Rare Book Cataloger would normally be responsible for this.) 
 
@@ -127,7 +127,7 @@ The process by which books enter and move through the queue is as follows:
 * Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority for treatment. 
 * Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Rose Library preservation liaison. 
 
-### 9.2.3 Audiovisual Material
+### 9.3.3 Audiovisual Material
 
 The audiovisual liaison is responsible for identifying audiovisual mateiral in manuscript collections, reviewing the material, and sending items to the Conservation Lab for preservation. Due to the instability of magnetic tape as a format, all non-commercial audiovisual materials are digitally reformatted to preserve the content of the tape, and researchers can only access that content via digital surrogate in our reading room. The process by which manuscript and archives items enter and move through the queue is as follows:
 
