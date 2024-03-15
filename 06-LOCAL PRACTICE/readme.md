@@ -361,6 +361,8 @@ Boxes that contain materials that have been treated for mold should be labeled w
 
 Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid. The box should be clearly stamped with the red RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
 
+[For more information about restriction policies, see Section 7: Restriction and Separation Policies and Procedures.](07-RESTRICTION)
+
 ![Figure 10: Restricted material](/06-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
 *Figure 10*
