@@ -87,11 +87,22 @@ Once items have been returned from conservation:
 1. When the item is returned, the Rose Library liaison will:
 	* In Aeon, add a new note to the request including a description of the problem, a description of the treatment, and the date the item was returned. (Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record.) 
  	* Print the Aeon request and file it in the CL-2 file. 	 
- 	* Remove the request from that activity (done on the request itself).
-	* Route the request to "Request finished."
+ 	* Remove the request from that activity in Aeon (done on the request itself).
+	* Route the request in Aeon to "Request finished."
  	* Update the conservation list to reflect that treatment is complete and has been returned.
   	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.
-   	* Remove any restrictions from the item/s in ASpace, if necessary.  	 
+   	* Remove any restrictions from the item/s in ArchivesSpace, if necessary.
+   	* Print a hard copy of the [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz) and file it in the CL-2 file.
+   	* Place a hard copy of the [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz) in the box with the item, if appropriate.
+   	* In ArchivesSpace, create an event attached to the resource record to document the conservation treatment.
+   		*  Event type = Conservation treatment
+   	 	*  UTC timestamp = [date items returned from conservation]
+   	  	*  Agent = [Preservation Liaison who received material from Preservation staff]
+   	  	*  Agent role = Archivist
+   	  	*  Record link = [should already link to the resource record]
+   	  	*  External documents
+   	  		* Title = [insert title of conservation treatment report]
+   	  	 	* Location = [insert link to conservation treatment report]  			  	 
 
 
 ### 9.3.2 Books
