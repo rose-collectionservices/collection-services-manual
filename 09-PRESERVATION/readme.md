@@ -36,13 +36,13 @@ For questions about possible preservation needs in a collection, consult the Ros
 When you encounter moldy materials while processing or accessioning: 
 * Segregate the damaged items from the rest of the collection. 
 * Consult with the Rose Library Preservation Liaison to determine how to treat the items. Very minor mold presence may be treated with a microfiber cloth. More signifcant damage will need to be treated by professional conservators. Depending on the volume of damaged material, we may need to outsource the treatment. Small amounts of material can more easily be handled by the Emory Libraries conservation lab. On average, we should expect treatment to take one month per linear foot if the material is being treated by Emory conservators.
-* Add the moldy items/box information to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).
+* If moldy items/boxes need to be sent to the conservation lab for treatment, add that information to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).
 * Moldy items awaiting treatment for mold should be stored in a separate box with an ["awaiting treatment for mold" label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eehvcn_molpJsIzuBOZTRY0BgOTSxpOaPlu_JiyR6Op0SA?e=AyfQP4), printed on **bright pink paper**. Items may also be placed in plastic bags. Items awaiting treatment for mold **cannot be sent to the LSC.**
 
 When contaminated materials return from being treated:
-* The Preservation Liaison will follow the instructions in [9.2.1](#921-manuscript-and-archival-material) for items that have been returned from conservation.
-* The archivist will complete processing but keep the moldy material physically segregated. Materials that have been treated by a vendor may need additional time to off-gas. Create a new box for the previously moldy items.
-* Add the archival objects to ArchivesSpace. In manage top containers, add the box's barcode, container profile, and location.
+* The Preservation Liaison will follow the instructions in [9.3.1](#931-manuscript-and-archival-material) for items that have been returned from conservation.
+* The archivist will complete processing but keep the moldy material physically segregated. Materials that have been treated by a vendor may need additional time to off-gas. Create a new box for the previously moldy items. Dispose of boxes that had previously housed moldy materials.
+* Add the archival objects to ArchivesSpace if necessary. In manage top containers, add the box's barcode, container profile, and location.
 * Label the outside of the box(es) with a [mold notice label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=zEHwq9) according to the instructions in  [6.6.2 Boxing collections](/06-LOCAL%20PRACTICE#662-boxing-collections).
 * It is highly preferred to send items that have been treated for mold to the LSC following treatment.
    
