@@ -384,7 +384,7 @@ When applicable, the following language is used for EUA use restriction notes:
   
 *	Field specifics
 	*  	Type = Conditions Governing Access
-	*  	Label = [none] [*Notes that were migrated contain a note of "Restrictions on Access," which is going to be removed by script]
+	*  	Label = [none] [*Notes that were migrated contain a label of "Restrictions on Access." You do not need to manually enter this label. Ideally these labels will be removed by script at some point in the future.]
 	*	Publish = [box should be checked]
 	*	Select the local access restriction type:
   		*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
@@ -447,7 +447,7 @@ also identify materials that require special handling that goes beyond standard 
 
 **Corresponding EAD element(s):** ``<accessrestrict></accessrestrict>``
 
-**Conditions Governing Access--Restrictions on Access note field in ArchivesSpace:**
+**Conditions Governing Access note field in ArchivesSpace:**
 
 *	See instructions for this note field above under 5.1.6.1 Conditions Governing Access. The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 	
@@ -489,6 +489,20 @@ When describing restrictions, precede the first restriction note with "Special r
 **Corresponding MARC field:**  540
 
 **Corresponding EAD element(s):** ``<userestrict></userestrict>``
+
+**Conditions Governing Use note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Conditions Governing Use
+	*  	Label = [none] [*Notes that were migrated contain a label of "Terms Governing Use and Reproduction." You do not need to manually enter this label. Ideally these labels will be removed by script at some point in the future.]
+	*	Publish = [box should be checked]
+	*	Content = [enter note]
+
+**Example of ArchivesSpace Conditions Governing Use note:**
+
+*Figure 11 (below): Example of a Conditions Governing Use note with the standard note language.*
+*![Figure11](/05-DESCRIPTION/Images/Figure11.JPG "Example of a Conditions Governing Use note with the standard note language.")
+
 
 ### 5.1.8 Additional Physical Form
 
