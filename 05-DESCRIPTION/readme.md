@@ -395,7 +395,7 @@ When applicable, the following language is used for EUA use restriction notes:
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
 *Figure 7 (below): Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
-*![Figure7](/05-DESCRIPTION/Images/Figure7.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*![Figure7new](/05-DESCRIPTION/Images/Figure7new.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
 *Figure 8 (below): Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.*
