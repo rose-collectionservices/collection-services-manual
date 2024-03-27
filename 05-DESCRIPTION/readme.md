@@ -388,7 +388,7 @@ When applicable, the following language is used for EUA use restriction notes:
 	*	Publish = [box should be checked]
 	*	Select the local access restriction type:
   		*  Select "Restricted" for the system to restrict that collection/AO and make it unrequestable.
-   		*  Select "Unrestricted" or select neither if there are no actionable restrictions that require boxes to be unrequestable. Either option will have the same effect, which is to make AOs underneath of that note requestable.
+   		*  Select nothing if there are no actionable restrictions that require items to be unrequestable.
 	* 	Restriction Begin = [leave blank unless necessary to add]
 	* 	Restriction End = [enter date]
 
