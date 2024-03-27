@@ -399,12 +399,12 @@ When applicable, the following language is used for EUA use restriction notes:
 
 
 *Figure 8 (below): Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.*
-![Figure8](/05-DESCRIPTION/Images/Figure8.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
+![Figure8new](/05-DESCRIPTION/Images/Figure8new.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
 
 
 
 *Figure 9 (below): Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.*
-![Figure9](/05-DESCRIPTION/Images/Figure9.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
+![Figure9new](/05-DESCRIPTION/Images/Figure9new.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
 
 
 
