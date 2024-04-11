@@ -744,7 +744,7 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 *Harmful language statement:*
 
-*This finding aid may include language that is offensive or harmful. Please refer to the Rose Library's harmful language statement for more information about why such language may appear and ongoing efforts to remediate racist, ableist, sexist, homophobic, euphemistic and other oppressive language. If you are concerned about language used in this finding aid, please contact us at rose.library@emory.edu. 
+* This finding aid may include language that is offensive or harmful. Please refer to the Rose Library's harmful language statement for more information about why such language may appear and ongoing efforts to remediate racist, ableist, sexist, homophobic, euphemistic and other oppressive language. If you are concerned about language used in this finding aid, please contact us at rose.library@emory.edu. 
 
 **Corresponding MARC field:**  583
 
