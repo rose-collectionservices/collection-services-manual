@@ -102,7 +102,8 @@ Once items have been returned from conservation:
    	  	*  Record link = [should already link to the resource record]
    	  	*  External documents
    	  		* Title = [insert title of conservation treatment report]
-   	  	 	* Location = [insert link to conservation treatment report]  			  	 
+   	  	 	* Location = [insert link to conservation treatment report]
+   	  	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.     	 
 
 
 ### 9.3.2 Books
