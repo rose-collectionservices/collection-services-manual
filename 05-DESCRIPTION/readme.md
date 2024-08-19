@@ -970,7 +970,9 @@ Identifies any other finding aids to the materials being described, particularly
 
 **Required:** Optional but preferred when applicable.
 
-This field describes any additional finding aids, such as indexes or original inventories, created for the collection.  If used, this field is repeatable and should appear at the collection level and any relevant series or sub-series levels.  It is not necessary to use this field to indicate the presence of MARC catalog records. 
+This field describes any additional finding aids, such as indices or original inventories, created for the collection.  If used, this field is repeatable and should appear at the collection level and any relevant series or sub-series levels.  It is not necessary to use this field to indicate the presence of MARC catalog records. 
+
+ArchivesSpace instructions for linking to indices removed from the record (due to size) are found in [Sharepoint](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/ArchivesSpace/Guide_Linking%20indices_ASpace_2024.docx?d=w6348a3c1d2b444c2b2723c4bc9076b30&csf=1&web=1&e=w9GJkh)
 
 **Examples:**
 
