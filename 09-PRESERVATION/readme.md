@@ -163,4 +163,4 @@ The Rose Library preservation liaison is responsible for monitoring bug traps on
   	* When bugs are found in a trap or elsewhere, note it on the spreadsheet on the "Rose" tab, including the date, location, and kind of bug.
 
 
-Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities and the pest management company. **The preservation liaison should notify the Conservator and facilities immediately if there are any major pest issues that require immediate attention.**
+Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities (Le'Denna Harris) and the pest management company. **The preservation liaison should notify the Conservator and Le'Denna Harris immediately if there are any major pest issues that require immediate attention.**
