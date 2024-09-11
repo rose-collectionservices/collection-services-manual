@@ -159,8 +159,8 @@ The Rose Library preservation liaison is responsible for monitoring bug traps on
 * Once a month, the preservation liaison should inspect all bug traps on L9-L11 and replace any traps as needed.
 * Notify the Conservator if more replacement traps are needed.
 * The Conservator maintains a [centralized spreadsheet](https://emory-my.sharepoint.com/:x:/g/personal/ebrow38_emory_edu/EUIliMUVCK1PtQC5oouiHekB_Bt_7SZIrxIJYjSpJVMG4w?e=moARGZ) to track pest traps in the Woodruff Library building.
-  	* The locations of all bug traps on L9-L11 are noted in the Rose trap locations tab. Update the date on the spreadsheet when a trap is replaced.
-  	* When bugs are found in a trap or elsewhere, note it on the spreadsheet on the Rose tab, including the date, location, and kind of bug.
+  	* The locations of all bug traps on L9-L11 are noted in the "Rose trap locations" tab. Update the date on the spreadsheet when a trap is replaced.
+  	* When bugs are found in a trap or elsewhere, note it on the spreadsheet on the "Rose" tab, including the date, location, and kind of bug.
 
 
 Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities and the pest management company. **The preservation liaison should notify the Conservator and facilities immediately if there are any major pest issues that require immediate attention.**
