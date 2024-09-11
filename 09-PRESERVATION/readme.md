@@ -5,9 +5,10 @@ Content owner: **Becky Sherman**
 * [9.1 General Preservation during Processing](#91-preservation-during-processing)
 * [9.2 Moldy Materials](#92-moldy-materials)
 * [9.3 Sending collection material to the Conservation Lab](#93-sending-collection-material-to-the-conservation-lab)
-	* [9.3.1 Manuscript and archival material](#931-manuscript-and-archival-material)
+	* [9.3.1 Manuscript and EUA material](#931-manuscript-and-EUA-material)
 	* [9.3.2 Books](#932-books)
 	* [9.3.3 Audiovisual Material](#933-audiovisual-material)
+ * [9.4 Pest Management](#94-pest-management)
 
 ## 9.1 Preservation during Processing
 
@@ -152,4 +153,12 @@ The audiovisual liaison is responsible for identifying audiovisual mateiral in m
 7. Once returned, the Rose Library liaison will update the Conservation List, the rights statement, and Keep metadata as well as create digital access object tags in the encoded finding aid.  Research Services staff will be notified if the transaction is patron driven. 
 8. Rose Library liaison will return materials to shelf
 
+## 9.4 Pest Management
 
+The Rose Library preservation liaison is responsible for monitoring bug traps on L9-L11.
+* Once a month, the preservation liaison should inspect all bug traps on L9-L11 and replace any traps as needed.
+* Note any insects found in the traps and the date when a trap is replaced on the spreadsheet.
+* Notify the Conservator if more replacement traps are needed.
+
+
+Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities and the pest management company. The preservation liaison should notify the Conservator and facilities immediately if there are any major pest issues that require immediate attention.
