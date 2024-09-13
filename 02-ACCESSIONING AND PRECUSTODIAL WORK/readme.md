@@ -259,7 +259,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 *	Document physical receipt of the material in an event record attached to the accession record.
 	*	Type is equal to "custody transfer"
 	*	The role of the selector linked as an agent is "curator"
-	*	Date is the date the event record is created
+	*	Date records the date materials moved into Rose Library possession. Often, this date will align with the creation of the record since new acquisitions should be recorded as soon as they are identified.
 *	When deed or deed addendum is present and has been signed by the donor and counter-signed by the Director, document the agreement in an event record attached to the accession record.
 	*	Type is equal to "agreement signed"
 	*	The role of the donor or seller or signed the deed is linked as an agent with the label of "authorizer"
