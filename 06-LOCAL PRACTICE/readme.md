@@ -405,6 +405,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 		* Content = Box is missing as of (date)
 
 ### 6.7.2 Documenting missing items and folders
+* In ASpace, for the archival object that is missing, add after the title of the AO [MISSING]
 * In ASpace, for the archival object that is missing, add a Conditions Governing Access Note:
   	* Publish = true
   	* Restriction Begin = Date item was identified as missing
