@@ -400,7 +400,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 	* For EACH of the archival objects linked to that container, add a Conditions Governing Access Note to restrict the item and make it not requestable.
 		* Publish = true
-                * Restriction Begin = Date item was identified as missing
+    		* Restriction Begin = date item was confirmed missing
    		* Local Access Restriction Type = Select restricted
 		* Content = Box is missing as of (date)
 
