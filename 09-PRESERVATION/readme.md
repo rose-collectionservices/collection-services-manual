@@ -80,7 +80,8 @@ Transferring items to the conservation lab:
 		* One half of the call slip stays with the item as it travels to the conservation lab.
 		* One half of the call slip is put in place of the box in the shelving location, or in the case of single items is placed inside the box from which the item was removed.
    	* Update the conservation list to reflect that the item has been sent to conservation.
-   	* If appropriate, the Rose Library liaison will add a Restrictions on Access note to the archival object or resource record in ArchivesSpace. 
+   	* If appropriate, the Rose Library liaison will add a Restrictions on Access note to the archival object or resource record in ArchivesSpace.
+   	* If an entire box is being sent to conservation, you can also change the location of the box in ArchivesSpace to [PRESOFFICE] if that makes sense.
 3. Rose Library liaison will deliver the item with call slip to the conservation staff during the monthly meeting. 
 4. Rose Library liaison and conservation staff will discuss the level and types of treatment.  A due date for return of the item to the Rose Library should also be determined if appropriate. 
 
