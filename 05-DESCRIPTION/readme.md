@@ -150,7 +150,7 @@ The title best describes the contents of the collection, including the creator a
 name of the creator as part of the collection title.  If a collection contains the administrative records of an organization or corporate body, use the 
 term "records."  If a manuscript collection contains a variety of materials belonging to an individual or family, use the term "papers."  If the 
 collection is artificially created by an individual or by the Rose Library, use the term "collection."  If the collection consists of a single record type 
-or is overwhelmingly dominated by a single record type, use a term that describes the record type.  Capitalize only the first word and proper nouns in the title. Titles where married (or otherwise partnered) couples share a last name are represented in the title by their first names with the last name used only once as in the example, "John and Mary Smith."
+or is overwhelmingly dominated by a single record type, use a term that describes the record type.  Capitalize only the first word and proper nouns in the title. Titles where married (or otherwise partnered) couples share a last name are represented in the title by their first names with the last name used only once as in the example, "John and Mary Smith." In ArchivesSpace, the title should not include the dates, which are in a separate field.
 
 **Examples:**
 
@@ -206,33 +206,66 @@ life of the organization or when the volume of material within the bulk dates is
 
 **Corresponding EAD element(s):**  ``<unitdate></unitdate>``
 
-**Examples of complete title statements:**
+**Date fields in ArchivesSpace:**
+  
+*	Field specifics
+	*	Label = creation [required]
+ 	*  	Date type [required. NOTE: You may have more than one date field, for example a field for inclusive dates and a field for bulk dates.]
+		* Single
+  			* Begin = [enter date in correct format] 	
+		* Inclusive [a date range]
+  			* Begin = [enter begin date in correct format]
+			* End = [enter end date in correct format]
+   		* Bulk [a date range]
+			* Begin = [enter begin date in correct format]
+			* End = [enter end date in correct format]
+	*	Date expression [required if applicable] = [Use a natural language expression when a normalized date is not recorded or when the date expression is different than the normalized date values.]
+ 		* Example: "circa 1958"
+  		* Example: "undated" 	
+	*	Date certainty [do NOT use, as this is not a machine readable field] 
 
-| Collection level                                                             |
-|------------------------------------------------------------------------------|
-| Rebecca Ranson papers, 1906-2013                                             |
-| Horace Mann and Julia W. Bond family papers, 1866-2009                       |
-| Southern Christian Leadership Conference records, 1864-2012 (bulk 1968-2003) |
-| Sol Singer collection of Philatelic Judaica, 1902-2008                       |
-| Literary miscellany collection, circa 1795-1995                              |
-| Jim Alexander photographs, 1969-2003                                         |
-| James Burton diary, 1864                                                     |
-| Philip Pope letter, 1903 February 2                                          |
+* Examples of date fields in ASpace 
+	* For undated:
+ 		* Date type = single
+   		* Date expression = undated 
+	* Circa 1940s
+ 		* Date type = inclusive 
+		* Begin date = 1940 
+		* End date =1949
+  		* Date expression = circa 1940-1949
+	* Circa 1942
+ 		* Date type = single
+   		* Begin date = 1942
+     		* Date expression = circa 1942
+ 	* Exact date with month day year
+  		* Begin date = Year-Month-Day (ex. 1978-06-12)
+    		* Date expression = do not use
+    * Date with month year (use date expression also)
+		* Begin date = Year-Month (ex. 1978-06)
+   		* Date expression = 1978 June
+     *  Date that is Semester Year (i.e. fall 1991)
+     		* Date type = inclusive
+       		* Begin date = 1991-09
+       		* End date = 1991-12
+       		* Date expression = 1991 Fall
+	* Bulk dates require two separate dates subfields, for ex. 1839-2014 (bulk 1952-2014)
+ 		* First date subfield
+   			* Date type = inclusive
+      			* Begin date = 1839
+         		* End date = 2014
+        	* Second date subfield
+         		* Date type = Bulk dates
+           		* Begin date = 1952
+             		* End date = 2014 
+		* In the public interface, the dates will display as dates:
+  			* 1839-2014
+     			* Majority of material found within 1952-2014
+          
+**Example of ArchivesSpace Dates field:**
 
+*Figure 17 (below): Example of dates fields for inclusive dates and bulk dates.*
+*![Figure17](/05-DESCRIPTION/Images/Figure17.jpg "Example of dates fields for inclusive dates and bulk dates.")
 
-*Series/Sub-series level:*
-
-*	Southern Christian Leadership Conference records, 1864-2012 (bulk 1968-2003)
-
-	*	Office of the President records, 1958-2003
-	
-		*	President Ralph David Abernathy files, circa 1962-1989
-		
-*	Horace Mann and Julia W. Bond family papers, 1866-2009
-
-	*	Horace Mann Bond papers, 1928-1972
-	
-		*	Personal papers, 1931-1996 (bulk 1931-1972)
 		
 
 ### 5.1.3 Extent
