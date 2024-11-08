@@ -722,6 +722,19 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
 
+**Immediate Source of Acquisition note field in ArchivesSpace:**
+
+*	Field specifics for Immediate Source of Acquisition note field
+ 	*  	Type = Immediate Source of Acquisition
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note]
+
+**Example of ArchivesSpace Immediate Source of Acquisition note:**
+
+*Figure 17 (below): Example of Immediate Source of Acquisition note in ASpace.*
+*![Figure 17: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure17.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
+
 ### 5.1.15 Custodial History
 
 **DACS Chapter 5.1:**
