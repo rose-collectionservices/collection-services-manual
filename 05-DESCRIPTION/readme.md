@@ -455,7 +455,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 
 *Figure 9 (below): Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.*
-![Figure9new](/05-DESCRIPTION/Images/Figure9new.jpg "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
+![Figure9new](/05-DESCRIPTION/Images/Figure9new.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
 
 
 
@@ -506,7 +506,7 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
 *Figure 10 (below): Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
-*![Figure10new](/05-DESCRIPTION/Images/Figure10new.jpg "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*![Figure10new](/05-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
 ### 5.1.7 Conditions Governing Use
