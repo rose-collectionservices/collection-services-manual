@@ -592,7 +592,7 @@ This field identifies any other collections in the Rose Library that have a clos
 **Example of ArchivesSpace Related Materials in This Collection note:**
 
 *Figure 12 (below): Example of a Related Materials in This Collection note in ASpace.*
-*![Figure12](/05-DESCRIPTION/Images/Figure12.JPG "Example of a Related Materials in This Collection note.")
+*![Figure12: Example of a Related Materials in This Collection note](/05-DESCRIPTION/Images/Figure12.JPG "Example of a Related Materials in This Collection note.")
 
 ### 5.1.12 Related Collections in Other Institutions
 
