@@ -642,6 +642,19 @@ This field identifies materials that have been physically removed from the colle
 
 **Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
 
+**Separated Materials note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Separated Materials
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note, including hyperlink if relevant]
+
+**Example of ArchivesSpace Separated Materials note:**
+
+*Figure 14 (below): Example of a Separated Materials note in ASpace.*
+*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.JPG "Figure 14: Example of a Separated Materials note")
+
 ### 5.1.14 Immediate Source of Acquisition
 
 **DACS Chapter 5.2:**
