@@ -640,7 +640,7 @@ This field identifies collections held in other repositories that have a close r
 **Example of ArchivesSpace Related Materials in Other Repositories note:**
 
 *Figure 13 (below): Example of a Related Materials in Other Repositories note in ASpace.*
-*![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.JPG "Figure 13: Example of a Related Materials in Other Repositories note")
+![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
 
 ### 5.1.13 Separated Materials
 
