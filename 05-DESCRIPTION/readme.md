@@ -525,6 +525,20 @@ This field identifies any additional formats, such as microfilm or digital surro
 
 **Corresponding EAD element(s):** ``<altformavail></altformavail>``
 
+**Existence and Location of Copies note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Existence and Location of Copies
+	*  	Label = Additional Physical Form
+	*	Publish = [box should be checked]
+	*	Content = [content of note, including hyperlink if relevant]
+
+**Example of ArchivesSpace Existence and Location of Copies note:**
+
+*Figure 15 (below): Example of an Existence and Location of Copies note in ASpace.*
+*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.JPG "Figure 15: Example of an Existence and Location of Copies note")
+
+
 ### 5.1.9 Location of Originals
 
 **DACS Chapter 6.1:**
