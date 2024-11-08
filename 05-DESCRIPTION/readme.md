@@ -589,12 +589,12 @@ This field identifies any other collections in the Rose Library that have a clos
 	*	Publish = [box should be checked]
 	*	Content = [title of collection, hyperlinked]
 
-**Example of ArchivesSpace Related Materials in This Collection note:**
+**Example of ArchivesSpace Related Materials in This Repository note:**
 
-*Figure 12 (below): Example of a Related Materials in This Collection note in ASpace.*
-*![Figure12: Example of a Related Materials in This Collection note](/05-DESCRIPTION/Images/Figure12.JPG "Example of a Related Materials in This Collection note.")
+*Figure 12 (below): Example of a Related Materials in This Repository note in ASpace.*
+*![Figure 12: Example of a Related Materials in This Repository note](/05-DESCRIPTION/Images/Figure12.JPG "Figure 12: Example of a Related Materials in This Repository note")
 
-### 5.1.12 Related Collections in Other Institutions
+### 5.1.12 Related Collections in Other Repositories
 
 **DACS Chapter 6.4:**
 
@@ -614,6 +614,19 @@ This field identifies collections held in other repositories that have a close r
 **Corresponding MARC field:**  544
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
+
+**Related Collections in Other Institutions note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Related Materials
+	*  	Label = Related Collections in Other Repositories
+	*	Publish = [box should be checked]
+	*	Content = [title of collection, hyperlinked]
+
+**Example of ArchivesSpace Related Materials in Other Repositories note:**
+
+*Figure 13 (below): Example of a Related Materials in Other Repositories note in ASpace.*
+*![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.JPG "Figure 13: Example of a Related Materials in Other Repositories note")
 
 ### 5.1.13 Separated Materials
 
