@@ -404,7 +404,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 
 *Figure 9 (below): Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.*
-![Figure9new](/05-DESCRIPTION/Images/Figure9new.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
+![Figure9new](/05-DESCRIPTION/Images/Figure9new.jpg "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
 
 
 
@@ -455,7 +455,7 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
 *Figure 10 (below): Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
-*![Figure10new](/05-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*![Figure10new](/05-DESCRIPTION/Images/Figure10new.jpg "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
 ### 5.1.7 Conditions Governing Use
@@ -501,7 +501,7 @@ When describing restrictions, precede the first restriction note with "Special r
 **Example of ArchivesSpace Conditions Governing Use note:**
 
 *Figure 11 (below): Example of a Conditions Governing Use note with the standard note language.*
-*![Figure11](/05-DESCRIPTION/Images/Figure11.JPG "Example of a Conditions Governing Use note with the standard note language.")
+*![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
 ### 5.1.8 Additional Physical Form
@@ -536,7 +536,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 **Example of ArchivesSpace Existence and Location of Copies note:**
 
 *Figure 15 (below): Example of an Existence and Location of Copies note in ASpace.*
-*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.JPG "Figure 15: Example of an Existence and Location of Copies note")
+*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
 ### 5.1.9 Location of Originals
@@ -667,7 +667,7 @@ This field identifies materials that have been physically removed from the colle
 **Example of ArchivesSpace Separated Materials note:**
 
 *Figure 14 (below): Example of a Separated Materials note in ASpace.*
-*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.JPG "Figure 14: Example of a Separated Materials note")
+*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
 
 ### 5.1.14 Immediate Source of Acquisition
 
