@@ -581,6 +581,19 @@ This field identifies any other collections in the Rose Library that have a clos
 
 **Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
 
+**Related Collections in This Repository note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Related Materials
+	*  	Label = Related Collections in This Repository
+	*	Publish = [box should be checked]
+	*	Content = [title of collection, hyperlinked]
+
+**Example of ArchivesSpace Related Materials in This Collection note:**
+
+*Figure 12 (below): Example of a Related Materials in This Collection note in ASpace.*
+*![Figure12](/05-DESCRIPTION/Images/Figure12.JPG "Example of a Related Materials in This Collection note.")
+
 ### 5.1.12 Related Collections in Other Institutions
 
 **DACS Chapter 6.4:**
