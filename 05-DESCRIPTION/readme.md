@@ -323,6 +323,24 @@ amounts of material in those languages.
 
 **Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
 
+**Language field and Language of Materials note field in ArchivesSpace:**
+
+*	Field specifics for Language field [NOTE: ASpace requires you to enter a language field. Add an additional language field if there is more than one language.]
+	*  	Language = English [or applicable language]
+ 	*  	Script = Latin	
+
+*	Field specifics for Language of Materials note field [NOTE: ASpace requires you to enter a language field. Adding an additional Language of Materials note will display the language of materials note content instead of just a list of languages in the published version.]
+ 	*  	Type = Language of Materials
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note]
+
+**Example of ArchivesSpace Language field and Language of Materials note:**
+
+*Figure 16 (below): Example of Language field and Language of Materials note in ASpace.*
+*![Figure 16: Example of a Language field and Language of Materials note in ASpace](/05-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
+
+
 ### 5.1.6 Conditions Governing Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
