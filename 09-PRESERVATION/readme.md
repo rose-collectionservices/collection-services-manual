@@ -45,7 +45,7 @@ When contaminated materials return from being treated:
 * The archivist will complete processing but keep the moldy material physically segregated. Materials that have been treated by a vendor may need additional time to off-gas. Create a new box for the previously moldy items. Dispose of boxes that had previously housed moldy materials.
 * Add the archival objects to ArchivesSpace if necessary. In manage top containers, add the box's barcode, container profile, and location.
 * Label the outside of the box(es) with a [mold notice label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=TlJN5G) according to the instructions in  [6.6.2 Boxing collections](/06-LOCAL%20PRACTICE#662-boxing-collections).
-* It is highly preferred to send items that have been treated for mold to the LSC following treatment.
+* It is highly preferred to send items that have been treated for mold to the LSC following treatment. Boxes that were previously treated for mold but must remain onsite should be shelved with the rest of the location.
    
 
 ## 9.3 Sending Collection Material to the Conservation Lab 
