@@ -755,7 +755,7 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
 
-**Immediate Source of Acquisition note field in ArchivesSpace:**
+**Immediate Source of Acquisition note field in ArchivesSpace (required):**
 
 *	Field specifics for Immediate Source of Acquisition note field
  	*  	Type = Immediate Source of Acquisition
@@ -765,8 +765,18 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 
 **Example of ArchivesSpace Immediate Source of Acquisition note:**
 
-*Figure 17 (below): Example of Immediate Source of Acquisition note in ASpace.*
-*![Figure 17: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure17.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
+*Figure 19 (below): Example of Immediate Source of Acquisition note in ASpace.*
+*![Figure 19: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure19.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
+
+
+**Source Agent Link in ArchivesSpace resource record (optional):**
+
+* Adding a source agent field in a resource record is optional. (Unlike in an accession record, where a source agent field is required.)
+* The source agent field will display in the public interface under "Related Names." If there are multiple source agent fields, all of them will be listed.
+* The source agent field in a resource record autopopulates when the resource record is spawned from the accession record, with the source agent field carrying over from the accession record.
+* Legacy resource records that were migrated from the Emory Finding Aids database will not have a source agent field, because they were not spawned from an accession record.
+* It is not necessary to manually add a source agent field to a resource record because that same information also appears in the Immediate Source of Acquisition note field (which is required).
+* If a resource record has both an agent source field and an Immediate Source of Acquisition note field, both fields will display in the public interface.
 
 ### 5.1.15 Custodial History
 
