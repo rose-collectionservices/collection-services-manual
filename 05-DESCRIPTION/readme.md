@@ -659,7 +659,7 @@ This field identifies any other collections in the Rose Library that have a clos
 *Figure 12 (below): Example of a Related Materials in This Repository note in ASpace.*
 ![Figure 12: Example of a Related Materials in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Materials in This Repository note")
 
-### 5.1.12 Related Collections in Other Repositories
+### 5.1.12 Related Collections in Other Institutions
 
 **DACS Chapter 6.4:**
 
