@@ -257,8 +257,8 @@ life of the organization or when the volume of material within the bulk dates is
 	* Bulk dates require two separate dates subfields, for ex. 1839-2014 (bulk 1952-2014)
  		* First date subfield
    			* Date type = inclusive
-      			* Begin date = 1839
-         		* End date = 2014
+   			* Begin date = 1839
+			* End date = 2014
 		* Second date subfield
 			* Date type = Bulk dates
 			* Begin date = 1952
