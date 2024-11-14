@@ -226,8 +226,8 @@ life of the organization or when the volume of material within the bulk dates is
 
 * Examples of date fields in ASpace 
 	* For undated:
- 		* Date type = single
-   		* Date expression = undated 
+		* Date type = single
+  		* Date expression = undated 
 	* Circa 1940s
  		* Date type = inclusive 
 		* Begin date = 1940 
