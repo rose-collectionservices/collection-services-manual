@@ -210,6 +210,7 @@ life of the organization or when the volume of material within the bulk dates is
   
 *	Field specifics
 	*	Label = creation [required]
+
  	*  	Date type [required. NOTE: You may have more than one date field, for example a field for inclusive dates and a field for bulk dates.]
 		* Single
   			* Begin = [enter date in correct format] 	
@@ -219,9 +220,11 @@ life of the organization or when the volume of material within the bulk dates is
    		* Bulk [a date range]
 			* Begin = [enter begin date in correct format]
 			* End = [enter end date in correct format]
+ 
 	*	Date expression [required if applicable] = [Use a natural language expression when a normalized date is not recorded or when the date expression is different than the normalized date values.]
  		* Example: "circa 1958"
-  		* Example: "undated" 	
+  		* Example: "undated"
+   
 	*	Date certainty [do NOT use, as this is not a machine readable field] 
 
 * Examples of date fields in ASpace
