@@ -239,17 +239,21 @@ life of the organization or when the volume of material within the bulk dates is
 		* Date type = single
    		* Begin date = 1942
 		* Date expression = circa 1942
+ 
 	* Exact date with month day year
  		* Begin date = Year-Month-Day (ex. 1978-06-12)
    		* Date expression = do not use
+ 
 	* Date with month year (use date expression also)
 		* Begin date = Year-Month (ex. 1978-06)
    		* Date expression = 1978 June
+ 
 	* Date that is Semester Year (i.e. fall 1991)
  		* Date type = inclusive
    		* Begin date = 1991-09
      		* End date = 1991-12
        		* Date expression = 1991 Fall
+  
 	* Bulk dates require two separate dates subfields, for ex. 1839-2014 (bulk 1952-2014)
  		* First date subfield
    			* Date type = inclusive
@@ -261,7 +265,7 @@ life of the organization or when the volume of material within the bulk dates is
    			* End date = 2014
 		* In the public interface, the dates will display as dates:
   			* 1839-2014
-     			* Majority of material found within 1952-2014
+  			* Majority of material found within 1952-2014
           
 **Example of ArchivesSpace Dates field:**
 
