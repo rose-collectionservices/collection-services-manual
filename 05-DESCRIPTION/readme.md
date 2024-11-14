@@ -250,9 +250,9 @@ life of the organization or when the volume of material within the bulk dates is
  
 	* Date that is Semester Year (i.e. fall 1991)
  		* Date type = inclusive
-   		* Begin date = 1991-09
-     		* End date = 1991-12
-       		* Date expression = 1991 Fall
+ 		* Begin date = 1991-09
+   		* End date = 1991-12
+     		* Date expression = 1991 Fall
   
 	* Bulk dates require two separate dates subfields, for ex. 1839-2014 (bulk 1952-2014)
  		* First date subfield
