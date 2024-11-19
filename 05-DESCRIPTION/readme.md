@@ -1120,7 +1120,7 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
 
-## 5.2 Using the Microsoft Word Template
+## 5.2 Optional Microsoft Word Template
 
 The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
