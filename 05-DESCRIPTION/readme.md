@@ -30,7 +30,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.20 Scope and content note](#5120-scope-and-content-note)
 	* [5.1.21 Arrangement note](#5121-arrangement-note)
 	* [5.1.22 Additional finding aids](#5122-additional-finding-aids)
-* [5.2 Using the Microsoft Word template](#52-using-the-microsoft-word-template)
+* [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
 * [5.4 Anti Oppressive Archival Description Principles and Guidelines](#54-anti-oppressive-archival-description-principles-and-guidelines)
 	* [5.4.1 Describing Race and Ethnicity](#541-describing-race-and-ethnicity)
@@ -1122,44 +1122,7 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 ## 5.2 Using the Microsoft Word Template
 
-There are three finding aids templates:  Nonseries, Series, and Subseries (F:\MARBL\Arrangement & Description Services\Forms).  When writing the finding aid, provide information in each of the required fields plus any additional optional fields that are relevant to a specific collection.  Delete fields that are not relevant.  The template includes all necessary formatting for the collection level description. 
-
-The templates may not include all necessary formatting for container lists.  The Perl script that automatically encodes the container lists is dependent on this formatting and it must be correct for the script to run.  This formatting cannot be applied to container lists retrospectively.  If it is not set prior to beginning the container list, it will need to be applied individually to each multi-line folder title. 
-
-* Click the arrow in the bottom right corner of the paragraph tab on the home ribbon (see figure 2);
-
-![Figure 2: Click the arrow in the bottom right corner of the paragraph tab on the home ribbon](/05-DESCRIPTION/Images/Figure2.jpg "Click the arrow in the bottom right corner of the paragraph tab on the home ribbon")
-
-*Figure 2*
-
-* Set left and right indentations at 0" and special hanging indentation at 1.2" (see figure 3);
-* In the bottom left of the paragraph menu, select "tabs" (see figure 3);
-
-![Figure 3: Set left and right indentations at 0 and special hanging indentation at 1.2](/05-DESCRIPTION/Images/Figure3.jpg "Set left and right indentations at 0 and special hanging indentation at 1.2")
-
-*Figure 3*
-
-* Set tabs at .5" and 1" (see figure 4);
-
-![Figure 4: Set tabs at .5 and 1](/05-DESCRIPTION/Images/Figure4.jpg "Set tabs at .5 and 1")
-
-*Figure 4*
-
-* Ensure that all extra tabs and spaces at the end of folder titles are deleted. 
-
-Also change the following autoformat settings in Microsoft Word:
-
-* Go to Options
-* Go to Proofing
-* Click "AutoCorrect Options"
-* Under BOTH the "AutoFormat" and "AutoFormat as You Type" tabs, deselect:
-	* "Straight Quotes with "Smart Quotes"
-	* Ordinals (1st) with superscript
-	* Fractions (1/2) with fraction character
-	* Hyphens (--) with dash
-	
-Microsoft Word will also autoformat ellipses in a way that our perl script cannot read, but this cannot be changed in settings. When you type an ellipsis, backspace once. If this deletes the entire ellipsis, retype and backspace again. This should leave three periods that are readable by the script.
-
+The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
 ## 5.3 Reviewing and Editing Finding Aids
 
