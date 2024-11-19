@@ -9,6 +9,7 @@ Content owner: **Becky Sherman**
 	* [9.3.2 Books](#932-books)
 	* [9.3.3 Audiovisual Material](#933-audiovisual-material)
  * [9.4 Pest Management](#94-pest-management)
+ * [9.5 Environmental Monitoring](#95-environmental-monitoring)
 
 ## 9.1 Preservation during Processing
 
@@ -154,7 +155,7 @@ The audiovisual liaison is responsible for identifying audiovisual mateiral in m
 7. Once returned, the Rose Library liaison will update the Conservation List, the rights statement, and Keep metadata as well as create digital access object tags in the encoded finding aid.  Research Services staff will be notified if the transaction is patron driven. 
 8. Rose Library liaison will return materials to shelf
 
-## 9.4 Pest Management
+### 9.4 Pest Management
 
 The Rose Library preservation liaison is responsible for monitoring bug traps on L9-L11.
 * Once a month, the preservation liaison should inspect all bug traps on L9-L11 and replace any traps as needed.
@@ -165,3 +166,7 @@ The Rose Library preservation liaison is responsible for monitoring bug traps on
 
 
 Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities (Le'Denna Harris) and the pest management company. **The preservation liaison should notify the Conservator and Le'Denna Harris immediately if there are any major pest issues that require immediate attention.**
+
+### 9.5 Environmental Monitoring
+
+Dataloggers are located on L9-L11 and monitored by Preservation staff.
