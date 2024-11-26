@@ -212,7 +212,30 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 
 ### 5.1.4 Level of description
 
+**Required:** Required at all levels.
+
+* The level of description field in ArchivesSpace indicates the hierarchical level of the materials being described. At the collection level, select "collection" as the level of description.
+
+* The options in the drop-down menu are:
+	* Collection
+ 	* Series
+  	* Sub-Series
+   	* File
+   	* Item [Use only for AV items?]
+
+
 ### 5.1.5 Resource type
+
+**DACS Chapter 2.3.19**
+
+**Required:** Required at the collection level.
+
+* The resource type describes the nature of the materials. The resource type field in ArchivesSpace should correspond with the resource type used in the title. Select from the drop down menu: 
+	* If a collection contains the administrative records of an organization or corporate body, use the term "records." 
+ 	* If a manuscript collection contains a variety of materials belonging to an individual or family, use the term "papers." 
+  	* If the collection is artificially created by an individual or by the Rose Library, use the term "collection." 
+
+
 
 ### 5.1.6 Languages
 
