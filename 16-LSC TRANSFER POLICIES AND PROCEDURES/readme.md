@@ -15,6 +15,11 @@ Current owner: **Becky Sherman**
 	* [16.2.6 Sending items to the LSC](#1626-sending-items-to-the-lsc)
 	* [16.2.7 Removing boxes from the LSC](#1627-removing-boxes-from-the-lsc)
 	* [16.2.8 LSC ingest checklist](#1628-lsc-ingest-checklist)
+ * [16.3 Documenting missing boxes and items]
+ 	* [16.3.1 Documenting missing boxes]
+  	* [16.3.2 Documenting missing items and folders]
+   	* [16.3.3 Documenting missing items and folders without an identified container]
+   	* [16.3.4 Documenting missing books]
 
 ## 16.1 Onsite Stacks Management 
 
@@ -141,24 +146,6 @@ The [Finding Aid](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Share
 
 * Rose Library has unit... 
 * We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
-  
-
-### 2.4.4 Lost Items 
-
-
-  
-
-For lost print material:  
-
-  
-
-* The Rare Book Cataloger will mark the item as missing in Alma [LINK TO CATALOGING MANUAL]  
-
-* Every three months, the Accessioning Archivist and Rare Book Cataloger will generate a missing item report from Alma and search for these items again.  
-
-* If the item is found, the Rare Book Cataloger will remove the missing status from the item record in Alma.  
-
-* If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
 
 
 
@@ -267,3 +254,68 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 <a id="anchor2">[2]</a> Additional details on physical processing requirements can be found in the Rose Library LSC Physical Processing Requirements document and the LSC Policy Decision Document- Physical Processing of Materials.
 
 <a id="anchor3">[3]</a> Detailed instructions for running this script are included in the EAD manual.
+
+
+## 16.3 Documenting missing boxes and items
+
+### 16.3.1 Documenting missing boxes
+
+* If a MSS or EUA box is missing (and you can reasonably conclude that the container actually existed at one point):
+  	* In In ASpace, change the current location for that container to “MISSING."
+  	  	* Status = current
+  	  	* Start date = add date when box was confirmed as missing
+  	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
+  	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
+  	* Figure 16: Example of location field for a missing container
+  ![Figure 16: Missing box location field 1](/06-LOCAL%20PRACTICE/Images/Figure16.jpg)
+	* Figure 17: Another example of location field for a missing container
+  ![Figure 17: Missing box location field 2](/06-LOCAL%20PRACTICE/Images/Figure17.jpg)
+
+	* For EACH of the archival objects linked to that container, add a Conditions Governing Access Note to restrict the item and make it not requestable.
+		* Publish = true
+    		* Restriction Begin = date item was confirmed missing
+   		* Local Access Restriction Type = Select restricted
+		* Content = Box is missing as of (date)
+
+### 16.3.2 Documenting missing items and folders
+* In ASpace, for the archival object that is missing, add after the title of the AO [MISSING]
+* In ASpace, for the archival object that is missing, add a Conditions Governing Access Note:
+  	* Publish = true
+  	* Restriction Begin = Date item was identified as missing
+	* Local Access Restriction Type = Blank [Do NOT select RESTRICTED as the local access restriction type. This will restrict the entire box and make the entire box unrequestable. There is no way to make a single folder within a box unrequestable, without making the entire box unrequestable.]
+	* Content = Item/folder is missing as of (date) [You can also add any additional information that may be relevant]
+* Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor), including relevant information about the search for the item.
+* If an item is confirmed to be permanently missing and cannot be located anywhere:
+  	* Add to the Missing Manuscript Items spreadsheet
+	* Delete the Archival Object in ASpace
+	* Add a memo to the CL-2 file documenting that the item was declared permanently missing and deleted from the finding aid.
+
+### 16.3.3 Documenting missing items and folders without an identified container
+
+* On rare occasions, a folder/item cannot be located due to containers being renumbered. For example, OPs in a collection were renumbered at some point and now an OP folder cannot be located.
+* Check other logical containers (i.e. oversized folders and boxes) to try and locate the item. If the item cannot be located and you cannot identify the container that it should be in, document as follows.
+* In ASpace, create a new top container. If there are multiple missing folders, merge all existing missing “containers” into that container.
+	* Edit the container indicator to say “MISSING”
+	* No container profile
+	* No barcode
+	* In ASpace, change the current location for that container to “Missing”.
+		* Status = current
+		* Start date = add date when box was confirmed as missing
+		* Note = add note explaining the situation (see example below)
+		* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
+    	* Figure 18: Example of an artificial container that is missing
+       
+![Figure 18: Artificial container that is missing](/06-LOCAL%20PRACTICE/Images/Figure18.jpg)
+
+* In ASpace, for the archival object that is missing, add a Conditions Governing Access Note to restrict the item and make it not requestable.
+  	* Publish = true
+  	* Restriction Begin = Date item was confirmed as missing
+  	* Local Access Restriction Type = Select restricted [This will make the entire container unrequestable, but that is ok since it has been moved to a missing "container"]
+  	* Content = Item/folder is missing as of (date)
+* Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor)
+
+### 16.3.4 Documenting missing books
+  
+* Missing books will be added to the [Missing books spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfTaM8c26vROpWCkE5obViABudgB1RfE2MynHNIGMTyyrQ?e=1qSuPa). 
+* The Rare Book Librarian will mark the item as missing in Alma [LINK TO CATALOGING MANUAL]  
+
