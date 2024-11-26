@@ -186,6 +186,23 @@ Processing Note and Style Guide for additional guidance on folder titles.
 
 ### 5.1.3 Identifier
 
+**DACS Chapter 2.1.3:**
+
+At the highest level of a multilevel description or in a single level description, provide a unique identifier for the materials being described in accordance with the institution’s administrative control system.
+
+**Required:** Required at the collection level.
+
+All collections are assigned a unique identifier, which is assigned in sequence by the order in which a collection was received. Consult the Manuscript or EUA register to determine the next available identifier, and record the collection on the register.
+*	[Manuscript register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ebh2CYfYUoBPsNZJAoCxZ-UB1XX2VjNl33iuxt4PL4oMIQ?e=knDM8h>)
+*	[EUA register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EQyyLS-B7fVHvYOf7t0JLbEBLW_YsrF0AOagwRBVceoxKw?e=gz4gFQ>)
+
+**Identifer field in ArchivesSpace**
+
+* For Manuscript collections:
+	* Identifier = Manuscript Collection No. XXXX [You must type out Manuscript Collection No. as it does not autopopulate. The entire thing should be typed out in the first blank field.]
+
+* For EUA collections:
+	* Identifier = 	
 
 ### 5.1.4 Level of description
 
