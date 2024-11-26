@@ -5,12 +5,15 @@ Content owner: **Sarah Quigley**
 
 * [5.1 Finding aids](#51-finding-aids)
 	* [5.1.1 Main entry/creator](#511-main-entrycreator)
-	* [5.1.2 Title statement](#512-title-statement)
-		* [5.1.2.1 Title](#5121-title)
-		* [5.1.2.2 Date](#5122-date)
-	* [5.1.3 Extent](#513-extent)
+	* [5.1.2 Title](#512-title)
+ 	* [5.1.3 Identifier](#513-identifier)
+  	* [5.1.4 Level of description](#514-level-of-description)
+  	* [5.1.5 Resource type](#515-resource-type)
+	* [5.1.6 Languages](#516-languages)
+   	* [5.1.7 Dates](#517-dates)
+	* [5.1.8 Extent](#518-extent)
+	* [5.1.9 Finding aid data](#519-finding-aid-data)
 	* [5.1.4 Abstract](#514-abstract)
-	* [5.1.5 Language note](#515-language-note)
 	* [5.1.6 Conditions governing access](#516-conditions-governing-access)
 		* [5.1.6.1 Conditions governing access](#5161-conditions-governing-access)
 		* [5.1.6.2 Physical access](#5162-physical-access)
@@ -134,11 +137,7 @@ For additional guidance, see [DACS](<www.archivists.org/standards/DACS> "www.arc
 
 **Corresponding EAD element(s):**  ``<origination></origination>``
 
-### 5.1.2 Title Statement
-
-The title statement records the title of the collection and the dates of coverage of the collection.
-
-### 5.1.2.1 Title
+### 5.1.2 Title
 
 **DACS Chapter 2.3:**
 
@@ -185,7 +184,53 @@ Processing Note and Style Guide for additional guidance on folder titles.
 
 **Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
-### 5.1.2.2 Date
+### 5.1.3 Identifier
+
+
+### 5.1.4 Level of description
+
+### 5.1.5 Resource type
+
+### 5.1.6 Languages
+
+**DACS Chapter 4.5:**
+
+Identifies the language(s), script(s), and symbol systems employed in the materials being described, particularly as they may affect its use.
+
+**Required:** Required at the collection level.  
+
+This field must describe the primary language or languages of the collection contents but need not list every language present if there are only small 
+amounts of material in those languages.  
+
+**Examples:**
+
+*	Materials entirely in English.
+*	Materials in English and French.
+*	Materials primarily in English with some material in Dutch.
+
+**Corresponding MARC field:**  546
+
+**Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
+
+**Language field and Language of Materials note field in ArchivesSpace:**
+
+*	Field specifics for Language field [NOTE: ASpace requires you to enter a language field. Add an additional language field if there is more than one language.]
+	*  	Language = English [or applicable language]
+ 	*  	Script = Latin	
+
+*	Field specifics for Language of Materials note field [NOTE: ASpace requires you to enter a language field. Adding an additional Language of Materials note will display the language of materials note content instead of just a list of languages in the published version.]
+ 	*  	Type = Language of Materials
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note]
+
+**Example of ArchivesSpace Language field and Language of Materials note:**
+
+*Figure 16 (below): Example of Language field and Language of Materials note in ASpace.*
+*![Figure 16: Example of a Language field and Language of Materials note in ASpace](/05-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
+
+
+### 5.1.7 Dates
 
 **DACS Chapter 2.4:**
 
@@ -193,7 +238,7 @@ Identifies and records the date(s) that pertain to the creation, assembly, accum
 
 **Required:** Required at all levels.
 
-The date statement reflects the entire span of time during which a collection (or component of a collection) was created, accumulated, and maintained by 
+At the collection level, the date field reflects the entire span of time during which a collection (or component of a collection) was created, accumulated, and maintained by 
 the creator.  It should be repeated at every level of the finding aid.  Dates may be inclusive, approximate, predominant (bulk), or single.  
 
 For inclusive dates, use the years only.  For single dates, use the year alone unless describing a single item, in which case use the year followed by the 
@@ -277,7 +322,7 @@ life of the organization or when the volume of material within the bulk dates is
 
 		
 
-### 5.1.3 Extent
+### 5.1.8 Extent
 
 **DACS Chapter 2.5:**
 
@@ -320,6 +365,9 @@ data and/or extent of physical media for born digital content.
 
 **Corresponding EAD element(s):** ``<physdesc><extent></extent></physdesc``
 
+
+### 5.1.9 Finding aid data
+
 ### 5.1.4 Abstract
 
 **DACS Chapter:**  None.
@@ -344,43 +392,6 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 **Corresponding EAD element(s):** ``<abstract></abstract>``
 
-### 5.1.5 Language Note
-
-**DACS Chapter 4.5:**
-
-Identifies the language(s), script(s), and symbol systems employed in the materials being described, particularly as they may affect its use.
-
-**Required:** Required at the collection level.  
-
-This field must describe the primary language or languages of the collection contents but need not list every language present if there are only small 
-amounts of material in those languages.  
-
-**Examples:**
-
-*	Materials entirely in English.
-*	Materials in English and French.
-*	Materials primarily in English with some material in Dutch.
-
-**Corresponding MARC field:**  546
-
-**Corresponding EAD element(s):** ``<langmaterial><language></language></langmaterial>``
-
-**Language field and Language of Materials note field in ArchivesSpace:**
-
-*	Field specifics for Language field [NOTE: ASpace requires you to enter a language field. Add an additional language field if there is more than one language.]
-	*  	Language = English [or applicable language]
- 	*  	Script = Latin	
-
-*	Field specifics for Language of Materials note field [NOTE: ASpace requires you to enter a language field. Adding an additional Language of Materials note will display the language of materials note content instead of just a list of languages in the published version.]
- 	*  	Type = Language of Materials
-	*  	Label = [blank]
-	*	Publish = [box should be checked]
-	*	Content = [content of note]
-
-**Example of ArchivesSpace Language field and Language of Materials note:**
-
-*Figure 16 (below): Example of Language field and Language of Materials note in ASpace.*
-*![Figure 16: Example of a Language field and Language of Materials note in ASpace](/05-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
 
 
 ### 5.1.6 Conditions Governing Access
