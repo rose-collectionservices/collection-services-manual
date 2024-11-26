@@ -36,47 +36,30 @@ We have five primary stacks locations:
 
   
 
-* Book Stacks, on Level 9 
+* On Level 9:
+	* Book Stacks 
+	* Manuscript storage for unaccessioned manuscript collections
+   
+* On Level 11:
+	* Main Stacks (the first room off of the elevator on Level 11) 
+		* Manuscript collections 
+		* EUA Collections 
+		* Oversized bound volumes from MSS collections 
+		* Bound volumes from EUA collections 
 
-* Manuscript Stacks, the first room off of the elevator on Level 11 
+	* The Nunnery 
+		* Manuscript collections 
+		* Vault 
+		* XOP shelving 
+		* Oversized bound volumes from MSS collections 
+		* LP boxes 
 
-	* Majority of manuscript collections 
-
-	* EUA Collections 
-
-	* Oversized bound volumes from MSS collections 
-
-	* Bound volumes from EUA collections 
-
-* The Nunnery, through the Manuscript stacks 
-
-	* Manuscript collections 
-
-	* Vault 
-
-	* XOP shelving 
-
-	* Born digital media shelving 
-
-	* Mold segregation shelving 
-
-	* Oversized bound volumes from MSS collections 
-
-	* LP boxes 
-
-* The Abbey, through and connected to the Nunnery 
-
-	* Oversized papers (OP) 
-
-	* Bound volumes from MSS collections 
-
-	* Hanging art storage 
-
-	* Rolled storage 
-
-	* EUA XOP shelving 
-
-	* Southern newspapers 
+	* The Abbey
+		* Oversized papers (OP) 
+		* Bound volumes from MSS collections 
+		* Hanging art storage 
+		* Architectural drawings (rolled items)
+		* Newspapers 
 
 * Library Service Center 
 
@@ -86,7 +69,7 @@ We communicate stack locations by giving a range and bay for an item:
 
   
 
-* Ranges are one side of an aisle. These are numbered, and, in the book stacks, also given an A or B designation; 
+* Ranges are one side of an aisle. These are numbered, and, in the books stacks, also given an A or B designation; 
 
 * Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right. Always read bays left to right when you face them. 
 
