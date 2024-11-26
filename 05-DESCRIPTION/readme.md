@@ -1197,7 +1197,7 @@ Revision statements should be used to record information about significant chang
 **Examples of ArchivesSpace Revision Statements:** 
 
 *Figure 22 (below): Example of revision statement in staff interface.*
-*![Figure22](/05-DESCRIPTION/Images/Figure22.jpg)
+*![Figure22A](/05-DESCRIPTION/Images/Figure22A.jpg)
 
 *Figure 23 (below): Example of same revision statement in public interface.*
 *![Figure23](/05-DESCRIPTION/Images/Figure23.jpg)
