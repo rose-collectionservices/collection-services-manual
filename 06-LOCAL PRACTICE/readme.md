@@ -27,10 +27,7 @@ Content owner: **Sarah Quigley**
  	* [6.6.3 General labels](#663-general-labels)
   	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.6.5 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
- * [6.7 Documenting missing boxes and items](#67-documenting-missing-boxes-and-items)
-   	* [6.7.1 Documenting missing boxes](#671-documenting-missing-boxes)
-   	* [6.7.2 Documenting missing items and folders](#672-documenting-missing-items-and-folders)
-   	* [6.7.3 Documenting missing items and folders without an identified container](#673-documenting-missing-items-and-folders-without-an-identified-container)
+
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
@@ -383,63 +380,6 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 
 
-## 6.7 Documenting missing boxes and items
-
-### 6.7.1. Documenting missing boxes
-
-* If a MSS or EUA box is missing (and you can reasonably conclude that the container actually existed at one point):
-  	* In In ASpace, change the current location for that container to “MISSING."
-  	  	* Status = current
-  	  	* Start date = add date when box was confirmed as missing
-  	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
-  	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
-  	* Figure 16: Example of location field for a missing container
-  ![Figure 16: Missing box location field 1](/06-LOCAL%20PRACTICE/Images/Figure16.jpg)
-	* Figure 17: Another example of location field for a missing container
-  ![Figure 17: Missing box location field 2](/06-LOCAL%20PRACTICE/Images/Figure17.jpg)
-
-	* For EACH of the archival objects linked to that container, add a Conditions Governing Access Note to restrict the item and make it not requestable.
-		* Publish = true
-    		* Restriction Begin = date item was confirmed missing
-   		* Local Access Restriction Type = Select restricted
-		* Content = Box is missing as of (date)
-
-### 6.7.2 Documenting missing items and folders
-* In ASpace, for the archival object that is missing, add after the title of the AO [MISSING]
-* In ASpace, for the archival object that is missing, add a Conditions Governing Access Note:
-  	* Publish = true
-  	* Restriction Begin = Date item was identified as missing
-	* Local Access Restriction Type = Blank [Do NOT select RESTRICTED as the local access restriction type. This will restrict the entire box and make the entire box unrequestable. There is no way to make a single folder within a box unrequestable, without making the entire box unrequestable.]
-	* Content = Item/folder is missing as of (date) [You can also add any additional information that may be relevant]
-* Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor), including relevant information about the search for the item.
-* If an item is confirmed to be permanently missing and cannot be located anywhere:
-  	* Add to the Missing Manuscript Items spreadsheet
-	* Delete the Archival Object in ASpace
-	* Add a memo to the CL-2 file documenting that the item was declared permanently missing and deleted from the finding aid.
-
-### 6.7.3 Documenting missing items and folders without an identified container
-
-* On rare occasions, a folder/item cannot be located due to containers being renumbered. For example, OPs in a collection were renumbered at some point and now an OP folder cannot be located.
-* Check other logical containers (i.e. oversized folders and boxes) to try and locate the item. If the item cannot be located and you cannot identify the container that it should be in, document as follows.
-* In ASpace, create a new top container. If there are multiple missing folders, merge all existing missing “containers” into that container.
-	* Edit the container indicator to say “MISSING”
-	* No container profile
-	* No barcode
-	* In ASpace, change the current location for that container to “Missing”.
-		* Status = current
-		* Start date = add date when box was confirmed as missing
-		* Note = add note explaining the situation (see example below)
-		* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
-    	* Figure 18: Example of an artificial container that is missing
-       
-![Figure 18: Artificial container that is missing](/06-LOCAL%20PRACTICE/Images/Figure18.jpg)
-
-* In ASpace, for the archival object that is missing, add a Conditions Governing Access Note to restrict the item and make it not requestable.
-  	* Publish = true
-  	* Restriction Begin = Date item was confirmed as missing
-  	* Local Access Restriction Type = Select restricted [This will make the entire container unrequestable, but that is ok since it has been moved to a missing "container"]
-  	* Content = Item/folder is missing as of (date)
-* Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor)
 
 
 
