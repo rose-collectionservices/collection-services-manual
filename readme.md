@@ -25,7 +25,7 @@ Placeholder for Carrie's introductory text
 * [13: Supplies](/13-SUPPLIES)
 * [14: Packing and shipping](/14-PACKING%20AND%20SHIPPING)
 * [15: FedEx guidelines](/15-FEDEX%20GUIDELINES)
-* [16: LSC transfer policies and procedures](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES)
+* [16: Stacks management](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES)
 * [17: Formatting and style guide](/17-FORMATTING%20AND%20STYLE%20GUIDE)
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
