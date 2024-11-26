@@ -33,6 +33,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.20 Scope and content note](#5120-scope-and-content-note)
 	* [5.1.21 Arrangement note](#5121-arrangement-note)
 	* [5.1.22 Additional finding aids](#5122-additional-finding-aids)
+ 	* [5.1.23 Revision statements](#5123-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
 * [5.4 Anti Oppressive Archival Description Principles and Guidelines](#54-anti-oppressive-archival-description-principles-and-guidelines)
@@ -1176,6 +1177,16 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 **Corresponding MARC field:**  555
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
+
+### 5.1.23 Revision statements
+
+**DACS Chapter 8.1.5**
+
+Revision statements should be used to record information about significant changes or alterations that have been made to the finding aid after its initial creation. It is not used to note insignificant changes such as the correction of typos, spelling, or minor additions to the collection.
+
+* Examples of revision statements:
+	* Revised following processing (January 2016).
+ 	* Collection reprocessed to include significant additions (November 2024).
 
 ## 5.2 Optional Microsoft Word Template
 
