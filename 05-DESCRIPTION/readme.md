@@ -1200,7 +1200,7 @@ Revision statements should be used to record information about significant chang
 *![Figure22A](/05-DESCRIPTION/Images/Figure22A.jpg)
 
 *Figure 23 (below): Example of same revision statement in public interface.*
-*![Figure23](/05-DESCRIPTION/Images/Figure23.jpg)
+*![Figure23A](/05-DESCRIPTION/Images/Figure23A.jpg)
 
 ## 5.2 Optional Microsoft Word Template
 
