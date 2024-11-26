@@ -192,17 +192,23 @@ At the highest level of a multilevel description or in a single level descriptio
 
 **Required:** Required at the collection level.
 
-All collections are assigned a unique identifier, which is assigned in sequence by the order in which a collection was received. Consult the Manuscript or EUA register to determine the next available identifier, and record the collection on the register.
+All collections are assigned a unique identifier, which is assigned in sequence by the order in which a collection was received. Separate registers are mainatained for Manuscript and EUA identifiers. Consult the Manuscript or EUA register to determine the next available identifier, and record the collection on the register:
 *	[Manuscript register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ebh2CYfYUoBPsNZJAoCxZ-UB1XX2VjNl33iuxt4PL4oMIQ?e=knDM8h>)
 *	[EUA register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EQyyLS-B7fVHvYOf7t0JLbEBLW_YsrF0AOagwRBVceoxKw?e=gz4gFQ>)
 
 **Identifer field in ArchivesSpace**
 
 * For Manuscript collections:
-	* Identifier = Manuscript Collection No. XXXX [You must type out Manuscript Collection No. as it does not autopopulate. The entire thing should be typed out in the first blank field.]
+	* Identifier = Manuscript Collection No. XXXX [You must type out "Manuscript Collection No." as it does not autopopulate. The entire thing should be entered into the first blank field.]
+
+*Figure 20 (below): Example of Identifier field for a manuscript collection in ASpace.*
+*![Figure 20: Example of Identifier field for a manuscript collection in ASpace](/05-DESCRIPTION/Images/Figure20.jpg)
 
 * For EUA collections:
-	* Identifier = 	
+	* Identifier = Series No. XXX [You must type out "Series No." as it does not autopopulate. The entire thing should be entered into the first blank field.]
+
+*Figure 21 (below): Example of Identifier field for an EUA collection in ASpace.*
+*![Figure 21: Example of Identifier field for an EUA collection in ASpace](/05-DESCRIPTION/Images/Figure21.jpg)
 
 ### 5.1.4 Level of description
 
