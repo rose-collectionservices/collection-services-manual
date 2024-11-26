@@ -1187,6 +1187,20 @@ Revision statements should be used to record information about significant chang
 * Examples of revision statements:
 	* Revised following processing (January 2016).
  	* Collection reprocessed to include significant additions (November 2024).
+ 
+**Revision Statements in ArchivesSpace:**  
+
+* Add a separate revision statement for each revision that needs to be documented.
+* Revision date = Year-Month-Day [If date is entered in this format, it displays in the PUI]
+* Revision description = [Insert content of note]
+
+**Examples of ArchivesSpace Revision Statements:** 
+
+*Figure 22 (below): Example of revision statement in staff interface.*
+*![Figure22](/05-DESCRIPTION/Images/Figure22.jpg)
+
+*Figure 23 (below): Example of same revision statement in public interface.*
+*![Figure23](/05-DESCRIPTION/Images/Figure23.jpg)
 
 ## 5.2 Optional Microsoft Word Template
 
