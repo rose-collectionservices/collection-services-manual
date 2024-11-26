@@ -1,17 +1,20 @@
-# LSC Ongoing Ingest Policies and Procedures for Archives and Manuscripts 
+# Stacks Management
 
-Current owner: **Meaghan O'Riordan**
+Current owner: **Becky Sherman**
 
-* [16.1 Determining eligibility for transfer to LSC](#161-determining-eligibility-for-transfer-to-lsc1)
-* [16.2 Physical processing](#162-physical-processing2)
-* [16.3 Basic minimum housing guidelines](#163-basic-minimum-housing-guidelines)
-* [16.4 Basic minimum description guidelines](#164-basic-minimum-description-guidelines)
-* [16.5 Labels and barcoding](#165-labels-and-barcoding)
-* [16.6 Sending items to the LSC](#166-sending-items-to-the-lsc)
-* [16.7 Removing boxes from the LSC](#167-removing-boxes-from-the-lsc)
-* [16.8 LSC ingest checklist](#168-lsc-ingest-checklist)
+* [16.1 LSC Ingest Policies and Procedures](#161-LSC-ingest-policies-and-procedures) 
+	* [16.1.1 Determining eligibility for transfer to LSC](#1611-determining-eligibility-for-transfer-to-lsc1)
+	* [16.1.2 Physical processing](#1612-physical-processing2)
+	* [16.1.3 Basic minimum housing guidelines](#1613-basic-minimum-housing-guidelines)
+	* [16.1.4 Basic minimum description guidelines](#1614-basic-minimum-description-guidelines)
+	* [16.1.5 Labels and barcoding](#1615-labels-and-barcoding)
+	* [16.1.6 Sending items to the LSC](#1616-sending-items-to-the-lsc)
+	* [16.1.7 Removing boxes from the LSC](#1617-removing-boxes-from-the-lsc)
+	* [16.1.8 LSC ingest checklist](#1618-lsc-ingest-checklist)
 
-## 16.1 Determining Eligibility for Transfer to LSC<a href="#anchor1"><sup>1</sup></a>
+## 16.1 LSC Ingest Policies and Procedures
+
+## 16.1.1 Determining Eligibility for Transfer to LSC<a href="#anchor1"><sup>1</sup></a>
 
 LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections larger than 10 boxes, though smaller collections may also be selected for offsite storage.
 
@@ -19,11 +22,11 @@ No glass-based photographic material including glass-plate negatives, lantern sl
 
 No collection that has active mold may be transferred to the LSC; however, materials that were treated for mold may be transferred.
 
-## 16.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
+## 16.1.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
  
 In order for material to be safely transferred to the LSC and easily identifiable once it is there all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
 
-## 16.3 Basic Minimum Housing Guidelines
+## 16.1.3 Basic Minimum Housing Guidelines
 
 * Boxes containing archival materials must have adequately fitting lids.  
 * Flat boxes should have lids the cover the entire box; if these boxes have half-lids that do not cover the entire box, these lids must be tied-down.  
@@ -32,7 +35,7 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 * Boxes must be under 40lbs in weight.
 * Boxes with archival materials must be packed fully or with spacers or by other means to ensure materials are secure through transit.  
 
-## 16.4 Basic Minimum Description Guidelines
+## 16.1.4 Basic Minimum Description Guidelines
 
 **For archival materials:**
 
@@ -40,7 +43,7 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 * Collection-level finding aid with complete required notes fields per DACS.
 * Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.   
 
-## 16.5 Labels and Barcoding
+## 16.1.5 Labels and Barcoding
 
 All boxes must be labeled.  All labels need to include owning library, Collection Number, Title, and Box Number. 
 
@@ -70,7 +73,7 @@ Then add item records to that holdings record for each item in the collection.  
 
 Once all barcodes are entered into Alma you will need to wait overnight and then you can run the barcode script to insert the barcodes into the EAD finding aid for the collection.<a href="#anchor3"><sup>3</sup></a>
 
-## 16.6 Sending Items to the LSC
+## 16.1.6 Sending Items to the LSC
 
 Make sure the holdings record in Alma indicates the LSC as the holding library and the sublocation as RSTORM (Rose- Storage-Manuscripts).  The 852 field of your holdings record should look like this: 
 
@@ -96,13 +99,13 @@ You will need to wait 24 hours after changing the Alma holdings record to an LSC
 
 If you have oversized boxes that are 20x24 or larger, email Nathan to alert him that there are oversized boxes slated for pickup. 
 
-## 16.7 Removing Boxes from the LSC
+## 16.1.7 Removing Boxes from the LSC
 
 If a barcode needs to be removed from the LSC, email the LSC listserv with the barcode(s) that need to be removed.  
 
 If the barcode needs to be removed from Alma right click on the "actions" button in the item list and select "withdraw" to remove the item record.
 
-## 16.8 LSC Ingest Checklist
+## 16.1.8 LSC Ingest Checklist
 
 ![Figure 4: LSC Ingest Checklist](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/LSC-Ingest-checklist.jpg "LSC Ingest Checklist")
 
