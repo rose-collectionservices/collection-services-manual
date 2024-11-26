@@ -17,11 +17,6 @@ Content owner: **Meaghan O'Riordan**
 	* [2.3.5 Creating the CL-2 file](#235-creating-the-cl-2-file)
 		* [2.3.5.1 Electronic CL-2 file (vital docs folder)](#2351-electronic-cl-2-file-vital-docs-folder)
 	* [2.3.6 Accessioning checklist](#236-accessioning-checklist)
-* [2.4 Stacks Management](#24-stacks-management)
-	* [2.4.1 Stack locations](#241-stack-locations)
-	* [2.4.2 Shelf lists](#242-shelf-lists)
-	* [2.4.3 Empty space map](#243-empty-space-map)
-	* [2.4.4 Lost Items](#244-lost-items)
 	
 	
 
@@ -603,93 +598,6 @@ There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sit
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
 
-## 2.4 Stacks Management
-
-The Accessioning Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Accessioning Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space. 
-
-We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Accessioning Archivist who will contact the Facilities Coordinator, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.  
-
-### 2.4.1 Stack Locations
-
-We have five primary stacks locations: 
-
-* Book Stacks, on Level 9
-* Manuscript Stacks, the first room off of the elevator on Level 11
-	* Majority of manuscript collections
-	* EUA Collections
-	* Oversized bound volumes from MSS collections
-	* Bound volumes from EUA collections
-* The Nunnery, through the Manuscript stacks
-	* Manuscript collections
-	* Vault
-	* XOP shelving
-	* Born digital media shelving
-	* Mold segregation shelving
-	* Oversized bound volumes from MSS collections
-	* LP boxes
-* The Abbey, through and connected to the Nunnery
-	* Oversized papers (OP)
-	* Bound volumes from MSS collections
-	* Hanging art storage
-	* Rolled storage
-	* EUA XOP shelving
-	* Southern newspapers
-* Library Service Center
-
-We communicate stack locations by giving a range and bay for an item:
-
-* Ranges are one side of an aisle. These are numbered, and, in the book stacks, also given an A or B designation;
-* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right. Always read bays left to right when you face them.
-* Shelves are the individual shelves within a bay.
-
-### 2.4.2 Shelf Lists
-
-Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet called the Master Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=B8KPCv> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=B8KPCv") located on OneDrive/SharePoint. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material (pending tab). All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list.
-
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com. 
-
-The shelf list should be updated:
-
-* When new collection material is received (in the pending tab)
-* When a new collection is accessioned (physical or born digital)
-* When the extent of a collection changes 
-* When a collection has physically moved from one location to another
-* When a collection is deaccessioned
-
-The notes field can be used to record:
-
-* When a collection is being processed
-* Restrictions
-* Unusual location information
-* Notes on if a collection has been deaccessioned or transferred 
-
-The [Finding Aid](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI") provides locations for book collections in the stacks on Level 9.
-
-### 2.4.3 Empty Space Map
-
-Collection Services maintains a [map](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=oS5A92> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=oS5A92") of the empty space on Levels 9 and 11. This map indicates where there is available space for new collections. It should be updated any time collection material is moved to, from, or around on Levels 9 and 11. The Accessioning Archivist will periodically verify the document to ensure that it is up to date.
-
-### 2.4.4 Lost Items
-
-Occasionally, staff may be unable to locate items in both the manuscript and print collections. 
-
-An item is determined to be missing once two staff members plus the Accessioning Archivist and, in the case of print material, the Rare Book Cataloger, have searched for the item and been unable to locate it. 
-
-For lost manuscript material: 
-
-* The Accessioning Archivist will redact the item from the finding aid (see [7.2 Redacted material](/07-RESTRICTION%20AND%20SEPARATION/#72-redacted-material) for more information).
-* The Accessioning Archivist will add the item to the [spreadsheet for missing items](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20and%20Rare%20Book%20Inventories/Manuscript%20and%20Rare%20Book%20Collection%20Inventories/Missing%20Manuscript%20Items_updated%20EAD.xlsx?d=w6ecb66ccaa8c4cc2905d75cd8c841bbc&csf=1&web=1&e=6pbxhf> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20and%20Rare%20Book%20Inventories/Manuscript%20and%20Rare%20Book%20Collection%20Inventories/Missing%20Manuscript%20Items_updated%20EAD.xlsx?d=w6ecb66ccaa8c4cc2905d75cd8c841bbc&csf=1&web=1&e=6pbxhf") maintained on OneDrive/SharePoint.
-* Every three months the Accessioning Archivist and one other member of the unit should search for these items again. 
-* If the item is found, The Accessioning Archivist will remove it from the spreadsheet and un-redact the finding aid. 
-* If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
-* If the item is not found, the Accessioning Archivist will note the date of the search in the spreadsheet.
-
-For lost print material: 
-
-* The Rare Book Cataloger will mark the item as missing in Alma [LINK TO CATALOGING MANUAL] 
-* Every three months, the Accessioning Archivist and Rare Book Cataloger will generate a missing item report from Alma and search for these items again. 
-* If the item is found, the Rare Book Cataloger will remove the missing status from the item record in Alma. 
-* If Rose staff discover a missing item when trying to locate it for a patron, and the item is later found, Research Services should contact the researcher and alert them that the item is now available. 
 
 ---
 
