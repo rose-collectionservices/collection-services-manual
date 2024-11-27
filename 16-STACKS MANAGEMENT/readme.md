@@ -250,9 +250,9 @@ If the barcode needs to be removed from Alma right click on the "actions" button
   	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
   	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
   	* Figure 16: Example of location field for a missing container
-  ![Figure 16: Missing box location field 1](/06-LOCAL%20PRACTICE/Images/Figure16.jpg)
+  ![Figure 16: Missing box location field 1](/16-STACKS%20MANAGEMENT/Images/Figure16.jpg)
 	* Figure 17: Another example of location field for a missing container
-  ![Figure 17: Missing box location field 2](/06-LOCAL%20PRACTICE/Images/Figure17.jpg)
+  ![Figure 17: Missing box location field 2](/16-STACKS%20MANAGEMENT/Images/Figure17.jpg)
 
 	* For EACH of the archival objects linked to that container, add a Conditions Governing Access Note to restrict the item and make it not requestable.
 		* Publish = true
@@ -288,7 +288,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 		* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
     	* Figure 18: Example of an artificial container that is missing
        
-![Figure 18: Artificial container that is missing](/06-LOCAL%20PRACTICE/Images/Figure18.jpg)
+![Figure 18: Artificial container that is missing](/16-STACKS%20MANAGEMENT/Images/Figure18.jpg)
 
 * In ASpace, for the archival object that is missing, add a Conditions Governing Access Note to restrict the item and make it not requestable.
   	* Publish = true
@@ -299,6 +299,6 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 
 ### 16.3.4 Documenting missing books
   
-* Missing books will be added to the [Missing books spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfTaM8c26vROpWCkE5obViABudgB1RfE2MynHNIGMTyyrQ?e=1qSuPa). 
+* Missing books should be added to the [Missing books spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfTaM8c26vROpWCkE5obViABudgB1RfE2MynHNIGMTyyrQ?e=1qSuPa). 
 * The Rare Book Librarian will mark the item as missing in Alma [LINK TO CATALOGING MANUAL]  
 
