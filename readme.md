@@ -15,7 +15,7 @@ Placeholder for Carrie's introductory text
 * [03: Collection analysis](/03-COLLECTION%20ANALYSIS)
 * [04: Levels of arrangement and description](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 * [05: Description](/05-DESCRIPTION)
-* [06: Local practice](/06-LOCAL%20PRACTICE)
+* [06: Physical processing](/06-LOCAL%20PRACTICE)
 * [07: Restriction and separation](/07-RESTRICTION%20AND%20SEPARATION)
 * [08: Appraisal](/08-APPRAISAL)
 * [09: Preservation](/09-PRESERVATION)
