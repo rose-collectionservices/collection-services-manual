@@ -2,7 +2,7 @@
 
 Content owner: **Sarah Quigley**
 
-* [6.1 Original folders](#61-original-folders)
+* [6.1 Foldering materials](#61-foldering-materials)
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)
 	* [6.3.1 General rules](#631-general-rules)
@@ -33,9 +33,13 @@ This document provides guidance on specific arrangement and description tasks, a
 
 When writing descriptive records for the Rose Library you should conform first and foremost to the conventions of the descriptive or bibliographic standard (DACS, MARC) that you are using.  The Emory University Communications and Public Affairs Office provides additional [style guidance](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html) for Emory publications related content and Collection Services maintains a [unit-specific style guide](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/CS%20Formatting%20and%20Style%20Guide.docx?d=w2df9086f1e054dae8759c45d7167703c&csf=1&web=1&e=jZhKev) for issues that commonly arise during description, including grammatical and spelling preferences and guidance on formulating folder titles. 
 
-## 6.1 Original Folders
+## 6.1 Foldering Materials
 
-Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Additionally, if the folders are in good shape, they may be retained as primary housing for the materials. Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded.  
+### 6.1.1 Original folders
+
+If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
+
+### 6.1.2 Proper foldering technique --see 9.1 General Preservation during Processing
 
 ## 6.2 Empty Envelopes
 
