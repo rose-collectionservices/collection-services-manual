@@ -16,7 +16,7 @@ Placeholder for Carrie's introductory text
 * [04: Levels of arrangement and description](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 * [05: Description](/05-DESCRIPTION)
 * [06: Physical processing](/06-LOCAL%20PRACTICE)
-* [07: Restriction and separation](/07-RESTRICTION%20AND%20SEPARATION)
+* [07: Restriction](/07-RESTRICTION%20AND%20SEPARATION)
 * [08: Appraisal](/08-APPRAISAL)
 * [09: Preservation](/09-PRESERVATION)
 * [10: Project management](/10-PROJECT-MANAGEMENT)
