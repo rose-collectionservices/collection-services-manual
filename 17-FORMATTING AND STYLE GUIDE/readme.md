@@ -6,8 +6,7 @@ Content owner: **Meaghan O'Riordan**
 - [17.2 Dates](#172-dates)
 - [17.3 Narrative description](#173-narrative-description)
 - [17.4 Finding aid description](#174-finding-aid-description)
-- [17.5 Files](#175-files)
-	- [17.5.1 Titles](#1751-titles)
+- [17.5 Folder titles](#175-folder-titles)
 - [17.6 Italics](#176-italics)
 - [17.7 Names](#177-names)
 - [17.8 Numbers](#178-numbers)
@@ -103,9 +102,7 @@ Note: Acronyms should be spelled out every time in file titles
 
 When writing archival description specific to finding aids, please refer to other sections of this manual, in particular the [Description Section](/05-DESCRIPTION).
 
-## 17.5 Files
-
-### 17.5.1 Titles
+## 17.5 Folder titles
 
 If you are unsure of how to title, please refer to DACS.
 
