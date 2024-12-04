@@ -35,11 +35,33 @@ When writing descriptive records for the Rose Library you should conform first a
 
 ## 6.1 Foldering Materials
 
-### 6.1.1 Original folders
+### 6.1.1 Use of original folders
 
 If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
 
-### 6.1.2 Proper foldering technique --see 9.1 General Preservation during Processing
+### 6.1.2 Proper foldering technique
+
+* Use legal-size folders as the default and do not overstuff folders.
+* See [9.1 Preservation during procesing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#91-preservation-during-processing) for additional information on proper foldering.
+
+### 6.1.3 Folder titles
+
+### 6.1.4 Labeling folders
+
+Folders should be labeled with the following information: 
+
+* Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
+* Collection number;
+* Series/subseries title, if applicable;
+* Bolded header, if applicable;
+* Box number;
+* Folder number;
+* When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
+
+Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
+
+![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
+
 
 ## 6.2 Empty Envelopes
 
@@ -258,23 +280,7 @@ The following language should be included at the series and/or subseries level r
 
 ## 6.6 Housing and Storage
 
-### 6.6.1 Folders
 
-Use legal-size folders as the default and do not overstuff folders. See the [9.1 Preservation during procesing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#91-preservation-during-processing) for additional information on proper foldering.
-
-Folders should be labeled with the following information: 
-
-* Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
-* Collection number;
-* Series/subseries title, if applicable;
-* Bolded header, if applicable;
-* Box number;
-* Folder number;
-* When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
-
-![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
-
-Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
 
 ### 6.6.2 Boxing Collections and Numbering Boxes
 
