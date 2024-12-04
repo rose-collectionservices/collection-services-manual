@@ -1,4 +1,4 @@
-# Restriction and Separation Policies and Procedures
+# Restriction Policies and Procedures
 
 Content owner: **Sarah Quigley**
 
@@ -7,9 +7,6 @@ Content owner: **Sarah Quigley**
 	* [7.1.3 Preservation](#713-preservation)
 	* [7.1.4 Protection of privacy](#714-protection-of-privacy)
 * [7.2 Redacted material](#72-redacted-material)
-* [7.3 Separated materials](#73-separated-materials)
-	* [7.3.1 Attachments](#731-attachments)
-	* [7.3.2 Publications](#732-publications)
 
 ## 7.1 Restricted Material
 
@@ -85,21 +82,7 @@ Or:
 
 NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
-## 7.3 Separated materials
 
-For access and preservation considerations, some materials may be physically removed from their original location.  Materials can be moved either to different locations within a collection or be removed from the collection and managed separately. 
-
-### 7.3.1 Attachments
-
-Items that are attached to each other should only be separated under limited circumstances.  Always remove sound or video/film recordings, books, and other bulky items that affect storage when they are attached to letters or other documents.  If a photograph or other printed item is attached to a document, there is no need to separate the items unless there is something extraordinarily compelling about the attachment and separate description is required. 
-
-If an item is intricately related to another item in a series, the archivist should create a [separation form](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Separation%20Sheet.doc?d=wcc594adcf89b4960b3ff93734e9f4ee4&csf=1&web=1&e=SY3Wpa) to document the relationship between the two items.  Complete the form, attaching one copy to the original item and a second copy to the item being removed. Separation should be done judiciously and only in cases where access to the item is significantly improved by separation. 
-
-In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document.  Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]   
-
-### 7.3.2 Publications
-
-Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas are removed and cataloged.  For publications that do not contain any annotations, signatures, or other unique features, the Manuscript Archivist or a student processing assistant should check DiscoverE to see if the Rose Library already holds a copy.  If so, the item can likely be deaccessioned.  Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.  If the item is being transferred to Rare Books for cataloging, complete a "Removed from MSS Collection (to be cataloged)" [flag](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Removed%20from%20MSS%20Collection%20Flag.docx?d=wd9af5c64b196427ea1c6a0af9d9492b8&csf=1&web=1&e=ffmvZo), insert it into the publication, and shelve the item on the designated range.  When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags.  Do not leave books in records center cartons or other boxes on the rare book shelves.  When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Separation%20Sheet_Books.doc?d=wf4e9d50ef61c410d97c86a3ead4d493c&csf=1&web=1&e=cUoMDj) and follow the procedures as normal.  If the item will not remain in the Rose collection either return to the donor or to Better World Books as appropriate. 
 
 
    
