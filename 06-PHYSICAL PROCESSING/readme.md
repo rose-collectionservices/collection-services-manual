@@ -3,6 +3,10 @@
 Content owner: **Sarah Quigley**
 
 * [6.1 Foldering materials](#61-foldering-materials)
+	* [6.1.1 Use of original folders](#611-use-of-original-folders)
+ 	* [6.1.2 Proper foldering technique](#612-proper-foldering-technique)
+  	* [6.1.3 Folder titles](#613-folder-titles)
+  	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)
 	* [6.3.1 General rules](#631-general-rules)
@@ -22,7 +26,6 @@ Content owner: **Sarah Quigley**
 	* [6.5.2 Processing](#6512-processing)
 	* [6.5.3 Notes on Access] (#653-notes-on-access)
 * [6.6 Housing and storage](#66-housing-and-storage)
-	* [6.6.1 Folders](#661-folders)
 	* [6.6.2 Boxing collections and numbering boxes](#662-boxing-collections-and-numbering-boxes)
  	* [6.6.3 General labels](#663-general-labels)
   	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
@@ -47,7 +50,7 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 6.1.3 Folder titles
 
 * Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
-* See also [17.5 Folder titles] (https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on folder titles.
+* See also [17.5 Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
 
 ### 6.1.4 Labeling folders
 
