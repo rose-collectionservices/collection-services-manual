@@ -8,18 +8,7 @@ Content owner: **Sarah Quigley**
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Empty envelopes](#62-empty-envelopes)
-* [6.3 Photographs](#63-photographs)
-	* [6.3.1 General rules](#631-general-rules)
-	* [6.3.2 Labeling photographs](#632-labeling-photographs)
-	* [6.3.3 Describing photographs](#633-describing-photographs)
-	* [6.3.4 19th Century paper prints](#634-19th-century-paper-prints)
-	* [6.3.5 Glass and metal plates](#635-glass-and-metal-plates)
-	* [6.3.6 Color photographs](#636-color-photographs)
-	* [6.3.7 Photograph albums](#637-photograph-albums)
-	* [6.3.8 Slides and transparencies](#638-slides-and-transparencies)
-	* [6.3.9 Negatives](#639-negatives)
-	* [6.3.10 Nitrate film](#6310-nitrate-film)
-	* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
+* [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
 * [6.5 Audiovisual material](#65-audiovisual-material)
 	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
@@ -31,7 +20,17 @@ Content owner: **Sarah Quigley**
   	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.6.5 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
  * [6.6 Deep dives by format]
-
+	* [6.3.1 General rules](#631-general-rules)
+	* [6.3.2 Labeling photographs](#632-labeling-photographs)
+	* [6.3.3 Describing photographs](#633-describing-photographs)
+	* [6.3.4 19th Century paper prints](#634-19th-century-paper-prints)
+	* [6.3.5 Glass and metal plates](#635-glass-and-metal-plates)
+	* [6.3.6 Color photographs](#636-color-photographs)
+	* [6.3.7 Photograph albums](#637-photograph-albums)
+	* [6.3.8 Slides and transparencies](#638-slides-and-transparencies)
+	* [6.3.9 Negatives](#639-negatives)
+	* [6.3.10 Nitrate film](#6310-nitrate-film)
+	* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
