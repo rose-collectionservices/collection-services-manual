@@ -140,6 +140,8 @@ For additional guidance, see [DACS](<www.archivists.org/standards/DACS> "www.arc
 
 ### 5.1.2 Title
 
+#### 5.1.2.1 Collection title
+
 **DACS Chapter 2.3:**
 
 Provides a word or phrase by which the material being described is known or can be identified.
@@ -164,6 +166,11 @@ or is overwhelmingly dominated by a single record type, use a term that describe
 | Jim Alexander photographs                        |
 | James Burton diary                               |
 
+**Corresponding MARC field:**  245
+
+**Corresponding EAD element(s):**  ``<unittitle></unittitle>``
+
+#### 5.1.2.2 Series/Subseries title
 
 At the series and subseries levels, the title statement must also include a description of the record types represented.  
 
@@ -177,13 +184,6 @@ At the series and subseries levels, the title statement must also include a desc
 | Subject files                   |
 
 
-Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself 
-(e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder. See also: 
-Processing Note and Style Guide for additional guidance on folder titles.
-
-**Corresponding MARC field:**  245
-
-**Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
 ### 5.1.3 Identifier
 
