@@ -6,6 +6,8 @@ Content owner: **Sarah Quigley**
 * [5.1 Finding aids](#51-finding-aids)
 	* [5.1.1 Main entry/creator](#511-main-entrycreator)
 	* [5.1.2 Title](#512-title)
+ 		* [5.1.2.1 Collection title](#5121-collection-title)
+   		* [5.1.2.2 Series and subseries titles] (#5122-series-and-subseries-titles) 
  	* [5.1.3 Identifier](#513-identifier)
   	* [5.1.4 Level of description](#514-level-of-description)
   	* [5.1.5 Resource type](#515-resource-type)
@@ -140,7 +142,7 @@ For additional guidance, see [DACS](<www.archivists.org/standards/DACS> "www.arc
 
 ### 5.1.2 Title
 
-#### 5.1.2.1 Collection title
+### 5.1.2.1 Collection title
 
 **DACS Chapter 2.3:**
 
@@ -170,9 +172,9 @@ or is overwhelmingly dominated by a single record type, use a term that describe
 
 **Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
-#### 5.1.2.2 Series/Subseries title
+### 5.1.2.2 Series and subseries titles
 
-At the series and subseries levels, the title statement must also include a description of the record types represented.  
+At the series and sub-series levels, the title statement must also include a description of the record types represented.  
 
 **Examples:**
 
