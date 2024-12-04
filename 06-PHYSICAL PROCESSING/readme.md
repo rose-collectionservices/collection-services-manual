@@ -13,10 +13,11 @@ Content owner: **Sarah Quigley**
 * [6.5 Separated materials](#65-separated-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications) 
-* [6.5 Audiovisual material](#65-audiovisual-material)
+* [6.5 Audiovisual materials](#65-audiovisual-materials)
 	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
 	* [6.5.2 Processing](#6512-processing)
 	* [6.5.3 Notes on Access] (#653-notes-on-access)
+* [6.6 Born digital materials] 
 * [6.6 Housing and storage](#66-housing-and-storage)
 	* [6.6.2 Boxing collections and numbering boxes](#662-boxing-collections-and-numbering-boxes)
  	* [6.6.3 General labels](#663-general-labels)
@@ -105,7 +106,7 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
-## 6.5 Audiovisual Material [so you found some cassette tapes...]
+## 6.5 Audiovisual Materials [so you found some cassette tapes...]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
@@ -202,6 +203,11 @@ If materials are commercial recordings and will not be digitized or made availab
 The following language should be included at the series and/or subseries level regarding the accessibility:
 
 "Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
+
+
+## 6.6 Born digital materials [so you found some floppy disks...]
+Quick overview of what to do if you find born digital materials in a collection.
+Link out to the born digital manual.
 
 ## 6.6 Housing and Storage
 
