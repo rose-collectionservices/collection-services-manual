@@ -10,6 +10,9 @@ Content owner: **Sarah Quigley**
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
+* [6.5 Separated materials](#65-separated-materials)
+  	* [6.5.1 Attachments](#651-attachments)
+  	* [6.5.2 Publications](#652-publications) 
 * [6.5 Audiovisual material](#65-audiovisual-material)
 	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
 	* [6.5.2 Processing](#6512-processing)
@@ -82,6 +85,25 @@ For additional guidelines and detailed information about processing photographs,
 ## 6.4 Newspaper Clippings
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
+
+## 6.5 Separated Materials 
+[moved from Section 7 Restrictions--needs additional editing]
+
+For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
+
+### 6.5.1 Attachments
+Items that are attached to each other should only be separated under limited circumstances. Always remove sound or video/film recordings, books, and other bulky items that affect storage when they are attached to letters or other documents. If a photograph or other printed item is attached to a document, there is no need to separate the items unless there is something extraordinarily compelling about the attachment and separate description is required.
+
+If an item is intricately related to another item in a series, the archivist should create a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the relationship between the two items. Complete the form, attaching one copy to the original item and a second copy to the item being removed. Separation should be done judiciously and only in cases where access to the item is significantly improved by separation.
+
+In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document. Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]
+
+### 6.5.2 Publications
+Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas are removed and cataloged. 
+
+* For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
+* If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
+* If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
 ## 6.5 Audiovisual Material [so you found some cassette tapes...]
 
