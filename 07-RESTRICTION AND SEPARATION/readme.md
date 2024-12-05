@@ -6,6 +6,7 @@ Content owner: **Sarah Quigley**
 	* [7.1.2 Donor imposed restrictions](#712-donor-imposed-restrictions)
 	* [7.1.3 Preservation](#713-preservation)
 	* [7.1.4 Protection of privacy](#714-protection-of-privacy)
+ 	* [7.1.4 EUA restrictions]
 * [7.2 Redacted material](#72-redacted-material)
 
 ## 7.1 Restricted Material
@@ -38,7 +39,7 @@ The following is an example of a clear, detailed, and actionable set of donor re
 
 Restricted items can be described at the folder level in the finding aid unless the donor explicitly stated that description of the restricted materials should not be made public. In that case, restricted material can be described in broad terms at the box level, for example as "restricted correspondence." All restricted material should have AOs and container instances in ArchivesSpace.
 
-### 7.1.3 Preservation
+### 7.1.3 Preservation restrictions
 
 In some cases, original material may be too fragile for general access in the reading room and should be restricted.  
 * For paper, photographs, and objects, consult with the Rose Library Preservation Liaison before making this decision.  If an items is deemed to be too fragile for use by researchers, Rose staff will make access copies of restricted documents when possible.  Items that are restricted due to fragility also receive higher priority in the conservation queue.
@@ -46,7 +47,7 @@ In some cases, original material may be too fragile for general access in the re
 
 Additional guidance on preservation practices and workflows is available [here](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation?csf=1&web=1&e=Pz6qtE).
 
-### 7.1.4 Protection of Privacy
+### 7.1.4 Protection of Privacy (MSS and EUA)
 
 Manuscript collections contain the traces of an individual’s life, which can include documenting very public accomplishments, as well as very personal relationships and life events.  While restricted information or document types should be identified at the time of acquisition and outlined in the deed of gift or sale, there are cases when Rose Library accessioning or processing staff may identify confidential material in the course of working with a collection.  There are important legal and ethical distinctions between information that is considered confidential, and that which may be private or sensitive. 
 
@@ -68,6 +69,8 @@ When materials have been designated as restricted, Collection Services will:
 * Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description.  In cases where the donor may not want information about restrictions to be made public, describe the material as normal and [redact](<https://emory.app.box.com/file/195790907452> "https://emory.app.box.com/file/195790907452") it in the EAD finding aid;
 * Include the types of records that are restricted, the reason for the restriction, and the date of expiration in [Restrictions on Access](/05-DESCRIPTION#516-restrictions-on-access) notes;
 * Fully document restrictions via deeds of gift/sale, correspondence, memos, etc., in the permanent collection file.  
+
+### 7.1.3 EUA restrictions
 
 ## 7.2 Redacted Material
 
