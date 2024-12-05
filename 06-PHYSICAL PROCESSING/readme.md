@@ -8,7 +8,7 @@ Content owner: **Sarah Quigley**
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
-* [6.3 Appraisal and weeding during processing](#63-appraisal-and-weeding-during-processing]
+* [6.3 Appraisal and weeding during processing](#63-appraisal-and-weeding-during-processing)
 * [6.4 Restricting and redacting materials](#64-restricting-and-redacting-materials)
 	* [6.4.1 Restricting materials](#641-restricting-materials)
  	* [6.4.2 Redacting materials](#642-redacting-materials)
