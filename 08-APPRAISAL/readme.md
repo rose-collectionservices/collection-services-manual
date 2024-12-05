@@ -53,6 +53,8 @@ As you work through a collection it will become clear that some of the material 
 
 This list is neither comprehensive nor proscriptive. Appraisal decisions should always be made in the context of the collection being processed.  Records or documents that you discard from one collection may be important in the context of another.  For example, routine financial records such as canceled checks may become important in a collection of business records that otherwise has incomplete financial records. 
 
+Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." This is by request of the curators.
+
 Appraisal activity should take place at the same level as arrangement activity, generally the series, subseries, or file level.  Individual items should not be weeded from files.  Since most processing will take place on a series or file level, such material within existing folders is unlikely to be identified and removed as part of processing.  This is time consuming, provides no additional value or clarity to researchers, and may disrupt context.  Appraisal strategy should be focused on large aggregates of material that are duplicative or do not have enduring value.   
 
 Appraisal decisions should always be made in conjunction with your supervisor and the curator who oversees the associated collecting area.  Any material removed from a collection over the course of processing should be set aside to review with the collecting curator.  Final disposition decisions will be informed by institutional policies and curatorial practices. 
