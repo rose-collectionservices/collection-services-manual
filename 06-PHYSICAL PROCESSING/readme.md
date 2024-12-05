@@ -15,14 +15,14 @@ Content owner: **Sarah Quigley**
 * [6.5 Separating materials](#65-separating-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications)
-* [6.6 Photographs](#63-photographs)	
-* [6.7 Newspaper clippings]
-* [6.8 Framed items]
-* [6.9 Audiovisual materials](#65-audiovisual-materials)
+* [6.6 Newspaper clippings]
+* [6.7 Framed items]
+* [6.8 Quick Guide to Processing Photographs](#63-photographs)	
+* [6.9 Quick Guide to Processing Audiovisual Materials](#65-audiovisual-materials)
 	* [6.9.1 Accessioning/Minimal Level Processing of AV](#651-accessioning-minimal-level-processing)
 	* [6.9.2 Granular processing of AV](#6512-processing)
 	* [6.9.3 Notes on Access to commercial recordings] (#653-notes-on-access)
-* [6.10 Born digital materials] 
+* [6.10 Quick Guide to Processing Born digital Physical Media] 
 * [6.11 Boxing collections and numbering boxes]
 	* [6.11.1 General guidelines]
  	* [6.11.2 Box naming conventions by shelving location]
@@ -159,22 +159,20 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
+## 6.6 Newspaper Clippings
 
-## 6.6 Photographs [so you found some photographs...]
+Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
+
+## 6.7 Framed items
+When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
+
+## 6.8 Quick Guide to Processing Photographs [so you found some photographs...]
 
 Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
 For additional guidelines and detailed information about processing photographs, see below.
 
-## 6.7 Newspaper Clippings
-
-Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
-
-## 6.8 Framed items
-When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
-
-
-## 6.9 Audiovisual Materials [so you found some cassette tapes...]
+## 6.9 Quick Guide to Processing Audiovisual Materials [so you found some cassette tapes...]
 
 [This section needs to be updated.]
 
@@ -275,7 +273,7 @@ The following language should be included at the series and/or subseries level r
 "Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
 
 
-## 6.10 Born digital materials [so you found some floppy disks...]
+## 6.10 Quick Guide to Processing Born digital Physical Media [so you found some floppy disks...]
 Quick overview of what to do if you find born digital materials in a collection.
 Link out to the born digital manual.
 
