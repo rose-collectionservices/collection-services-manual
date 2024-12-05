@@ -181,6 +181,8 @@ When possible, **framed items** such as photographs, certificates, or artwork, s
 
 ## 6.5 Audiovisual Materials [so you found some cassette tapes...]
 
+[This section needs a thorough update.]
+
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
 In order to keep the Rose Library in line with current best practices and standards, the arrangement and description of audiovisual materials in our holdings was changed based on the documentation of the Archives of American Art grant project (CLIR, "Hidden Collections," 2012-2015).  More information about that project is available on AAA’s website (http://www.aaa.si.edu/collections/projects/clir).
