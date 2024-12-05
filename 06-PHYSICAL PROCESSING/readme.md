@@ -106,7 +106,7 @@ See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservice
 ## 6.4 Restricting and redacting materials
 
 ### 6.4.1 Restricting materials
-For restriction policies, see [Section 7 Restriction policies](.
+For restriction policies, see [Section 7 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-RESTRICTION%20POLICIES).
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
