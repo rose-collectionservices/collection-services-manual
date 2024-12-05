@@ -40,7 +40,7 @@ In some cases, original material may be too fragile for general access in the re
 * For paper, photographs, and objects, consult with the Rose Library Preservation Liaison before making this decision.  If an items is deemed to be too fragile for use by researchers, Rose staff will make access copies of restricted documents when possible.  Items that are restricted due to fragility also receive higher priority in the conservation queue.
 * Original sound and video/film recordings and born digital media are always restricted from use by patrons.  Patrons may examine the physical media, but may not access content via the original items.  Access copies of audiovisual and digital material will be made on demand or as part of normal processing workflows.
 
-Additional guidance on preservation practices and workflows is available in [Section 9 Preservation]
+Additional guidance on preservation practices and workflows is available in [Section 9 Preservation](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION).
 
 ## 7.3 Protection of Privacy in MSS and EUA collections
 
