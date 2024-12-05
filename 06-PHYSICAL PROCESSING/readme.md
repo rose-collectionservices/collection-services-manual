@@ -314,9 +314,9 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 ### 6.6.4 Oversized materials
 
-* Material that fits into a box should be boxed. It is greatly preferred to have a box as the top container. 
+* Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if the material will fit into a box. 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
-	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since the OP indicates a shelving location
+	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since the OP indicates a shelving location.
 * #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
 	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
  	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
@@ -327,11 +327,16 @@ See [Section 16.2 Box naming conventions by shelving location](
  	* If the oversized material will not fit in a box, it should be placed in an oversized folder as the top container.
   	* Oversized folders of these dimensions (i.e. will fit on the OP shelves) should be handled as an OP.	
   	* Rolled items and scroll boxes that will fit on 38x34" shelves should also be handled as OPs
-  	* OP folders or OP rolled items serve as top containers in ArchivesSpace
-  		* OP folder container profile in ArchivesSpace = box folder (56x34 or less)
+  	* OP folders or OP rolled items serve as top containers in ASpace
+  		* OP folder container profile in ArchivesSpace = box folder (38x34 or less)
   	 	* Rolled item container profile = rolled item
   	  	* Scroll box container profile = scroll box [choose best size]
-  	  		  	
+  	* OP folders should be given OP numbers to indicate that it is being onsite on the OP shelves. In a collection OPs should be a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+ * #### Oversized material larger than 38x36" and up to 56x34" (XOPs)
+ 	* Any oversized material larger than 38x36" should be handled as an XOP because it will need to be stored on the XOP shelves in the Nunnery.
+  	* Oversized artifacts and computer hardware that need to be stored on the XOP shelves due to size should also be handled as XOPs.
+  	* XOPs serve as top containers in ASpace
+   		*XOP folder container profile in ASpace = box folder (56x34 or less) 	  	  		  	
   	  	 
 
 
