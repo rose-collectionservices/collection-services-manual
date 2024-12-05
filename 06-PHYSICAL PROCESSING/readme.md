@@ -116,7 +116,8 @@ For restriction policies, see [Section 7 Restriction policies](https://github.co
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
  	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
 * For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
-* Items that are restricted should be boxed separately. See XXX for boxing restricted items.
+* Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restriction end date together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.
+* Labels on restricted boxes must be stamped RESTRICTED. See labels section.
 
 For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
 
@@ -174,7 +175,7 @@ For additional guidelines and detailed information about processing photographs,
 
 ## 6.9 Quick Guide to Processing Audiovisual Materials [so you found some cassette tapes...]
 
-[This section needs to be updated.]
+[This section still needs to be updated.]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
@@ -275,6 +276,7 @@ The following language should be included at the series and/or subseries level r
 
 ## 6.10 Quick Guide to Processing Born digital Physical Media [so you found some floppy disks...]
 Quick overview of what to do if you find born digital materials in a collection.
+
 Link out to the born digital manual.
 
 
@@ -282,11 +284,9 @@ Link out to the born digital manual.
 ## 6.11 Boxing Collections and Numbering Boxes
 
 ### 6.11.1 General guidelines
-Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
-
-Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.
-
-Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Labels should say "Box 1," "Box 2," etc.
+* Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
+* Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.
+* Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Numbers on box labels should say "Box 1," "Box 2," etc.
 
 ### 6.11.2 Box naming conventions by shelving location
 
@@ -414,17 +414,17 @@ Boxes that have been treated for mold must be housed separately from the rest of
 *Figure 9: Oversized box with mold notice label*
 
 
-### 6.12.3 Boxing and Labeling Restricted Material
+### 6.12.3 Label for Restricted Material
 
-Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid. The box should be clearly stamped with the red RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
+See 6.4.1 Restricting materials for how to folder and box restricted material.
 
-[For more information about restriction policies, see Section 7: Restriction and Separation Policies and Procedures.](07-RESTRICTION)
+Restricted boxes should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
 
 ![Figure 10: Restricted material](/06-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
 *Figure 10*
 
-There may additionally be restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
+There may additionally be other kinds of restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
 
 ![Figure 11: No personal photography](/06-LOCAL%20PRACTICE/Images/Figure11.jpg "No personal photography")
 
