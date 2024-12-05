@@ -3,6 +3,7 @@
 Current owner: **Becky Sherman**
 * [16.1 Onsite Stacks Management]
 	* [16.1.1 Onsite Stacks Locations]
+ 	* [16.1.2 Box naming conventions based on shelving locations]
  	* [16.1.2 The Shelf List]
   	* [16.1.3 Managing Locations in ArchivesSpace]
   	* [16.1.4 Maintenance of movable shelving units]
@@ -59,7 +60,8 @@ We have five primary stacks locations:
 		* Bound volumes from MSS collections 
 		* Hanging art storage 
 		* Architectural drawings (rolled items)
-		* Newspapers 
+		* Newspapers
+  	* [Machine room--some EUA framed items are stored in the machine room on L11] 	
 
 * Library Service Center 
 
@@ -75,9 +77,18 @@ We communicate stack locations by giving a range and bay for an item:
 
 * Shelves are the individual shelves within a bay. 
 
+### 16.1.2 Box naming conventions based on shelving locations
+Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
+* OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
+* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
+* BV (bound volume)--generally not used for new collections
+* OBV (oversized bound volume)--generally not used for new collections  
+* FR (framed item)--primarily stored on art racks on 11-
+* LP--phonograph record boxes that are stored on 11-
+* CLP (combined LP)--phonograph record boxes that contain items from multiple collections and are stored on 11-
   
 
-### 16.1.2 Shelf Lists 
+### 16.1.3 Shelf Lists 
 
   
 
