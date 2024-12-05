@@ -1182,10 +1182,6 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 Revision statements should be used to record information about significant changes or alterations that have been made to the finding aid after its initial creation. It is not used to note insignificant changes such as the correction of typos, spelling, or minor additions to the collection.
 
-* Examples of revision statements:
-	* Revised following processing (January 2016).
- 	* Collection reprocessed to include significant additions (November 2024).
- 
 **Revision Statements in ArchivesSpace:**  
 
 * Add a separate revision statement for each revision that needs to be documented.
