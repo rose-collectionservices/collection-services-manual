@@ -12,13 +12,12 @@ Content owner: **Sarah Quigley**
 * [6.4 Restricting and redacting materials](#64-restricting-and-redacting-materials)
 	* [6.4.1 Restricting materials](#641-restricting-materials)
  	* [6.4.2 Redacting materials](#642-redacting-materials)
-
+* [6.5 Separating materials](#65-separating-materials)
+  	* [6.5.1 Attachments](#651-attachments)
+  	* [6.5.2 Publications](#652-publications)
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings]
-* [6.5 Separated materials](#65-separated-materials)
-  	* [6.5.1 Attachments](#651-attachments)
-  	* [6.5.2 Publications](#652-publications) 
 * [6.5 Audiovisual materials](#65-audiovisual-materials)
 	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
 	* [6.5.2 Processing](#6512-processing)
@@ -137,23 +136,7 @@ Or:
 
 NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
-
-
-## 6.2 Empty Envelopes
-
-Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." 
-
-## 6.3 Photographs [so you found some photographs...]
-
-Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
-
-For additional guidelines and detailed information about processing photographs, see below.
-
-## 6.4 Newspaper Clippings
-
-Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
-
-## 6.5 Separated Materials 
+## 6.5 Separating Materials 
 [moved from Section 7 Restrictions--needs additional editing]
 
 For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
@@ -171,6 +154,23 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
 * If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
+
+## 6.2 Empty Envelopes
+
+Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." 
+
+## 6.3 Photographs [so you found some photographs...]
+
+Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
+
+For additional guidelines and detailed information about processing photographs, see below.
+
+## 6.4 Newspaper Clippings
+
+Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
+
+
+
 
 ## 6.5 Audiovisual Materials [so you found some cassette tapes...]
 
