@@ -14,7 +14,7 @@ Content owner: **Sarah Quigley**
 * [6.4 Appraisal and weeding during processing](#64-appraisal-and-weeding-during-processing] 
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
-* [6.4 Newspaper clippings](#64-newspaper-clippings)
+* [6.4 Newspaper clippings]
 * [6.5 Separated materials](#65-separated-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications) 
@@ -134,7 +134,8 @@ NEVER redact the original document itself.  If the original document has intrins
 
 ## 6.4 Appraisal and weeding during processing
 
-See [8.2 Appraisal during arrangement]()
+See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
+
 ## 6.2 Empty Envelopes
 
 Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." 
