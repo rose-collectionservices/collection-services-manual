@@ -217,14 +217,17 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 
 **Required:** Required at all levels.
 
-* The level of description field in ArchivesSpace indicates the hierarchical level of the materials being described. At the collection level, select "collection" as the level of description.
+* In ArchivesSpace, the level of description field indicates the hierarchical level of the materials being described in that section of the finding aid. (Note that the level of description field does NOT describe the overall level of processing in that collection.)
+* The level of description field appears in the Basic Information field.
+* At the collection level, select "collection" as the level of description. 
+* At the series or sub-series level, select "series" or "sub-series" as the level of description.
 
 * The options in the drop-down menu are:
 	* Collection
  	* Series
   	* Sub-Series
    	* File
-   	* Item [Use only for AV items?]
+   	* Item
 
 
 ### 5.1.5 Resource type
