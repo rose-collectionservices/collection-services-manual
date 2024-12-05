@@ -15,7 +15,6 @@ Content owner: **Sarah Quigley**
 * [6.5 Separating materials](#65-separating-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications)
-* [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings]
 * [6.5 Audiovisual materials](#65-audiovisual-materials)
@@ -91,7 +90,7 @@ During detailed processing, archivists may do more granular preservation work li
 
 Conduct the following minor preservation work during granular processing:
 
-* Properly folder and box materials (see 6.1.2 Proper foldering technique and 6.x.x. Boxing collections)
+* Properly folder and box materials (see 6.1.2 Creasing and stuffing folders and 6.x.x. Boxing collections)
 * Remove letters from envelopes. This ensures that continued refolding over time in the reading room will not weaken paper fibers and lead to tears.
 * Unfold/flatten all documents, including bent corners. As above, this reduces repeated folding and unfolding that weakens the paper and causes tears. Smoothing bent corners prevents papers from catching on each other and causing more damage. Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
 * Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point. Stable environmental controls will prevent damage from developing.
@@ -162,9 +161,6 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
-## 6.2 Empty Envelopes
-
-Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." 
 
 ## 6.3 Photographs [so you found some photographs...]
 
