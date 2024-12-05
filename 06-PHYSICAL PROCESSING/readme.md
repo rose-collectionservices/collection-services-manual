@@ -8,10 +8,11 @@ Content owner: **Sarah Quigley**
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
-* [6.3 Restricting and redacting materials](#63-restricting-and-redacting-materials)
-	* [6.3.1 Restricting materials](#631-restricting-materials)
- 	* [6.3.2 Redacting materials](#632-redacting-materials)
-* [6.4 Appraisal and weeding during processing](#64-appraisal-and-weeding-during-processing] 
+* [6.3 Appraisal and weeding during processing](#63-appraisal-and-weeding-during-processing]
+* [6.4 Restricting and redacting materials](#64-restricting-and-redacting-materials)
+	* [6.4.1 Restricting materials](#641-restricting-materials)
+ 	* [6.4.2 Redacting materials](#642-redacting-materials)
+
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings]
@@ -99,9 +100,13 @@ Conduct the following minor preservation work during granular processing:
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
-## 6.3 Restricting and redacting materials
+## 6.3 Appraisal and weeding during processing
 
-### 6.3.1 Restricting materials
+See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
+
+## 6.4 Restricting and redacting materials
+
+### 6.4.1 Restricting materials
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
@@ -113,7 +118,7 @@ For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github
 
 For restriction policies, see 7 Restriction policies.
 
-### 6.3.2 Redacting materials
+### 6.4.2 Redacting materials
 
 Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
 
@@ -132,9 +137,7 @@ Or:
 
 NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
-## 6.4 Appraisal and weeding during processing
 
-See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
 
 ## 6.2 Empty Envelopes
 
