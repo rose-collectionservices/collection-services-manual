@@ -10,7 +10,8 @@ Content owner: **Sarah Quigley**
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
 * [6.3 Restricting and redacting materials](#63-restricting-and-redacting-materials)
 	* [6.3.1 Restricting materials](#631-restricting-materials)
- 	* [6.3.2 Redacting materials](#632-redacting-materials) 
+ 	* [6.3.2 Redacting materials](#632-redacting-materials)
+* [6.4 Appraisal and weeding during processing](#64-appraisal-and-weeding-during-processing] 
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
@@ -131,6 +132,9 @@ Or:
 
 NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
+## 6.4 Appraisal and weeding during processing
+
+See [8.2 Appraisal during arrangement]()
 ## 6.2 Empty Envelopes
 
 Retain empty postal envelopes that include return addresses.  These can be arranged at the end of a group of correspondence as "Envelopes, empty." 
