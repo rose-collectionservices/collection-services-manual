@@ -100,14 +100,15 @@ For questions about possible preservation needs in a collection, consult the Ros
 
 ### 6.3.1 Restricting materials
 
-* Items that are restricted should be foldered separately.
+* Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
- 	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. If necessary you can use a separation sheet. Handle the original unrestricted folder and the new restricted folder as a series of folders. Title both folders identically but add [1 of 2] and [2 of 2] at the end of the title. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+ 	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders. Title both folders identically but add [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+* For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
+* Items that are restricted should be boxed separately. See XXX for boxing restricted items.
+* Restricted items should be described at the folder level in the finding aid. Only in cases where a donor has specified that restricted contents not be described and made public would we use...
+* For restriction notes, see 5. Restrictions Governing Access.
 
-Physically isolate restricted documents from the rest of the collection and clearly label the boxes as restricted; * Create access copies and surrogates for fragile material when possible;
-Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description. In cases where the donor may not want information about restrictions to be made public, describe the material as normal and redact it in the EAD finding aid;
-Include the types of records that are restricted, the reason for the restriction, and the date of expiration in Restrictions on Access notes;
-Fully document restrictions via deeds of gift/sale, correspondence, memos, etc., in the permanent collection file.
+
 
 ## 6.2 Empty Envelopes
 
