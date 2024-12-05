@@ -275,36 +275,40 @@ The following language should be included at the series and/or subseries level r
 Quick overview of what to do if you find born digital materials in a collection.
 Link out to the born digital manual.
 
-## 6.6 Housing and Storage
+## 6.6 Boxing Collections and Numbering Boxes
 
-
-
-### 6.6.2 Boxing Collections and Numbering Boxes
-
+#### 6.6.1 General guidelines
 Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collection in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 
-* When boxing folders, ensure that the box is filled fully. It should not require a lot of wiggling to remove a folder and there should not be any visible space at the back of a box. In an appropriately filled box, an average folder should remain stable when partially pulled from the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing.
-* 
-Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.  
+Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.  
 
-**Audiovisual materials** should be removed from the general holdings and placed in boxes labeled "AV." Ideally, sound recordings should be separated from video recordings, but if there is only a small amount in the collection (less than one box), they can be housed together. Phonographs, because of their size, often do not fit on regular sized shelves and are housed on the LP shelves in the Nunnery. In the case that there are not enough LPs from one collection to fill a phonograph box, they may be housed in one of the combined LP (CLP) boxes. 
+#### 6.6.2 Materials that should be boxed separately
+
+**Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV." 
+
+**Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV."
 
 **Material that has been treated for mold** must be housed separately from the rest of the collection [(see 6.6.4)](#664-labels-for-materials-treated-for-mold).   
 
 **Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
 
 
-**Oversized materials**
+#### 6.6.3 Oversized materials
 
 **Preferred: for collections that are or will be primarily stored at the LSC:** Any material that fits into a box (instead of a folder) should be given **regular box and folder numbers** in sequence with material stored in Hollinger document cases and record center cartons including up to 20" x 24". Folders up to 24" x 36" should be given an OP (oversized papers) number to indicate that it is being stored onsite on Level 11 in the Abbey. Materials larger than that will be given an XOP (extra-oversized papers) number to indicate that it is being stored onsite on Level 11 in the Nunnery. The LSC will accept boxes up to 20" x 24," and boxes sent to the LSC should be given regular box numbers rather than OP numbers since OP references a shelving location. Due to space constraints in oversized material shelving in the Abbey and the Nunnery, newly accessioned or processed oversized material should be sent to the LSC when possible.
 
 **For collections that are or will be primarily stored onsite:** Documents and photographs larger stored in folders larger than 20" x 24" should be given **oversized papers (OP)** numbers to indicate that they are being shelved onsite on Level 11 in the Abbey.  Materials larger than 24" x 36" should be given **extra-oversized papers (XOP)** numbers and are shelved in folders in the Nunnery.
 
-When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
-
 Legacy content: While we currently have materials identified by "BV" and "OBV," we have moved away from that nomenclature and should keep these materials in appropriately sized boxes with the regular box numbers. Bound volumes (BV) and oversized bound volumes (OBV) are usually ledgers, scrapbooks, photograph albums, or other bound items.  Bound items that will fit in Hollinger document case should be placed in folders and stored as normal. Bound items that will fit in boxes up to 20" x 24" and are part of collections that are or will be stored primarily at the LSC should be stored as normal and the boxes given regular box numbers. Bound items that are part of collections that are or will be stored onsite and are too large to reside with the rest of collection should be boxed separately and identified in the finding aid as BVs or OBVs. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying it. Bound items that are part of collections that are or will be stored at the LSC and are too large for a 20 x 24" box should be identified with a strip of acid-free card stock, identified as an OBV in the finding aid, and placed on appropriate shelving onsite.
 
 **OP, XOP, BV, and OBV numbering** is similar to numbering regular size boxes and folders. Boxes for bound and oversized material **staying onsite** are numbered sequentially with OP, BV, or OBV preceding the numeral. For example, OP1, OP2, BV1, OBV1, etc. Folders or bound items within the boxes are also numbered sequentially in the same fashion as regular size folders. For example, OP1/1, OP1/2, BV1/1, etc. External housing should be labeled with a printed label (see below). Within boxes, folders and items may be labeled by hand. Folders going directly on shelves (e.g., 24" x 36" OP folders or 36" x 48" XOP folders) should have a printed label placed in the bottom lefthand corner of the folder opening. *Note: Oversized and bound material going to the LSC should receive regular box and folder numbers.*
+
+
+#### 6.6.4 Framed items
+When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
+
+
+
 
 ### 6.6.3 General labels
 
