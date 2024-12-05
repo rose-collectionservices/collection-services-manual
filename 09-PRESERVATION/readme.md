@@ -2,7 +2,7 @@
 
 Content owner: **Becky Sherman**
 
-* [9.1 General Preservation during Processing](#91-preservation-during-processing)
+* [9.1 Routine preservation during processing](#91-routine-preservation-during-processing)
 * [9.2 Moldy Materials](#92-moldy-materials)
 * [9.3 Sending collection material to the Conservation Lab](#93-sending-collection-material-to-the-conservation-lab)
 	* [9.3.1 Manuscript and EUA material](#931-manuscript-and-EUA-material)
@@ -11,27 +11,8 @@ Content owner: **Becky Sherman**
  * [9.4 Pest Management](#94-pest-management)
  * [9.5 Environmental Monitoring](#95-environmental-monitoring)
 
-## 9.1 Preservation during Processing
+## 9.1 Routine preservation during processing --see [6.2 Routine preservation during processing](
 
-Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
-
-During detailed processing, archivists may do more granular preservation work like removing rusty fasteners and sleeving torn documents. Preservation activities at this level should focus on mitigating further damage to the collection and enhancing access for patrons while maintaining efficient use of staff time. For example, staff should always make preservation photocopies of thermal fax paper because there is no other way to prevent loss of information. However, staff should not make preservation photocopies of newspaper clippings as a matter of course because of the common availability of that information. 
-
-Conduct the following minor preservation work during processing: 
-
-* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. 
-* When boxing folders, ensure that the box is filled fully. It should not require a lot of wiggling to remove a folder and there should not be any visible space at the back of a box.  In an appropriately filled box, an average folder should remain stable when partially pulled from the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing. 
-* Remove letters from envelopes. This ensures that continued refolding over time in the reading room will not weaken paper fibers and lead to tears. 
-* Unfold/flatten all documents, including bent corners. As above, this reduces repeated folding and unfolding that weakens the paper and causes tears. Smoothing bent corners prevents papers from catching on each other and causing more damage. Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder. 
-* Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point.  Stable environmental controls will prevent damage from developing. 
-* Photocopy all thermal fax paper (glossy paper similar to receipt paper). The nature of fax paper causes information printed on it to fade over time. Photocopying is the only way to preserve that information. When photocopying, if all of the content of a document transfers legibly to the photocopy, discard the original fax. If severely faded areas of the original fax do not copy and show as blank spots on the photocopy, keep both the original and the new copy. 
-* Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library manuscript preservation liaison. 
-* Sleeve torn documents in mylar and flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved. 
-* Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course. 
-* Do **not** attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
-* Handle audiovisual materials according to [6.5 Audiovisual material](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-LOCAL%20PRACTICE#65-audiovisual-material).
-
-For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison.
 
 ## 9.2 Moldy Materials
 
