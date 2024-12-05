@@ -4,7 +4,7 @@ Content owner: **Sarah Quigley**
 
 * [6.1 Foldering materials](#61-foldering-materials)
 	* [6.1.1 Use of original folders](#611-use-of-original-folders)
- 	* [6.1.2 Proper foldering technique](#612-proper-foldering-technique)
+ 	* [6.1.2 Creasing and stuffing folders](#612-creasing-and-stuffing-folders)
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
@@ -51,10 +51,10 @@ When writing descriptive records for the Rose Library you should conform first a
 
 If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
 
-### 6.1.2 Proper foldering technique
+### 6.1.2 Creasing and stuffing folders
 
-* Use legal-size folders as the default and do not overstuff folders.
-* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
+* Use legal-size folders as the default.
+* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
 
 ### 6.1.3 Folder titles
 
@@ -106,6 +106,7 @@ See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservice
 ## 6.4 Restricting and redacting materials
 
 ### 6.4.1 Restricting materials
+For restriction policies, see [Section 7 Restriction policies](.
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
@@ -115,7 +116,7 @@ See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservice
 
 For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
 
-For restriction policies, see 7 Restriction policies.
+
 
 ### 6.4.2 Redacting materials
 
