@@ -29,17 +29,18 @@ Content owner: **Sarah Quigley**
   	* [6.6.4 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.6.5 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
  * [6.6 Deep dives by format]
-	* [6.3.1 General rules](#631-general-rules)
-	* [6.3.2 Labeling photographs](#632-labeling-photographs)
-	* [6.3.3 Describing photographs](#633-describing-photographs)
-	* [6.3.4 19th Century paper prints](#634-19th-century-paper-prints)
-	* [6.3.5 Glass and metal plates](#635-glass-and-metal-plates)
-	* [6.3.6 Color photographs](#636-color-photographs)
-	* [6.3.7 Photograph albums](#637-photograph-albums)
-	* [6.3.8 Slides and transparencies](#638-slides-and-transparencies)
-	* [6.3.9 Negatives](#639-negatives)
-	* [6.3.10 Nitrate film](#6310-nitrate-film)
-	* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
+	* [6.6.1 Photographs]
+ 		* [6.3.1 General rules](#631-general-rules)
+		* [6.3.2 Labeling photographs](#632-labeling-photographs)
+		* [6.3.3 Describing photographs](#633-describing-photographs)
+		* [6.3.4 19th Century paper prints](#634-19th-century-paper-prints)
+		* [6.3.5 Glass and metal plates](#635-glass-and-metal-plates)
+		* [6.3.6 Color photographs](#636-color-photographs)
+		* [6.3.7 Photograph albums](#637-photograph-albums)
+		* [6.3.8 Slides and transparencies](#638-slides-and-transparencies)
+		* [6.3.9 Negatives](#639-negatives)
+		* [6.3.10 Nitrate film](#6310-nitrate-film)
+		* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
 
 This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
 
@@ -170,7 +171,8 @@ For additional guidelines and detailed information about processing photographs,
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
-
+#### 6.5 Framed items
+When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 
 ## 6.5 Audiovisual Materials [so you found some cassette tapes...]
@@ -276,14 +278,23 @@ The following language should be included at the series and/or subseries level r
 Quick overview of what to do if you find born digital materials in a collection.
 Link out to the born digital manual.
 
+
+
 ## 6.6 Boxing Collections and Numbering Boxes
 
-#### 6.6.1 General guidelines
-Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collection in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
+#### 6.6.1 General guidelines for boxing collections
+Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 
 Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.  
 
-#### 6.6.2 Materials that should be boxed separately
+#### 6.6.2 Box naming conventions by shelving location
+
+See [Section 16.2 Box naming conventions by shelving location](
+
+
+#### 6.6.3 Materials that should be boxed separately
+
+**Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
 
 **Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV." 
 
@@ -291,20 +302,42 @@ Folders should be placed within the box with enough room that the archivist's fi
 
 **Material that has been treated for mold** must be housed separately from the rest of the collection [(see 6.6.4)](#664-labels-for-materials-treated-for-mold).   
 
-**Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
 
-#### 6.6.3 Oversized materials and nomenclatures based on shelving locations
 
-Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
-
-* OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
-* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
-* BV (bound volume) and OBV (oversized bound volume)--while we currently have materials identified by "BV" and "OBV," we have moved away from that nomenclature and should keep these materials in appropriately sized boxes with the regular box numbers. Bound volumes (BV) and oversized bound volumes (OBV) are usually ledgers, scrapbooks, photograph albums, or other bound items.  
-* FR (framed item)
-* 
 #### 6.6.3 Oversized materials
 
-**Preferred: for collections that are or will be primarily stored at the LSC:** Any material that fits into a box (instead of a folder) should be given **regular box and folder numbers** in sequence with material stored in Hollinger document cases and record center cartons including up to 20" x 24". Folders up to 24" x 36" should be given an OP (oversized papers) number to indicate that it is being stored onsite on Level 11 in the Abbey. Materials larger than that will be given an XOP (extra-oversized papers) number to indicate that it is being stored onsite on Level 11 in the Nunnery. The LSC will accept boxes up to 20" x 24," and boxes sent to the LSC should be given regular box numbers rather than OP numbers since OP references a shelving location. Due to space constraints in oversized material shelving in the Abbey and the Nunnery, newly accessioned or processed oversized material should be sent to the LSC when possible.
+* Material that fits into a box should be boxed. It is greatly preferred to have a box as the top container. 
+* Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
+	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since the OP indicates a shelving location
+* Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
+	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
+ 	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
+    	* OP boxes should be given OP numbers to indicate that it is being onsite on the OP shelves. In a collection OPs should be a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+     	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.		
+* Oversized material larger than 20x24" but smaller than 38x34" (OPs)
+	* Oversized material larger than 20x24" will not fit in a standard oversized box, as the largest standard sized box that we typically order is 20x24", but larger or custom boxes can be ordered in some instances.
+ 	* If the oversized material will not fit in a box, it should be placed in an oversized folder as the top container.
+  	* Oversized folders of these dimensions (i.e. will fit on the OP shelves) should be handled as an OP.	
+  	* Rolled items and scroll boxes that will fit on 38x34" shelves should also be handled as OPs
+  	* OP folders or OP rolled items serve as top containers in ArchivesSpace
+  		* OP folder container profile in ArchivesSpace = box folder (56x34 or less)
+  	 	* Rolled item container profile = rolled item
+  	  	* Scroll box container profile = scroll box [choose best size]
+  	  	
+  	  	* For collections that are being stored onsite, oversized boxes should also be handled as OPs.
+  	  	
+  	  	* 
+
+
+
+
+* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
+* BV (bound volume) and OBV (oversized bound volume)--while we currently have materials identified by "BV" and "OBV," we have moved away from that nomenclature and should keep these materials in appropriately sized boxes with the regular box numbers. Bound volumes (BV) and oversized bound volumes (OBV) are usually ledgers, scrapbooks, photograph albums, or other bound items.  
+
+
+#### 6.6.3 Oversized materials
+
+**Preferred: for collections that are or will be primarily stored at the LSC:** Any material that fits into a box (instead of a folder) . Folders up to 24" x 36" should be given an OP (oversized papers) number to indicate that it is being stored onsite on Level 11 in the Abbey. Materials larger than that will be given an XOP (extra-oversized papers) number to indicate that it is being stored onsite on Level 11 in the Nunnery. The LSC will accept boxes up to 20" x 24," and boxes sent to the LSC should be given regular box numbers rather than OP numbers since OP references a shelving location. Due to space constraints in oversized material shelving in the Abbey and the Nunnery, newly accessioned or processed oversized material should be sent to the LSC when possible.
 
 **For collections that are or will be primarily stored onsite:** Documents and photographs larger stored in folders larger than 20" x 24" should be given **oversized papers (OP)** numbers to indicate that they are being shelved onsite on Level 11 in the Abbey.  Materials larger than 24" x 36" should be given **extra-oversized papers (XOP)** numbers and are shelved in folders in the Nunnery.
 
@@ -313,8 +346,7 @@ Legacy content: WBound items that will fit in Hollinger document case should be 
 **OP, XOP, BV, and OBV numbering** is similar to numbering regular size boxes and folders. Boxes for bound and oversized material **staying onsite** are numbered sequentially with OP, BV, or OBV preceding the numeral. For example, OP1, OP2, BV1, OBV1, etc. Folders or bound items within the boxes are also numbered sequentially in the same fashion as regular size folders. For example, OP1/1, OP1/2, BV1/1, etc. External housing should be labeled with a printed label (see below). Within boxes, folders and items may be labeled by hand. Folders going directly on shelves (e.g., 24" x 36" OP folders or 36" x 48" XOP folders) should have a printed label placed in the bottom lefthand corner of the folder opening. *Note: Oversized and bound material going to the LSC should receive regular box and folder numbers.*
 
 
-#### 6.6.4 Framed items
-When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
+
 
 
 
