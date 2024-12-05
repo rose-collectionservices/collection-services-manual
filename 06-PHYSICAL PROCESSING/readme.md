@@ -115,7 +115,7 @@ For restriction policies, see [Section 7 Restriction policies](https://github.co
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
  	* If only individual items in a folder are restricted, separate those items from the rest of the contents of the folder that can be opened to researchers and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
-* For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
+* For items restricted for preservation reasons, when possible create access copies and surrogates for fragile material, so that the access copy can be made available to researchers while the original fragile item remains restricted.
 * Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restriction end date together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.
 * Labels on restricted boxes must be stamped RESTRICTED. See labels section.
 
@@ -307,36 +307,42 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 ### 6.11.4 Oversized materials
 
-* Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if the material will fit into a box. 
+* Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible. 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since the OP indicates a shelving location.
 * #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
 	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
  	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
-    	* OP boxes should be given OP numbers to indicate that it is being onsite on the OP shelves. In a collection OPs should be a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+    	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
      	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.		
 * #### Oversized material larger than 20x24" but smaller than 38x34" (OPs)
 	* Oversized material larger than 20x24" will not fit in a standard oversized box, as the largest standard sized box that we typically order is 20x24", but larger or custom boxes can be ordered in some instances.
  	* If the oversized material will not fit in a box, it should be placed in an oversized folder as the top container.
   	* Oversized folders of these dimensions (i.e. will fit on the OP shelves) should be handled as an OP.	
-  	* Rolled items and scroll boxes that will fit on 38x34" shelves should also be handled as OPs
-  	* OP folders or OP rolled items serve as top containers in ASpace
+  	* Rolled items and scroll boxes that will fit on 38x34" shelves should also be handled as OPs.
+  	* OP folders, rolled items, and scrolled boxes serve as top containers in ASpace
   		* OP folder container profile in ArchivesSpace = box folder (38x34 or less)
   	 	* Rolled item container profile = rolled item
   	  	* Scroll box container profile = scroll box [choose best size]
-  	* OP folders should be given OP numbers to indicate that it is being onsite on the OP shelves. In a collection OPs should be a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+  	* OP folders should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
  * #### Oversized material larger than 38x36" and up to 56x34" (XOPs)
  	* Any oversized material larger than 38x36" should be handled as an XOP because it will need to be stored on the XOP shelves in the Nunnery.
   	* Oversized artifacts and computer hardware that need to be stored on the XOP shelves due to size should also be handled as XOPs.
   	* XOPs serve as top containers in ASpace
-   		*XOP folder container profile in ASpace = box folder (56x34 or less) 	  	  		  	
+   		*XOP folder container profile in ASpace = box folder (56x34 or less)
+     		* Rolled item container profile = rolled item
+  	  	* Scroll box container profile = scroll box [choose best size]	  	  		  	
   	  	 
+* #### Bound volumes
+	* If a collection is being stored at the LSC, treat bound volumes (ledgers, scrapbooks, photograph albums, etc.) as you would any other oversized material. House the bound volume in an appropriately sized box and label it with regular box numbers.
+ 	* Legacy content for collections being stored onsite:
+  		* BVs (bound volumes)
+    		* OBVs (oversized bound volumes) 
 
 
 
 
-* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
-* BV (bound volume) and OBV (oversized bound volume)--while we currently have materials identified by "BV" and "OBV," we have moved away from that nomenclature and should keep these materials in appropriately sized boxes with the regular box numbers. Bound volumes (BV) and oversized bound volumes (OBV) are usually ledgers, scrapbooks, photograph albums, or other bound items.  
+
 
 
 #### 6.6.3 Oversized materials
