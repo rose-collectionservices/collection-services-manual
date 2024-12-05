@@ -102,11 +102,14 @@ For questions about possible preservation needs in a collection, consult the Ros
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
- 	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders. Title both folders identically but add [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+ 	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
 * For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
 * Items that are restricted should be boxed separately. See XXX for boxing restricted items.
 * Restricted items should be described at the folder level in the finding aid. Only in cases where a donor has specified that restricted contents not be described and made public would we use...
-* For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
+
+For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
+
+For restriction policies, see 7 Restriction policies.
 
 
 
