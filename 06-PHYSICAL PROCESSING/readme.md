@@ -8,6 +8,7 @@ Content owner: **Sarah Quigley**
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
+* [6.3 Restricting and redacting material](#63-restricting-and-redacting-material)
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
@@ -94,6 +95,19 @@ Conduct the following minor preservation work during granular processing:
 * If you encounter moldy materials, see [9.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#92-moldy-materials)
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
+
+## 6.3 Restricting and redacting materials
+
+### 6.3.1 Restricting materials
+
+* Items that are restricted should be foldered separately.
+	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+ 	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. If necessary you can use a separation sheet. Handle the original unrestricted folder and the new restricted folder as a series of folders. Title both folders identically but add [1 of 2] and [2 of 2] at the end of the title. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+
+Physically isolate restricted documents from the rest of the collection and clearly label the boxes as restricted; * Create access copies and surrogates for fragile material when possible;
+Describe the restricted items as fully as possible in the finding aid, including container lists and appropriate narrative description. In cases where the donor may not want information about restrictions to be made public, describe the material as normal and redact it in the EAD finding aid;
+Include the types of records that are restricted, the reason for the restriction, and the date of expiration in Restrictions on Access notes;
+Fully document restrictions via deeds of gift/sale, correspondence, memos, etc., in the permanent collection file.
 
 ## 6.2 Empty Envelopes
 
