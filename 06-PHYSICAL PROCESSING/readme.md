@@ -253,7 +253,7 @@ There is no need for a folder number within the AV box.  In some cases, as in of
 
 Duplicates should be kept until material is digitized whereupon they can be considered for weeding.
 
-For CLPs: The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
+Phonographs, because of their size, often do not fit on regular sized shelves and are housed on the LP shelves in the Nunnery. In the case that there are not enough LPs from one collection to fill a phonograph box, they may be housed in one of the combined LP (CLP) boxes. For CLPs: The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
 ![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
 
