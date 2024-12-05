@@ -106,7 +106,7 @@ For questions about possible preservation needs in a collection, consult the Ros
 * For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
 * Items that are restricted should be boxed separately. See XXX for boxing restricted items.
 * Restricted items should be described at the folder level in the finding aid. Only in cases where a donor has specified that restricted contents not be described and made public would we use...
-* For restriction notes, see 5. Restrictions Governing Access.
+* For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
 
 
 
