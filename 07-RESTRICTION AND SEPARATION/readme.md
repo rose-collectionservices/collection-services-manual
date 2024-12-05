@@ -36,6 +36,8 @@ The following is an example of a clear, detailed, and actionable set of donor re
 
 *The Rose Library will consult with Young about any materials they find created by Young’s father, or collected or assembled by him in the course of his business as a physician, to determine whether to retain as part of the collection or return to Young.*
 
+Restricted items can be described at the folder level in the finding aid unless the donor explicitly stated that description of the restricted materials should not be made public. In that case, restricted material can be described in broad terms at the box level, for example as "restricted correspondence." All restricted material should have AOs and container instances in ArchivesSpace.
+
 ### 7.1.3 Preservation
 
 In some cases, original material may be too fragile for general access in the reading room and should be restricted.  For paper, photographs, and objects, consult with the Preservation Liaison before making this decision.  Rose staff will make access copies of restricted documents when possible.  Items that are restricted due to fragility also receive higher priority in the conservation queue.  Original sound and video/film recordings and born digital media are always restricted from use by patrons.  Patrons may examine the physical media, but may not access content via the original items.  Access copies of audiovisual and digital material will be made on demand or as part of normal processing workflows.  Additional guidance on preservation practices and workflows is available [here](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation?csf=1&web=1&e=Pz6qtE).
