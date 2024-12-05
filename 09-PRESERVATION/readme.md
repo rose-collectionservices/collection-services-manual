@@ -11,7 +11,8 @@ Content owner: **Becky Sherman**
  * [9.4 Pest Management](#94-pest-management)
  * [9.5 Environmental Monitoring](#95-environmental-monitoring)
 
-## 9.1 Routine preservation during processing --see [6.2 Routine preservation during processing](
+## 9.1 Routine preservation during processing
+See [6.2 Routine preservation during processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-PHYSICAL%20PROCESSING#62-routine-preservation-during-processing)
 
 
 ## 9.2 Moldy Materials
@@ -34,7 +35,7 @@ When contaminated materials return from being treated:
  
 The Head of Collection Services, Rose Library Preservation Liaison, and Rare Book Cataloger meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
 
-### 9.3.1 Manuscript and EUA Material
+### 9.3.1 Manuscript and EUA material
 
 The process by which manuscript and archives items enter and move through the queue is as follows: 
 
