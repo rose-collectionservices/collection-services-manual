@@ -91,7 +91,7 @@ Conduct the following minor preservation work during granular processing:
 * Flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved.
 * Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course.
 * Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
-* If you encounter moldy materials, see [9.2 Moldy materials](
+* If you encounter moldy materials, see [9.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#92-moldy-materials)
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
