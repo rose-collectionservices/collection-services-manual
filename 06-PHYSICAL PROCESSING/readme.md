@@ -15,40 +15,39 @@ Content owner: **Sarah Quigley**
 * [6.5 Separating materials](#65-separating-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications)
-* [6.3 Photographs](#63-photographs)	
-* [6.4 Newspaper clippings]
-* [6.5 Audiovisual materials](#65-audiovisual-materials)
-	* [6.5.1 Accessioning/Minimal Level Processing](#651-accessioning-minimal-level-processing)
-	* [6.5.2 Processing](#6512-processing)
-	* [6.5.3 Notes on Access] (#653-notes-on-access)
-* [6.6 Born digital materials] 
-* [6.6 Boxing collections and numbering boxes]
-	* [6.6.1 General guidelines]
- 	* [6.6.2 Box naming conventions by shelving location]
-  	* [6.6.3 Materials that should be boxed separately]
-  	* [6.6.4 Oversized materials]
-* [6.7 Labeling boxes]
- 	* [6.6.1 General labels](#663-general-labels)
-  	* [6.6.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
-	* [6.6.3 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
- * [6.8 Barcodes]
- * [6.6 Deep dives by format]
-	* [6.6.1 Photographs]
- 		* [6.3.1 General rules](#631-general-rules)
-		* [6.3.2 Labeling photographs](#632-labeling-photographs)
-		* [6.3.3 Describing photographs](#633-describing-photographs)
-		* [6.3.4 19th Century paper prints](#634-19th-century-paper-prints)
-		* [6.3.5 Glass and metal plates](#635-glass-and-metal-plates)
-		* [6.3.6 Color photographs](#636-color-photographs)
-		* [6.3.7 Photograph albums](#637-photograph-albums)
-		* [6.3.8 Slides and transparencies](#638-slides-and-transparencies)
-		* [6.3.9 Negatives](#639-negatives)
-		* [6.3.10 Nitrate film](#6310-nitrate-film)
-		* [6.3.11 Cellulose acetate film](#6311-cellulose-acetate-film)
+* [6.6 Photographs](#63-photographs)	
+* [6.7 Newspaper clippings]
+* [6.8 Framed items]
+* [6.9 Audiovisual materials](#65-audiovisual-materials)
+	* [6.9.1 Accessioning/Minimal Level Processing of AV](#651-accessioning-minimal-level-processing)
+	* [6.9.2 Granular processing of AV](#6512-processing)
+	* [6.9.3 Notes on Access to commercial recordings] (#653-notes-on-access)
+* [6.10 Born digital materials] 
+* [6.11 Boxing collections and numbering boxes]
+	* [6.11.1 General guidelines]
+ 	* [6.11.2 Box naming conventions by shelving location]
+  	* [6.11.3 Materials that should be boxed separately]
+  	* [6.11.4 Oversized materials]
+* [6.12 Labeling boxes]
+ 	* [6.12.1 General labels](#663-general-labels)
+  	* [6.12.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
+	* [6.12.3 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
+ * [6.13 Barcodes]
+ * [6.14 Deep dives by format]
+	* [6.14.1 Photographs]
+ 		* [6.14.1 General rules](#631-general-rules)
+		* [6.14.2 Labeling photographs](#632-labeling-photographs)
+		* [6.14.3 Describing photographs](#633-describing-photographs)
+		* [6.14.4 19th Century paper prints](#634-19th-century-paper-prints)
+		* [6.14.5 Glass and metal plates](#635-glass-and-metal-plates)
+		* [6.14.6 Color photographs](#636-color-photographs)
+		* [6.14.7 Photograph albums](#637-photograph-albums)
+		* [6.14.8 Slides and transparencies](#638-slides-and-transparencies)
+		* [6.14.9 Negatives](#639-negatives)
+		* [6.14.10 Nitrate film](#6310-nitrate-film)
+		* [6.14.11 Cellulose acetate film](#6311-cellulose-acetate-film)
 
-This document provides guidance on specific arrangement and description tasks, according to local policy and practice at the Rose Library. 
-
-When writing descriptive records for the Rose Library you should conform first and foremost to the conventions of the descriptive or bibliographic standard (DACS, MARC) that you are using.  The Emory University Communications and Public Affairs Office provides additional [style guidance](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html) for Emory publications related content and Collection Services maintains a [unit-specific style guide](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/CS%20Formatting%20and%20Style%20Guide.docx?d=w2df9086f1e054dae8759c45d7167703c&csf=1&web=1&e=jZhKev) for issues that commonly arise during description, including grammatical and spelling preferences and guidance on formulating folder titles. 
+This document provides guidance on physical processing tasks, according to local policy and practice at the Rose Library. 
 
 ## 6.1 Foldering Materials
 
@@ -122,7 +121,6 @@ For restriction policies, see [Section 7 Restriction policies](https://github.co
 For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
 
 
-
 ### 6.4.2 Redacting materials
 
 Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
@@ -162,23 +160,23 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
 
-## 6.3 Photographs [so you found some photographs...]
+## 6.6 Photographs [so you found some photographs...]
 
 Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
 For additional guidelines and detailed information about processing photographs, see below.
 
-## 6.4 Newspaper Clippings
+## 6.7 Newspaper Clippings
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
-#### 6.5 Framed items
+## 6.8 Framed items
 When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 
-## 6.5 Audiovisual Materials [so you found some cassette tapes...]
+## 6.9 Audiovisual Materials [so you found some cassette tapes...]
 
-[This section needs a thorough update.]
+[This section needs to be updated.]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
@@ -188,11 +186,11 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 
 For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r> "https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r").
 
-## 6.5.1 Accessioning/Minimal Level Processing
+## 6.9.1 Accessioning/Minimal Level Processing of AV
 
 Audiovisual materials will be rehoused upon accessioning into boxes labeled "AV."  If more than one box is used, it is preferable to keep audio and visual boxes (e.g. keep all audio together in one box and remove video to another as this will aid in digitization procedures).  Individual items can be rehoused as well at this point (audiocassettes should be in some kind of case) to ensure that damage does not occur.  
 
-### 6.5.1.1 Rehousing upon accessioning
+### Rehousing upon accessioning
 
 Upon accessioning, materials should be rehoused into AV Masters boxes.  Some individual materials may require rehousing (i.e. the individual cases or boxes for tapes), but archivists should use their judgment as to whether this is necessary.  It is preferable to do if the housing or item is broken, deteriorating, or unsupportive.  Original housing that is not broken and does not have acid stains or discoloration is adequate and can generally be left alone.  Materials that come in without sufficient housing or cases should be placed in one. should be housed.
 
@@ -231,7 +229,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
-## 6.5.2 Processing
+## 6.9.2 Granular Processing of AV
 
 Audiovisual materials should be fully processed in conjunction with the paper materials of the collection, and minimal level processing should have been done at accessioning, so materials should be identified at least at that level.  It is likely that as of 2016, most collections will have not gone through the accession procedure listed above, so extra attention should be paid to those materials that have not been identified.  Regardless of the accessioning procedure followed, the following will need to be done for identification:
 
@@ -267,7 +265,7 @@ Note: Image includes a date format that is no longer used.  The approved format 
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization. Processing staff should use the [Media Guide](https://emory.sharepoint.com/:b:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Media%20Guide.pdf?csf=1&web=1&e=vawA0O) to identify formats.
 
-## 6.5.3 Notes on Access
+## 6.9.3 Notes on Access to Commercial Recordings
 If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection. However, if this is done, and the archivist should note the identity of each title with the following language:
 
 "Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
@@ -277,27 +275,27 @@ The following language should be included at the series and/or subseries level r
 "Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
 
 
-## 6.6 Born digital materials [so you found some floppy disks...]
+## 6.10 Born digital materials [so you found some floppy disks...]
 Quick overview of what to do if you find born digital materials in a collection.
 Link out to the born digital manual.
 
 
 
-## 6.6 Boxing Collections and Numbering Boxes
+## 6.11 Boxing Collections and Numbering Boxes
 
-### 6.6.1 General guidelines
+### 6.11.1 General guidelines
 Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 
 Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.
 
 Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Labels should say "Box 1," "Box 2," etc.
 
-### 6.6.2 Box naming conventions by shelving location
+### 6.11.2 Box naming conventions by shelving location
 
 See [Section 16.2 Box naming conventions by shelving location](
 
 
-### 6.6.3 Materials that should be boxed separately
+### 6.11.3 Materials that should be boxed separately
 
 **Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
 
@@ -309,7 +307,7 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 
 
-### 6.6.4 Oversized materials
+### 6.11.4 Oversized materials
 
 * Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if the material will fit into a box. 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
@@ -359,7 +357,9 @@ Legacy content: WBound items that will fit in Hollinger document case should be 
 
 
 
-### 6.6.3 General labels
+## 6.12 Labeling boxes
+
+### 6.12.1 General labels
 
 **Box labels** should include the following information (see figure 2 for an example): 
 
@@ -395,7 +395,7 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 ![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-### 6.6.4 Labels for materials treated for mold
+### 6.12.2 Labels for materials treated for mold
 
 Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
@@ -416,7 +416,7 @@ Boxes that have been treated for mold must be housed separately from the rest of
 *Figure 9: Oversized box with mold notice label*
 
 
-### 6.6.5 Boxing and Labeling Restricted Material
+### 6.12.3 Boxing and Labeling Restricted Material
 
 Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restrictions together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid. The box should be clearly stamped with the red RESTRICTED stamp to avoid any unauthorized access (see figure 10). 
 
@@ -440,10 +440,10 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-## 6.8 Barcodes
+## 6.13 Barcodes
 
-## 6.7 Deep dives by format
-### 6.7.1 Photographs
+## 6.14 Deep dives by format
+### 6.14.1 Photographs
 
 Archivists will use the following guidelines and their professional discretion to determine appropriate levels of arrangement and description for photographs in Rose Library collections. These guidelines are meant to offer general guidance for archivists working with photographs, though there are a few prescriptive rules.
 
@@ -457,7 +457,7 @@ Photograph collections that document a particular subject or subjects and are co
 
 For help identifying photographic formats or guidance on processing formats not mentioned here, see [Graphics Atlas](<http://www.graphicsatlas.org/> "http://www.graphicsatlas.org/"); Mary Lynn Ritzenthaler and Diane Vogt O'Connor, Photographs: Archival Care and Management; and Sylvie Pénichon, Twentieth Century Color Photographs: Identification and Care. 
 
-### 6.3.1 General rules:
+### 6.14.1 General rules:
 
 * Wash hands before handling photographic material in any format (wearing gloves is not necessary if hands are clean)
 * Handle photographic material by the edges only
@@ -484,7 +484,7 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * DO NOT mark transparencies, direct positives, film negatives, or cased images
 * Enclose the information in brackets to indicate it is archivist supplied information
 
-### 6.3.3 Describing photographs: 
+### 6.14.3 Describing photographs: 
 
 * Archivist devised titles should include:
 	* Main subjects depicted, i.e., persons, events, activities, and objects
@@ -498,13 +498,13 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * Include format in the description when relevant (when describing early photographic processes or other rare formats)
 * It is not necessary to include measurements/dimensions
 
-### 6.3.4 19th Century paper prints:
+### 6.14.4 19th Century paper prints:
 
 * Should be sleeved
 * DO NOT attempt to remove an image from its mount
 * Unmounted albumen prints are prone to curling and cupping; insert an alkaline board behind the image inside the plastic sleeve to provide adequate support
 
-### 6.3.5 Glass and metal plates:
+### 6.14.5 Glass and metal plates:
 
 * If uncased, store in a four-flap wrapper
 * Store upright on long edge
@@ -514,13 +514,13 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * DO NOT attempt to clean, repair, or flatten glass or metal plates
 * Boxes that contain a significant number of glass plates should be marked as heavy and fragile
 
-### 6.3.6 Color photographs:
+### 6.14.6 Color photographs:
 
 * Color photographs are highly unstable and subject to color loss even in the dark
 * Most color photographs can be stored according to the general rules above
 * Polaroids should be stored in unbuffered envelopes rather than plastic (regular acid-free folders are on the high end of the appropriate pH for Polaroids; if not sleeving images individually, they should still be stored in an unbuffered envelope inside a folder)
 
-### 6.3.7 Photograph albums:
+### 6.14.7 Photograph albums:
 
 * Photo albums should not be dismantled unless photographs have already started to release from pages
 * If dismantling an album, take care to keep photographs in order using envelopes or folder inserts
@@ -528,23 +528,23 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * Small albums that will fit in a folder may be stored in a Hollinger box or record center carton (preferably spine down)
 * Larger albums should be stored flat in a box no more than one inch larger than the album on either side (see Head of Collection Processing to order boxes that will fit if none are on hand)
 
-### 6.3.8 Slides and transparencies:
+### 6.14.8 Slides and transparencies:
 
 * Slide is usually the original negative
 * Store in plastic slide pages
 * If collection contains a significant number of slides, acid free three-ring binder boxes can be used for permanent storage
 
-### 6.3.9 Negatives:
+### 6.14.9 Negatives:
 
 * Negatives can be sleeved in plastic
 * Follow the general guidance for deciding to sleeve photographs when deciding whether or not to sleeve negatives
 
-### 6.3.10 Nitrate film:
+### 6.14.10 Nitrate film:
 
 * Should be stored at temps below 50 with a RH of 30-40% at minimum
 * Should always be stored in paper to prevent build-up of unstable gasses
 
-### 6.3.11 Cellulose acetate film:
+### 6.14.11 Cellulose acetate film:
 
 * Cellulose acetates shrink as they age and display vinegar syndrome
 * Cellulose acetates should also be stored in alkaline buffered paper envelopes or sleeves and placed in cold storage
