@@ -222,13 +222,6 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 * At the collection level, select "collection" as the level of description. 
 * At the series or sub-series level, select "series" or "sub-series" as the level of description.
 
-* The options in the drop-down menu are:
-	* Collection
- 	* Series
-  	* Sub-Series
-   	* File
-   	* Item
-
 
 ### 5.1.5 Resource type
 
