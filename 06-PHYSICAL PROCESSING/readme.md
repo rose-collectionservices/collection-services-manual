@@ -32,6 +32,7 @@ Content owner: **Sarah Quigley**
  	* [6.6.1 General labels](#663-general-labels)
   	* [6.6.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.6.3 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
+ * [6.8 Barcodes]
  * [6.6 Deep dives by format]
 	* [6.6.1 Photographs]
  		* [6.3.1 General rules](#631-general-rules)
@@ -443,6 +444,7 @@ There may additionally be restrictions on how patrons may use material, such as 
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
+## 6.8 Barcodes
 
 ## 6.7 Deep dives by format
 ### 6.7.1 Photographs
