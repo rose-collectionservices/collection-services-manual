@@ -7,6 +7,7 @@ Content owner: **Sarah Quigley**
  	* [6.1.2 Proper foldering technique](#612-proper-foldering-technique)
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
+* [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
@@ -49,7 +50,7 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 6.1.2 Proper foldering technique
 
 * Use legal-size folders as the default and do not overstuff folders.
-* See [9.1 Preservation during procesing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#91-preservation-during-processing) for additional information on proper foldering.
+* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
 
 ### 6.1.3 Folder titles
 
@@ -72,6 +73,27 @@ Separate the collection title and manuscript number, series and subseries titles
 
 ![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
+### 6.2 Routine preservation during processing
+
+Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
+
+During detailed processing, archivists may do more granular preservation work like removing rusty fasteners and sleeving torn documents. Preservation activities at this level should focus on mitigating further damage to the collection and enhancing access for patrons while maintaining efficient use of staff time. For example, staff should always make preservation photocopies of thermal fax paper because there is no other way to prevent loss of information. However, staff should not make preservation photocopies of newspaper clippings as a matter of course because of the common availability of that information.
+
+Conduct the following minor preservation work during granular processing:
+
+* Properly folder and box materials (see 6.1.2 Proper foldering technique and 6.x.x. Boxing collections)
+* Remove letters from envelopes. This ensures that continued refolding over time in the reading room will not weaken paper fibers and lead to tears.
+* Unfold/flatten all documents, including bent corners. As above, this reduces repeated folding and unfolding that weakens the paper and causes tears. Smoothing bent corners prevents papers from catching on each other and causing more damage. Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
+* Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point. Stable environmental controls will prevent damage from developing.
+* Photocopy all thermal fax paper (glossy paper similar to receipt paper). The nature of fax paper causes information printed on it to fade over time. Photocopying is the only way to preserve that information. When photocopying, if all of the content of a document transfers legibly to the photocopy, discard the original fax. If severely faded areas of the original fax do not copy and show as blank spots on the photocopy, keep both the original and the new copy.
+* Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library Preservation Liaison.
+* Sleeve torn documents in mylar.
+* Flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved.
+* Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course.
+* Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
+* If you encounter moldy materials, see [9.2 Moldy materials](
+
+For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
 ## 6.2 Empty Envelopes
 
@@ -217,6 +239,8 @@ Link out to the born digital manual.
 
 Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collection in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 
+* When boxing folders, ensure that the box is filled fully. It should not require a lot of wiggling to remove a folder and there should not be any visible space at the back of a box. In an appropriately filled box, an average folder should remain stable when partially pulled from the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing.
+* 
 Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.  
 
 **Audiovisual materials** should be removed from the general holdings and placed in boxes labeled "AV." Ideally, sound recordings should be separated from video recordings, but if there is only a small amount in the collection (less than one box), they can be housed together. Phonographs, because of their size, often do not fit on regular sized shelves and are housed on the LP shelves in the Nunnery. In the case that there are not enough LPs from one collection to fill a phonograph box, they may be housed in one of the combined LP (CLP) boxes. 
