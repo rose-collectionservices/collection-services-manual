@@ -229,7 +229,7 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 
 **Required:** Required at the collection level.
 
-* The resource type describes the nature of the materials. The resource type field in ArchivesSpace should correspond with the resource type used in the title. Select from the drop down menu: 
+* The resource type field in ArchivesSpace describes the nature of the materials and should correspond with the resource type used in the title. Select from the drop down menu: 
 	* If a collection contains the administrative records of an organization or corporate body, use the term "records." 
  	* If a manuscript collection contains a variety of materials belonging to an individual or family, use the term "papers." 
   	* If the collection is artificially created by an individual or by the Rose Library, use the term "collection." 
