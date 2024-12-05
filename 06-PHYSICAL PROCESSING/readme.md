@@ -8,7 +8,9 @@ Content owner: **Sarah Quigley**
   	* [6.1.3 Folder titles](#613-folder-titles)
   	* [6.1.4 Labeling folders](#614-labeling-folders)	 
 * [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
-* [6.3 Restricting and redacting material](#63-restricting-and-redacting-material)
+* [6.3 Restricting and redacting materials](#63-restricting-and-redacting-materials)
+	* [6.3.1 Restricting materials](#631-restricting-materials)
+ 	* [6.3.2 Redacting materials](#632-redacting-materials) 
 * [6.2 Empty envelopes](#62-empty-envelopes)
 * [6.3 Photographs](#63-photographs)	
 * [6.4 Newspaper clippings](#64-newspaper-clippings)
@@ -105,13 +107,29 @@ For questions about possible preservation needs in a collection, consult the Ros
  	* If only individual items are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
 * For items restricted for preservation reasons, create access copies and surrogates for fragile material when possible.
 * Items that are restricted should be boxed separately. See XXX for boxing restricted items.
-* Restricted items should be described at the folder level in the finding aid. Only in cases where a donor has specified that restricted contents not be described and made public would we use...
 
 For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
 
 For restriction policies, see 7 Restriction policies.
 
+### 6.3.2 Redacting materials
 
+Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
+
+To redact information, either:
+
+* Place an opaque bit of paper over the information to be redacted and make a photocopy (do not adhere the paper to the original document);
+* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
+
+Or:
+
+* Make a photocopy of the original document;
+* Using a black Sharpie marker, block out the information to be redacted on the photocopy;
+* Make a second photocopy and dispose of the first copy in the confidential shredding bin;
+* Repeat if sensitive information is still visible on the second copy;
+* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
+
+NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
 ## 6.2 Empty Envelopes
 
