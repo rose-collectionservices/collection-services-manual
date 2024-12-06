@@ -33,7 +33,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.23 Separated materials](#5123-separated-materials)
  	* [5.1.24 Existence and location of copies](#5124-existence-and-location-of-copies)
 	* [5.1.25 Existence and location of originals](#5125-existence-and-location-of-originals)
-	* [5.1.26 Bibliography: Publication note](#5126-bibliography- publication-note)
+	* [5.1.26 Bibliography: Publication note](#5126-bibliography-publication-note)
 	* [5.1.27 Other finding aids](#5127-other-finding-aids)
  	* [5.1.28 Revision statements](#5128-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
