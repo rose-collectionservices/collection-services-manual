@@ -106,8 +106,7 @@ this element) <a href="#anchor2"><sup>2</sup></a>
 *	Artificial collections compiled by Rose Library.
 
 When the Library of Congress has already established an authorized form of a creator's name, use that as the main entry exactly as established by LoC, even 
-though it may be missing information.  If there is not a Library of Congress heading, follow the rules established by DACS and RDA to form the heading.  
-Generally, the form of the name used should be the most common name by which a person or entity was known.  For individuals, this may be the name the 
+though it may be missing information.  If there is not a Library of Congress heading, follow the rules established by DACS and RDA to form the heading. Generally, the form of the name used should be the most common name by which a person or entity was known.  For individuals, this may be the name the 
 person used to publish literary works.  For those who are not well known by a particular version of their name, use the fullest form of their name 
 possible, including middle names or initials and birth or death dates when known. For companies or other organizations, the proper form of the name may be 
 found on incorporation documents, financial records, letterhead, or other business records.  Corporate bodies can also include a geographic designation to 
@@ -196,7 +195,7 @@ At the highest level of a multilevel description or in a single level descriptio
 
 **Required:** Required at the collection level.
 
-All collections are assigned a unique identifier, which is assigned in sequence by the order in which a collection was received. Separate registers are mainatained for Manuscript and EUA identifiers. Consult the Manuscript or EUA register to determine the next available identifier, and record the collection on the register:
+All collections are assigned a unique identifier, which is assigned in sequence by the order in which a collection was received. Separate registers are maintained for Manuscript and EUA identifiers. Consult the Manuscript or EUA register to determine the next available identifier, and record the collection on the register:
 *	[Manuscript register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ebh2CYfYUoBPsNZJAoCxZ-UB1XX2VjNl33iuxt4PL4oMIQ?e=knDM8h>)
 *	[EUA register](<https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EQyyLS-B7fVHvYOf7t0JLbEBLW_YsrF0AOagwRBVceoxKw?e=gz4gFQ>)
 
@@ -248,7 +247,7 @@ Identifies the language(s), script(s), and symbol systems employed in the materi
 This field must describe the primary language or languages of the collection contents but need not list every language present if there are only small 
 amounts of material in those languages.  
 
-**Examples:**
+**Examples of Language of Materials notes:**
 
 *	Materials entirely in English.
 *	Materials in English and French.
@@ -287,9 +286,11 @@ Identifies and records the date(s) that pertain to the creation, assembly, accum
 At the collection level, the date field reflects the entire span of time during which a collection (or component of a collection) was created, accumulated, and maintained by 
 the creator.  It should be repeated at every level of the finding aid.  Dates may be inclusive, approximate, predominant (bulk), or single.  
 
-For inclusive dates, use the years only.  For single dates, use the year alone unless describing a single item, in which case use the year followed by the 
-month and day.  If the exact date or dates are unknown, use approximate dates, indicated by "circa."  If the collection has large concentrations of 
-material during a particular time period, use bulk dates in parentheses after the inclusive dates.  Bulk dates are useful when the span of a collection 
+* For inclusive dates, use the years only.
+* For single dates, use the year alone unless describing a single item, in which case use the year followed by the 
+month and day.
+* If the exact date or dates are unknown, use approximate dates, indicated by "circa."
+* If the collection has large concentrations of material during a particular time period, use bulk dates in parentheses after the inclusive dates.  Bulk dates are useful when the span of a collection 
 covers a broad range but the majority of the collection is concentrated within a smaller time period.  For example, when the earliest date is outside the 
 life of the organization or when the volume of material within the bulk dates is considerably greater than the rest of the collection.
 
