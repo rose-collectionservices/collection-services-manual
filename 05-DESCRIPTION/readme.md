@@ -28,7 +28,7 @@ Content owner: **Laura Starratt**
 		* [5.1.18.1 Conditions governing access](#51181-conditions-governing-access)
 		* [5.1.18.2 Physical access](#51182-physical-access)
 	* [5.1.19 Conditions governing use](#519-conditions-governing-use)
-	* [5.1.20 Preferred Citation](#5120-preferred-citation)
+	* [5.1.20 Preferred citation](#5120-preferred-citation)
  	* [5.1.21 Related materials: related collections in this repository](#5121-related-materials-related-collections-in-this-repository)
 	* [5.1.22 Related materials: related collections in other repositories](#5122-related-materials-related-collections-in-other-repositories)
 	* [5.1.23 Separated materials](#5123-separated-materials)
