@@ -1129,7 +1129,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 * Also available on microfiche. 
 * Minutes also available on microfilm. 
 * Typewritten transcript available. 
-* The majority of this collection is available digitally to researchers in the [Emory Digital Collections Repository](<pid.emory.edu/gs2tk> "pid.emory.edu/gs2tk"). Users with an Emory University network ID should log in to view additional images unavailable to the general public. 
+* The majority of this collection is available digitally to researchers in the [Emory Digital Collections Repository](<https://digital.library.emory.edu/>). Users with an Emory University network ID should log in to view additional images unavailable to the general public. 
 
 **Corresponding MARC field:**  530
 
