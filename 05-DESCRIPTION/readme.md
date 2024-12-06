@@ -39,6 +39,9 @@ Content owner: **Laura Starratt**
  	* [5.1.28 Revision statements](#5128-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
+	* [5.3.1 Formatting the Finding Aid for Review](5.3.1-formatting-the-finding-aid-for-review)
+	* [5.3.2 Reviewing the Finding Aid](5.3.2-reviewing-the-finding-aid)
+	* [5.3.3 Reviews outside of Collection Services](5.3.3-reviews-outside-of-collection-Services)	 	
 * [5.4 Anti Oppressive Archival Description Principles and Guidelines](#54-anti-oppressive-archival-description-principles-and-guidelines)
 	* [5.4.1 Describing Race and Ethnicity](#541-describing-race-and-ethnicity)
 	* [5.4.2 Describing Enslavement and Colonization](#542-describing-enslavement-and-colonization)
@@ -1270,7 +1273,7 @@ Depending on the nature of the collection, once Collection Services staff has re
 
 If the curator advises, the processing archivist can send the completed finding aid (after publishing and using the permanent link) to the donor. 
 
-It is not necessary to delay publication of a finding aid in order to seek feedback from either the curator or collection donor.
+**It is not necessary to delay publication of a finding aid in order to seek feedback from either the curator or collection donor.**
 
    
 ## 5.4 Anti Oppressive Archival Description Principles and Guidelines
