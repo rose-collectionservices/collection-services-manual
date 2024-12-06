@@ -640,7 +640,7 @@ This note should be used whenever the collection is not a straightforward transf
 **Corresponding EAD element(s):** ``<custodhist></custodhist>``
 
 
-### 5.1.18 Appraisal Note
+### 5.1.16 Appraisal Note
 
 **DACS Chapter 5.3:**
 
@@ -789,11 +789,11 @@ Processing notes are used at the series and/or subseries level when it is necess
 **Corresponding EAD element(s):** ``<processinfo></processinfo>``
 
 
-### 5.1.6 Conditions Governing Access
+### 5.1.18 Conditions Governing Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
-### 5.1.6.1 Conditions Governing Access
+### 5.1.18.1 Conditions Governing Access
 
 **DACS Chapter 4.1:** 
 
@@ -874,7 +874,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 
 
-### 5.1.6.2 Physical Access
+### 5.1.18.2 Physical Access
 
 **DACS Chapter 4.2:**
 
@@ -915,7 +915,7 @@ also identify materials that require special handling that goes beyond standard 
 
 **Conditions Governing Access note field in ArchivesSpace:**
 
-*	See instructions for this note field above under 5.1.6.1 Conditions Governing Access. The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
+*	See instructions for this note field above under 5.1.18.1 Conditions Governing Access. The Conditions Governing Access note is used for both information about access restrictions due to the nature of the information in the materials being described and for information about physical access restrictions, with no distinction between the two.
 	
 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
@@ -924,7 +924,7 @@ also identify materials that require special handling that goes beyond standard 
 *![Figure10new](/05-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
-### 5.1.7 Conditions Governing Use
+### 5.1.19 Conditions Governing Use
 
 **DACS Chapter 4.4:**
 
@@ -970,7 +970,7 @@ When describing restrictions, precede the first restriction note with "Special r
 *![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
-### 5.1.16 Citation
+### 5.1.20 Citation
 
 **DACS Chapter 7.1:**
 
@@ -991,7 +991,7 @@ This field includes the Rose Library's preferred citation for the collection.  T
 **Corresponding EAD element(s):** ``<prefercite></prefercite>``
 
 
-### 5.1.11 Related Materials: Related Collections in this Repository
+### 5.1.21 Related Materials: Related Collections in this Repository
 
 **DACS Chapter 6.4:**
 
@@ -1023,7 +1023,7 @@ This field identifies any other collections in the Rose Library that have a clos
 *Figure 12 (below): Example of a Related Collections in This Repository note in ASpace.*
 ![Figure 12: Example of a Related Collections in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Collections in This Repository note")
 
-### 5.1.12 Related Materials: Related Collections in Other Repositories
+### 5.1.22 Related Materials: Related Collections in Other Repositories
 
 **DACS Chapter 6.4:**
 
@@ -1057,7 +1057,7 @@ This field identifies collections held in other repositories that have a close r
 *Figure 13 (below): Example of a Related Collections in Other Repositories note in ASpace.*
 ![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
 
-### 5.1.13 Separated Materials
+### 5.1.23 Separated Materials
 
 This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged, new collections that were created, or collection that include materials held by another Emory entity.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
@@ -1084,7 +1084,7 @@ This field identifies materials that have been physically removed from the colle
 *Figure 14 (below): Example of a Separated Materials note in ASpace.*
 *![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
 
-### 5.1.8 Existence and Location of Copies
+### 5.1.24 Existence and Location of Copies
 
 **DACS Chapter 6.2:**
 
@@ -1119,7 +1119,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 *![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
-### 5.1.9 Existence and Location of Originals
+### 5.1.25 Existence and Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -1151,7 +1151,8 @@ This note identifies the format of the reproductions and the repository or indiv
 *Figure 24 (below): Example of an Existence and Location of Originals note in ASpace.*
 *![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
-### 5.1.10 Publication Note
+
+### 5.1.26 Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -1171,7 +1172,7 @@ This note should identify editorial projects based on collection material.  It i
 
 
 
-### 5.1.22 Other Finding Aids
+### 5.1.27 Other Finding Aids
 
 **DACS Chapter 5.6:**
 
@@ -1193,7 +1194,7 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
 
-### 5.1.23 Revision statements
+### 5.1.28 Revision statements
 
 **DACS Chapter 8.1.5**
 
