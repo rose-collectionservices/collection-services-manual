@@ -58,13 +58,11 @@ Finding aids are the most common form of description in the Rose Library, but de
 inventories/descriptions created by curators, dealers, donors, or appraisers during the acquisition process.  Description may be more or less detailed 
 depending on the level of arrangement, the conditions under which a collection is being arranged, and the level of description that is sufficient to 
 provide meaningful access to users.  For collections processed as part of accessioning work, description will likely be brief and general; the goal is to 
-facilitate a basic level of access through minimal description.  For collections that are selected as annual processing priorities (or for small 
+facilitate a basic level of access through minimal description.  For collections that are selected as granular processing projects (or for small 
 collections that can be fully processed during accessioning), description will be much more detailed and may include more complex structures, such as 
 series and sub-series.
 
-Collection level description is required for all collections, including a complete descriptive summary and complete administrative information, brief 
-Biographical or Historical and Scope and Content Notes, and a box level inventory.  More detailed information can be provided for minimally processed 
-collections at the archivist's discretion.  For collections processed at the series, folder/file, or item levels, longer Biographical/Historical Notes and 
+Collection level description is required for all collections, including a complete descriptive summary and complete administrative information, all notes indicated below as required, and a box level inventory.  More detailed information can be provided for minimally processed collections at the archivist's discretion.  For collections processed at the series, folder/file, or item levels, longer Biographical/Historical Notes and 
 Scope and Contents notes are necessary.  You may also include additional information in the Processing and Custodial History Notes, and create or refer to 
 more detailed inventories.
 
