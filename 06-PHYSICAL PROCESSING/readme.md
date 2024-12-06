@@ -31,7 +31,7 @@ Content owner: **Sarah Quigley**
 * [6.12 Labeling boxes]
  	* [6.12.1 General labels](#663-general-labels)
   	* [6.12.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
-	* [6.12.3 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
+	* [6.12.3 Labeling restricted material](#665-boxing-and-labeling-restricted-material)
  * [6.13 Barcodes]
  * [6.14 Format-specific procedures--getting moved to a separate top level section]
 	* [6.14.1 Photographs]
@@ -421,7 +421,7 @@ Boxes that have been treated for mold must be housed separately from the rest of
 *Figure 9: Oversized box with mold notice label*
 
 
-### 6.12.3 Label for Restricted Material
+### 6.12.3 Labeling Restricted Material
 
 See 6.4.1 Restricting materials for how to folder and box restricted material.
 
