@@ -1,7 +1,7 @@
 
 # Description
 
-Content owner: **Sarah Quigley**
+Content owner: **Laura Starratt**
 
 * [5.1 Finding aids](#51-finding-aids)
 	* [5.1.1 Main entry/creator](#511-main-entrycreator)
