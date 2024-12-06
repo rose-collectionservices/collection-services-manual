@@ -33,7 +33,7 @@ Content owner: **Sarah Quigley**
   	* [6.12.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
 	* [6.12.3 Boxing and Labeling Restricted Material](#665-boxing-and-labeling-restricted-material)
  * [6.13 Barcodes]
- * [6.14 Deep dives by format]
+ * [6.14 Format-specific procedures--getting moved to a separate top level section]
 	* [6.14.1 Photographs]
  		* [6.14.1 General rules](#631-general-rules)
 		* [6.14.2 Labeling photographs](#632-labeling-photographs)
@@ -46,6 +46,7 @@ Content owner: **Sarah Quigley**
 		* [6.14.9 Negatives](#639-negatives)
 		* [6.14.10 Nitrate film](#6310-nitrate-film)
 		* [6.14.11 Cellulose acetate film](#6311-cellulose-acetate-film)
+
 
 This document provides guidance on physical processing tasks, according to local policy and practice at the Rose Library. 
 
