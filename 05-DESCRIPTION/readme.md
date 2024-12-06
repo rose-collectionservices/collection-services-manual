@@ -28,13 +28,13 @@ Content owner: **Sarah Quigley**
 		* [5.1.18.2 Physical access](#51182-physical-access)
 	* [5.1.19 Conditions governing use](#519-conditions-governing-use)
 	* [5.1.20 Citation](#5120-citation)
- 	* [5.1.21 Related collections in this repository](#5121-related-collections-in-this-repository)
-	* [5.1.22 Related collections in other institutions](#5122-related-collections-in-other-institutions)
+ 	* [5.1.21 Related materials: related collections in this repository](#5121-related-materials-related-collections-in-this-repository)
+	* [5.1.22 Related materials: related collections in other repositories](#5122-related-materials-related-collections-in-other-repositories)
 	* [5.1.23 Separated materials](#5123-separated-materials)
  	* [5.1.24 Existence and location of copies](#5124-existence-and-location-of-copies)
 	* [5.1.25 Existence and location of originals](#5125-existence-and-location-of-originals)
 	* [5.1.26 Publication note](#5126-publication-note)
-	* [5.1.27 Additional finding aids](#5127-additional-finding-aids)
+	* [5.1.27 Other finding aids](#5127-other-finding-aids)
  	* [5.1.28 Revision statements](#5128-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
@@ -413,7 +413,7 @@ data and/or extent of physical media for born digital content.
 
 ### 5.1.9 Finding aid data
 
-### 5.1.4 Abstract
+### 5.1.10 Abstract
 
 **DACS Chapter:**  None.
 
@@ -437,6 +437,356 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 **Corresponding EAD element(s):** ``<abstract></abstract>``
 
+### 5.1.11 Biographical/Historical Note
+
+**DACS Chapter 2.7:**
+
+Describes the required elements of a biographical or administrative history note about creators embedded in the description of materials. The administrative/biographical history provides relevant information about corporate bodies, persons, or families who are identified using the Name of Creator(s) Element and who therefore function as nominal access points. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created. 
+
+**Required:** Required at the collection level.   
+
+The note contains brief and concise information about the collection creator and is compiled through a combination of information contained in the collection and outside research.  A biographical note should include descriptions of the creator's life and accomplishments with special attention paid to details that relate to Rose Library collecting areas.  It is appropriate to include short biographies of multiple individuals when it is important to the collection, for example when multiple people's papers are present or the creator has collected materials relating to another (see: Martha Dow Fehsenfeld collection of Samuel Beckett letters).   
+
+Biographical notes should include: 
+
+* Full name, married name, and pseudonyms/pen names;
+* Life dates and places of birth and death
+* Family information, including parents, spouses or partners, and children;
+* Occupations and other significant professional or extra-curricular activities and achievements (volunteering, community service, etc.);
+* Education;
+* Other significant relationships.
+
+Historical notes contain a brief overview of the evolution and development of a business or corporate body.  They should include: 
+
+* The official name of the organization and any history of name changes;
+* Location of the organization and any significant relocations/moves;
+* Dates of establishment and dissolution (if applicable);
+* Primary functions and mission of the organization; 
+* Names of organizational leaders and other significant people involved with the organization, particularly those documented in the collection;
+* Organizational structure, especially as it relates to/illuminates the arrangement of the collection.
+
+The tone of these notes should be informational and avoid judgments about the value or importance of the creator's life and/or work.  Notes should be only as lengthy as necessary to convey the most important information about the creator and should focus on aspects of their life or history that directly relate to the contents of the collection.  They are meant to illuminate the ways in which the records in the collection were created, compiled, and used by an individual or organization.  It is not necessary to include every element of a biography or history.  If the creator is especially well known, notes can be shorter since information about the creator is readily available elsewhere.  For large and particularly complex collections, it may be necessary to include biographical or historical notes at the series level.  This will be rare, but can allow for a shorter overview at the collection level and more specific information at the series level where it's most relevant (see: [Southern Christian Leadership Conference records](<http://pid.emory.edu/ark:/25593/90wfs> "http://pid.emory.edu/ark:/25593/90wfs")). 
+
+**Example of good biographical note:** [Richard Blanco papers](<https://findingaids.library.emory.edu/documents/blanco1431/> "https://findingaids.library.emory.edu/documents/blanco1431/") 
+**Example of good historical note:**  [Druid Hills Civic Association records](<https://findingaids.library.emory.edu/documents/druid65/> "https://findingaids.library.emory.edu/documents/druid65/")
+
+**Corresponding MARC field:**  545
+
+**Corresponding EAD element(s):** ``<bioghist></bioghist>``
+
+### 5.1.12 Scope and Content Note
+
+**DACS Chapter 3.1:**
+
+Provides information about the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance. 
+
+**Required:** Required at the collection, series, and sub-series level.  Optional at the folder level.
+
+The Scope and Content Note is a narrative summary of the contents of the collection or a component part of the collection.  The note should apply generally to all of the records/documents contained within the portion of the collection being described.  It should also note any particular weaknesses in the collection or the absence of material that patrons might otherwise reasonably expect to find (e.g., the absence of Black Panther records in the Elaine Brown papers). 
+
+The collection level scope and content note must include an introductory sentence followed by specific information about record types, subjects covered, functions documented, major correspondents, and other significant people, places, and events documented by the collection.  When writing a scope note, it is important to anticipate subject cataloging.  Any names, places, or topics that receive controlled headings MUST be present in the scope and content note.  The length of the scope and content note should be proportional to the size and complexity of the collection or collection component.  An average sized collection should not require more than two strong paragraphs, while a very large collection with a complicated arrangement may require closer to a full page.  Notes for collections that include series must contain information about each series.      
+
+Scope and Content Notes are also required at every series and sub-series level.  The structure is similar, but lower level notes contain more specific information about the materials in that component.  For collections with sub-series, the series level notes must include information about each component sub-series.   
+
+This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
+
+![Figure 1: Sample folder level scope and content note](/05-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
+
+*Figure 1: Sample folder level scope and content note*
+
+**Example of good collection level scope and content note:** [Neighbor's Network (Atlanta, GA) records](<http://pid.emory.edu/ark:/25593/cr5vv> "http://pid.emory.edu/ark:/25593/cr5vv") 
+**Example of good series/sub-series level scope and content note:** [Natasha Trethewey papers, Series 7: Born Digital materials](<https://findingaids.library.emory.edu/documents/trethewey1272/series7/> "https://findingaids.library.emory.edu/documents/trethewey1272/series7/") 
+
+**Corresponding MARC field:**  520
+
+**Corresponding EAD element(s):** ``<scopecontent></scopecontent>``
+
+### 5.1.13 Arrangement Note
+
+**DACS Chapter 3.2:**
+
+Describes the current organization of the collection. 
+
+**EAD Tag Library definition:** Information on how the described materials have been subdivided into smaller units, e.g., record groups into series, identifying the logical or physical groupings within a hierarchical structure. Can also be used to express the filing sequence of the described materials, such as the principle characteristics of the internal structure, or the physical or logical ordering of materials, including alphabetical, chronological, geographical, office of origin, and other schemes. Identifying logical groupings and the arrangement pattern may enhance retrieval by researchers. 
+
+**Required:** Required at collection level.  Repeatable and required at the series and sub-series levels when applicable.
+
+The arrangement note does not include information about the archivist's actions or decisions during processing (see: [5.1.2.17 Processing Note](#51217-processing-note)). 
+
+MARC records will require you to use "arranged" or "organized" depending on the level of description in question.  "Arranged" corresponds to the filing sequence while "organized" corresponds to the higher-lever subdivisions of the collection into hierarchical units.   
+
+For small and/or simple collections and collections with box level inventories, the arrangement note must: 
+
+* Describe the filing sequence used to arrange the material. 
+	* Examples:
+		* Arranged in alphabetical order. 
+		* Arranged by record type, then in alphabetical order. 
+		* Arranged in chronological order.
+		* Arranged in the order in which it was recieved.  (this is used in cases, especially upon accessioning, where little or no arrangement is done)
+		
+If a collection is divided into series, the collection level arrangement note must: 
+
+* Describe how the collection has been organized into units. 
+	* Examples:
+		* Organized into seven series: (1) Correspondence and personal papers, (2) Writings by Grennan, (3) Writings by others, (4) Diaries, (5) Printed material, (6) Photographs, and (7) Born digital materials.  
+		* Organized into 21 series: (1) Board of Directors records, (2) Office of the President records, (3) Office of the Executive Vice President records, (4) Office of the Executive Director and National Administrator records, (5) Department of Chapters and Affiliates records, (6) Department of Communications records, (7) Department of Direct Action records, (8) Crisis Intervention Committee records, (9) Department of Student Affairs records, (10) Programs Department records, (11) Martin Luther King Speaks records, (12) Other department records, (13) Personnel records, (14) Financial records, (15) Southern Christian Leadership Foundation records, (16) Legal records, (17) Printed material, (18) Photographs, (19) Audiovisual, (20) Artifacts and memorabilia, and (21) Born digital materials. 
+
+If you have arranged a collection into series, the series level arrangement note must: 
+
+* Describe either how the series has been organized into smaller units (sub-series) or describe the filing sequence of the material. 
+	* Examples if there are no sub-series: 
+		* Arranged in alphabetical order. 
+		* Arranged in chronological order. 
+		* Arranged into two groups, correspondence and personal papers. Correspondence is arranged in chronological order and personal papers are arranged in alphabetical order. 
+		* Arranged by record type.  Dated correspondence is arranged in chronological order; undated correspondence is arranged in alphabetical order by correspondent. Personal and family papers are arranged in alphabetical order. 
+	* Examples if there are sub-series: 
+		* Organized into five subseries: (2.1) President Martin Luther King, Jr. files, (2.2) President Ralph David Abernathy files, (2.3) President Joseph E. Lowery files, (2.4) President Martin Luther King, III files, and (2.5) President's reports. 
+		* Organized into three subseries: (3.1) Poetry by Higgins, (3.2) Other writings by Higgins, and (3.3) Writings by others.  
+		
+If you have arranged series into sub-series, the subseries level arrangement note must follow the same rules as the series level arrangement note.  Most commonly, the note will describe the filing sequence for the subseries.  Occasionally, the complexity of the collection will require further division of the subseries into sub-subseries (we do not use this term in finding aids and we do not arrange beyond sub-subseries). 
+
+* Examples if there are sub-subseries: 
+	* Organized into three subseries: (2.1a) Collected poetry, (2.1b) Uncollected poetry, and (2.1c) Chronological poetry drafts. 
+
+**Corresponding MARC field:**  351
+
+**Corresponding EAD element(s):** ``<arrangement></arrangement>``
+
+### 5.1.14 Immediate Source of Acquisition
+
+**DACS Chapter 5.2:**
+
+Identifies the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information. 
+
+**Required:** Required at the collection level. 
+
+The source note should always include the method by which a collection was acquired, who it was acquired from (in as much detail as appropriate), and the year acquired.  If the source is an individual (or individuals), full names are preferred. In cases where the initial information is not included, update additions to the collection with the full name (e.g. 2022 additions were a gift from (name). There will be some mixed descriptive practice on many of the older finding aids for collections with additions over the years, but use current practice for any new additions.
+
+The source field only describes the transaction by which the library receives materials. The custodial history note can be used to provide information about the history of the collection beyond the immediate source from which the library acquired the material.  The custodial history note is also the appropriate place to note the relationship between the creator of a collection and the source from which we acquired it.   
+
+Gift, Purchase, and Transfer are the three main ways that the Rose Library acquires collections. Below are sub-categories that acknowledge the types of transactions in each category.  
+
+| ﻿Gift sub-categories: | Purchase sub-categories:                                                                                                     | Transfer sub-categories:                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Gift of the Estate   | Purchase from Individual                                                                                                     | Transferred from another institution                |
+| Gift of the Family   | Purchase from Dealer (We use the name of the business rather than the individual.  This should be reflected on the invoice.) | Transferred from an Emory University office or unit |
+| Gift of Individual   | Purchase via Broker on behalf of another individual                                                                          |                                                     |
+
+**Examples:**
+
+* Gift of Beth Remmes, 2017 
+* Gift of the Estate of John Doe, 1987 
+* Purchased from Len Prince, 2016
+* Purchased from Eamon Grennan, 2010. Additions purchased from Grennan, 2017 
+* Purchased from James S. Jaffe Rare Books, representing Linda Gregg, 2015 
+* Purchased from Glenn Horowitz Bookseller, 2011 
+* Transferred from the Poynter Institute for Media Studies, 2016 
+* Transferred from Emory University Office of the President, 1983  
+
+**Corresponding MARC field:**  541
+
+**Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
+
+**Immediate Source of Acquisition note field in ArchivesSpace (required):**
+
+*	Field specifics for Immediate Source of Acquisition note field
+ 	*  	Type = Immediate Source of Acquisition
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note]
+
+**Example of ArchivesSpace Immediate Source of Acquisition note:**
+
+*Figure 19 (below): Example of Immediate Source of Acquisition note in ASpace.*
+*![Figure 19: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure19.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
+
+
+**Source Agent Link in ArchivesSpace resource record (optional):**
+
+* Adding a source agent field in a resource record is optional. (Unlike in an accession record, where a source agent field is required.)
+* The source agent field will display in the public interface under "Related Names." If there are multiple source agent fields, all of them will be listed.
+* The source agent field in a resource record autopopulates when the resource record is spawned from the accession record, with the source agent field carrying over from the accession record.
+* Legacy resource records that were migrated from the Emory Finding Aids database will not have a source agent field, because they were not spawned from an accession record.
+* It is not necessary to manually add a source agent field to a resource record because that same information also appears in the Immediate Source of Acquisition note field (which is required).
+* If a resource record has both an agent source field and an Immediate Source of Acquisition note field, both fields will display in the public interface.
+
+### 5.1.15 Custodial History
+
+**DACS Chapter 5.1:**
+
+Provides information on changes of ownership or custody of the material being described, from the time it left the possession of the creator until it was acquired by the repository, that is significant for its authenticity, integrity, and interpretation. 
+
+**Required:** Optional. Preferred when applicable. 
+
+This field is used in conjunction with the Source note (see [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition) for more information) to describe the provenance of the collection from the point at which the material left the possession of the creator until it was arrived at the Rose. It may include:
+
+* The physical location and storage conditions of the collection between creation and donation, including dates if known; 
+* People or institutions acting on the records and the actions that they took, when that information can be made public; 
+* Who packed the collection and prepared it for shipment; 
+* Third party intermediaries involved in mediating the collection in any way; 
+* Archivist or curator involvement in transfer of material.  
+
+This note should be used whenever the collection is not a straightforward transfer directly from the records creator.  The note should provide as much information as can be made public, including contextual information. 
+
+**Examples:**
+
+* Purchased from a dealer; provenance and custodial history unknown. 
+* The Rose Library purchased this collection from book dealer Glenn Horowitz in 2010. The original owner bought it in the early 1970s as the unknown contents of a trunk sold at an auction of abandoned items from a storage facility in Wellfleet, Massachusetts. During the 1960s, Brennan spent her summers in the town. 
+* Purchased from Douglas Turner Ward in 2017. The collection was packed and prepared for transfer from Douglas Turner Ward's home to the Rose Library by the staff of the Boo Hooray Gallery in New York City in 2016. 
+* The Eugene Patterson papers were given by the Patterson family to the Poynter Institute for Media Studies, which then held, organized, and preserved the papers until their transfer to Emory University in 2016.   
+
+**Corresponding MARC field:**  561
+
+**Corresponding EAD element(s):** ``<custodhist></custodhist>``
+
+
+### 5.1.18 Appraisal Note
+
+**DACS Chapter 5.3:**
+
+Provides information about the rationale for appraisal decisions, destruction actions, and disposition schedules that are relevant to the understanding and use of the materials being described.
+
+**Required:** Required at collection level.  Repeatable at subsequent levels as appropriate.   
+
+Rose Library appraisal notes must contain: 
+
+* who collected the material, their title, and as part of which collecting area; 
+* if material has been removed or not; 
+	  * If material has been removed, the note must specify what has been removed, the extent of removed material, justification for removal, disposition, and the names of key decision makers (generally a combination of an archivist, a curator, and the Head of Collection Services); 
+* if the Rose Library's purpose in acquiring a collection is to document one specific activity or aspect of a person or organization. When that is the case we should document that our selection and appraisal decisions were made with the intention of documenting key areas/functions/activities of a creator's life, and that material that does not reflect those areas has been removed from the collection. 
+ 
+Examples below are for the most common kinds of appraisal notes and are listed in the order in which they should generally be presented.  Several of these clauses may need to be strung together to create a complete Appraisal Note.  Examples of complex, multi-part appraisal notes are available at the end of this section.
+ 
+**Examples:**
+ 
+*Collector and Collecting area (Required):*
+ 
+* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. 
+* Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.
+* Acquired by Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, Randy Gue, as part of the Rose Library’s holdings documenting arts and culture in Atlanta.
+* Acquired by Assistant Director and University Archivist, John Bence, as part of the Emory University Archives.
+ 
+*Documenting if appraisal activities took place and any associated destruction actions (Required):*
+
+* The Rose Library has retained all material that formed part of the original gift. 
+* Rose staff removed and securely shredded three linear feet of duplicates in 2016.  
+* Dorothy Waugh deleted 200 duplicate digital files in 2016.
+* Sarah Quigley returned duplicates to the donor after processing, 2017.
+* Meaghan O'Riordan removed and returned two linear feet of out of scope medical records to the donor in 2017. 
+* Rose Library staff photographed and securely disposed of computer casing and peripherals received with digital media in 2015.  
+
+*Commercially produced music /video (Required if applicable):*
+
+* Due to current copyright law, the Rose Library cannot make use copies of commercially produced music or video recordings available to researchers.  Therefore, staff removed and securely shredded commercially produced CDs.  
+
+*Condition issues such as mold or other damage (Required if applicable):*
+
+* Three linear feet of printed material and research files arrived at the library with significant mold.  Rose staff removed these items from the collection and destroyed them. 
+* One program from the organization's 2014 annual meeting was unusable due to water damage.  Rose staff removed this item from the collection and securely shredded it.
+
+*Medical/Financial types of records (Required if applicable):*
+
+* Consistent with Rose Library guidelines, Laura Starratt removed and shredded routine medical and financial records.  
+
+*Born Digital (Required if applicable):*
+
+* The Rose Library has retained a complete disk image of the hard drive in this collection for preservation purposes; Dorothy Waugh removed files related to the court case OBERGEFELL V.  HODGES from the processed collection to protect attorney client privilege.   
+* [In cases of files transfers:] Dorothy Waugh selected and transferred digital files to the Rose Library based on discussion with the donor. 
+* Digital files available to researchers represent content created or saved by [the donor or content creator]. System files, log files, and other computer-generated files have not been made available [EITHER: at the request of the donor; OR: Please contact the Rose Library if you would like access to these files.] 
+
+*Disposition Schedules (Required if applicable):*
+
+* For Emory University Archives material, disposition may be dictated by the [University's retention schedules](<http://records.emory.edu/retention-schedules/> "http://records.emory.edu/retention-schedules/")
+
+*Documenting Certain Activities (Required if applicable):*
+
+* Rose Library staff members, Carrie Hintz and Randy Gue, deemed records not related to Beverly Long's work on school integration to be out of scope and removed and returned them to the donor in 2017.  Meaghan O'Riordan returned duplicates to the donor after processing in 2017. 
+
+**Sample Appraisal Notes:**
+
+* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture.  All material that formed the original gift has been retained. 
+* Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.  Sarah Quigley and Pellom McDaniels, III, removed .5 linear feet of newspaper clippings from the collection due to their ready availability. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
+* Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in American Literature.  The original acquisition included 12 linear feet of photocopies of Judith Malina's journals held at the Beinecke Library, Yale University.  Staff removed these photocopies from the collection and securely shredded them in 2016. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
+* Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in Poetry.  Dorothy Waugh removed one megabyte of records related to Trethewey's teaching at the donor's request.  Dorothy Waugh and Kevin Young made appraisal decisions for digital material in this collection, and Sarah Quigley and Kevin Young made appraisal decisions for paper records in the collection.  All appraisal decisions were made in consultation with Natasha Trethewey. 
+* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. Laura Starratt returned duplicates to the donor after processing in 2017.  Dorothy Waugh photographed and securely disposed of hardware containing born digital records. 
+* Acquired by Curator of Literary Collections, Steve Ennis, as part of the Rose Library's holdings in Irish poetry.  Due to current copyright law, the Rose Library cannot make digital copies of commercially produced music or video recordings available to researchers.  Therefore, Carrie Hintz removed and securely shredded 18 commercially produced CDs in 2010. 
+
+**List of Rose Library Collecting Areas (subareas can be used if appropriate, but are not necessary):**
+
+* African American History and Culture  
+	 * Civil Rights and Post-Civil Rights Movements 
+	 * Black Print Culture 
+	 * History of Blacks and the Left 
+	 * African American Literature and Arts
+	 * History of African Americans in sports 
+* Emory University History
+* Literature and Poetry
+	* African American Literature
+	* Irish Literature
+	* Georgia Authors
+* Modern Politics
+	* Civil Rights and Post-Civil Rights Movements
+	* Atlanta History and Politics
+	* LGBT History and Culture
+* Southern History
+	* Civil War
+	* Southern Religion
+	* Georgia Philanthropists
+
+**Corresponding MARC field:**  583
+
+**Corresponding EAD element(s):** ``<appraisal></appraisal>``
+
+
+### 5.1.17 Processing Note
+
+**DACS Chapter 7.1:**
+
+Provides information about actions of the archivist, custodians, or creators of the records or conventions in the finding aid that may have an impact on a researcher’s interpretation of the records or understanding of the information provided in the finding aid.   
+
+**Required:** Required at the collection level and may be repeated at the series and subseries level.  The information provided may be more or less detailed depending on the complexity of the collection and the depth of the archivist's intervention.   
+
+The information provided in this field is iterative.  The archivist should add to the note each time significant arrangement and description is done on all or part of the collection.  Always retain previous information.  At minimum, the processing note should include the level of arrangement and description, the names of individuals involved in processing, the names of individuals who wrote the finding aid (if different than those who did the arrangement), and the date(s) of arrangement and description.  The note should also include information about original order and whether or not the archivist imposed the organization, as well as any significant information about creator supplied folder titles or archivist devised folder titles.  The note may include information about preservation work done on the collection such as refoldering and rehousing, preservation photocopying, sleeving photographs, or more significant conservation.  If container numbers have been altered in any way, for example a numbered box becomes an AV masters box, this information must be included in the processing note. 
+
+For born digital material, include information about transfer of the data, reformatting that was done, if data could not be captured or retained and why (virus, etc.), and redaction of personally identifiable information (PII).  Describe any information that may affect a patron's understanding of the files, such as the fact that migration to PDF always changes the file dates, and point out any efforts made to provide original metadata.   
+
+Processing notes are used at the series and/or subseries level when it is necessary to describe processing decisions made specifically for that component that go beyond the decisions described in the collection level note.  Series level notes are typically more detailed, especially for born digital material.  This field can be used to describe any reformatting of audiovisual material or to describe how archivists distinguished between types of material (such as personal and professional correspondence). 
+
+**Examples:**
+
+*Basic notes:*
+
+* Arranged and described at the folder level by Haylee Harrell, Ingrid Meintjes, and Sarah Quigley, 2017. 
+* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016. 
+
+*Information about original order and/or archivist imposed organization:*
+
+* The collection arrived at the Rose Library in no discernible order. Meaghan O'Riordan aggregated the records by record type during accessioning.   
+* The organization of this collection was primarily devised by Sarah Quigley and Rebecca Sherman during processing in 2012.  However, the collected poetry subseries (2.1a) reflects a combination of Grennan's original order and archivist imposed arrangement.  The collected poetry was arranged by archivists in chronological order by publication date.  Grennan frequently changed the title of a collection during the process of compiling and revising the typescript. Typescripts with these variant titles have been arranged by archivists in alphabetical order within each work, with different drafts in chronological order to the extent that could be determined.  Material for collected works also include working files that contain poems considered for publication in that work but which ultimately were not included.  Some also include working files titled "Towards [work]," as labeled by Grennan.  The original arrangement of these folders has been retained to preserve evidence of early drafting efforts. Many poems in the subseries have multiple drafts which may be located with typescripts of a complete work, working files, and the folder for that individual poem. Not all collected works contain all of these materials. 
+* Processed by Sarah Quigley, October 2015. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
+* Material arrived at the Rose Library organized broadly by subject by the donor.  Rose Staff retained these categories.
+* The collection arrived at Rose Library primarily in labeled folders but with limited organization; archivists devised the arrangement, refoldered materials, foldered loose items, and provided or clarified folder titles. Archivists left photographs in the folders or context in which they were found; loose photographs were interfiled by subject. 
+
+*Information about preservation actions:*
+
+* During arrangement, archivists refoldered and reboxed the collection material into acid free archival folders and boxes.  We removed and discarded original binders, making photocopies of any information written or adhered to the binders themselves. We also made preservation photocopies of all thermal faxes. 
+* Emory Libraries conservation staff conducted extensive conservation work on the scrapbooks in this collection, including dry cleaning throughout the text block, mending, flattening, and removal of pressure sensitive tape and staples.  A detailed conservation report is available from the repository. 
+
+*Collection level born digital processing note:*
+
+* Born digital materials processed by Dorothy Waugh, January 2016. The born digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born digital materials. 
+
+*Series level born digital processing note:*
+
+* The born digital materials currently available to researchers are from two of Trethewey's laptop computers, a Dell Latitude D800 and a Dell Latitude X300. Individual files from both computers were extracted from forensic images of the hard drives and were scanned for viruses using McAfee's anti-virus software. Text-based files were migrated to PDF and image files to JPEG to create access copies. Files have been screened for private information. Files have been organized into five series matching the arrangement of the collection's paper component: 1) Correspondence and personal papers; 2) Writings by Trethewey; 3) Writings by others; 4) Printed material; and 5) Photographs. File and directory names were maintained and the original directory structure has been replicated. In cases where Natasha Trethewey originally grouped files into directories by book title or project, the complete directory will be located in the most relevant series. When necessary, a Writings by others folder was added to distinguish writings from Trethewey's own work when this is otherwise unclear.
+
+*Harmful language statement:*
+
+* This finding aid may include language that is offensive or harmful. Please refer to the Rose Library's harmful language statement for more information about why such language may appear and ongoing efforts to remediate racist, ableist, sexist, homophobic, euphemistic and other oppressive language. If you are concerned about language used in this finding aid, please contact us at rose.library@emory.edu. 
+
+**Corresponding MARC field:**  583
+
+**Corresponding EAD element(s):** ``<processinfo></processinfo>``
 
 
 ### 5.1.6 Conditions Governing Access
@@ -620,6 +970,120 @@ When describing restrictions, precede the first restriction note with "Special r
 *![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
+### 5.1.16 Citation
+
+**DACS Chapter 7.1:**
+
+Indicates the preferred style for the citation of the unit being described. 
+
+**Required:** Required at the collection level.   
+
+This field includes the Rose Library's preferred citation for the collection.  The citation only includes a description of the item and the title of the collection.  It does not include the manuscript number, or box and folder numbers.  Do not include dates in the title statement as dates are subject to change after detailed processing or as additions are accrued.   
+
+[identification of item(s)], [title statement], Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University 
+
+**Example:**
+
+* [after identification of item(s)], Alli Royce Soble photographs, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University. 
+
+**Corresponding MARC field:**  524
+
+**Corresponding EAD element(s):** ``<prefercite></prefercite>``
+
+
+### 5.1.11 Related Materials: Related Collections in this Repository
+
+**DACS Chapter 6.4:**
+
+Indicates the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere. 
+
+**Required:** Required at the collection level when applicable. 
+
+This field identifies any other collections in the Rose Library that have a close relationship to the collection being described.  This field is used only to reflect the relationships between creators where content overlap may be significant, such as spouses, parents and children, or collections where records from the same organization may appear.  This field is not used to reflect relationships between collections with similar subject matter.  It is only necessary to include the collection title statement (without dates).   
+
+**Example:**
+
+* Original collection:  Louise Hardeman Abbot letters 
+	* Related collections in this repository:  Flannery O'Connor papers, Sally Fitzgerald papers, Flannery O'Connor collection, and Flannery O'Connor letters to Betty Hester 
+
+**Corresponding MARC field:**  544
+
+**Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
+
+**Related Collections in This Repository note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Related Materials
+	*  	Label = Related Collections in This Repository
+	*	Publish = [box should be checked]
+	*	Content = [title of collection, hyperlinked]
+
+**Example of ArchivesSpace Related Collections in This Repository note:**
+
+*Figure 12 (below): Example of a Related Collections in This Repository note in ASpace.*
+![Figure 12: Example of a Related Collections in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Collections in This Repository note")
+
+### 5.1.12 Related Materials: Related Collections in Other Repositories
+
+**DACS Chapter 6.4:**
+
+Indicates the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere. 
+
+**Required:** Required at the collection level when applicable. 
+
+This field identifies collections held in other repositories that have a close relationship to the collection being described.  This field is used only to reflect the relationships between creators where content overlap may be significant, such as spouses, parents and children, or collections where records from the same organization may appear.  This field is not used to reflect relationships between collections with similar subject matter.  Include the collection title and the name of the repository (also include the city and state where the repository is located if it adds clarity).  
+
+**Example:**
+
+* Original collection:  Samuel Beckett collection  
+	* Related collections in other repositories:  Beckett collection, University of Reading, Reading, England; Carlton Lake collection of Samuel Beckett papers and Samuel Beckett collection, Harry Ransom Humanities Research Center, University of Texas at Austin; and Samuel Beckett papers, Washington University Libraries, Department of Special Collections. 
+* Original collection:  James A. Porter papers 
+	* Dorothy Porter Wesley papers, Beinecke Rare Book and Manuscript Library, Yale University 
+
+**Corresponding MARC field:**  544
+
+**Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
+
+**Related Collections in Other Repositories note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Related Materials
+	*  	Label = Related Collections in Other Repositories
+	*	Publish = [box should be checked]
+	*	Content = [title of collection, hyperlinked]
+
+**Example of ArchivesSpace Related Collections in Other Repositories note:**
+
+*Figure 13 (below): Example of a Related Collections in Other Repositories note in ASpace.*
+![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
+
+### 5.1.13 Separated Materials
+
+This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged, new collections that were created, or collection that include materials held by another Emory entity.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
+
+**Examples:**
+
+* The Rose Library holds books formerly owned by James Amos Porter. These materials may be located in the Emory University online catalog by searching for: Porter, James Amos, former owner. Among these is the rare The Gilly Willies (Hamburg, 1960), written and illustrated by Porter's student, Mildred Thompson. 
+* The May Miller papers were originally received as part of this collection and separated to form their own collection due to their size, research value, and distinct provenance.
+* The C.W. Stibbe papers were initially receieved by the Michael C. Carlos Museum as part of their acquisition of sherds which are still housed at the museum.
+  
+**Corresponding MARC field:**  544
+
+**Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
+
+**Separated Materials note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Separated Materials
+	*  	Label = [blank]
+	*	Publish = [box should be checked]
+	*	Content = [content of note, including hyperlink if relevant]
+
+**Example of ArchivesSpace Separated Materials note:**
+
+*Figure 14 (below): Example of a Separated Materials note in ASpace.*
+*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
+
 ### 5.1.8 Existence and Location of Copies
 
 **DACS Chapter 6.2:**
@@ -705,469 +1169,9 @@ This note should identify editorial projects based on collection material.  It i
 
 **Corresponding EAD element(s):** ``<bibliography></bibliography>``
 
-### 5.1.11 Related Collections in this Repository
 
-**DACS Chapter 6.4:**
 
-Indicates the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere. 
-
-**Required:** Required at the collection level when applicable. 
-
-This field identifies any other collections in the Rose Library that have a close relationship to the collection being described.  This field is used only to reflect the relationships between creators where content overlap may be significant, such as spouses, parents and children, or collections where records from the same organization may appear.  This field is not used to reflect relationships between collections with similar subject matter.  It is only necessary to include the collection title statement (without dates).   
-
-**Example:**
-
-* Original collection:  Louise Hardeman Abbot letters 
-	* Related collections in this repository:  Flannery O'Connor papers, Sally Fitzgerald papers, Flannery O'Connor collection, and Flannery O'Connor letters to Betty Hester 
-
-**Corresponding MARC field:**  544
-
-**Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
-
-**Related Collections in This Repository note field in ArchivesSpace:**
-  
-*	Field specifics
-	*  	Type = Related Materials
-	*  	Label = Related Collections in This Repository
-	*	Publish = [box should be checked]
-	*	Content = [title of collection, hyperlinked]
-
-**Example of ArchivesSpace Related Materials in This Repository note:**
-
-*Figure 12 (below): Example of a Related Materials in This Repository note in ASpace.*
-![Figure 12: Example of a Related Materials in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Materials in This Repository note")
-
-### 5.1.12 Related Collections in Other Institutions
-
-**DACS Chapter 6.4:**
-
-Indicates the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere. 
-
-**Required:** Required at the collection level when applicable. 
-
-This field identifies collections held in other repositories that have a close relationship to the collection being described.  This field is used only to reflect the relationships between creators where content overlap may be significant, such as spouses, parents and children, or collections where records from the same organization may appear.  This field is not used to reflect relationships between collections with similar subject matter.  Include the collection title and the name of the repository (also include the city and state where the repository is located if it adds clarity).  
-
-**Example:**
-
-* Original collection:  Samuel Beckett collection  
-	* Related collections in other repositories:  Beckett collection, University of Reading, Reading, England; Carlton Lake collection of Samuel Beckett papers and Samuel Beckett collection, Harry Ransom Humanities Research Center, University of Texas at Austin; and Samuel Beckett papers, Washington University Libraries, Department of Special Collections. 
-* Original collection:  James A. Porter papers 
-	* Dorothy Porter Wesley papers, Beinecke Rare Book and Manuscript Library, Yale University 
-
-**Corresponding MARC field:**  544
-
-**Corresponding EAD element(s):** ``<relatedmaterial></relatedmaterial>``
-
-**Related Collections in Other Institutions note field in ArchivesSpace:**
-  
-*	Field specifics
-	*  	Type = Related Materials
-	*  	Label = Related Collections in Other Repositories
-	*	Publish = [box should be checked]
-	*	Content = [title of collection, hyperlinked]
-
-**Example of ArchivesSpace Related Materials in Other Repositories note:**
-
-*Figure 13 (below): Example of a Related Materials in Other Repositories note in ASpace.*
-![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
-
-### 5.1.13 Separated Materials
-
-This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged, new collections that were created, or collection that include materials held by another Emory entity.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
-
-**Examples:**
-
-* The Rose Library holds books formerly owned by James Amos Porter. These materials may be located in the Emory University online catalog by searching for: Porter, James Amos, former owner. Among these is the rare The Gilly Willies (Hamburg, 1960), written and illustrated by Porter's student, Mildred Thompson. 
-* The May Miller papers were originally received as part of this collection and separated to form their own collection due to their size, research value, and distinct provenance.
-* The C.W. Stibbe papers were initially receieved by the Michael C. Carlos Museum as part of their acquisition of sherds which are still housed at the museum.
-  
-**Corresponding MARC field:**  544
-
-**Corresponding EAD element(s):** ``<separatedmaterial></separatedmaterial>``
-
-**Separated Materials note field in ArchivesSpace:**
-  
-*	Field specifics
-	*  	Type = Separated Materials
-	*  	Label = [blank]
-	*	Publish = [box should be checked]
-	*	Content = [content of note, including hyperlink if relevant]
-
-**Example of ArchivesSpace Separated Materials note:**
-
-*Figure 14 (below): Example of a Separated Materials note in ASpace.*
-*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
-
-### 5.1.14 Immediate Source of Acquisition
-
-**DACS Chapter 5.2:**
-
-Identifies the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information. 
-
-**Required:** Required at the collection level. 
-
-The source note should always include the method by which a collection was acquired, who it was acquired from (in as much detail as appropriate), and the year acquired.  If the source is an individual (or individuals), full names are preferred. In cases where the initial information is not included, update additions to the collection with the full name (e.g. 2022 additions were a gift from (name). There will be some mixed descriptive practice on many of the older finding aids for collections with additions over the years, but use current practice for any new additions.
-
-The source field only describes the transaction by which the library receives materials. The custodial history note can be used to provide information about the history of the collection beyond the immediate source from which the library acquired the material.  The custodial history note is also the appropriate place to note the relationship between the creator of a collection and the source from which we acquired it.   
-
-Gift, Purchase, and Transfer are the three main ways that the Rose Library acquires collections. Below are sub-categories that acknowledge the types of transactions in each category.  
-
-| ﻿Gift sub-categories: | Purchase sub-categories:                                                                                                     | Transfer sub-categories:                            |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Gift of the Estate   | Purchase from Individual                                                                                                     | Transferred from another institution                |
-| Gift of the Family   | Purchase from Dealer (We use the name of the business rather than the individual.  This should be reflected on the invoice.) | Transferred from an Emory University office or unit |
-| Gift of Individual   | Purchase via Broker on behalf of another individual                                                                          |                                                     |
-
-**Examples:**
-
-* Gift of Beth Remmes, 2017 
-* Gift of the Estate of John Doe, 1987 
-* Purchased from Len Prince, 2016
-* Purchased from Eamon Grennan, 2010. Additions purchased from Grennan, 2017 
-* Purchased from James S. Jaffe Rare Books, representing Linda Gregg, 2015 
-* Purchased from Glenn Horowitz Bookseller, 2011 
-* Transferred from the Poynter Institute for Media Studies, 2016 
-* Transferred from Emory University Office of the President, 1983  
-
-**Corresponding MARC field:**  541
-
-**Corresponding EAD element(s):** ``<acqinfo></acqinfo>``
-
-**Immediate Source of Acquisition note field in ArchivesSpace (required):**
-
-*	Field specifics for Immediate Source of Acquisition note field
- 	*  	Type = Immediate Source of Acquisition
-	*  	Label = [blank]
-	*	Publish = [box should be checked]
-	*	Content = [content of note]
-
-**Example of ArchivesSpace Immediate Source of Acquisition note:**
-
-*Figure 19 (below): Example of Immediate Source of Acquisition note in ASpace.*
-*![Figure 19: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure19.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
-
-
-**Source Agent Link in ArchivesSpace resource record (optional):**
-
-* Adding a source agent field in a resource record is optional. (Unlike in an accession record, where a source agent field is required.)
-* The source agent field will display in the public interface under "Related Names." If there are multiple source agent fields, all of them will be listed.
-* The source agent field in a resource record autopopulates when the resource record is spawned from the accession record, with the source agent field carrying over from the accession record.
-* Legacy resource records that were migrated from the Emory Finding Aids database will not have a source agent field, because they were not spawned from an accession record.
-* It is not necessary to manually add a source agent field to a resource record because that same information also appears in the Immediate Source of Acquisition note field (which is required).
-* If a resource record has both an agent source field and an Immediate Source of Acquisition note field, both fields will display in the public interface.
-
-### 5.1.15 Custodial History
-
-**DACS Chapter 5.1:**
-
-Provides information on changes of ownership or custody of the material being described, from the time it left the possession of the creator until it was acquired by the repository, that is significant for its authenticity, integrity, and interpretation. 
-
-**Required:** Optional. Preferred when applicable. 
-
-This field is used in conjunction with the Source note (see [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition) for more information) to describe the provenance of the collection from the point at which the material left the possession of the creator until it was arrived at the Rose. It may include:
-
-* The physical location and storage conditions of the collection between creation and donation, including dates if known; 
-* People or institutions acting on the records and the actions that they took, when that information can be made public; 
-* Who packed the collection and prepared it for shipment; 
-* Third party intermediaries involved in mediating the collection in any way; 
-* Archivist or curator involvement in transfer of material.  
-
-This note should be used whenever the collection is not a straightforward transfer directly from the records creator.  The note should provide as much information as can be made public, including contextual information. 
-
-**Examples:**
-
-* Purchased from a dealer; provenance and custodial history unknown. 
-* The Rose Library purchased this collection from book dealer Glenn Horowitz in 2010. The original owner bought it in the early 1970s as the unknown contents of a trunk sold at an auction of abandoned items from a storage facility in Wellfleet, Massachusetts. During the 1960s, Brennan spent her summers in the town. 
-* Purchased from Douglas Turner Ward in 2017. The collection was packed and prepared for transfer from Douglas Turner Ward's home to the Rose Library by the staff of the Boo Hooray Gallery in New York City in 2016. 
-* The Eugene Patterson papers were given by the Patterson family to the Poynter Institute for Media Studies, which then held, organized, and preserved the papers until their transfer to Emory University in 2016.   
-
-**Corresponding MARC field:**  561
-
-**Corresponding EAD element(s):** ``<custodhist></custodhist>``
-
-### 5.1.16 Citation
-
-**DACS Chapter 7.1:**
-
-Indicates the preferred style for the citation of the unit being described. 
-
-**Required:** Required at the collection level.   
-
-This field includes the Rose Library's preferred citation for the collection.  The citation only includes a description of the item and the title of the collection.  It does not include the manuscript number, or box and folder numbers.  Do not include dates in the title statement as dates are subject to change after detailed processing or as additions are accrued.   
-
-[identification of item(s)], [title statement], Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University 
-
-**Example:**
-
-* [after identification of item(s)], Alli Royce Soble photographs, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University. 
-
-**Corresponding MARC field:**  524
-
-**Corresponding EAD element(s):** ``<prefercite></prefercite>``
-
-### 5.1.17 Processing Note
-
-**DACS Chapter 7.1:**
-
-Provides information about actions of the archivist, custodians, or creators of the records or conventions in the finding aid that may have an impact on a researcher’s interpretation of the records or understanding of the information provided in the finding aid.   
-
-**Required:** Required at the collection level and may be repeated at the series and subseries level.  The information provided may be more or less detailed depending on the complexity of the collection and the depth of the archivist's intervention.   
-
-The information provided in this field is iterative.  The archivist should add to the note each time significant arrangement and description is done on all or part of the collection.  Always retain previous information.  At minimum, the processing note should include the level of arrangement and description, the names of individuals involved in processing, the names of individuals who wrote the finding aid (if different than those who did the arrangement), and the date(s) of arrangement and description.  The note should also include information about original order and whether or not the archivist imposed the organization, as well as any significant information about creator supplied folder titles or archivist devised folder titles.  The note may include information about preservation work done on the collection such as refoldering and rehousing, preservation photocopying, sleeving photographs, or more significant conservation.  If container numbers have been altered in any way, for example a numbered box becomes an AV masters box, this information must be included in the processing note. 
-
-For born digital material, include information about transfer of the data, reformatting that was done, if data could not be captured or retained and why (virus, etc.), and redaction of personally identifiable information (PII).  Describe any information that may affect a patron's understanding of the files, such as the fact that migration to PDF always changes the file dates, and point out any efforts made to provide original metadata.   
-
-Processing notes are used at the series and/or subseries level when it is necessary to describe processing decisions made specifically for that component that go beyond the decisions described in the collection level note.  Series level notes are typically more detailed, especially for born digital material.  This field can be used to describe any reformatting of audiovisual material or to describe how archivists distinguished between types of material (such as personal and professional correspondence). 
-
-**Examples:**
-
-*Basic notes:*
-
-* Arranged and described at the folder level by Haylee Harrell, Ingrid Meintjes, and Sarah Quigley, 2017. 
-* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016. 
-
-*Information about original order and/or archivist imposed organization:*
-
-* The collection arrived at the Rose Library in no discernible order. Meaghan O'Riordan aggregated the records by record type during accessioning.   
-* The organization of this collection was primarily devised by Sarah Quigley and Rebecca Sherman during processing in 2012.  However, the collected poetry subseries (2.1a) reflects a combination of Grennan's original order and archivist imposed arrangement.  The collected poetry was arranged by archivists in chronological order by publication date.  Grennan frequently changed the title of a collection during the process of compiling and revising the typescript. Typescripts with these variant titles have been arranged by archivists in alphabetical order within each work, with different drafts in chronological order to the extent that could be determined.  Material for collected works also include working files that contain poems considered for publication in that work but which ultimately were not included.  Some also include working files titled "Towards [work]," as labeled by Grennan.  The original arrangement of these folders has been retained to preserve evidence of early drafting efforts. Many poems in the subseries have multiple drafts which may be located with typescripts of a complete work, working files, and the folder for that individual poem. Not all collected works contain all of these materials. 
-* Processed by Sarah Quigley, October 2015. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
-* Material arrived at the Rose Library organized broadly by subject by the donor.  Rose Staff retained these categories.
-* The collection arrived at Rose Library primarily in labeled folders but with limited organization; archivists devised the arrangement, refoldered materials, foldered loose items, and provided or clarified folder titles. Archivists left photographs in the folders or context in which they were found; loose photographs were interfiled by subject. 
-
-*Information about preservation actions:*
-
-* During arrangement, archivists refoldered and reboxed the collection material into acid free archival folders and boxes.  We removed and discarded original binders, making photocopies of any information written or adhered to the binders themselves. We also made preservation photocopies of all thermal faxes. 
-* Emory Libraries conservation staff conducted extensive conservation work on the scrapbooks in this collection, including dry cleaning throughout the text block, mending, flattening, and removal of pressure sensitive tape and staples.  A detailed conservation report is available from the repository. 
-
-*Collection level born digital processing note:*
-
-* Born digital materials processed by Dorothy Waugh, January 2016. The born digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born digital materials. 
-
-*Series level born digital processing note:*
-
-* The born digital materials currently available to researchers are from two of Trethewey's laptop computers, a Dell Latitude D800 and a Dell Latitude X300. Individual files from both computers were extracted from forensic images of the hard drives and were scanned for viruses using McAfee's anti-virus software. Text-based files were migrated to PDF and image files to JPEG to create access copies. Files have been screened for private information. Files have been organized into five series matching the arrangement of the collection's paper component: 1) Correspondence and personal papers; 2) Writings by Trethewey; 3) Writings by others; 4) Printed material; and 5) Photographs. File and directory names were maintained and the original directory structure has been replicated. In cases where Natasha Trethewey originally grouped files into directories by book title or project, the complete directory will be located in the most relevant series. When necessary, a Writings by others folder was added to distinguish writings from Trethewey's own work when this is otherwise unclear.
-
-*Harmful language statement:*
-
-* This finding aid may include language that is offensive or harmful. Please refer to the Rose Library's harmful language statement for more information about why such language may appear and ongoing efforts to remediate racist, ableist, sexist, homophobic, euphemistic and other oppressive language. If you are concerned about language used in this finding aid, please contact us at rose.library@emory.edu. 
-
-**Corresponding MARC field:**  583
-
-**Corresponding EAD element(s):** ``<processinfo></processinfo>``
-
-### 5.1.18 Appraisal Note
-
-**DACS Chapter 5.3:**
-
-Provides information about the rationale for appraisal decisions, destruction actions, and disposition schedules that are relevant to the understanding and use of the materials being described.
-
-**Required:** Required at collection level.  Repeatable at subsequent levels as appropriate.   
-
-Rose Library appraisal notes must contain: 
-
-* who collected the material, their title, and as part of which collecting area; 
-* if material has been removed or not; 
-	  * If material has been removed, the note must specify what has been removed, the extent of removed material, justification for removal, disposition, and the names of key decision makers (generally a combination of an archivist, a curator, and the Head of Collection Services); 
-* if the Rose Library's purpose in acquiring a collection is to document one specific activity or aspect of a person or organization. When that is the case we should document that our selection and appraisal decisions were made with the intention of documenting key areas/functions/activities of a creator's life, and that material that does not reflect those areas has been removed from the collection. 
- 
-Examples below are for the most common kinds of appraisal notes and are listed in the order in which they should generally be presented.  Several of these clauses may need to be strung together to create a complete Appraisal Note.  Examples of complex, multi-part appraisal notes are available at the end of this section.
- 
-**Examples:**
- 
-*Collector and Collecting area (Required):*
- 
-* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. 
-* Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.
-* Acquired by Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, Randy Gue, as part of the Rose Library’s holdings documenting arts and culture in Atlanta.
-* Acquired by Assistant Director and University Archivist, John Bence, as part of the Emory University Archives.
- 
-*Documenting if appraisal activities took place and any associated destruction actions (Required):*
-
-* The Rose Library has retained all material that formed part of the original gift. 
-* Rose staff removed and securely shredded three linear feet of duplicates in 2016.  
-* Dorothy Waugh deleted 200 duplicate digital files in 2016.
-* Sarah Quigley returned duplicates to the donor after processing, 2017.
-* Meaghan O'Riordan removed and returned two linear feet of out of scope medical records to the donor in 2017. 
-* Rose Library staff photographed and securely disposed of computer casing and peripherals received with digital media in 2015.  
-
-*Commercially produced music /video (Required if applicable):*
-
-* Due to current copyright law, the Rose Library cannot make use copies of commercially produced music or video recordings available to researchers.  Therefore, staff removed and securely shredded commercially produced CDs.  
-
-*Condition issues such as mold or other damage (Required if applicable):*
-
-* Three linear feet of printed material and research files arrived at the library with significant mold.  Rose staff removed these items from the collection and destroyed them. 
-* One program from the organization's 2014 annual meeting was unusable due to water damage.  Rose staff removed this item from the collection and securely shredded it.
-
-*Medical/Financial types of records (Required if applicable):*
-
-* Consistent with Rose Library guidelines, Laura Starratt removed and shredded routine medical and financial records.  
-
-*Born Digital (Required if applicable):*
-
-* The Rose Library has retained a complete disk image of the hard drive in this collection for preservation purposes; Dorothy Waugh removed files related to the court case OBERGEFELL V.  HODGES from the processed collection to protect attorney client privilege.   
-* [In cases of files transfers:] Dorothy Waugh selected and transferred digital files to the Rose Library based on discussion with the donor. 
-* Digital files available to researchers represent content created or saved by [the donor or content creator]. System files, log files, and other computer-generated files have not been made available [EITHER: at the request of the donor; OR: Please contact the Rose Library if you would like access to these files.] 
-
-*Disposition Schedules (Required if applicable):*
-
-* For Emory University Archives material, disposition may be dictated by the [University's retention schedules](<http://records.emory.edu/retention-schedules/> "http://records.emory.edu/retention-schedules/")
-
-*Documenting Certain Activities (Required if applicable):*
-
-* Rose Library staff members, Carrie Hintz and Randy Gue, deemed records not related to Beverly Long's work on school integration to be out of scope and removed and returned them to the donor in 2017.  Meaghan O'Riordan returned duplicates to the donor after processing in 2017. 
-
-**Sample Appraisal Notes:**
-
-* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture.  All material that formed the original gift has been retained. 
-* Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.  Sarah Quigley and Pellom McDaniels, III, removed .5 linear feet of newspaper clippings from the collection due to their ready availability. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
-* Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in American Literature.  The original acquisition included 12 linear feet of photocopies of Judith Malina's journals held at the Beinecke Library, Yale University.  Staff removed these photocopies from the collection and securely shredded them in 2016. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
-* Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in Poetry.  Dorothy Waugh removed one megabyte of records related to Trethewey's teaching at the donor's request.  Dorothy Waugh and Kevin Young made appraisal decisions for digital material in this collection, and Sarah Quigley and Kevin Young made appraisal decisions for paper records in the collection.  All appraisal decisions were made in consultation with Natasha Trethewey. 
-* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. Laura Starratt returned duplicates to the donor after processing in 2017.  Dorothy Waugh photographed and securely disposed of hardware containing born digital records. 
-* Acquired by Curator of Literary Collections, Steve Ennis, as part of the Rose Library's holdings in Irish poetry.  Due to current copyright law, the Rose Library cannot make digital copies of commercially produced music or video recordings available to researchers.  Therefore, Carrie Hintz removed and securely shredded 18 commercially produced CDs in 2010. 
-
-**List of Rose Library Collecting Areas (subareas can be used if appropriate, but are not necessary):**
-
-* African American History and Culture  
-	 * Civil Rights and Post-Civil Rights Movements 
-	 * Black Print Culture 
-	 * History of Blacks and the Left 
-	 * African American Literature and Arts
-	 * History of African Americans in sports 
-* Emory University History
-* Literature and Poetry
-	* African American Literature
-	* Irish Literature
-	* Georgia Authors
-* Modern Politics
-	* Civil Rights and Post-Civil Rights Movements
-	* Atlanta History and Politics
-	* LGBT History and Culture
-* Southern History
-	* Civil War
-	* Southern Religion
-	* Georgia Philanthropists
-
-**Corresponding MARC field:**  583
-
-**Corresponding EAD element(s):** ``<appraisal></appraisal>``
-
-### 5.1.19 Biographical/Historical Note
-
-**DACS Chapter 2.7:**
-
-Describes the required elements of a biographical or administrative history note about creators embedded in the description of materials. The administrative/biographical history provides relevant information about corporate bodies, persons, or families who are identified using the Name of Creator(s) Element and who therefore function as nominal access points. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created. 
-
-**Required:** Required at the collection level.   
-
-The note contains brief and concise information about the collection creator and is compiled through a combination of information contained in the collection and outside research.  A biographical note should include descriptions of the creator's life and accomplishments with special attention paid to details that relate to Rose Library collecting areas.  It is appropriate to include short biographies of multiple individuals when it is important to the collection, for example when multiple people's papers are present or the creator has collected materials relating to another (see: Martha Dow Fehsenfeld collection of Samuel Beckett letters).   
-
-Biographical notes should include: 
-
-* Full name, married name, and pseudonyms/pen names;
-* Life dates and places of birth and death
-* Family information, including parents, spouses or partners, and children;
-* Occupations and other significant professional or extra-curricular activities and achievements (volunteering, community service, etc.);
-* Education;
-* Other significant relationships.
-
-Historical notes contain a brief overview of the evolution and development of a business or corporate body.  They should include: 
-
-* The official name of the organization and any history of name changes;
-* Location of the organization and any significant relocations/moves;
-* Dates of establishment and dissolution (if applicable);
-* Primary functions and mission of the organization; 
-* Names of organizational leaders and other significant people involved with the organization, particularly those documented in the collection;
-* Organizational structure, especially as it relates to/illuminates the arrangement of the collection.
-
-The tone of these notes should be informational and avoid judgments about the value or importance of the creator's life and/or work.  Notes should be only as lengthy as necessary to convey the most important information about the creator and should focus on aspects of their life or history that directly relate to the contents of the collection.  They are meant to illuminate the ways in which the records in the collection were created, compiled, and used by an individual or organization.  It is not necessary to include every element of a biography or history.  If the creator is especially well known, notes can be shorter since information about the creator is readily available elsewhere.  For large and particularly complex collections, it may be necessary to include biographical or historical notes at the series level.  This will be rare, but can allow for a shorter overview at the collection level and more specific information at the series level where it's most relevant (see: [Southern Christian Leadership Conference records](<http://pid.emory.edu/ark:/25593/90wfs> "http://pid.emory.edu/ark:/25593/90wfs")). 
-
-**Example of good biographical note:** [Richard Blanco papers](<https://findingaids.library.emory.edu/documents/blanco1431/> "https://findingaids.library.emory.edu/documents/blanco1431/") 
-**Example of good historical note:**  [Druid Hills Civic Association records](<https://findingaids.library.emory.edu/documents/druid65/> "https://findingaids.library.emory.edu/documents/druid65/")
-
-**Corresponding MARC field:**  545
-
-**Corresponding EAD element(s):** ``<bioghist></bioghist>``
-
-### 5.1.20 Scope and Content Note
-
-**DACS Chapter 3.1:**
-
-Provides information about the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance. 
-
-**Required:** Required at the collection, series, and sub-series level.  Optional at the folder level.
-
-The Scope and Content Note is a narrative summary of the contents of the collection or a component part of the collection.  The note should apply generally to all of the records/documents contained within the portion of the collection being described.  It should also note any particular weaknesses in the collection or the absence of material that patrons might otherwise reasonably expect to find (e.g., the absence of Black Panther records in the Elaine Brown papers). 
-
-The collection level scope and content note must include an introductory sentence followed by specific information about record types, subjects covered, functions documented, major correspondents, and other significant people, places, and events documented by the collection.  When writing a scope note, it is important to anticipate subject cataloging.  Any names, places, or topics that receive controlled headings MUST be present in the scope and content note.  The length of the scope and content note should be proportional to the size and complexity of the collection or collection component.  An average sized collection should not require more than two strong paragraphs, while a very large collection with a complicated arrangement may require closer to a full page.  Notes for collections that include series must contain information about each series.      
-
-Scope and Content Notes are also required at every series and sub-series level.  The structure is similar, but lower level notes contain more specific information about the materials in that component.  For collections with sub-series, the series level notes must include information about each component sub-series.   
-
-This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
-
-![Figure 1: Sample folder level scope and content note](/05-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
-
-*Figure 1: Sample folder level scope and content note*
-
-**Example of good collection level scope and content note:** [Neighbor's Network (Atlanta, GA) records](<http://pid.emory.edu/ark:/25593/cr5vv> "http://pid.emory.edu/ark:/25593/cr5vv") 
-**Example of good series/sub-series level scope and content note:** [Natasha Trethewey papers, Series 7: Born Digital materials](<https://findingaids.library.emory.edu/documents/trethewey1272/series7/> "https://findingaids.library.emory.edu/documents/trethewey1272/series7/") 
-
-**Corresponding MARC field:**  520
-
-**Corresponding EAD element(s):** ``<scopecontent></scopecontent>``
-
-### 5.1.21 Arrangement Note
-
-**DACS Chapter 3.2:**
-
-Describes the current organization of the collection. 
-
-**EAD Tag Library definition:** Information on how the described materials have been subdivided into smaller units, e.g., record groups into series, identifying the logical or physical groupings within a hierarchical structure. Can also be used to express the filing sequence of the described materials, such as the principle characteristics of the internal structure, or the physical or logical ordering of materials, including alphabetical, chronological, geographical, office of origin, and other schemes. Identifying logical groupings and the arrangement pattern may enhance retrieval by researchers. 
-
-**Required:** Required at collection level.  Repeatable and required at the series and sub-series levels when applicable.
-
-The arrangement note does not include information about the archivist's actions or decisions during processing (see: [5.1.2.17 Processing Note](#51217-processing-note)). 
-
-MARC records will require you to use "arranged" or "organized" depending on the level of description in question.  "Arranged" corresponds to the filing sequence while "organized" corresponds to the higher-lever subdivisions of the collection into hierarchical units.   
-
-For small and/or simple collections and collections with box level inventories, the arrangement note must: 
-
-* Describe the filing sequence used to arrange the material. 
-	* Examples:
-		* Arranged in alphabetical order. 
-		* Arranged by record type, then in alphabetical order. 
-		* Arranged in chronological order.
-		* Arranged in the order in which it was recieved.  (this is used in cases, especially upon accessioning, where little or no arrangement is done)
-		
-If a collection is divided into series, the collection level arrangement note must: 
-
-* Describe how the collection has been organized into units. 
-	* Examples:
-		* Organized into seven series: (1) Correspondence and personal papers, (2) Writings by Grennan, (3) Writings by others, (4) Diaries, (5) Printed material, (6) Photographs, and (7) Born digital materials.  
-		* Organized into 21 series: (1) Board of Directors records, (2) Office of the President records, (3) Office of the Executive Vice President records, (4) Office of the Executive Director and National Administrator records, (5) Department of Chapters and Affiliates records, (6) Department of Communications records, (7) Department of Direct Action records, (8) Crisis Intervention Committee records, (9) Department of Student Affairs records, (10) Programs Department records, (11) Martin Luther King Speaks records, (12) Other department records, (13) Personnel records, (14) Financial records, (15) Southern Christian Leadership Foundation records, (16) Legal records, (17) Printed material, (18) Photographs, (19) Audiovisual, (20) Artifacts and memorabilia, and (21) Born digital materials. 
-
-If you have arranged a collection into series, the series level arrangement note must: 
-
-* Describe either how the series has been organized into smaller units (sub-series) or describe the filing sequence of the material. 
-	* Examples if there are no sub-series: 
-		* Arranged in alphabetical order. 
-		* Arranged in chronological order. 
-		* Arranged into two groups, correspondence and personal papers. Correspondence is arranged in chronological order and personal papers are arranged in alphabetical order. 
-		* Arranged by record type.  Dated correspondence is arranged in chronological order; undated correspondence is arranged in alphabetical order by correspondent. Personal and family papers are arranged in alphabetical order. 
-	* Examples if there are sub-series: 
-		* Organized into five subseries: (2.1) President Martin Luther King, Jr. files, (2.2) President Ralph David Abernathy files, (2.3) President Joseph E. Lowery files, (2.4) President Martin Luther King, III files, and (2.5) President's reports. 
-		* Organized into three subseries: (3.1) Poetry by Higgins, (3.2) Other writings by Higgins, and (3.3) Writings by others.  
-		
-If you have arranged series into sub-series, the subseries level arrangement note must follow the same rules as the series level arrangement note.  Most commonly, the note will describe the filing sequence for the subseries.  Occasionally, the complexity of the collection will require further division of the subseries into sub-subseries (we do not use this term in finding aids and we do not arrange beyond sub-subseries). 
-
-* Examples if there are sub-subseries: 
-	* Organized into three subseries: (2.1a) Collected poetry, (2.1b) Uncollected poetry, and (2.1c) Chronological poetry drafts. 
-
-**Corresponding MARC field:**  351
-
-**Corresponding EAD element(s):** ``<arrangement></arrangement>``
-
-### 5.1.22 Additional Finding Aids
+### 5.1.22 Other Finding Aids
 
 **DACS Chapter 5.6:**
 
