@@ -31,10 +31,10 @@ Content owner: **Sarah Quigley**
  	* [5.1.21 Related materials: related collections in this repository](#5121-related-materials-related-collections-in-this-repository)
 	* [5.1.22 Related materials: related collections in other repositories](#5122-related-materials-related-collections-in-other-repositories)
 	* [5.1.23 Separated materials](#5123-separated-materials)
- 	* [5.1.24 Existence and location of copies](#5124-existence-and-location-of-copies)
-	* [5.1.25 Existence and location of originals](#5125-existence-and-location-of-originals)
-	* [5.1.26 Bibliography: Publication note](#5126-bibliography-publication-note)
-	* [5.1.27 Other finding aids](#5127-other-finding-aids)
+	* [5.1.24 Other finding aids](#5124-other-finding-aids)
+  	* [5.1.25 Existence and location of copies](#5125-existence-and-location-of-copies)
+	* [5.1.26 Existence and location of originals](#5126-existence-and-location-of-originals)
+	* [5.1.27 Bibliography: Publication note](#5127-bibliography-publication-note)
  	* [5.1.28 Revision statements](#5128-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
 * [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
@@ -1087,7 +1087,29 @@ This field identifies materials that have been physically removed from the colle
 *Figure 14 (below): Example of a Separated Materials note in ASpace.*
 *![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
 
-### 5.1.24 Existence and Location of Copies
+### 5.1.24 Other Finding Aids
+
+**DACS Chapter 5.6:**
+
+Identifies any other finding aids to the materials being described, particularly if they are available to the user, and provides information about the form and content of those finding aids. 
+
+**Required:** Optional but preferred when applicable.
+
+This field describes any additional finding aids, such as indices or original inventories, created for the collection.  If used, this field is repeatable and should appear at the collection level and any relevant series or sub-series levels.  It is not necessary to use this field to indicate the presence of MARC catalog records. 
+
+ArchivesSpace instructions for linking to indices removed from the record (due to size) are found in [Sharepoint](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/ArchivesSpace/Guide_Linking%20indices_ASpace_2024.docx?d=w6348a3c1d2b444c2b2723c4bc9076b30&csf=1&web=1&e=w9GJkh)
+
+**Examples:**
+
+* An index of respondents to the questionnaires for Horace Mann Bond's "A Study of the Factors Involved in the Identification and Encouragement of Unusual Academic Talent among Underprivileged Populations" (Project 458) is available. 
+* An index to correspondence in Series 2 and to [Ralph] McGill's daily editorial columns in Series 9 is available. 
+* The preliminary inventory of the Douglas Turner Ward papers, created by Boo Hooray when the collection was packed, is available.  See Rose Library staff for access. 
+
+**Corresponding MARC field:**  555
+
+**Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
+
+### 5.1.25 Existence and Location of Copies
 
 **DACS Chapter 6.2:**
 
@@ -1122,7 +1144,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 *![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
-### 5.1.25 Existence and Location of Originals
+### 5.1.26 Existence and Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -1155,7 +1177,7 @@ This note identifies the format of the reproductions and the repository or indiv
 *![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
 
-### 5.1.26 Bibliography: Publication Note
+### 5.1.27 Bibliography: Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -1186,28 +1208,6 @@ This note should identify editorial projects based on collection material.  It i
 *Figure 25 (below): Example of a Bibliography note in ASpace.*
 *![Figure 25: Example of a Bibliography note](/05-DESCRIPTION/Images/Figure25.jpg "Figure 25: Example of a Bibliography note")
 
-
-### 5.1.27 Other Finding Aids
-
-**DACS Chapter 5.6:**
-
-Identifies any other finding aids to the materials being described, particularly if they are available to the user, and provides information about the form and content of those finding aids. 
-
-**Required:** Optional but preferred when applicable.
-
-This field describes any additional finding aids, such as indices or original inventories, created for the collection.  If used, this field is repeatable and should appear at the collection level and any relevant series or sub-series levels.  It is not necessary to use this field to indicate the presence of MARC catalog records. 
-
-ArchivesSpace instructions for linking to indices removed from the record (due to size) are found in [Sharepoint](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/ArchivesSpace/Guide_Linking%20indices_ASpace_2024.docx?d=w6348a3c1d2b444c2b2723c4bc9076b30&csf=1&web=1&e=w9GJkh)
-
-**Examples:**
-
-* An index of respondents to the questionnaires for Horace Mann Bond's "A Study of the Factors Involved in the Identification and Encouragement of Unusual Academic Talent among Underprivileged Populations" (Project 458) is available. 
-* An index to correspondence in Series 2 and to [Ralph] McGill's daily editorial columns in Series 9 is available. 
-* The preliminary inventory of the Douglas Turner Ward papers, created by Boo Hooray when the collection was packed, is available.  See Rose Library staff for access. 
-
-**Corresponding MARC field:**  555
-
-**Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
 
 
 ### 5.1.28 Revision statements
