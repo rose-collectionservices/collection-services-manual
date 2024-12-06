@@ -464,7 +464,7 @@ Biographical notes should include:
 * Education;
 * Other significant relationships.
 
-Historical notes contain a brief overview of the evolution and development of a business or corporate body.  They should include: 
+Historical/Administrative history notes contain a brief overview of the evolution and development of a business or corporate body.  They should include: 
 
 * The official name of the organization and any history of name changes;
 * Location of the organization and any significant relocations/moves;
