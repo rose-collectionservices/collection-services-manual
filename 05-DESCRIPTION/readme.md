@@ -23,7 +23,7 @@ Content owner: **Laura Starratt**
   	* [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition)
   	* [5.1.15 Custodial history](#5115-custodial-history)
   	* [5.1.16 Appraisal note](#5116-appraisal-note)
-  	* [5.1.17 Processing note](#5117-processing-note)
+  	* [5.1.17 Processing information](#5117-processing-information)
   	* [5.1.18 Conditions governing access](#5118-conditions-governing-access)
 		* [5.1.18.1 Conditions governing access](#51181-conditions-governing-access)
 		* [5.1.18.2 Physical access](#51182-physical-access)
@@ -743,7 +743,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 **Corresponding EAD element(s):** ``<appraisal></appraisal>``
 
 
-### 5.1.17 Processing Note
+### 5.1.17 Processing Information
 
 **DACS Chapter 7.1:**
 
