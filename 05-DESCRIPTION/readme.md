@@ -1201,10 +1201,8 @@ Revision statements should be used to record information about significant chang
 The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
 ## 5.3 Reviewing and Editing Finding Aids
+[This section is being updated]
 
-Finding aids go through two rounds of editing and feedback before they're published in EmoryFindingAids.  Send the draft to the Manuscript Archivists, Accessioning Archivist, and Head of Collection Services for editing.  After incorporating feedback from at least two colleagues, share the new draft with the appropriate Curator for further feedback.  Incorporate their suggestions and proceed with encoding and publishing the document.  If the Curator does not return comments within one week, publish the finding aid and incorporate any changes they suggest at a later date. 
-
-Once the finding aid is published, send the permanent link to the donor (via email, if that information is available).  They may have additional questions about how the collection is arranged and described or factual corrections.  It is not necessary to delay publication of a finding aid in order to seek feedback from a collection donor.
    
 ## 5.4 Anti Oppressive Archival Description Principles and Guidelines
 
