@@ -33,7 +33,7 @@ Content owner: **Sarah Quigley**
 	* [5.1.23 Separated materials](#5123-separated-materials)
  	* [5.1.24 Existence and location of copies](#5124-existence-and-location-of-copies)
 	* [5.1.25 Existence and location of originals](#5125-existence-and-location-of-originals)
-	* [5.1.26 Publication note](#5126-publication-note)
+	* [5.1.26 Bibliography: Publication note](#5126-bibliography- publication-note)
 	* [5.1.27 Other finding aids](#5127-other-finding-aids)
  	* [5.1.28 Revision statements](#5128-revision-statements)
 * [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
@@ -1155,7 +1155,7 @@ This note identifies the format of the reproductions and the repository or indiv
 *![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
 
-### 5.1.26 Publication Note
+### 5.1.26 Bibliography: Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -1173,6 +1173,18 @@ This note should identify editorial projects based on collection material.  It i
 
 **Corresponding EAD element(s):** ``<bibliography></bibliography>``
 
+**Bibliography note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Bibliography
+ 	*  	Label = Publication Note
+	*	Publish = [box should be checked]
+	*	Content = [content of note]
+
+**Example of ArchivesSpace Bibliography note:**
+
+*Figure 25 (below): Example of a Bibliography note in ASpace.*
+*![Figure 25: Example of a Bibliography note](/05-DESCRIPTION/Images/Figure25.jpg "Figure 25: Example of a Bibliography note")
 
 
 ### 5.1.27 Other Finding Aids
@@ -1196,6 +1208,7 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 **Corresponding MARC field:**  555
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
+
 
 ### 5.1.28 Revision statements
 
