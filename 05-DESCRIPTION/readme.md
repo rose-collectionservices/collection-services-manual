@@ -502,8 +502,8 @@ This note is repeatable at the folder level and can be used to present important
 
 *Figure 1: Sample folder level scope and content note*
 
-* **Example of good collection level scope and content note:** [Neighbor's Network (Atlanta, GA) records](<http://pid.emory.edu/ark:/25593/cr5vv> "http://pid.emory.edu/ark:/25593/cr5vv") 
-* **Example of good series/sub-series level scope and content note:** [Natasha Trethewey papers, Series 7: Born Digital materials](<https://findingaids.library.emory.edu/documents/trethewey1272/series7/> "https://findingaids.library.emory.edu/documents/trethewey1272/series7/") 
+* **Example of good collection level scope and content note:** [Neighbor's Network (Atlanta, GA) records](<http://pid.emory.edu/ark:/25593/cr5vv>) 
+* **Example of good series/sub-series level scope and content note:** [Natasha Trethewey papers, Series 7: Born Digital materials](<https://archives.libraries.emory.edu/repositories/7/archival_objects/388394>) 
 
 **Corresponding MARC field:**  520
 
