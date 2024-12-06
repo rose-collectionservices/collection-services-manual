@@ -831,7 +831,7 @@ When describing restrictions, precede the first restriction note with "Special r
 	Library's policy on confidential information, the series is closed to researchers until January 1, 2050.
 *	Prior restrictions on Series 1: Correspondence expired on May 11, 2017.
 
-The University Archives Access Policy provides further information about embargo periods for certain types of record (including financial, medical, student, and personnel records): http://rose.library.emory.edu/documents/university-archives/eua-access-policy.pdf.
+The [University Archives Access Policy](<https://libraries.emory.edu/sites/default/files/2021-12/eua-access-policy.pdf>) provides further information about embargo periods for certain types of record (including financial, medical, student, and personnel records).
 
 When applicable, the following language is used for EUA use restriction notes:
 
