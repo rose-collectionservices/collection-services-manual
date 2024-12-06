@@ -20,7 +20,7 @@ Content owner: **Sarah Quigley**
 		* [5.1.6.1 Conditions governing access](#5161-conditions-governing-access)
 		* [5.1.6.2 Physical access](#5162-physical-access)
 	* [5.1.7 Conditions governing use](#517-conditions-governing-use)
-	* [5.1.8 Additional physical form](#518-additional-physical-form)
+	* [5.1.8 Existence and location of copies](#518-existence-and-location-of-copies)
 	* [5.1.9 Location of originals](#519-location-of-originals)
 	* [5.1.10 Publication note](#5110-publication-note)
 	* [5.1.11 Related collections in this repository](#5111-related-collections-in-this-repository)
@@ -620,7 +620,7 @@ When describing restrictions, precede the first restriction note with "Special r
 *![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
-### 5.1.8 Additional Physical Form
+### 5.1.8 Existence and Location of Copies
 
 **DACS Chapter 6.2:**
 
