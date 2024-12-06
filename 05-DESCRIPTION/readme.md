@@ -135,7 +135,7 @@ necessary.  The Rare Book Cataloger can also establish headings through the Libr
 | Positive Impact, Inc.                    | Archivist created                     |
 
 
-For additional guidance, see [DACS](<www.archivists.org/standards/DACS> "www.archivists.org/standards/DACS") and the Rose Library MARC manual.
+For additional guidance, see [DACS](<https://saa-ts-dacs.github.io/>) and the Rose Library MARC manual.
 
 **Corresponding MARC field:**  1xx
 
