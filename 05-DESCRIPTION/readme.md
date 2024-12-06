@@ -21,7 +21,7 @@ Content owner: **Sarah Quigley**
 		* [5.1.6.2 Physical access](#5162-physical-access)
 	* [5.1.7 Conditions governing use](#517-conditions-governing-use)
 	* [5.1.8 Existence and location of copies](#518-existence-and-location-of-copies)
-	* [5.1.9 Location of originals](#519-location-of-originals)
+	* [5.1.9 Existence and location of originals](#519-existence-and-location-of-originals)
 	* [5.1.10 Publication note](#5110-publication-note)
 	* [5.1.11 Related collections in this repository](#5111-related-collections-in-this-repository)
 	* [5.1.12 Related collections in other institutions](#5112-related-collections-in-other-institutions)
@@ -645,7 +645,7 @@ This field identifies any additional formats, such as microfilm or digital surro
   
 *	Field specifics
 	*  	Type = Existence and Location of Copies
-	*  	Label = Additional Physical Form
+ 	*  	Label = [blank; notes migrated from EmoryFindingAids database have label of "Additional Physical Form," but we are not using that label going forward.]
 	*	Publish = [box should be checked]
 	*	Content = [content of note, including hyperlink if relevant]
 
@@ -655,7 +655,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 *![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
-### 5.1.9 Location of Originals
+### 5.1.9 Existence and Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -673,6 +673,19 @@ This note identifies the format of the reproductions and the repository or indiv
 **Corresponding MARC field:**  535
 
 **Corresponding EAD element(s):** ``<originalsloc></originalsloc>``
+
+**Existence and Location of Originals note field in ArchivesSpace:**
+  
+*	Field specifics
+	*  	Type = Existence and Location of Originals
+ 	*  	Label = [blank; notes migrated from EmoryFindingAids database have label of "Additional Physical Form," but we are not using that label going forward.]
+	*	Publish = [box should be checked]
+	*	Content = [content of note, including hyperlink if relevant]
+
+**Example of ArchivesSpace Existence and Location of Copies note:**
+
+*Figure 15 (below): Example of an Existence and Location of Copies note in ASpace.*
+*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 ### 5.1.10 Publication Note
 
