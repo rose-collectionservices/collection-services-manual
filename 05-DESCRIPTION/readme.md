@@ -519,7 +519,7 @@ Describes the current organization of the collection.
 
 **Required:** Required at collection level.  Repeatable and required at the series and sub-series levels when applicable.
 
-The arrangement note does not include information about the archivist's actions or decisions during processing (see: [5.1.17 Processing Note](#5117-processing-note)). 
+The arrangement note does not include information about the archivist's actions or decisions during processing--see: [5.1.17 Processing Note](#5117-processing-note). 
 
 MARC records will require you to use "arranged" or "organized" depending on the level of description in question.  "Arranged" corresponds to the filing sequence while "organized" corresponds to the higher-lever subdivisions of the collection into hierarchical units.   
 
