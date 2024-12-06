@@ -1240,7 +1240,7 @@ Revision statements should be used to record information about significant chang
 The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
 ## 5.3 Reviewing and Editing Finding Aids
-[This section is being updated]## 5.3 Reviewing and Editing Finding Aids
+
 ### 5.3.1 Formatting the Finding Aid for Review 
 The processing archivist, upon completion of the draft, will create a reviewable finding aid through the following steps:
 * Publish the finding aid in the ASpace staff interface
