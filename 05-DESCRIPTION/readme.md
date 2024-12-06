@@ -1448,7 +1448,7 @@ These guidelines are a starting place and do not give comprehensive guidance on 
 * [Princeton Inclusive Description Working Group](<https://blogs.princeton.edu/techsvs/2020/02/28/inclusive-description-working-group/> "https://blogs.princeton.edu/techsvs/2020/02/28/inclusive-description-working-group/")
 * [The Radical Copyeditor's Style Guide for Writing about Transgender People](<https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/> "https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/")
 * [Safe Zone Project glossary](<https://thesafezoneproject.com/resources/vocabulary/> "https://thesafezoneproject.com/resources/vocabulary/")  
-* [Sunshine State Digital Network Metadata Working Group, Inclusive Metadata and Conscious Editing Resources](<https://docs.google.com/document/d/1APavAd1p1f9y1vBUudQIuIsYnq56ypzNYJYgDA9RNbU/edit> "https://docs.google.com/document/d/1APavAd1p1f9y1vBUudQIuIsYnq56ypzNYJYgDA9RNbU/edit")
+* [Sunshine State Digital Network Metadata Working Group, Inclusive Metadata and Conscious Editing Resources](<https://sunshinestatedigitalnetwork.wordpress.com/2020/10/05/inclusive-metadata-conscious-editing-resources/>)
 * [Tang, Annie, Dorothy Berry, Kelly Bolding, and Rachel E. Winston, "Toward Culturally Competent Archival (Re)Description of Marginalized Histories," slides from SAA2018 session](<https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1023&context=library_presentations> "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1023&context=library_presentations")
 
 *Footnotes:*
