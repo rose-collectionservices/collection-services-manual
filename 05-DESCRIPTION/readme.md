@@ -682,10 +682,10 @@ This note identifies the format of the reproductions and the repository or indiv
 	*	Publish = [box should be checked]
 	*	Content = [content of note, including hyperlink if relevant]
 
-**Example of ArchivesSpace Existence and Location of Copies note:**
+**Example of ArchivesSpace Existence and Location of Originals note:**
 
-*Figure 15 (below): Example of an Existence and Location of Copies note in ASpace.*
-*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
+*Figure 24 (below): Example of an Existence and Location of Originals note in ASpace.*
+*![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
 ### 5.1.10 Publication Note
 
