@@ -5,10 +5,10 @@ Content owner: **Laura Starratt**
 
 * [5.1 Finding aids](#51-finding-aids)
 	* [5.1.1 Main entry/creator](#511-main-entrycreator)
-	* [5.1.2 Title](#512-title)
+	* [5.1.2 Title](#512-title)	
  		* [5.1.2.1 Collection title](#5121-collection-title)
    		* [5.1.2.2 Series and subseries titles](#5122-series-and-subseries-titles)
-     		* [5.1.2.3 Folder titles](#5123-folder-titles)
+   		* [5.1.2.3 Folder titles](#5123-folder-titles)	
  	* [5.1.3 Identifier](#513-identifier)
   	* [5.1.4 Level of description](#514-level-of-description)
   	* [5.1.5 Resource type](#515-resource-type)
