@@ -1237,7 +1237,40 @@ Revision statements should be used to record information about significant chang
 The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
 ## 5.3 Reviewing and Editing Finding Aids
-[This section is being updated]
+[This section is being updated]## 5.3 Reviewing and Editing Finding Aids
+### 5.3.1 Formatting the Finding Aid for Review 
+The processing archivist, upon completion of the draft, will create a reviewable finding aid through the following steps:
+* Publish the finding aid in the ASpace staff interface
+* Open the finding aid in the public interface and export the finding aid to a pdf
+![image](https://github.com/user-attachments/assets/4a4e97ba-c2ee-4cfe-9feb-149a64f55045)
+* Unpublish the finding aid in the ASpace staff interface, or alternately, restrict the entire collection pending the finalization of the finding aid.
+* Open the PDF finding aid via the “show in folder” option from the download list or by navigating to the saved location in the file explorer.
+![image](https://github.com/user-attachments/assets/4ce75510-5280-40fe-9052-9b3a5f7c7109)
+* Convert the PDF to a Word document. To convert using Adobe Acrobat, right-click on the file in the folder and select “Edit with Adobe Acrobat”.
+![image](https://github.com/user-attachments/assets/4e6af45b-3cb0-4445-aab4-ed3f76901582)
+* Using the “Export PDF” option under the “Tools” tab (or a similar feature in another PDF editor), export to Microsoft Work>Word Document
+![image](https://github.com/user-attachments/assets/04b31f80-0115-4119-bf63-637f72325a17)
+* Save the Word document to the Manuscript Collection Descriptions or the EUA Series Descriptions folders in SharePoint.
+![image](https://github.com/user-attachments/assets/9ab4dde0-0bfb-4c5e-be13-8376fdbdfc58)
+* Post a link to this Word document in the finding-aid-review Slack channel with any necessary comments.
+
+### 5.3.2 Reviewing the Finding Aid
+At least two Collection Services staff members must review and offer feedback on each finding aid before it is published in ArchivesSpace. 
+
+Members of the Processing Team are primarily responsible for reviewing finding aids, although other Rose Library staff who process collections may also review them.   
+
+Steps for review:
+* Reviewers check all sections of the finding aid for content, some formatting (formatting issues caused by pdf/Word transition don’t need to be changed), and completeness. 
+* Reviewers will track changes in the Word document and make notes as needed.
+* When finished reviewing a finding aid, reviewers indicate this by reacting to the Slack post about the finding aid with a check mark.
+* The archivist who accessioned or processed the collection reviews feedback, updates the resource record in ArchivesSpace, and publishes the finding aid and/or unrestricts the collection.
+
+### 5.3.3 Reviews outside of Collection Services
+Depending on the nature of the collection, once Collection Services staff has reviewed the finding aid and all updates are made, the processing archivist may send the finding aid to the curator of the collecting area for additional review.
+
+If the curator advises, the processing archivist can send the completed finding aid (after publishing and using the permanent link) to the donor. 
+
+It is not necessary to delay publication of a finding aid in order to seek feedback from either the curator or collection donor.
 
    
 ## 5.4 Anti Oppressive Archival Description Principles and Guidelines
