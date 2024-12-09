@@ -180,7 +180,12 @@ NEVER redact the original document itself.  If the original document has intrins
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
 ### 6.7.2 Framed items
-When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
+* When possible, framed items such as photographs, certificates, or artwork, should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
+* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP.
+* Framed items that are too large to be boxed should be labeled and hung on the art racks on Level 11.
+	* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
+ 	* Framed items should be given an FR number to indicate that it is being stored onsite on the framed art shelves. In a collection FRs should be a separate sequence of numbers from the general box number sequence (i.e. FR1, FR2, etc.). When making the label, there is no space between FR and the number (i.e. FR1).
+  	* Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 ### 6.7.3 Quick Guide to Processing Photographs 
 [so you found some photographs...]
@@ -356,7 +361,8 @@ See [Section 16.2 Box naming conventions by shelving location](
 	* If a collection is being stored at the LSC, treat bound volumes (ledgers, scrapbooks, photograph albums, etc.) as you would any other oversized material. House the bound volume in an appropriately sized box and label it with regular box numbers.
  	* Legacy content for collections being stored onsite:
   		* BVs (bound volumes)
-    		* OBVs (oversized bound volumes) 
+    		* OBVs (oversized bound volumes)
+* #### Framed items -- see [6.7.2 Framed items](#672-framed-items)
 
 
 ####  Oversized materials
