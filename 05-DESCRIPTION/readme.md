@@ -418,7 +418,70 @@ data and/or extent of physical media for born digital content.
 
 ### 5.1.9 Finding aid data
 
-[This section is being updated]
+The Finding Aid Data sub-record is used to record administrative data about the archival description, usually for when the description is exported into Encoded Archival Description (EAD). This information is used to identify and provide bibliographic descriptive data about the finding aid for the resource and should not be confused with description of the archival resource itself. Some of this finding aid data is not required by ArchivesSpace for a valid resource record, and some fields do not directly correspond to DACS, but the following explains what is required and used administratively for Rose Library finding aids.  
+
+**Fields in the Finding Aid Data subheading:**
+
+**EADID (Required)** 
+
+(DACS Chapter 13.2 Authority Record Identifier)
+
+The EAD ID includes a unique identifier for the EAD generated from the resource description.  
+
+For Manuscript collections, this is usually the last name of creator followed by the manuscript number, all lowercase (e.g., jackson1531). In some cases, where the family name is not clarifying (i.e., there are already collections with that name), the processing archivist can choose to refine this by adding a first name (e.g. smithjohn12345). The alpha and numerical portions are not separated by a space. 
+
+For EUA collections, the EADID is “eua” followed by a four-digit series number (holding zeros are used, for example eua0301). The alpha and numerical portions are not separated by a space. [Legacy note: Historically the EADID for EUA collections also included a shortened form of the title, for ex. eua0029senate. After the migration to ASpace we have shifted to using just euaXXXX.]  
+
+ 
+**EAD Location**
+
+Do not use--leave blank. 
+
+[Legacy note: Records migrated from the Emory Finding Aids Database include an EAD location.]
+
+**Finding Aid Date**
+
+Do not use--leave blank.
+
+[Legacy note: Records migrated from the Emory Finding Aids Database include a finding aid date, which should be left intact because it indicates the date the finding aid was originally encoded. We are not using this field for new resource records going forward because ArchivesSpace will have that metadata elsewhere.]
+
+**Finding Aid Author (Required)** 
+
+Manually enter: “Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University” 
+
+**Description Rules (Required; autofilled)** 
+
+This field contains a drop-down option including other options, but Rose Library uses Describing Archives: A Content Standard, which will autopopulate.
+
+**Language of Description (Required; autofilled)** 
+
+This field describes the language used in the finding aid, so it will usually be English, which will autopopulate. 
+
+**Script of Description (Required; autofilled)** 
+
+This field describes the language used in the finding aid, so it will usually be Latin, which will autopopulate. 
+
+ 
+**Fields Not Used in Finding Aid Data Subheading** 
+
+Finding Aid Subtitle  
+
+Finding Aid Filing Title  
+
+Language of Description Note 
+
+Sponsor 
+
+Edition Statement 
+
+Series Statement 
+
+Finding Aid Status 
+
+Finding Aid Status Published
+
+Finding Aid Note 
+
 
 
 ### 5.1.10 Abstract
