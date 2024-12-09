@@ -5,7 +5,7 @@ Content owner: **Sarah Quigley**
 * [10.1 Team processing](#101-team-processing)
 * [10.2 Work plans](#102-work-plans)
 * [10.3 Asana](#103-asana)
-* [10.4 Time management: Toggl and Harvest](#104-time-management-toggl-and-harvest)
+* [10.4 Time management: Clockify](#104-time-management-clockify)
 
 ## 10.1 Team Processing
 
@@ -29,6 +29,5 @@ When the processing project is complete and all updates have been made to the wo
 
 [Asana](https://asana.com) is the project management program that Collection Services uses to track processing projects. Projects can be divided into task lists and each task can be assigned to individual team members.  Asana will send reminders about approaching deadlines to whoever is assigned a particular task.  Asana also allows team members to communicate via comments on tasks.  This program also offers a calendar view that allows team members to see deadlines in relation to other unit projects.  When a task is marked complete, a rainbow unicorn or other mythical creature will fly across the computer screen to celebrate. Staff can use Asana to track other projects as well.
 
-## 10.4 Time Management: Toggl and Harvest
-
-There are several tools processing teams will sometimes choose to use to manage and track the time they devote to different tasks.  [Toggl](https://toggl.com) is a project management program that helps determine the time commitment to each project. It tracks the time – like a stopwatch- of the project on which you are working. It can track multiple projects in addition to the tasks within the projects and sends a weekly statement of your usage. [Harvest](https://www.getharvest.com) is another tool that measures work progress. Both Harvest and Toggl work on the same principle, but Harvest can be integrated into Asana which allows for all tracking to be hosted in one space. There is a paid version of Harvest that allows for the tracking of multiple projects, but the free version allows for subdivisions of duties that works much the same way without an added cost. 
+## 10.4 Time Management: Clockify
+[This section needs to be updated]
