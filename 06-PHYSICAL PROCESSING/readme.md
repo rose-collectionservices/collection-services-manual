@@ -65,6 +65,7 @@ For more information on sorting, see:
 See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
 
 ## 6.3 Routine preservation during processing
+[moved from Section 9 Preservation] 
 
 Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
 
@@ -120,22 +121,22 @@ Separate the collection title and manuscript number, series and subseries titles
 ![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
 ## 6.5 Separating Materials 
-[moved from Section 7 Restrictions--needs additional editing]
+[moved from Section 7 Restrictions]
 
 For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
 
 ### 6.5.1 Attachments
-Items that are attached to each other should only be separated under limited circumstances. Always remove sound or video/film recordings, books, and other bulky items that affect storage when they are attached to letters or other documents. If a photograph or other printed item is attached to a document, there is no need to separate the items unless there is something extraordinarily compelling about the attachment and separate description is required.
+Items that are attached to each other should only be separated under limited circumstances. Always remove sound or video/film recordings, books, and other bulky items that affect storage when they are attached to letters or other documents. If a photograph or other printed item is attached to a document, there is no need to separate the items unless there is something extraordinarily compelling about the attached item and separate description is required.
 
-If an item is intricately related to another item in a series, the archivist should create a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the relationship between the two items. Complete the form, attaching one copy to the original item and a second copy to the item being removed. Separation should be done judiciously and only in cases where access to the item is significantly improved by separation.
+If an item merits separation, the archivist should create a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the relationship between the two items. Complete the form, attaching one copy to the original item and a second copy to the item being removed. Separation should be done judiciously and only in cases where access to the item is significantly improved by separation.
 
 In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document. Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]
 
 ### 6.5.2 Publications
-Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas are removed and cataloged. 
+Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed and cataloged. 
 
 * For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
-* If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
+* If an item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range on Level 9. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
 ## 6.6 Restricting and redacting materials
