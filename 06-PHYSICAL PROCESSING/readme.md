@@ -180,7 +180,7 @@ NEVER redact the original document itself.  If the original document has intrins
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
 ### 6.7.2 Framed items
-* When possible, framed items such as photographs, certificates, or artwork, should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
+* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
 * If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP.
 * Framed items that are too large to be boxed should be labeled and hung on the art racks on Level 11.
 	* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
