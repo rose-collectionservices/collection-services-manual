@@ -1,6 +1,6 @@
 # Physical Processing [draft]
 
-Content owner: **Sarah Quigley**
+Content owner: **Becky Sherman**
 
 * [6.1 Foldering materials](#61-foldering-materials)
 	* [6.1.1 Use of original folders](#611-use-of-original-folders)
