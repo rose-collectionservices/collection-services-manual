@@ -188,11 +188,10 @@ Newspaper clippings should be appraised for their relevancy to a collection and 
   	* Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 ### 6.7.3 Quick Guide to Processing Photographs 
-[so you found some photographs...]
 
-Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
+Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [6.5.1 Separating materials: Attachments](#651-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
-For additional guidelines and detailed information about processing photographs, see below.
+For additional guidelines and detailed information about processing photographs, see [below].
 
 ### 6.7.4 Processing Audiovisual Media
 [so you found some cassette tapes...]
