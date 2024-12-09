@@ -21,6 +21,9 @@ Content owner: **Becky Sherman**
  	* [6.7.2 Framed items](#672-framed-items)
 	* [6.7.3 Quick guide to processing photographs](#673-quick-guide-to-processing-photographs)
    	* [6.7.4 Processing audiovisual media](#651-processing-audiovisual-media)
+   		* [6.7.4.1 Accessioning/Minimal Level Processing of AV](#6741-accessioning-minimal-level-processing-of-AV)
+   	 	* [6.7.4.2 Granular Processing of AV](#6742-granular-processing-of-AV)
+   	  	* [6.7.4.3 Notes on Access to Commercial Recordings](#6743-notes-on-access-to-commercial-recordings)
 	* [6.7.5 Processing digital media](#652-processing-digital-media) 
 * [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
 	* [6.8.1 General guidelines](#681-general-guidelines)
@@ -51,39 +54,13 @@ Content owner: **Becky Sherman**
 
 This document provides guidance on physical processing tasks, according to local policy and practice at the Rose Library. 
 
-## 6.1 Foldering Materials
+## 6.1 Sorting
 
-### 6.1.1 Use of original folders
+## 6.2 Appraisal and weeding during processing
 
-If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
+See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
 
-### 6.1.2 Creasing and stuffing folders
-
-* Use legal-size folders as the default.
-* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
-
-### 6.1.3 Folder titles
-
-* Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
-* See also [17.5 Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
-
-### 6.1.4 Labeling folders
-
-Folders should be labeled with the following information: 
-
-* Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
-* Collection number;
-* Series/subseries title, if applicable;
-* Bolded header, if applicable;
-* Box number;
-* Folder number;
-* When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
-
-Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
-
-![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
-
-### 6.2 Routine preservation during processing
+## 6.3 Routine preservation during processing
 
 Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
 
@@ -105,43 +82,37 @@ Conduct the following minor preservation work during granular processing:
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
-## 6.3 Appraisal and weeding during processing
+## 6.4 Foldering Materials
 
-See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
+### 6.4.1 Use of original folders
 
-## 6.4 Restricting and redacting materials
+If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
 
-### 6.4.1 Restricting materials
-For restriction policies, see [Section 7 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-RESTRICTION%20POLICIES).
+### 6.4.2 Creasing and stuffing folders
 
-* Items that are restricted should be foldered separately:
-	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
- 	* If only individual items in a folder are restricted, separate those items from the rest of the contents of the folder that can be opened to researchers and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
-* For items restricted for preservation reasons, when possible create access copies and surrogates for fragile material, so that the access copy can be made available to researchers while the original fragile item remains restricted.
-* Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restriction end date together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.
-* Labels on restricted boxes must be stamped RESTRICTED. See labels section.
+* Use legal-size folders as the default.
+* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
 
-For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
+### 6.4.3 Folder titles
 
+* Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
+* See also [17.5 Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
 
-### 6.4.2 Redacting materials
+### 6.4.4 Labeling folders
 
-Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
+Folders should be labeled with the following information: 
 
-To redact information, either:
+* Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
+* Collection number;
+* Series/subseries title, if applicable;
+* Bolded header, if applicable;
+* Box number;
+* Folder number;
+* When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
 
-* Place an opaque bit of paper over the information to be redacted and make a photocopy (do not adhere the paper to the original document);
-* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
+Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
 
-Or:
-
-* Make a photocopy of the original document;
-* Using a black Sharpie marker, block out the information to be redacted on the photocopy;
-* Make a second photocopy and dispose of the first copy in the confidential shredding bin;
-* Repeat if sensitive information is still visible on the second copy;
-* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
-
-NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
+![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
 ## 6.5 Separating Materials 
 [moved from Section 7 Restrictions--needs additional editing]
@@ -162,20 +133,58 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 * If the item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
-## 6.6 Newspaper Clippings
+## 6.6 Restricting and redacting materials
+
+### 6.6.1 Restricting materials
+For restriction policies, see [Section 7 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-RESTRICTION%20POLICIES).
+
+* Items that are restricted should be foldered separately:
+	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+ 	* If only individual items in a folder are restricted, separate those items from the rest of the contents of the folder that can be opened to researchers and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [RESTRICTED].
+* For items restricted for preservation reasons, when possible create access copies and surrogates for fragile material, so that the access copy can be made available to researchers while the original fragile item remains restricted.
+* Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restriction end date together; for example, box all materials that can be opened to researchers in 2030 together.  When the restrictions expire, the box can simply be relabled and folders within redescribed as accessible in the finding aid.
+* Labels on restricted boxes must be stamped RESTRICTED. See labels section.
+
+For restriction notes, see 5.16.1 Restrictions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5161-conditions-governing-access)
+
+
+### 6.6.2 Redacting materials
+
+Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
+
+To redact information, either:
+
+* Place an opaque bit of paper over the information to be redacted and make a photocopy (do not adhere the paper to the original document);
+* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
+
+Or:
+
+* Make a photocopy of the original document;
+* Using a black Sharpie marker, block out the information to be redacted on the photocopy;
+* Make a second photocopy and dispose of the first copy in the confidential shredding bin;
+* Repeat if sensitive information is still visible on the second copy;
+* Include the following text on the photocopy:  "This is a redacted copy of the original document, with [redacted information, i.e. Social Security Numbers] obscured to protect the privacy/security of the individuals mentioned." 
+
+NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
+
+## 6.7 Quick Guide to Processing Special Formats
+
+### 6.7.1 Newspaper clippings
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
-## 6.7 Framed items
+### 6.7.2 Framed items
 When possible, **framed items** such as photographs, certificates, or artwork, should be unframed and stored according to the size of the item. If it is not possible to remove the frame, the item can be secured with pH buffered paper or bubble wrap and housed in an oversized box. In this case, it should be described in the finding aid according to the instructions above regarding oversized materials. Do not send framed items with glass to the LSC. Framed items that cannot be boxed should be labeled and hung on the 11th floor art racks. Describe these items in the finding aid as framed items (FR). Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the preservation liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
-## 6.8 Quick Guide to Processing Photographs [so you found some photographs...]
+### 6.7.3 Quick Guide to Processing Photographs 
+[so you found some photographs...]
 
 Generally speaking, in collections where photographs are only one part, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations (see Restriction and Separation for additional guidance on when and how to separate photos). If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
 For additional guidelines and detailed information about processing photographs, see below.
 
-## 6.9 Quick Guide to Processing Audiovisual Materials [so you found some cassette tapes...]
+### 6.7.4 Processing Audiovisual Media
+[so you found some cassette tapes...]
 
 [This section still needs to be updated.]
 
@@ -187,11 +196,11 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 
 For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r> "https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r").
 
-## 6.9.1 Accessioning/Minimal Level Processing of AV
+#### 6.7.4.1 Accessioning/Minimal Level Processing of AV
 
 Audiovisual materials will be rehoused upon accessioning into boxes labeled "AV."  If more than one box is used, it is preferable to keep audio and visual boxes (e.g. keep all audio together in one box and remove video to another as this will aid in digitization procedures).  Individual items can be rehoused as well at this point (audiocassettes should be in some kind of case) to ensure that damage does not occur.  
 
-### Rehousing upon accessioning
+#### Rehousing upon accessioning
 
 Upon accessioning, materials should be rehoused into AV Masters boxes.  Some individual materials may require rehousing (i.e. the individual cases or boxes for tapes), but archivists should use their judgment as to whether this is necessary.  It is preferable to do if the housing or item is broken, deteriorating, or unsupportive.  Original housing that is not broken and does not have acid stains or discoloration is adequate and can generally be left alone.  Materials that come in without sufficient housing or cases should be placed in one. should be housed.
 
@@ -230,7 +239,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
-## 6.9.2 Granular Processing of AV
+#### 6.7.4.2 Granular Processing of AV
 
 Audiovisual materials should be fully processed in conjunction with the paper materials of the collection, and minimal level processing should have been done at accessioning, so materials should be identified at least at that level.  It is likely that as of 2016, most collections will have not gone through the accession procedure listed above, so extra attention should be paid to those materials that have not been identified.  Regardless of the accessioning procedure followed, the following will need to be done for identification:
 
@@ -266,7 +275,7 @@ Note: Image includes a date format that is no longer used.  The approved format 
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization. Processing staff should use the [Media Guide](https://emory.sharepoint.com/:b:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Media%20Guide.pdf?csf=1&web=1&e=vawA0O) to identify formats.
 
-## 6.9.3 Notes on Access to Commercial Recordings
+#### 6.7.4.3 Notes on Access to Commercial Recordings
 If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection. However, if this is done, and the archivist should note the identity of each title with the following language:
 
 "Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
@@ -276,26 +285,27 @@ The following language should be included at the series and/or subseries level r
 "Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
 
 
-## 6.10 Quick Guide to Processing Born digital Physical Media [so you found some floppy disks...]
-Quick overview of what to do if you find born digital materials in a collection.
+### 6.7.5 Processing digital media
+[so you found some floppy disks...]
+Quick overview of what to do if you find digital materials in a collection.
 
 Link out to the born digital manual.
 
 
 
-## 6.11 Boxing Collections and Numbering Boxes
+## 6.8 Boxing Collections and Numbering Boxes
 
-### 6.11.1 General guidelines
+### 6.8.1 General guidelines
 * Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 * Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.
 * Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Numbers on box labels should say "Box 1," "Box 2," etc.
 
-### 6.11.2 Box naming conventions by shelving location
+### 6.8.2 Box naming conventions by shelving location
 
 See [Section 16.2 Box naming conventions by shelving location](
 
 
-### 6.11.3 Materials that should be boxed separately
+### 6.8.3 Materials that should be boxed separately
 
 **Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
 
@@ -307,7 +317,7 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 
 
-### 6.11.4 Oversized materials
+### 6.8.4 Oversized materials
 
 * Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible. 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
@@ -342,12 +352,7 @@ See [Section 16.2 Box naming conventions by shelving location](
     		* OBVs (oversized bound volumes) 
 
 
-
-
-
-
-
-#### 6.6.3 Oversized materials
+####  Oversized materials
 
 **Preferred: for collections that are or will be primarily stored at the LSC:** Any material that fits into a box (instead of a folder) . Folders up to 24" x 36" should be given an OP (oversized papers) number to indicate that it is being stored onsite on Level 11 in the Abbey. Materials larger than that will be given an XOP (extra-oversized papers) number to indicate that it is being stored onsite on Level 11 in the Nunnery. The LSC will accept boxes up to 20" x 24," and boxes sent to the LSC should be given regular box numbers rather than OP numbers since OP references a shelving location. Due to space constraints in oversized material shelving in the Abbey and the Nunnery, newly accessioned or processed oversized material should be sent to the LSC when possible.
 
@@ -363,9 +368,9 @@ Legacy content: WBound items that will fit in Hollinger document case should be 
 
 
 
-## 6.12 Labeling boxes
+## 6.9 Labeling boxes
 
-### 6.12.1 General labels
+### 6.9.1 General labels
 
 **Box labels** should include the following information (see figure 2 for an example): 
 
@@ -401,7 +406,7 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 ![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-### 6.12.2 Labels for materials treated for mold
+### 6.9.2 Labels for materials treated for mold
 
 Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
@@ -422,11 +427,11 @@ Boxes that have been treated for mold must be housed separately from the rest of
 *Figure 9: Oversized box with mold notice label*
 
 
-### 6.12.3 Labeling Restricted Material
+### 6.9.3 Labeling Restricted Material
 
-See 6.4.1 Restricting materials for how to folder and box restricted material.
+See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
 
-Restricted boxes should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
+Restricted boxes that are not requestable by researchers should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
 
 ![Figure 10: Restricted material](/06-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
 
@@ -446,7 +451,7 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-## 6.13 Barcodes
+## 6.10 Barcodes
 
 ## 6.14 Deep dives by format
 ### 6.14.1 Photographs
