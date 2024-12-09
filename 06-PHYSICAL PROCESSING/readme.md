@@ -305,7 +305,7 @@ Link out to the born digital manual.
 
 ### 6.8.1 General guidelines
 * Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
-* Folders should be placed within the box with enough room that the archivist's fingers just reach the bottom. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down.  Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials.
+* Folders should be packed with boxes so that the folders fit snugly. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down, and there should be enough room that the archivist's fingers just reach the bottom of the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials when boxing.
 * Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Numbers on box labels should say "Box 1," "Box 2," etc.
 
 ### 6.8.2 Box naming conventions by shelving location
@@ -315,13 +315,13 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 ### 6.8.3 Materials that should be boxed separately
 
-**Restricted material** must be housed separately from the rest of the collection [(see 6.6.5)](#665-boxing-and-labeling-restricted-material).
+**Restricted material** must be housed separately from the rest of the collection and the label stamped as restricted; [see 6.6.1 Restricting materials](#661-restricting materials) and 6.9.3 Labeling Restricted Material (#693-labeling-restricted-material).
 
-**Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV." 
+**Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV"; see [6.7.4 Processing audiovisual media])(#674-processing-audiovisual-media).
 
-**Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV."
+**Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV"; [see 6.7.5 Processing digital media](#675-processing-digital-media)
 
-**Material that has been treated for mold** must be housed separately from the rest of the collection [(see 6.6.4)](#664-labels-for-materials-treated-for-mold).   
+**Material that has been treated for mold** must be housed separately from the rest of the collection and a moldy label affixed; see [9.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#92-moldy-materials) and [6.9.3 Labels for materials trated for mold](#6.9.2-labels-for-materials-treated-for-mold). 
 
 
 
