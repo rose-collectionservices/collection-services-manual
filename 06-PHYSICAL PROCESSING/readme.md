@@ -464,6 +464,10 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
+### 6.9.4 Printing labels
+
+See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
+
 ## 6.10 Barcodes
 
 ## 6.14 Deep dives by format
