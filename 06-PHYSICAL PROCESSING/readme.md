@@ -194,9 +194,7 @@ Generally speaking, in collections where photographs are only one of the formats
 For additional guidelines and detailed information about processing photographs, see [below].
 
 ### 6.7.4 Processing Audiovisual Media
-[so you found some cassette tapes...]
-
-[This section still needs to be updated.]
+[So you found some cassette tapes...this section still needs to be updated.]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
