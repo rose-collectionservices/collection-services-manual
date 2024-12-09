@@ -91,7 +91,7 @@ For questions about possible preservation needs in a collection, consult the Ros
 
 ### 6.4.1 Use of original folders
 
-If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents.  Otherwise, folder titles and other basic information may be transcribed and the original container discarded.  If a folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
+If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents; original folders can be inserted into new acid-free folders along with the contents of the folder.  Otherwise, folder titles and other basic information may be transcribed onto acid-free folders and the original container discarded.  If an original folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
 
 ### 6.4.2 Creasing and stuffing folders
 
@@ -101,7 +101,7 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 6.4.3 Folder titles
 
 * Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
-* See also [17.5 Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
+* See also [17.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
 
 ### 6.4.4 Labeling folders
 
