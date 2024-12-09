@@ -72,11 +72,12 @@ During detailed processing, archivists may do more granular preservation work li
 
 Conduct the following minor preservation work during granular processing:
 
-* Properly folder and box materials (see 6.1.2 Creasing and stuffing folders and 6.x.x. Boxing collections)
+* Properly folder and box materials--see [6.4.2 Creasing and stuffing folders](#642-creasing-and-stuffing-folders) and [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
 * Remove letters from envelopes. This ensures that continued refolding over time in the reading room will not weaken paper fibers and lead to tears.
 * Unfold/flatten all documents, including bent corners. As above, this reduces repeated folding and unfolding that weakens the paper and causes tears. Smoothing bent corners prevents papers from catching on each other and causing more damage. Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
-* Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point. Stable environmental controls will prevent damage from developing.
-* Photocopy all thermal fax paper (glossy paper similar to receipt paper). The nature of fax paper causes information printed on it to fade over time. Photocopying is the only way to preserve that information. When photocopying, if all of the content of a document transfers legibly to the photocopy, discard the original fax. If severely faded areas of the original fax do not copy and show as blank spots on the photocopy, keep both the original and the new copy.
+* Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point. Stable environmental controls will prevent further damage from developing.
+* Photocopy all thermal fax paper (glossy paper similar to receipt paper). The nature of fax paper causes information printed on it to fade over time. Photocopying is the only way to preserve that information. When photocopying, if all of the content of a document transfers legibly to the photocopy, discard the original fax. If severely faded areas of the original fax do not copy and show as blank spots on the photocopy, keep both the original and the new photocopy.
+* Do NOT photocopy newspaper clippings as a matter of course because of the common availability of that information.
 * Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library Preservation Liaison.
 * Sleeve torn documents in mylar.
 * Flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved.
@@ -323,7 +324,8 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 ### 6.8.4 Oversized materials
 
-* Material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible. 
+* Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
+* Oversized material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible. 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since the OP indicates a shelving location.
 * #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
