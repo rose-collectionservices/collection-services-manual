@@ -2,37 +2,38 @@
 
 Content owner: **Becky Sherman**
 
-* [6.1 Foldering materials](#61-foldering-materials)
-	* [6.1.1 Use of original folders](#611-use-of-original-folders)
- 	* [6.1.2 Creasing and stuffing folders](#612-creasing-and-stuffing-folders)
-  	* [6.1.3 Folder titles](#613-folder-titles)
-  	* [6.1.4 Labeling folders](#614-labeling-folders)	 
-* [6.2 Routine preservation during processing](#62-routine-preservation-during-processing)
-* [6.3 Appraisal and weeding during processing](#63-appraisal-and-weeding-during-processing)
-* [6.4 Restricting and redacting materials](#64-restricting-and-redacting-materials)
-	* [6.4.1 Restricting materials](#641-restricting-materials)
- 	* [6.4.2 Redacting materials](#642-redacting-materials)
+* [6.1 Sorting](#61-sorting)
+* [6.2 Appraisal and weeding during processing](#62-appraisal-and-weeding-during-processing)
+* [6.3 Routine preservation during processing](#63-routine-preservation-during-processing)
+* [6.4 Foldering materials](#64-foldering-materials)
+	* [6.4.1 Use of original folders](#641-use-of-original-folders)
+ 	* [6.4.2 Creasing and stuffing folders](#642-creasing-and-stuffing-folders)
+  	* [6.4.3 Folder titles](#643-folder-titles)
+  	* [6.4.4 Labeling folders](#644-labeling-folders)	 
 * [6.5 Separating materials](#65-separating-materials)
   	* [6.5.1 Attachments](#651-attachments)
   	* [6.5.2 Publications](#652-publications)
-* [6.6 Newspaper clippings]
-* [6.7 Framed items]
-* [6.8 Quick Guide to Processing Photographs](#63-photographs)	
-* [6.9 Quick Guide to Processing Audiovisual Materials](#65-audiovisual-materials)
-	* [6.9.1 Accessioning/Minimal Level Processing of AV](#651-accessioning-minimal-level-processing)
-	* [6.9.2 Granular processing of AV](#6512-processing)
-	* [6.9.3 Notes on Access to commercial recordings] (#653-notes-on-access)
-* [6.10 Quick Guide to Processing Born digital Physical Media] 
-* [6.11 Boxing collections and numbering boxes]
-	* [6.11.1 General guidelines]
- 	* [6.11.2 Box naming conventions by shelving location]
-  	* [6.11.3 Materials that should be boxed separately]
-  	* [6.11.4 Oversized materials]
-* [6.12 Labeling boxes]
- 	* [6.12.1 General labels](#663-general-labels)
-  	* [6.12.2 Labels for materials treated for mold](#664-labels-for-materials-treated-for-mold) 	
-	* [6.12.3 Labeling restricted material](#665-boxing-and-labeling-restricted-material)
- * [6.13 Barcodes]
+* [6.6 Restricting and redacting materials](#66-restricting-and-redacting-materials)
+	* [6.6.1 Restricting materials](#661-restricting-materials)
+ 	* [6.6.2 Redacting materials](#662-redacting-materials)
+* [6.7 Quick guide to processing special formats](#67-quick-guide-to-processing-special-formats)
+	* [6.7.1 Newspaper clippings](#671-newspaper-clippings)
+ 	* [6.7.2 Framed items](#672-framed-items)
+	* [6.7.3 Quick guide to processing photographs](#673-quick-guide-to-processing-photographs)
+   	* [6.7.4 Processing audiovisual media](#651-processing-audiovisual-media)
+	* [6.7.5 Processing digital media](#652-processing-digital-media) 
+* [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
+	* [6.8.1 General guidelines](#681-general-guidelines)
+ 	* [6.8.2 Box naming conventions by shelving location](#682-box-naming-conventions-by-shelving-location)
+  	* [6.8.3 Materials that should be boxed separately](#683-materials-that-should-be-boxed-separately)
+  	* [6.8.4 Oversized materials](#684-oversized-materials)
+* [6.9 Labeling boxes](#69-labeling-boxes)
+ 	* [6.9.1 General labels](#691-general-labels)
+  	* [6.9.2 Labels for materials treated for mold](#692-labels-for-materials-treated-for-mold) 	
+	* [6.9.3 Labeling restricted material](#693-boxing-and-labeling-restricted-material)
+ 	* [6.9.4 Printing labels](#694-printing-labels)
+ * [6.10 Barcodes](#619-barcodes)
+ * 
  * [6.14 Format-specific procedures--getting moved to a separate top level section]
 	* [6.14.1 Photographs]
  		* [6.14.1 General rules](#631-general-rules)
