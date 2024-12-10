@@ -2,20 +2,20 @@
 
 Content owner: **Becky Sherman**
 
-* [9.1 Routine preservation during processing](#91-routine-preservation-during-processing)
-* [9.2 Moldy Materials](#92-moldy-materials)
-* [9.3 Sending collection material to the Conservation Lab](#93-sending-collection-material-to-the-conservation-lab)
-	* [9.3.1 Manuscript and EUA material](#931-manuscript-and-EUA-material)
-	* [9.3.2 Books](#932-books)
-	* [9.3.3 Audiovisual Material](#933-audiovisual-material)
- * [9.4 Pest Management](#94-pest-management)
- * [9.5 Environmental Monitoring](#95-environmental-monitoring)
+* [12.1 Routine preservation during processing](#121-routine-preservation-during-processing)
+* [12.2 Moldy Materials](#122-moldy-materials)
+* [12.3 Sending collection material to the Conservation Lab](#123-sending-collection-material-to-the-conservation-lab)
+	* [12.3.1 Manuscript and EUA material](#1231-manuscript-and-EUA-material)
+	* [12.3.2 Books](#1232-books)
+	* [12.3.3 Audiovisual Material](#1233-audiovisual-material)
+ * [12.4 Pest Management](#124-pest-management)
+ * [12.5 Environmental Monitoring](#125-environmental-monitoring)
 
-## 9.1 Routine preservation during processing
+## 12.1 Routine preservation during processing
 See [6.2 Routine preservation during processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-PHYSICAL%20PROCESSING#62-routine-preservation-during-processing)
 
 
-## 9.2 Moldy Materials
+## 12.2 Moldy Materials
 
 When you encounter moldy materials while processing or accessioning: 
 * Segregate the damaged items from the rest of the collection. 
@@ -31,11 +31,11 @@ When contaminated materials return from being treated:
 * It is highly preferred to send items that have been treated for mold to the LSC following treatment. Boxes that were previously treated for mold but must remain onsite should be shelved with the rest of the location.
    
 
-## 9.3 Sending Collection Material to the Conservation Lab 
+## 12.3 Sending Collection Material to the Conservation Lab 
  
 The Head of Collection Services, Rose Library Preservation Liaison, and Rare Book Cataloger meet quarterly to discuss preservation priorities and plan treatments for the upcoming quarter. Moldy items, photographs stuck together, torn pages, and special rehousing of large or oddly shaped materials are among the most common conservation problems in manuscript collections. 
 
-### 9.3.1 Manuscript and EUA material
+### 12.3.1 Manuscript and EUA material
 
 The process by which manuscript and archives items enter and move through the queue is as follows: 
 
@@ -91,7 +91,7 @@ Once items have been returned from conservation:
    	  	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.     	 
 
 
-### 9.3.2 Books
+### 12.3.2 Books
 
 The Rose Library preservation liaison is currently responsible for managing and tracking the workflow of books to the conservation lan. (The Rare Book Cataloger would normally be responsible for this.) 
 
@@ -124,7 +124,7 @@ The process by which books enter and move through the queue is as follows:
 * Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority for treatment. 
 * Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Rose Library preservation liaison. 
 
-### 9.3.3 Audiovisual Material
+### 12.3.3 Audiovisual Material
 
 The audiovisual liaison is responsible for identifying audiovisual mateiral in manuscript collections, reviewing the material, and sending items to the Conservation Lab for preservation. Due to the instability of magnetic tape as a format, all non-commercial audiovisual materials are digitally reformatted to preserve the content of the tape, and researchers can only access that content via digital surrogate in our reading room. The process by which manuscript and archives items enter and move through the queue is as follows:
 
@@ -137,7 +137,7 @@ The audiovisual liaison is responsible for identifying audiovisual mateiral in m
 7. Once returned, the Rose Library liaison will update the Conservation List, the rights statement, and Keep metadata as well as create digital access object tags in the encoded finding aid.  Research Services staff will be notified if the transaction is patron driven. 
 8. Rose Library liaison will return materials to shelf
 
-### 9.4 Pest Management
+### 12.4 Pest Management
 
 The Rose Library preservation liaison is responsible for monitoring bug traps on L9-L11.
 * Once a month, the preservation liaison should inspect all bug traps on L9-L11 and replace any traps as needed.
@@ -149,6 +149,6 @@ The Rose Library preservation liaison is responsible for monitoring bug traps on
 
 Updates to this spreadsheet will be monitored by the Conservator, who is responsible for communicating with facilities (Le'Denna Harris) and the pest management company. **The preservation liaison should notify the Conservator and Le'Denna Harris immediately if there are any major pest issues that require immediate attention.**
 
-### 9.5 Environmental Monitoring
+### 12.5 Environmental Monitoring
 
 Dataloggers are located on L9-L11 and monitored by Preservation staff. Preservation staff sends monthly environmental reports to Rose Library staff each month and an annual report at the end of the calendar year. Rose staff should review to ensure that there have been no significant changes to temperatures and relative humidity over the course of the reporting period. These reports then get filed in a OneDrive folder: EUV Rose Library > Cataloging and Collection Processing > Preservation > Environmental Reports. 
