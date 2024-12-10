@@ -4,14 +4,14 @@
 Content owner:
 
 
-* [2.3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
-* [2.3.2 Creation of the accession record](#232-creation-of-the-accession-record)
-* [2.3.3 Accessioning digital objects](#233-accessioning-digital-objects)
-* [2.3.4 Digital Accessioning workflows](#234-accessioning-workflows)
+* [3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
+* [3.2 Creation of the accession record](#232-creation-of-the-accession-record)
+* [3.3 Accessioning digital objects](#233-accessioning-digital-objects)
+* [3.4 Digital Accessioning workflows](#234-accessioning-workflows)
 	* [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)
-* [2.3.5 Creating the CL-2 file](#235-creating-the-cl-2-file)
+* [3.5 Creating the CL-2 file](#235-creating-the-cl-2-file)
 	* [2.3.5.1 Electronic CL-2 file (vital docs folder)](#2351-electronic-cl-2-file-vital-docs-folder)
-* [2.3.6 Accessioning checklist](#236-accessioning-checklist)
+* [3.6 Accessioning checklist](#236-accessioning-checklist)
 	
 
 
@@ -31,7 +31,7 @@ limited. Detailed processing is not common at this time, though may be warranted
 
 Determine the appropriate [level of processing](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
 
-### 2.3.1 Managing Accessioning Workflow
+## 3.1 Managing Accessioning Workflow
 
 *Note: This workflow was fully implemented for Fiscal Year 2019 (FY19). Collection material received prior to FY19 will be accessioned in ArchivesSpace but may not follow current process.*
 
@@ -84,7 +84,7 @@ The system of record for accession information is [ArchivesSpace](<https://emory
 
 The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
 
-### 2.3.2 Creation of the Accession Record
+## 3.2 Creation of the Accession Record
 
 Browse accessions and sort by identifier to see the most recent accession number, so that you may assign the next number in sequence.
 
@@ -298,7 +298,7 @@ If the collection is a purchase, also record the currency in which the purchase 
 
 When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number on the aperwork filed in the physical CL-2 file.
 
-## 2.3.3 Accessioning Digital Objects
+## 3.3 Accessioning Digital Objects
 
 In order to ensure consistency across accession records, archivists should use the digital archives controlled vocabulary to describe digital objects (see [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)).
 
@@ -311,7 +311,7 @@ Apart from exceptional cases, you should not accession computer peripherals (mon
 
 If you have questions about whether a digital object should be accessioned, consult with the digital archivist.
 
-## 2.3.4 Digital Accessioning Workflows
+## 3.4 Digital Accessioning Workflows
 
 Like all collection material, born-digital media and files should not be accessioned until paperwork has been completed. The workflow will vary slightly depending on the method of transfer or if the born-digital material is part of a hybrid collection.  
 
@@ -349,7 +349,7 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 * The digital archivist ingests the transferred files into the digital repository.
 * The digital archivist adds information about the file transfer to the born-digital inventory, and notes that files have been ingested into the digital repository.
 
-### 2.3.4.1 Digital Archives Controlled Vocabulary
+### 3.4.1 Digital Archives Controlled Vocabulary
 
 | ﻿Term             | Description                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------|
@@ -364,7 +364,7 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 | Monitor          | Describes computer monitors (and any other peripherals)                                            |
 | Zip disk         | Describes zip disks                                                                                |
 
-### 2.3.5 Creating the CL-2 File
+### 3.5 Creating the CL-2 File
 
 The permanent collection files document the history of a collection including, solicitation, acquisition, processing, and later communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
 
@@ -372,12 +372,12 @@ When we receive a new collection, the staff member accessioning the material is 
 
 If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
 
-### 2.3.5.1 Electronic CL-2 File (Vital Docs Folder)
+### 3.5.1 Electronic CL-2 File (Vital Docs Folder)
 
 There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX") available on OneDrive/SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on OneDrive and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
 
-### 2.3.6 Accessioning Checklist
+### 3.6 Accessioning Checklist
 
 - [ ] [Create/update accession record](#232-creation-of-the-accession-record)
 - [ ] Write accession number on the acquisitions paperwork
