@@ -208,13 +208,13 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 	* Identifier = Manuscript Collection No. XXXX [You must type out "Manuscript Collection No." as it does not autopopulate. The entire thing should be entered into the first blank field.]
 
 *Figure 20 (below): Example of Identifier field for a manuscript collection in ASpace.*
-*![Figure 20: Example of Identifier field for a manuscript collection in ASpace](/05-DESCRIPTION/Images/Figure20.jpg)
+*![Figure 20: Example of Identifier field for a manuscript collection in ASpace](/06-DESCRIPTION/Images/Figure20.jpg)
 
 * For EUA collections:
 	* Identifier = Series No. XXX [You must type out "Series No." as it does not autopopulate. The entire thing should be entered into the first blank field.]
 
 *Figure 21 (below): Example of Identifier field for an EUA collection in ASpace.*
-*![Figure 21: Example of Identifier field for an EUA collection in ASpace](/05-DESCRIPTION/Images/Figure21.jpg)
+*![Figure 21: Example of Identifier field for an EUA collection in ASpace](/06-DESCRIPTION/Images/Figure21.jpg)
 
 ### 6.1.4 Level of description
 
@@ -275,7 +275,7 @@ amounts of material in those languages.
 **Example of ArchivesSpace Language field and Language of Materials note:**
 
 *Figure 16 (below): Example of Language field and Language of Materials note in ASpace.*
-*![Figure 16: Example of a Language field and Language of Materials note in ASpace](/05-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
+*![Figure 16: Example of a Language field and Language of Materials note in ASpace](/06-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
 
 
 ### 6.1.7 Dates
@@ -368,7 +368,7 @@ life of the organization or when the volume of material within the bulk dates is
 **Example of ArchivesSpace Dates field:**
 
 *Figure 17 (below): Example of dates fields for inclusive dates and bulk dates.*
-*![Figure17](/05-DESCRIPTION/Images/Figure17.jpg "Example of dates fields for inclusive dates and bulk dates.")
+*![Figure17](/06-DESCRIPTION/Images/Figure17.jpg "Example of dates fields for inclusive dates and bulk dates.")
 
 		
 
@@ -407,9 +407,9 @@ data and/or extent of physical media for born digital content.
 
 **Examples of ArchivesSpace Extent Subrecords:**
 
-![Figure5: Extent subrecord 1](/05-DESCRIPTION/Images/Figure5.jpg "Extent subrecord example 1")
+![Figure5: Extent subrecord 1](/06-DESCRIPTION/Images/Figure5.jpg "Extent subrecord example 1")
 
-![Figure6: Extent subrecord 2](/05-DESCRIPTION/Images/Figure6.jpg "Extent subrecord example 2")
+![Figure6: Extent subrecord 2](/06-DESCRIPTION/Images/Figure6.jpg "Extent subrecord example 2")
  
 **Corresponding MARC field:**  300
 
@@ -561,7 +561,7 @@ Scope and Content Notes are also required at every series and sub-series level. 
 
 This note is repeatable at the folder level and can be used to present important information specific to that folder or item that is not appropriate for a higher level note.  See figure 1 for an example:   
 
-![Figure 1: Sample folder level scope and content note](/05-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
+![Figure 1: Sample folder level scope and content note](/06-DESCRIPTION/Images/Figure1.jpg "Sample folder level scope and content note")
 
 *Figure 1: Sample folder level scope and content note*
 
@@ -582,7 +582,7 @@ Describes the current organization of the collection.
 
 **Required:** Required at collection level.  Repeatable and required at the series and sub-series levels when applicable.
 
-The arrangement note does not include information about the archivist's actions or decisions during processing--see: [5.1.17 Processing Note](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5117-processing-information>). 
+The arrangement note does not include information about the archivist's actions or decisions during processing--see: [6.1.17 Processing information](#6117-processing-information). 
 
 MARC records will require you to use "arranged" or "organized" depending on the level of description in question.  "Arranged" corresponds to the filing sequence while "organized" corresponds to the higher-lever subdivisions of the collection into hierarchical units.   
 
@@ -669,7 +669,7 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 **Example of ArchivesSpace Immediate Source of Acquisition note:**
 
 *Figure 19 (below): Example of Immediate Source of Acquisition note in ASpace.*
-*![Figure 19: Example of Immediate Source of Acquisition note in ASpace](/05-DESCRIPTION/Images/Figure19.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
+*![Figure 19: Example of Immediate Source of Acquisition note in ASpace](/06-DESCRIPTION/Images/Figure19.jpg "Figure 17: Example of Immediate Source of Acquisition in ASpace")
 
 
 **Source Agent Link in ArchivesSpace resource record (optional):**
@@ -689,7 +689,7 @@ Provides information on changes of ownership or custody of the material being de
 
 **Required:** Optional. Preferred when applicable. 
 
-This field is used in conjunction with the Source note (see [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition) for more information) to describe the provenance of the collection from the point at which the material left the possession of the creator until it was arrived at the Rose. It may include:
+This field is used in conjunction with the Source note (see [6.1.14 Immediate source of acquisition](#6114-immediate-source-of-acquisition) for more information) to describe the provenance of the collection from the point at which the material left the possession of the creator until it was arrived at the Rose. It may include:
 
 * The physical location and storage conditions of the collection between creation and donation, including dates if known; 
 * People or institutions acting on the records and the actions that they took, when that information can be made public; 
@@ -932,16 +932,16 @@ When applicable, the following language is used for EUA use restriction notes:
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
 *Figure 7 (below): Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
-*![Figure7new](/05-DESCRIPTION/Images/Figure7new.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*![Figure7new](/06-DESCRIPTION/Images/Figure7new.JPG "Example of a collection level Conditions Governing Access note with donor restrictions, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
 *Figure 8 (below): Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.*
-![Figure8new](/05-DESCRIPTION/Images/Figure8new.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
+![Figure8new](/06-DESCRIPTION/Images/Figure8new.JPG "Example of a series level Conditions Governing Access note with donor restrictions (with no end date for restrictions, which is not ideal). This note would make all AOs and containers in this series unrequestable.")
 
 
 
 *Figure 9 (below): Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.*
-![Figure9new](/05-DESCRIPTION/Images/Figure9new.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
+![Figure9new](/06-DESCRIPTION/Images/Figure9new.JPG "Example of a file level Conditions Governing Access note for privacy reasons. This note would restrict that AO and make that container unrequestable.")
 
 
 
@@ -992,7 +992,7 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of ArchivesSpace Conditions Governing Access notes:**
 
 *Figure 10 (below): Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.*
-*![Figure10new](/05-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
+*![Figure10new](/06-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
 ### 6.1.19 Conditions Governing Use
@@ -1038,7 +1038,7 @@ When describing restrictions, precede the first restriction note with "Special r
 **Example of ArchivesSpace Conditions Governing Use note:**
 
 *Figure 11 (below): Example of a Conditions Governing Use note with the standard note language.*
-*![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
+*![Figure11](/06-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
 ### 6.1.20 Preferred Citation
@@ -1092,7 +1092,7 @@ This field identifies any other collections in the Rose Library that have a clos
 **Example of ArchivesSpace Related Collections in This Repository note:**
 
 *Figure 12 (below): Example of a Related Collections in This Repository note in ASpace.*
-![Figure 12: Example of a Related Collections in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Collections in This Repository note")
+![Figure 12: Example of a Related Collections in This Repository note](/06-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Collections in This Repository note")
 
 ### 6.1.22 Related Materials: Related Collections in Other Repositories
 
@@ -1126,7 +1126,7 @@ This field identifies collections held in other repositories that have a close r
 **Example of ArchivesSpace Related Collections in Other Repositories note:**
 
 *Figure 13 (below): Example of a Related Collections in Other Repositories note in ASpace.*
-![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
+![Figure 13: Example of a Related Materials in Other Repositories note](/06-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
 
 ### 6.1.23 Separated Materials
 
@@ -1153,7 +1153,7 @@ This field identifies materials that have been physically removed from the colle
 **Example of ArchivesSpace Separated Materials note:**
 
 *Figure 14 (below): Example of a Separated Materials note in ASpace.*
-*![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
+*![Figure 14: Example of a Separated Materials note](/06-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
 
 ### 6.1.24 Other Finding Aids
 
@@ -1209,7 +1209,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 **Example of ArchivesSpace Existence and Location of Copies note:**
 
 *Figure 15 (below): Example of an Existence and Location of Copies note in ASpace.*
-*![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
+*![Figure 15: Example of an Existence and Location of Copies note](/06-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
 ### 6.1.26 Existence and Location of Originals
@@ -1242,7 +1242,7 @@ This note identifies the format of the reproductions and the repository or indiv
 **Example of ArchivesSpace Existence and Location of Originals note:**
 
 *Figure 24 (below): Example of an Existence and Location of Originals note in ASpace.*
-*![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
+*![Figure 24: Example of an Existence and Location of Originals note](/06-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
 
 ### 6.1.27 Bibliography: Publication Note
@@ -1274,7 +1274,7 @@ This note should identify editorial projects based on collection material.  It i
 **Example of ArchivesSpace Bibliography note:**
 
 *Figure 25 (below): Example of a Bibliography note in ASpace.*
-*![Figure 25: Example of a Bibliography note](/05-DESCRIPTION/Images/Figure25.jpg "Figure 25: Example of a Bibliography note")
+*![Figure 25: Example of a Bibliography note](/06-DESCRIPTION/Images/Figure25.jpg "Figure 25: Example of a Bibliography note")
 
 
 
