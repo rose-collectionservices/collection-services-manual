@@ -326,7 +326,8 @@ See [Section 16.2 Box naming conventions by shelving location](
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since OP indicates a shelving location.
 * #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
-	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
+	* Folders up to 20x24" should be placed inside an appropriately sized box.
+ 	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
  	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
     	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
      	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.		
@@ -358,16 +359,18 @@ See [Section 16.2 Box naming conventions by shelving location](
  	* If a collection is being stored onsite:
   		* If a box containing a bound volume is small enough to be stored with the rest of the collection on the regular stacks shelving, give the box a regular number and shelve it with the rest of the collection. 
  		* If a box containing a bound volume is too big to be stored with the rest of the collection on regular stacks shelving:
-  			* BVs (bound volumes)--smaller boxes that will fit on the BV shelves should be handled as BVs. In a collection BVs should be given a separate sequence of numbers from the general box number sequence (i.e. BV1, BV2, etc.).
-    			* OBVs (oversized bound volumes)--larger volumes that need to be stored on the OBV shelves should be handled as an OBV. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). If a volume is too large for a 20x24" box, it should be identified with a strip of acid-free card stock inserted into the volume. 
+  			* BVs (bound volumes)--smaller boxes that will fit on the BV shelves should be handled as BVs. In a collection BVs should be given a separate sequence of numbers from the general box number sequence (i.e. BV1, BV2, etc.). [Note: this is legacy content and will rarely come up.]
+     		* OBVs (oversized bound volumes)--larger volumes that need to be stored on the OBV shelves should be handled as an OBV. If a volume is too large for a 20x24" box, it should be identified with a strip of acid-free card stock inserted into the volume. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). 
         
 * #### Framed items
-	* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
-	* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP.
-	* Framed items that are too large to be boxed should be labeled and hung on the art racks on Level 11.
-	* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
- 	* Framed items should be given an FR number to indicate that it is being stored onsite on the framed art shelves. In a collection FRs should be a separate sequence of numbers from the general box number sequence (i.e. FR1, FR2, etc.). When making the label, there is no space between FR and the number (i.e. FR1).
-  	* Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
+	* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above on oversized boxes.
+	* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP. Affix a label that says "caution: glass".
+	* Framed items that are too large to be boxed should be handled as a FR (framed item), which will be stored on the art racks on L11:
+ 		* Framed items should be given an FR number to indicate that it is being stored onsite on the framed art shelves. In a collection FRs should be a separate sequence of numbers from the general box number sequence (i.e. FR1, FR2, etc.). When making the label, there is no space between FR and the number (i.e. FR1).
+     		* Label it. Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. 
+		* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
+  		* If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison.
+    		* Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 
 
