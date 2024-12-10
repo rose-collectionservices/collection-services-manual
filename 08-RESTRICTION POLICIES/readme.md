@@ -2,13 +2,13 @@
 
 Content owner: **Sarah Quigley**
 
-* [7.1 Donor imposed restrictions](#71-donor-imposed-restrictions)
-* [7.2 Preservation restrictions](#72-preservation-restrictions)
-* [7.3 Protection of privacy in MSS and EUA collections](#73-protection-of-privacy-in-mss-and-eua-collections)
-* [7.4 EUA restrictions](#74-EUA-restrictions)
+* [8.1 Donor imposed restrictions](#81-donor-imposed-restrictions)
+* [8.2 Preservation restrictions](#82-preservation-restrictions)
+* [8.3 Protection of privacy in MSS and EUA collections](#83-protection-of-privacy-in-mss-and-eua-collections)
+* [8.4 Emory University Archives restrictions](#84-emory-university-archives-restrictions)
 
 
-## 7.1 Donor Imposed Restrictions
+## 8.1 Donor Imposed Restrictions
 
 Donors may request that the Rose Library restrict portions of their collection.  The details of the restrictions should be worked out between the donor and curator during negotiations for the acquisition of the collection.  The restrictions should be described as explicitly as possible in the deed of gift or sale and should always include an expiration date.  Archival staff will have access to restricted material for the purposes of accessioning and processing but should keep information about the documents strictly confidential.  
 
@@ -34,15 +34,15 @@ The following is an example of a clear, detailed, and actionable set of donor re
 
 Restricted items can be described at the folder level in the finding aid unless the donor explicitly stated that description of the restricted materials should not be made public. In that case, restricted material can be described in broad terms at the box level, for example as "restricted correspondence." All restricted material should have AOs and container instances in ArchivesSpace.
 
-## 7.2 Preservation restrictions
+## 8.2 Preservation restrictions
 
 In some cases, original material may be too fragile for general access in the reading room and should be restricted.  
 * For paper, photographs, and objects, consult with the Rose Library Preservation Liaison before making this decision.  If an items is deemed to be too fragile for use by researchers, Rose staff will make access copies of restricted documents when possible.  Items that are restricted due to fragility also receive higher priority in the conservation queue.
 * Original sound and video/film recordings and born digital media are always restricted from use by patrons.  Patrons may examine the physical media, but may not access content via the original items.  Access copies of audiovisual and digital material will be made on demand or as part of normal processing workflows.
 
-Additional guidance on preservation practices and workflows is available in [Section 9 Preservation](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION).
+Additional guidance on preservation practices and workflows is available in [Section 11 Preservation](https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-PRESERVATION).
 
-## 7.3 Protection of Privacy in MSS and EUA collections
+## 8.3 Protection of Privacy in MSS and EUA collections
 
 Collections contain the traces of an individual’s life, which can include documenting very public accomplishments, as well as very personal relationships and life events.  While restricted information or document types should be identified at the time of acquisition and outlined in the deed of gift or sale (or EUA transfer form), there are cases when Rose Library processing staff may identify confidential material in the course of working with a collection.  There are important legal and ethical distinctions between information that is considered confidential, and that which may be private or sensitive. 
 
@@ -58,8 +58,8 @@ The legal right to privacy ends with an individual’s death.  Restrictions on s
 Generally, staff does not evaluate collection contents for subjectively sensitive information.  Staff will not restrict material without a request from the donor or an affected third party, or outside of accordance with University policy or state and federal statute.  Collection Services will make this decision in consultation with the Head of Collection Services, the curator responsible for acquisition, the donor, and in accordance with professional ethical standards. 
   
  
-## 7.4 EUA restrictions
+## 8.4 Emory University Archives restrictions
 
-
+[This section needs to be updated]
 
    
