@@ -420,7 +420,7 @@ Use only one space after periods, colons, and semicolons.
 
 ## 7.10 Style guides
 
-When trying to make a decision about a style question that is not already included in this guide, please rely on [*Describing Archives, A Content Standard (DACS)*](https://github.com/saa-ts-dacs/dacs), the [Emory University style guide](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html), and the [Chicago Manual of Style](http://discovere.emory.edu/discovere:default_scope:01EMORY_ALMA51297748280002486).
+When trying to make a decision about a style question that is not already included in this guide, please rely on [*Describing Archives, A Content Standard (DACS)*](https://saa-ts-dacs.github.io/), the [Emory University style guide](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html), and the [Chicago Manual of Style](http://discovere.emory.edu/discovere:default_scope:01EMORY_ALMA51297748280002486).
 
 Other guides referenced for this style guide include the [Association of Art Editors Style Guide](https://artedit.org/style-guide.php) and the [Beinecke Rare Book & Manuscript Library (Yale University) style guide](https://msu-processing-manual.beinecke.library.yale.edu/style).
 
