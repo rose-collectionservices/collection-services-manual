@@ -55,9 +55,9 @@ This document provides guidance on physical processing tasks, according to local
 
 ## 10.1 Sorting
 For more information on sorting, see:
-* [Section 3 Collection Analysis](https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-COLLECTION%20ANALYSIS)
-* [4.2 Assumptions and general guidelines about arrangement and description](https://github.com/rose-collectionservices/collection-services-manual/tree/master/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#42-assumptions-and-general-guidelines)
-* [4.3 Before Arranging and Describing a Collection](https://github.com/rose-collectionservices/collection-services-manual/tree/master/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#43-before-arranging-and-describing-a-collection)
+* [Section 4: Collection Analysis](https://github.com/rose-collectionservices/collection-services-manual/tree/master/04-COLLECTION%20ANALYSIS)
+* [5.2 Assumptions and general guidelines about arrangement and description](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#52-assumptions-and-general-guidelines)
+* [5.3 Before Arranging and Describing a Collection](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#53-before-arranging-and-describing-a-collection)
 
 ## 10.2 Appraisal and weeding during processing
 
