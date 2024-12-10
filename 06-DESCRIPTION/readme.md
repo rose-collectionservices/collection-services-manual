@@ -1,8 +1,6 @@
 
 # Description
 
-Content owner: **Laura Starratt**
-
 * [6.1 Finding aids](#61-finding-aids)
 	* [6.1.1 Main entry/creator](#611-main-entrycreator)
 	* [6.1.2 Title](#612-title)	
