@@ -27,9 +27,8 @@ When a curator requests packing assistance:
 
 Participating in packing gives Collection Services the opportunity to gather preliminary information about a collection, such as how material is arranged and used on-site.  Collection Services staff should take notes on the original order and use patterns, and photograph the space in which the records were used and kept whenever possible. Retain as many notes about collection material and decisions made on-site as possible while remaining efficient during the packing process. At this point, the packing team learns more information about the collection than anyone else and must be able to transfer the knowledge they gain on the trip to the accessioning team when they return to the library. 
 
-Staff should follow [14.1 Packing Guidelines](#141-packing-guidelines) when packing a collection for transfer to the Rose.  
+Staff should follow these packing guidelines when packing a collection for transfer to the Rose.  
 
-## 14.1 Packing Guidelines
 
 ### 14.1.1 Physical Handling
 
@@ -217,13 +216,13 @@ Whenever possible, FedEx should not be used to move local collections. Collectio
 ### 14.3.2 FedEx Ground
 #### DOMESTIC SHIPPING ONLY
 
-FedEx Ground cannot be used for international shipments;
-FedEx Ground pickups can be scheduled to occur for the next business day. It is prudent to give the Accessioning Archivist at least 48 hours' notice to schedule any FedEx pickup.
-FedEx picks up Ground shipments Monday-Friday. For businesses, they will come during business hours, 8:00am-6:00pm. For residences, they will come anytime between 8:00am and 8:00pm, and they will also pick up on Saturdays. For residences, a four hour timeframe can often be requested, depending on some additional contributing factors, such as amount of time between request date and pickup date.
-An adult over the age of 18 must be present for the FedEx pickup. FedEx may arrive any time during the designated window, including right before it closes.
-FedEx will not offer or guarantee a call prior to arrival, though one can be requested.
-FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, when donors/sellers are older, for example. Again, this can be requested as part of the pickup but cannot be guaranteed.
-The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
+* FedEx Ground cannot be used for international shipments;
+* FedEx Ground pickups can be scheduled to occur for the next business day. It is prudent to give the Accessioning Archivist at least 48 hours' notice to schedule any FedEx pickup.
+* FedEx picks up Ground shipments Monday-Friday. For businesses, they will come during business hours, 8:00am-6:00pm. For residences, they will come anytime between 8:00am and 8:00pm, and they will also pick up on Saturdays. For residences, a four hour timeframe can often be requested, depending on some additional contributing factors, such as amount of time between request date and pickup date.
+* An adult over the age of 18 must be present for the FedEx pickup. FedEx may arrive any time during the designated window, including right before it closes.
+* FedEx will not offer or guarantee a call prior to arrival, though one can be requested.
+* FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, when donors/sellers are older, for example. Again, this can be requested as part of the pickup but cannot be guaranteed.
+* The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
 
 
 ### 14.3.3 FedEx Express (Express Saver)
@@ -235,25 +234,25 @@ FedEx Express Saver is still significantly more expensive than FedEx Ground. For
 
 It is recommended to only use FedEx Express Saver when all of the following criteria are met:
 
-The pickup location is a residence;
-There are more than 20 boxes;
-A staff member is unable wait for the pickup;
-Boxes could not be placed in an openly accessible area for the pickup and the donor will be unable to assist the driver with access to the boxes (such as lifting them over a threshold);
-The donor/seller is unable or unwilling to wait for the pickup;
-The pickup location is relatively close in proximity to Atlanta, Georgia (meaning in the Southeast). Please always offer FedEx Ground to the donor/seller first to gauge flexibility before offering FedEx Express Saver.
-FedEx Express pickups can be scheduled up until 7:15pm Monday-Friday for same day pickup (they will pick up within two hours after the request is made) and up until 1:00pm for Saturday for same day pickup. Saturday pickup is an additional charge. These cut off hours are based on picking up in Atlanta and may vary in other locations but will probably be similar in large cities like Atlanta. It is prudent to give the Accessioning Archivist at least 48 hours' notice to schedule any FedEx pickup.
-FedEx picks up Express shipments Monday-Friday with Saturday pickup available in many areas for an additional charge.
-A specific timeframe may be designated for a pickup (such as between 10:00am and 2:00pm); FedEx mainly wants to know how late they can pick up the shipment, as opposed to how early they can pick up the shipment.
-An adult over the age of 18 must be present for the FedEx pickup.
-FedEx will not offer or guarantee a call prior to arrival, though one can be requested.
-FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, when donors/sellers are older, for example. Again, this can be requested as part of the pickup but cannot be guaranteed.
-The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
+* 1. The pickup location is a residence.
+* 2. There are more than 20 boxes;
+* 3. A staff member is unable wait for the pickup;
+* 4. Boxes could not be placed in an openly accessible area for the pickup and the donor will be unable to assist the driver with access to the boxes (such as lifting them over a threshold);
+* 5. The donor/seller is unable or unwilling to wait for the pickup;
+* 6. The pickup location is relatively close in proximity to Atlanta, Georgia (meaning in the Southeast). Please always offer FedEx Ground to the donor/seller first to gauge flexibility before offering FedEx Express Saver.
+* FedEx Express pickups can be scheduled up until 7:15pm Monday-Friday for same day pickup (they will pick up within two hours after the request is made) and up until 1:00pm for Saturday for same day pickup. Saturday pickup is an additional charge. These cut off hours are based on picking up in Atlanta and may vary in other locations but will probably be similar in large cities like Atlanta. It is prudent to give the Accessioning Archivist at least 48 hours' notice to schedule any FedEx pickup.
+* FedEx picks up Express shipments Monday-Friday with Saturday pickup available in many areas for an additional charge.
+* A specific timeframe may be designated for a pickup (such as between 10:00am and 2:00pm); FedEx mainly wants to know how late they can pick up the shipment, as opposed to how early they can pick up the shipment.
+* An adult over the age of 18 must be present for the FedEx pickup.
+* FedEx will not offer or guarantee a call prior to arrival, though one can be requested.
+* FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, when donors/sellers are older, for example. Again, this can be requested as part of the pickup but cannot be guaranteed.
+* The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
 
 ### 14.3.4 FedEx Express (International Economy)
 #### INTERNATIONAL SHIPPING
 
-Once the Accessioning Archivist requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.
-International FedEx pickup requests are, indeed, requests-there is no guarantee that FedEx will accept our request for a pickup. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. From February 2016 to present, none of our requests for pickup have been denied.
-Donors/sellers also have the option to drop off their packages at a FedEx location. This is especially encouraged in terms of international shipping, when possible, since the FedEx request is not guaranteed.
+* Once the Accessioning Archivist requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.
+* International FedEx pickup requests are, indeed, requests-there is no guarantee that FedEx will accept our request for a pickup. FedEx always advises that the request for pickup could be denied. It is important to communicate this risk to the donor since it is FedEx policy. From February 2016 to present, none of our requests for pickup have been denied.
+* Donors/sellers also have the option to drop off their packages at a FedEx location. This is especially encouraged in terms of international shipping, when possible, since the FedEx request is not guaranteed.
 
 
