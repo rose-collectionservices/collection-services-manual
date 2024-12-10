@@ -18,20 +18,20 @@
   	* [14.3.3 Shipping supplies]
   	* [14.3.4 Barcodes]
   	* [14.3.5 Paying for supplies using Service Now]    
-* [14.1 Packing guidelines](#141-packing-guidelines)
-	* [14.1.1 Physical Handling](#1411-physical-handling)
-	* [14.1.2 Packing Supplies](#1412-packing-supplies)
-* [14.2 Moving and shipping collections](#142-moving-and-shipping-collections)
-	* [14.2.1 Local collections](#1421-local-collections)
-	* [14.2.2 Shipping](#1422-shipping)
-		* [14.2.2.1 Shipping supplies](#14221-shipping-supplies)
-		* [14.2.2.2 Domestic shipping](#14222-domestic-shipping)
-		* [14.2.2.3 International shipping](#14223-international-shipping)
-* [14.3 FedEx guidelines](#143-fedex-guidelines)
-	* [14.3.1 FedEx drop-off](#1431-fedex-drop-off)
- 	* [14.3.2 FedEx Groud](#1432-fedex-ground)
-  	* [14.3.3 FedEx Express (Express Saver)](#1433-fedex-express-express-saver)
-  	* [14.3.4 FedEx Express (International Economy)](#1434-fedex-express-international-economy) 
+* [14.4 Packing guidelines](#144-packing-guidelines)
+	* [14.4.1 Physical Handling](#1441-physical-handling)
+	* [14.4.2 Packing Supplies](#1442-packing-supplies)
+* [14.5 Moving and shipping collections](#145-moving-and-shipping-collections)
+	* [14.5.1 Local collections](#1451-local-collections)
+	* [14.5.2 Shipping](#1452-shipping)
+		* [14.5.2.1 Shipping supplies](#14521-shipping-supplies)
+		* [14.5.2.2 Domestic shipping](#14522-domestic-shipping)
+		* [14.5.2.3 International shipping](#14523-international-shipping)
+* [14.6 FedEx guidelines](#146-fedex-guidelines)
+	* [14.6.1 FedEx drop-off](#1461-fedex-drop-off)
+ 	* [14.6.2 FedEx Groud](#1462-fedex-ground)
+  	* [14.6.3 FedEx Express (Express Saver)](#1463-fedex-express-express-saver)
+  	* [14.6.4 FedEx Express (International Economy)](#1634-fedex-express-international-economy) 
 
 ## 14.1 Project management
 
