@@ -79,6 +79,7 @@ Conduct the following minor preservation work during granular processing:
 * Photocopy all thermal fax paper (glossy paper similar to receipt paper). The nature of fax paper causes information printed on it to fade over time. Photocopying is the only way to preserve that information. When photocopying, if all of the content of a document transfers legibly to the photocopy, discard the original fax. If severely faded areas of the original fax do not copy and show as blank spots on the photocopy, keep both the original and the new photocopy.
 * Do NOT photocopy newspaper clippings as a matter of course because of the common availability of that information.
 * Disbind material in three-ring binders or spiral bound booklets that are causing damage or are difficult to folder. Pages that have been stored in three ring binders often stick together over time. Very carefully separate these pages. If they will not easily separate, consult the Rose Library Preservation Liaison.
+* Bound items that will fit in a Hollinger document case should be placed in folders and stored as normal. 
 * Sleeve torn documents in mylar.
 * Flag significantly damaged documents for further conservation treatment. A significantly damaged document is torn in half or still at risk even after it has been sleeved.
 * Sleeve old or torn photographs in polyester photograph sleeves. Do not sleeve all photographs as a matter of course.
@@ -97,6 +98,7 @@ If the original folders are in good shape, they may be retained as primary housi
 
 * Use legal-size folders as the default.
 * When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
+
 
 ### 10.4.3 Folder titles
 
@@ -326,8 +328,10 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 * All top containers should have a printed label (including OP and XOP folders). 
 * #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since OP indicates a shelving location.
+ 	* Treat bound volumes up to 20x24" as you would any other oversized material. House it in an appropriately sized box and label it with regular box numbers. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item." Oversized bound volumes should be sent to the LSC whenever possible.
 * #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
 	* Folders up to 20x24" should be placed inside an appropriately sized box.
+ 	* Oversized bound items that are too large for a document case should be housed in an appropriately sized box. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item."
  	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
  	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
     	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
@@ -350,15 +354,18 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
      		* Rolled item container profile = rolled item
   	  	* Scroll box container profile = scroll box [choose best size]	  	  		  	
   	  	 
-* #### Bound volumes
-	* Bound volumes include ledgers, scrapbooks, photograph albums, etc. 
- 	* Bound items that will fit in a Hollinger document case should be placed in folders and stored as normal. 
- 	* Oversized bound items that are too large for a document case should be housed in an appropriately sized box. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item."
-	* If a collection is being stored at the LSC:
- 		* Treat bound volumes up to 20x24" as you would any other oversized material. House it in an appropriately sized box and label it with regular box numbers.
+* #### [Legacy content: Bound volumes]
+	* At one point Rose Library treated bound volumes as a separate format that was boxed and shelved separately. Bound volumes included ledgers, scrapbooks, photograph albums, etc.  	
+	* Historically bound volumes were handled as BVs and OBVs based on size and were shelved on the BV and OBV shelving on L11.
+ 	* New BVs should not be created; box and treat bound volumes as any other oversized material.
+  	* Under rare circumstances you may need to create a new OBV if a volume is too large for a 20x24" box and must be stored onsite. In those rare cases, it should be identified with a strip of acid-free card stock inserted into the volume, given an OBV number, and stored on the OBV shelves on L11.
+ 
+DELETE below this 
+ * If a collection is being stored at the LSC:
+ 		* 
    		* Bound volumes that are too large for a 20 x 24" box must be stored onsite and should be handled as OBVs (oversized bound volumes). It should be identified with a strip of acid-free card stock inserted into the volume. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). They should be stored on the OBV shelves on L11.
  	* If a collection is being stored onsite:
-  		* If a box containing a bound volume is small enough to be stored with the rest of the collection on the regular stacks shelving, give the box a regular number and shelve it with the rest of the collection. 
+  		
  		* If a box containing a bound volume is too big to be stored with the rest of the collection on regular stacks shelving:
   			* BVs (bound volumes)--smaller boxes that will fit on the BV shelves should be handled as BVs. In a collection BVs should be given a separate sequence of numbers from the general box number sequence (i.e. BV1, BV2, etc.). [Note: this is legacy content and will rarely come up.]
      		* OBVs (oversized bound volumes)--larger volumes that need to be stored on the OBV shelves should be handled as an OBV. If a volume is too large for a 20x24" box, it should be identified with a strip of acid-free card stock inserted into the volume. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). 
