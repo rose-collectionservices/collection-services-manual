@@ -98,7 +98,7 @@ Note: Acronyms should be spelled out every time in file titles
 
 ## 7.4 Finding Aid Description
 
-When writing archival description specific to finding aids, please refer to other sections of this manual, in particular the [Description Section](/05-DESCRIPTION).
+When writing archival description specific to finding aids, please refer to other sections of this manual, in particular the [Description Section](/06-DESCRIPTION).
 
 ## 7.5 Folder titles
 
