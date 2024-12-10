@@ -1,17 +1,17 @@
 # Administrative [This section needs to be updated]
 
-* [14.1 Project Management]
-	* [14.1.1 Team processing]
- 	* [14.1.2 Work plans]
-  	* [14.1.3 Asana]
-  	* [14.1.4 Clockify]
-* [14.2 Workplace and Environment]
-	* [14.2.1 Training]
- 		* [14.2.1.1 Students]
-  		* [14.2.1.2 New Staff]
-   	* [14.2.2 Self-care during processing]
-   		* [14.2.2.1 Physical care]
-   	 	* [14.2.2.2 Emotional care]
+* [14.1 Project Management](#141-project-management)
+	* [14.1.1 Team processing](#1411-team-processing)
+ 	* [14.1.2 Work plans](#1412-work-plans)
+  	* [14.1.3 Asana](#1413-asana)
+  	* [14.1.4 Clockify](#1414-clockify)
+* [14.2 Workplace and Environment](#142-workplace-and-environment)
+	* [14.2.1 Training](#1421-training)
+ 		* [14.2.1.1 Students](#14211-students)
+  		* [14.2.1.2 New Staff](#14212-new-staff)
+   	* [14.2.2 Self-care during processing](#1422-self-care-during-processing)
+   		* [14.2.2.1 Physical care](#14221-physical-care)
+   	 	* [14.2.2.2 Emotional care](#14222-emotional-care)
 * [14.3 Supplies]
 	* [14.3.1 Office supplies]
  	* [14.3.2 Archival supplies]
