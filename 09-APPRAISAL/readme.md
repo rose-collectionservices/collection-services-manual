@@ -1,17 +1,16 @@
 # Appraisal
 
-Content owner: **Sarah Quigley**
 
-* [8.1 Before processing](#81-before-processing)
-* [8.2 During arrangement](#82-during-arrangement)
-* [8.3 Working with curators and scheduling reviews](#83-working-with-curators-and-scheduling-reviews)
-* [8.4 Procedures for discarding material](#84-procedures-for-discarding-material)
-* [8.5 After Processing/Reappraisal](#85-after-processing-reappraisal)
-* [8.6 Deaccessioning](#86-deaccessioning)
-	* [8.6.1 Deaccessioning procedures](#861-deaccessioning-procedures)
-* [8.7 Appraisal of born-digital material](#87-appraisal-of-born-digital-material)
-	* [8.7.1 Pre-acquisition appraisal](#871-pre-acquisition-appraisal)
-	* [8.7.2 Post-acquisition appraisal](#872-post-acquisition-appraisal)
+* [9.1 Before processing](#91-before-processing)
+* [9.2 During arrangement](#92-during-arrangement)
+* [9.3 Working with curators and scheduling reviews](#93-working-with-curators-and-scheduling-reviews)
+* [9.4 Procedures for discarding material](#94-procedures-for-discarding-material)
+* [9.5 After Processing/Reappraisal](#95-after-processing-reappraisal)
+* [9.6 Deaccessioning](#96-deaccessioning)
+	* [9.6.1 Deaccessioning procedures](#961-deaccessioning-procedures)
+* [9.7 Appraisal of born-digital material](#97-appraisal-of-born-digital-material)
+	* [9.7.1 Pre-acquisition appraisal](#971-pre-acquisition-appraisal)
+	* [9.7.2 Post-acquisition appraisal](#972-post-acquisition-appraisal)
 
 Appraisal is the process of identifying and selecting material of permanent, archival value to be accessioned and retained by a repository. 
 
@@ -21,13 +20,13 @@ Appraisal strategies can range from very broad cross-institutional or national d
 
 High level appraisal decisions should be documented in the accessions database, detailed in the processing plan, and included in the finding aid in an APPRAISAL NOTE.
 
-## 8.1 Before Processing
+## 9.1 Before Processing
 
 Ideally appraisal should take place prior to the collection material being transferred to the library and should begin not with an inspection of the records themselves, but with an analysis of the activities of the records creator.  The collecting curator or archivist will have a sense of what activities we are interested in documenting, and they will identify the records that document those activities or functions.  The collecting curator or archivist will only transfer permanently valuable records to the repository.   
 
 While surveying the collection during accessioning or prior to detailed processing, archivists should identify large caches of duplicates, publications, or out of scope material and consult with the collecting curator about removing these items from the collection.  These recommendations and decisions should be recorded in the accessions database and/or in the processing plan.   
 
-## 8.2 During Arrangement
+## 9.2 During Arrangement
 
 While most of the selection decisions have been made prior to beginning the processing of a collection, inevitably some appraisal activity will happen in the course of arrangement and description.  Before undertaking work on a collection, archivists should have a conversation with the curator or staff member who brought in the collection to get a better sense of why they chose to acquire the materials:  
 
@@ -59,13 +58,13 @@ Appraisal activity should take place at the same level as arrangement activity, 
 
 Appraisal decisions should always be made in conjunction with your supervisor and the curator who oversees the associated collecting area.  Any material removed from a collection over the course of processing should be set aside to review with the collecting curator.  Final disposition decisions will be informed by institutional policies and curatorial practices. 
 
-## 8.3 Working with Curators and Scheduling Reviews
+## 9.3 Working with Curators and Scheduling Reviews
 
 Appraisal work is a shared responsibility between curators and archivists and should be an ongoing dialogue between collecting and processing staff.  The curatorial team makes the initial decisions about whether or not to acquire all or part of an individual’s papers or an organization’s records.  Once a collection has entered the repository, it may be appropriate for archivists to recommend additional appraisal decisions during accessioning or while processing the collection.  These appraisal recommendations should be included in the processing plan and discussed with the collecting curator.  Any items that are removed from a collection over the course of processing should be retained to be reviewed with the curator before being discarded. 
 
 It is important to remember that while archivists at the Rose rarely separate materials from collections based on their content, relevance, condition, or other factors, they do perform appraisal on collections when they make decisions about the levels to which to arrange, describe, and preserve collections. Archival appraisal is, at heart, the application of value to materials, an activity that is fundamental to processing. 
  
-## 8.4 Procedures for Discarding Material
+## 9.4 Procedures for Discarding Material
 
 Material removed from collections should be disposed of in a secure manner.  If at all possible collection material should be placed in the confidential shredding bins in the processing area, or, for AV or born digital material, the AV shredding bin.  Material that does not fit in the bin or that cannot be disposed of in that manner (e.g., computer hardware) for any reason should be placed in opaque black trash bags.  You should never use your desk trash or recycling bins for collection material.  Items removed from collections must be discarded and cannot be adopted by staff members. 
 
@@ -80,17 +79,17 @@ If a donor has requested that we return separated material to them, conduct a re
 
 Discarding or returning unwanted collection material should take place promptly.  Generally, if the curator has not removed the material from the archivist's possession within one month, the archivist will return the material themselves or discard at their discretion.  
 
-## 8.5 After Processing/Reappraisal
+## 9.5 After Processing/Reappraisal
 
 Good collection management practices include occasional review of a repository’s collections to assess their continuing value and their ongoing relevance to an institution’s mission and collecting policy.  At any point the Rose Library may reappraise collections or portions of collections to determine their continuing value.  
 
 If it is determined that a collection or portion of a collection does not fit the scope of the repository's holdings or does not have sufficient research value, the collection or portion of a collection may be deaccessioned.  Additional guidance on best practices and ethical guidelines for deaccessioning collection material can be found in SAA’s [Guidelines for Reappraisal and Deaccessioning](http://www2.archivists.org/category/standards-status/saa-standards-approved). 
 
-## 8.6 Deaccessioning
+## 9.6 Deaccessioning
 
 Deaccessioning is the process of removing materials or collections from the care and custody of the Rose Library.  Formal deaccessioning occurs because the material has been reappraised and found to be unsuitable for our holdings or because the legal owner has requested its return.  If the material is unsuitable for our repository it may be destroyed, returned to the donor, or transferred to a more appropriate repository.   
 
-### 8.6.1 Deaccessioning Procedures
+### 9.6.1 Deaccessioning Procedures
 [Updated workflow (2024)](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuscript%20Collection%20Descriptions/_Deaccessioning/Deaccessioning%20Procedures_2024.docx?d=w0ac19f7bedff48d7b3d309faa3917922&csf=1&web=1&e=koVoKZ)
 1. Write a memo to the collection file outlining disposition of collection, specifically including justification for deaccession. Template is located [here](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuscript%20Collection%20Descriptions/Deaccessioning/deaccession%20memo%20template.doc?d=w7ffdcd455bc64b068ff4183e62f6547b&csf=1&web=1&e=towyRh).
 2. If transferring to another institution, complete the appropriate transfer form, located [here](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind/Gift%20Process%20Files%20and%20Forms?csf=1&web=1&e=6UcqAH). Use the Intra-institution form if transferring material to another Emory repository. Use the Inter-institution transfer form if transferring material to a non-Emory institution. 
@@ -103,9 +102,9 @@ Deaccessioning is the process of removing materials or collections from the care
 9. Delete EAD record in the finding aids database.
 10. Alert staff that the collection has been deaccessioned. 
 
-## 8.7 Appraisal of Born-Digital Material  
+## 9.7 Appraisal of Born-Digital Material  
 
-### 8.7.1 Pre-Acquisition Appraisal
+### 9.7.1 Pre-Acquisition Appraisal
 
 While the general appraisal strategies described here also apply to born-digital materials, the nature of born-digital content and its transfer process raise some additional considerations. Our practice of creating forensic disk images whenever possible makes it more difficult to separate unwanted material from a single transfer of data once prepared for preservation storage. Similarly, we may acquire high-capacity storage media that will not be accessed until they reach the Digital Archives lab. For this reason, early conversations with donors and content creators are crucial. 
 
@@ -113,7 +112,7 @@ Curators and the digital archivist should use the [Pre-Acquisition Digital Asset
 
 While most appraisal decisions will vary depending on the collection, there are certain items that should not typically be transferred to the library. These include computer peripherals (e.g., keyboards, mice, monitors) and networking hardware (e.g., routers, modems). 
 
-### 8.7.2 Post-Acquisition Appraisal
+### 9.7.2 Post-Acquisition Appraisal
 
 In cases where the library acquires whole computers or laptops, all hardware and casing, with the important exception of any hard drives, can typically be disposed of once disk imaging is complete. In cases where hardware and casing has been flagged for disposal, submit a ticket to Desktop Support (euhelp@emory.edu), cc-ing the Library's current Desktop Support Specialist, requesting that hardware and casing be collected for surplus. Small pieces of hardware and casing flagged for disposal can be stored in the Digital Archives Lab until a significant enough collection is ready to be moved to surplus.
 
