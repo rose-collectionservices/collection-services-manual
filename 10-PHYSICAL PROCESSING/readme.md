@@ -61,7 +61,7 @@ For more information on sorting, see:
 
 ## 10.2 Appraisal and weeding during processing
 
-See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
+See [9.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-APPRAISAL#92-during-arrangement)
 
 ## 10.3 Routine preservation during processing
 [moved from Preservation section] 
@@ -72,7 +72,7 @@ During detailed processing, archivists may do more granular preservation work li
 
 Conduct the following minor preservation work during granular processing:
 
-* Properly folder and box materials--see [6.4.2 Creasing and stuffing folders](#642-creasing-and-stuffing-folders) and [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
+* Properly folder and box materials--see [10.4.2 Creasing and stuffing folders](#1042-creasing-and-stuffing-folders) and [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
 * Remove letters from envelopes. This ensures that continued refolding over time in the reading room will not weaken paper fibers and lead to tears.
 * Unfold/flatten all documents, including bent corners. As above, this reduces repeated folding and unfolding that weakens the paper and causes tears. Smoothing bent corners prevents papers from catching on each other and causing more damage. Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
 * Remove rusting hardware and fasteners that are causing damage to material. This includes staples and paper clips that are causing physical damage such as tearing and rusty fasteners that have eaten through paper or left stains. This does not include slightly rusted or corroded staples and paper clips that have not caused damage to this point. Stable environmental controls will prevent further damage from developing.
