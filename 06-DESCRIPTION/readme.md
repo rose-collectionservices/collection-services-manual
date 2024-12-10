@@ -3,51 +3,51 @@
 
 Content owner: **Laura Starratt**
 
-* [5.1 Finding aids](#51-finding-aids)
-	* [5.1.1 Main entry/creator](#511-main-entrycreator)
-	* [5.1.2 Title](#512-title)	
- 		* [5.1.2.1 Collection title](#5121-collection-title)
-   		* [5.1.2.2 Series and subseries titles](#5122-series-and-subseries-titles)
-   		* [5.1.2.3 Folder titles](#5123-folder-titles)	
- 	* [5.1.3 Identifier](#513-identifier)
-  	* [5.1.4 Level of description](#514-level-of-description)
-  	* [5.1.5 Resource type](#515-resource-type)
-	* [5.1.6 Languages](#516-languages)
-   	* [5.1.7 Dates](#517-dates)
-	* [5.1.8 Extent](#518-extent)
-	* [5.1.9 Finding aid data](#519-finding-aid-data)
-	* [5.1.10 Abstract](#5110-abstract)
-	* [5.1.11 Biographical/historical note](#5111-biographicalhistorical-note)
- 	* [5.1.12 Scope and content note](#5112-scope-and-content-note)
-  	* [5.1.13 Arrangement note](#5113-arrangement-note)
-  	* [5.1.14 Immediate source of acquisition](#5114-immediate-source-of-acquisition)
-  	* [5.1.15 Custodial history](#5115-custodial-history)
-  	* [5.1.16 Appraisal note](#5116-appraisal-note)
-  	* [5.1.17 Processing information](#5117-processing-information)
-  	* [5.1.18 Conditions governing access](#5118-conditions-governing-access)
-		* [5.1.18.1 Conditions governing access](#51181-conditions-governing-access)
-		* [5.1.18.2 Physical access](#51182-physical-access)
-	* [5.1.19 Conditions governing use](#519-conditions-governing-use)
-	* [5.1.20 Preferred citation](#5120-preferred-citation)
- 	* [5.1.21 Related materials: related collections in this repository](#5121-related-materials-related-collections-in-this-repository)
-	* [5.1.22 Related materials: related collections in other repositories](#5122-related-materials-related-collections-in-other-repositories)
-	* [5.1.23 Separated materials](#5123-separated-materials)
-	* [5.1.24 Other finding aids](#5124-other-finding-aids)
-  	* [5.1.25 Existence and location of copies](#5125-existence-and-location-of-copies)
-	* [5.1.26 Existence and location of originals](#5126-existence-and-location-of-originals)
-	* [5.1.27 Bibliography: Publication note](#5127-bibliography-publication-note)
- 	* [5.1.28 Revision statements](#5128-revision-statements)
-* [5.2 Optional Microsoft Word template](#52-optional-microsoft-word-template)
-* [5.3 Reviewing and editing finding aids](#53-reviewing-and-editing-finding-aids)
-	* [5.3.1 Formatting the Finding Aid for Review](5.3.1-formatting-the-finding-aid-for-review)
-	* [5.3.2 Reviewing the Finding Aid](5.3.2-reviewing-the-finding-aid)
-	* [5.3.3 Reviews outside of Collection Services](5.3.3-reviews-outside-of-collection-Services)	 	
-* [5.4 Anti Oppressive Archival Description Principles and Guidelines](#54-anti-oppressive-archival-description-principles-and-guidelines)
-	* [5.4.1 Describing Race and Ethnicity](#541-describing-race-and-ethnicity)
-	* [5.4.2 Describing Enslavement and Colonization](#542-describing-enslavement-and-colonization)
-	* [5.4.3 Describing Sexuality](#543-describing-sexuality)
-	* [5.4.4 Describing Gender](#544-describing-gender)
-	* [5.4.5 Resources](#545-resources)
+* [6.1 Finding aids](#61-finding-aids)
+	* [6.1.1 Main entry/creator](#611-main-entrycreator)
+	* [6.1.2 Title](#612-title)	
+ 		* [6.1.2.1 Collection title](#6121-collection-title)
+   		* [6.1.2.2 Series and subseries titles](#6122-series-and-subseries-titles)
+   		* [6.1.2.3 Folder titles](#6123-folder-titles)	
+ 	* [6.1.3 Identifier](#613-identifier)
+  	* [6.1.4 Level of description](#614-level-of-description)
+  	* [6.1.5 Resource type](#615-resource-type)
+	* [6.1.6 Languages](#616-languages)
+   	* [6.1.7 Dates](#617-dates)
+	* [6.1.8 Extent](#618-extent)
+	* [6.1.9 Finding aid data](#619-finding-aid-data)
+	* [6.1.10 Abstract](#6110-abstract)
+	* [6.1.11 Biographical/historical note](#6111-biographicalhistorical-note)
+ 	* [6.1.12 Scope and content note](#6112-scope-and-content-note)
+  	* [6.1.13 Arrangement note](#6113-arrangement-note)
+  	* [6.1.14 Immediate source of acquisition](#6114-immediate-source-of-acquisition)
+  	* [6.1.15 Custodial history](#6115-custodial-history)
+  	* [6.1.16 Appraisal note](#6116-appraisal-note)
+  	* [6.1.17 Processing information](#6117-processing-information)
+  	* [6.1.18 Conditions governing access](#6118-conditions-governing-access)
+		* [6.1.18.1 Conditions governing access](#61181-conditions-governing-access)
+		* [6.1.18.2 Physical access](#61182-physical-access)
+	* [6.1.19 Conditions governing use](#619-conditions-governing-use)
+	* [6.1.20 Preferred citation](#6120-preferred-citation)
+ 	* [6.1.21 Related materials: related collections in this repository](#6121-related-materials-related-collections-in-this-repository)
+	* [6.1.22 Related materials: related collections in other repositories](#6122-related-materials-related-collections-in-other-repositories)
+	* [6.1.23 Separated materials](#6123-separated-materials)
+	* [6.1.24 Other finding aids](#6124-other-finding-aids)
+  	* [6.1.25 Existence and location of copies](#6125-existence-and-location-of-copies)
+	* [6.1.26 Existence and location of originals](#6126-existence-and-location-of-originals)
+	* [6.1.27 Bibliography: Publication note](#6127-bibliography-publication-note)
+ 	* [6.1.28 Revision statements](#6128-revision-statements)
+* [6.2 Optional Microsoft Word template](#62-optional-microsoft-word-template)
+* [6.3 Reviewing and editing finding aids](#63-reviewing-and-editing-finding-aids)
+	* [6.3.1 Formatting the Finding Aid for Review](6.3.1-formatting-the-finding-aid-for-review)
+	* [6.3.2 Reviewing the Finding Aid](6.3.2-reviewing-the-finding-aid)
+	* [6.3.3 Reviews outside of Collection Services](6.3.3-reviews-outside-of-collection-Services)	 	
+* [6.4 Anti Oppressive Archival Description Principles and Guidelines](#64-anti-oppressive-archival-description-principles-and-guidelines)
+	* [6.4.1 Describing Race and Ethnicity](#641-describing-race-and-ethnicity)
+	* [6.4.2 Describing Enslavement and Colonization](#642-describing-enslavement-and-colonization)
+	* [6.4.3 Describing Sexuality](#643-describing-sexuality)
+	* [6.4.4 Describing Gender](#644-describing-gender)
+	* [6.4.5 Resources](#645-resources)
 
 "Description is the creation of an accurate representation of…archival material by the process of capturing, collating, analyzing, and organizing 
 information that serves to identify archival material and to explain the context and records systems that produced it, as well as the results of these 
@@ -75,9 +75,9 @@ archive.  It may also be prudent to focus descriptive efforts on components of a
 have high research value, are especially complex or idiosyncratic, or particularly illuminate something important about the creator.  Conversely, other 
 components of the collection may receive less description.  This is at the archivist's discretion and should be explained in the processing note. 
 
-## 5.1 Finding Aids
+## 6.1 Finding Aids
 
-### 5.1.1 Main Entry/Creator
+### 6.1.1 Main Entry/Creator
 
 **DACS Chapter 2.6:**
 
@@ -141,9 +141,9 @@ For additional guidance, see [DACS](<https://saa-ts-dacs.github.io/>) and the Ro
 
 **Corresponding EAD element(s):**  ``<origination></origination>``
 
-### 5.1.2 Title
+### 6.1.2 Title
 
-### 5.1.2.1 Collection title
+### 6.1.2.1 Collection title
 
 **DACS Chapter 2.3:**
 
@@ -173,7 +173,7 @@ or is overwhelmingly dominated by a single record type, use a term that describe
 
 **Corresponding EAD element(s):**  ``<unittitle></unittitle>``
 
-### 5.1.2.2 Series and subseries titles
+### 6.1.2.2 Series and subseries titles
 
 At the series and sub-series levels, the title statement must also include a description of the record types represented.  
 
@@ -186,11 +186,11 @@ At the series and sub-series levels, the title statement must also include a des
 | Correspondence                  |
 | Subject files                   |
 
-### 5.1.2.3 Folder titles
+### 6.1.2.3 Folder titles
 
-See [6.4.3 Folder titles]( 
+See [10.4.3 Folder titles]( 
 
-### 5.1.3 Identifier
+### 6.1.3 Identifier
 
 **DACS Chapter 2.1.3:**
 
@@ -216,7 +216,7 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 *Figure 21 (below): Example of Identifier field for an EUA collection in ASpace.*
 *![Figure 21: Example of Identifier field for an EUA collection in ASpace](/05-DESCRIPTION/Images/Figure21.jpg)
 
-### 5.1.4 Level of description
+### 6.1.4 Level of description
 
 **Required:** Required at all levels.
 
@@ -226,7 +226,7 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 * At the series or sub-series level, select "series" or "sub-series" as the level of description.
 
 
-### 5.1.5 Resource type
+### 6.1.5 Resource type
 
 **DACS Chapter 2.3.19**
 
@@ -239,7 +239,7 @@ All collections are assigned a unique identifier, which is assigned in sequence 
 
 
 
-### 5.1.6 Languages
+### 6.1.6 Languages
 
 **DACS Chapter 4.5:**
 
@@ -278,7 +278,7 @@ amounts of material in those languages.
 *![Figure 16: Example of a Language field and Language of Materials note in ASpace](/05-DESCRIPTION/Images/Figure16.jpg "Figure 16: Example of a Language field and Language of Materials note in ASpace")
 
 
-### 5.1.7 Dates
+### 6.1.7 Dates
 
 **DACS Chapter 2.4:**
 
@@ -372,7 +372,7 @@ life of the organization or when the volume of material within the bulk dates is
 
 		
 
-### 5.1.8 Extent
+### 6.1.8 Extent
 
 **DACS Chapter 2.5:**
 
@@ -416,7 +416,7 @@ data and/or extent of physical media for born digital content.
 **Corresponding EAD element(s):** ``<physdesc><extent></extent></physdesc``
 
 
-### 5.1.9 Finding aid data
+### 6.1.9 Finding aid data
 
 The Finding Aid Data sub-record is used to record administrative data about the archival description, usually for when the description is exported into Encoded Archival Description (EAD). This information is used to identify and provide bibliographic descriptive data about the finding aid for the resource and should not be confused with description of the archival resource itself. Some of this finding aid data is not required by ArchivesSpace for a valid resource record, and some fields do not directly correspond to DACS, but the following explains what is required and used administratively for Rose Library finding aids.  
 
@@ -484,7 +484,7 @@ Finding Aid Note
 
 
 
-### 5.1.10 Abstract
+### 6.1.10 Abstract
 
 **DACS Chapter:**  None.
 
@@ -508,7 +508,7 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 
 **Corresponding EAD element(s):** ``<abstract></abstract>``
 
-### 5.1.11 Biographical/Historical Note
+### 6.1.11 Biographical/Historical Note
 
 **DACS Chapter 2.7:**
 
@@ -545,7 +545,7 @@ The tone of these notes should be informational and avoid judgments about the va
 
 **Corresponding EAD element(s):** ``<bioghist></bioghist>``
 
-### 5.1.12 Scope and Content Note
+### 6.1.12 Scope and Content Note
 
 **DACS Chapter 3.1:**
 
@@ -572,7 +572,7 @@ This note is repeatable at the folder level and can be used to present important
 
 **Corresponding EAD element(s):** ``<scopecontent></scopecontent>``
 
-### 5.1.13 Arrangement Note
+### 6.1.13 Arrangement Note
 
 **DACS Chapter 3.2:**
 
@@ -623,7 +623,7 @@ If you have arranged series into sub-series, the subseries level arrangement not
 
 **Corresponding EAD element(s):** ``<arrangement></arrangement>``
 
-### 5.1.14 Immediate Source of Acquisition
+### 6.1.14 Immediate Source of Acquisition
 
 **DACS Chapter 5.2:**
 
@@ -681,7 +681,7 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 * It is not necessary to manually add a source agent field to a resource record because that same information also appears in the Immediate Source of Acquisition note field (which is required).
 * If a resource record has both an agent source field and an Immediate Source of Acquisition note field, both fields will display in the public interface.
 
-### 5.1.15 Custodial History
+### 6.1.15 Custodial History
 
 **DACS Chapter 5.1:**
 
@@ -711,7 +711,7 @@ This note should be used whenever the collection is not a straightforward transf
 **Corresponding EAD element(s):** ``<custodhist></custodhist>``
 
 
-### 5.1.16 Appraisal Note
+### 6.1.16 Appraisal Note
 
 **DACS Chapter 5.3:**
 
@@ -809,7 +809,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 **Corresponding EAD element(s):** ``<appraisal></appraisal>``
 
 
-### 5.1.17 Processing Information
+### 6.1.17 Processing Information
 
 **DACS Chapter 7.1:**
 
@@ -860,11 +860,11 @@ Processing notes are used at the series and/or subseries level when it is necess
 **Corresponding EAD element(s):** ``<processinfo></processinfo>``
 
 
-### 5.1.18 Conditions Governing Access
+### 6.1.18 Conditions Governing Access
 
 This field is a combination of two DACS elements: Conditions Governing Access and Physical Access.
 
-### 5.1.18.1 Conditions Governing Access
+### 6.1.18.1 Conditions Governing Access
 
 **DACS Chapter 4.1:** 
 
@@ -945,7 +945,7 @@ When applicable, the following language is used for EUA use restriction notes:
 
 
 
-### 5.1.18.2 Physical Access
+### 6.1.18.2 Physical Access
 
 **DACS Chapter 4.2:**
 
@@ -995,7 +995,7 @@ also identify materials that require special handling that goes beyond standard 
 *![Figure10new](/05-DESCRIPTION/Images/Figure10new.JPG "Example of a collection level Conditions Governing Access note with standard notes, which does not require the system to take action at the collection level. All AOs below this level would still be requestable unless there were other restrictions.")
 
 
-### 5.1.19 Conditions Governing Use
+### 6.1.19 Conditions Governing Use
 
 **DACS Chapter 4.4:**
 
@@ -1041,7 +1041,7 @@ When describing restrictions, precede the first restriction note with "Special r
 *![Figure11](/05-DESCRIPTION/Images/Figure11.jpg "Example of a Conditions Governing Use note with the standard note language.")
 
 
-### 5.1.20 Preferred Citation
+### 6.1.20 Preferred Citation
 
 **DACS Chapter 7.1:**
 
@@ -1062,7 +1062,7 @@ This field includes the Rose Library's preferred citation for the collection.  T
 **Corresponding EAD element(s):** ``<prefercite></prefercite>``
 
 
-### 5.1.21 Related Materials: Related Collections in this Repository
+### 6.1.21 Related Materials: Related Collections in this Repository
 
 **DACS Chapter 6.4:**
 
@@ -1094,7 +1094,7 @@ This field identifies any other collections in the Rose Library that have a clos
 *Figure 12 (below): Example of a Related Collections in This Repository note in ASpace.*
 ![Figure 12: Example of a Related Collections in This Repository note](/05-DESCRIPTION/Images/Figure12.jpg "Figure 12: Example of a Related Collections in This Repository note")
 
-### 5.1.22 Related Materials: Related Collections in Other Repositories
+### 6.1.22 Related Materials: Related Collections in Other Repositories
 
 **DACS Chapter 6.4:**
 
@@ -1128,7 +1128,7 @@ This field identifies collections held in other repositories that have a close r
 *Figure 13 (below): Example of a Related Collections in Other Repositories note in ASpace.*
 ![Figure 13: Example of a Related Materials in Other Repositories note](/05-DESCRIPTION/Images/Figure13.jpg "Figure 13: Example of a Related Materials in Other Repositories note")
 
-### 5.1.23 Separated Materials
+### 6.1.23 Separated Materials
 
 This field identifies materials that have been physically removed from the collection and are being managed separately, such as rare books that have been cataloged, new collections that were created, or collection that include materials held by another Emory entity.  Always include this when books have been removed, even though they may not be cataloged immediately.  When creating a new manuscript collection from material removed from an existing collection, always include a separated materials note in the finding aid for the original collection and a custodial history note in the finding aid for the new collection. 
 
@@ -1155,7 +1155,7 @@ This field identifies materials that have been physically removed from the colle
 *Figure 14 (below): Example of a Separated Materials note in ASpace.*
 *![Figure 14: Example of a Separated Materials note](/05-DESCRIPTION/Images/Figure14.jpg "Figure 14: Example of a Separated Materials note")
 
-### 5.1.24 Other Finding Aids
+### 6.1.24 Other Finding Aids
 
 **DACS Chapter 5.6:**
 
@@ -1177,7 +1177,7 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 **Corresponding EAD element(s):** ``<otherfindaid></otherfindaid>``
 
-### 5.1.25 Existence and Location of Copies
+### 6.1.25 Existence and Location of Copies
 
 **DACS Chapter 6.2:**
 
@@ -1212,7 +1212,7 @@ This field identifies any additional formats, such as microfilm or digital surro
 *![Figure 15: Example of an Existence and Location of Copies note](/05-DESCRIPTION/Images/Figure15.jpg "Figure 15: Example of an Existence and Location of Copies note")
 
 
-### 5.1.26 Existence and Location of Originals
+### 6.1.26 Existence and Location of Originals
 
 **DACS Chapter 6.1:**
 
@@ -1245,7 +1245,7 @@ This note identifies the format of the reproductions and the repository or indiv
 *![Figure 24: Example of an Existence and Location of Originals note](/05-DESCRIPTION/Images/Figure24.jpg "Figure 15: Example of an Existence and Location of Originals note")
 
 
-### 5.1.27 Bibliography: Publication Note
+### 6.1.27 Bibliography: Publication Note
 
 **DACS Chapter 6.4:**
 
@@ -1278,7 +1278,7 @@ This note should identify editorial projects based on collection material.  It i
 
 
 
-### 5.1.28 Revision statements
+### 6.1.28 Revision statements
 
 **DACS Chapter 8.1.5**
 
@@ -1298,13 +1298,13 @@ Revision statements should be used to record information about significant chang
 *Figure 23 (below): Example of same revision statement in public interface.*
 *![Figure23A](/05-DESCRIPTION/Images/Figure23A.jpg)
 
-## 5.2 Optional Microsoft Word Template
+## 6.2 Optional Microsoft Word Template
 
 The processing archivist may choose to draft finding aids directly in ArchivesSpace or draft text in Microsoft Word first. <a href="https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates?csf=1&web=1&e=zaFquQ">Legacy Microsoft Word templates</a> are available if the archivist chooses to use them.
 
-## 5.3 Reviewing and Editing Finding Aids
+## 6.3 Reviewing and Editing Finding Aids
 
-### 5.3.1 Formatting the Finding Aid for Review 
+### 6.3.1 Formatting the Finding Aid for Review 
 The processing archivist, upon completion of the draft, will create a reviewable finding aid through the following steps:
 * Publish the finding aid in the ASpace staff interface
 * Open the finding aid in the public interface and export the finding aid to a pdf
@@ -1320,7 +1320,7 @@ The processing archivist, upon completion of the draft, will create a reviewable
 ![image](https://github.com/user-attachments/assets/9ab4dde0-0bfb-4c5e-be13-8376fdbdfc58)
 * Post a link to this Word document in the finding-aid-review Slack channel with any necessary comments.
 
-### 5.3.2 Reviewing the Finding Aid
+### 6.3.2 Reviewing the Finding Aid
 At least two Collection Services staff members must review and offer feedback on each finding aid before it is published in ArchivesSpace. 
 
 Members of the Processing Team are primarily responsible for reviewing finding aids, although other Rose Library staff who process collections may also review them.   
@@ -1331,7 +1331,7 @@ Steps for review:
 * When finished reviewing a finding aid, reviewers indicate this by reacting to the Slack post about the finding aid with a check mark.
 * The archivist who accessioned or processed the collection reviews feedback, updates the resource record in ArchivesSpace, and publishes the finding aid and/or unrestricts the collection.
 
-### 5.3.3 Reviews outside of Collection Services
+### 6.3.3 Reviews outside of Collection Services
 Depending on the nature of the collection, once Collection Services staff has reviewed the finding aid and all updates are made, the processing archivist may send the finding aid to the curator of the collecting area for additional review.
 
 If the curator advises, the processing archivist can send the completed finding aid (after publishing and using the permanent link) to the donor. 
@@ -1339,7 +1339,7 @@ If the curator advises, the processing archivist can send the completed finding 
 **It is not necessary to delay publication of a finding aid in order to seek feedback from either the curator or collection donor.**
 
    
-## 5.4 Anti Oppressive Archival Description Principles and Guidelines
+## 6.4 Anti Oppressive Archival Description Principles and Guidelines
 
 These guidelines for creating inclusive, anti-oppressive archival description were developed as part of a project to acknowledge and remediate harmful language in the Rose Library's archival descriptive tools. These guidelines are also intended to aid in the creation of all new archival description. This document contains rules and suggestions for describing the marginalized communities most commonly documented in Rose Library’s collections. It includes references to helpful resources for describing identities and circumstances less well-represented in our holdings.  It does not currently address the use of LCSH subject headings in finding aids. We are watching closely other initiatives in the Libraries to address subject headings and will revise our policies when we can be in alignment with them.
 
@@ -1371,7 +1371,7 @@ We acknowledge that we are applying our 21st Century understanding of race, gend
 
 Additionally, preferred terminology for describing individuals or communities changes over time. The guidelines that we are recommending today may not be appropriate in the future. We will periodically review and update these guidelines to ensure that our descriptive policies reflect current best practices and meet contemporary cultural norms. 
 
-### 5.4.1 Describing Race and Ethnicity
+### 6.4.1 Describing Race and Ethnicity
 
 **Principles to Consider**
 
@@ -1400,7 +1400,7 @@ Additionally, preferred terminology for describing individuals or communities ch
 * Blacks, whites, etc.
 * Consider “nation,” “language group,” or “ethnicity” instead of “tribe.”
 
-### 5.4.2 Describing Enslavement and Colonization
+### 6.4.2 Describing Enslavement and Colonization
 
 **Principles to Consider**<a href="#anchor5"><sup>5</sup></a>
 
@@ -1445,7 +1445,7 @@ Additionally, preferred terminology for describing individuals or communities ch
 * No one was “born a slave,” instead people were born with “free” or “slave” status.
 * When describing plantations, avoid valorizing and nostalgic language that obscures the realities of slavery.
 
-### 5.4.3 Describing Sexuality
+### 6.4.3 Describing Sexuality
 
 **Principles to Consider**
 
@@ -1467,7 +1467,7 @@ Additionally, preferred terminology for describing individuals or communities ch
 * Avoid using language that assumes or frames heterosexuality as the norm or default, i.e. assuming a women’s partner is automatically a man. 
 * Avoid using generalizing language that applies an individual’s identity to an entire group.
 
-### 5.4.4 Describing Gender
+### 6.4.4 Describing Gender
 
 **Principles to Consider**
 
@@ -1493,7 +1493,7 @@ Additionally, preferred terminology for describing individuals or communities ch
 * Avoid the use of language that pathologizes trans* individuals. 
 
 
-### 5.4.5 Resources
+### 6.4.5 Resources
 
 In writing these guidelines we have drawn heavily on the following resources.
  
