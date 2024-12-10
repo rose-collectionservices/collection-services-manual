@@ -12,12 +12,12 @@
    	* [14.2.2 Self-care during processing](#1422-self-care-during-processing)
    		* [14.2.2.1 Physical care](#14221-physical-care)
    	 	* [14.2.2.2 Emotional care](#14222-emotional-care)
-* [14.3 Supplies]
-	* [14.3.1 Office supplies]
- 	* [14.3.2 Archival supplies]
-  	* [14.3.3 Shipping supplies]
-  	* [14.3.4 Barcodes]
-  	* [14.3.5 Paying for supplies using Service Now]    
+* [14.3 Supplies](#143-supplies)
+	* [14.3.1 Office supplies](#1431-office-supplies)
+ 	* [14.3.2 Archival supplies](#1432-archival-supplies)
+  	* [14.3.3 Shipping supplies](#1433-shipping-supplies)
+  	* [14.3.4 Barcodes](#1434-barcodes)
+  	* [14.3.5 Paying for supplies using Service Now](#1435-paying-for-supplies)    
 * [14.4 Packing guidelines](#144-packing-guidelines)
 	* [14.4.1 Physical Handling](#1441-physical-handling)
 	* [14.4.2 Packing Supplies](#1442-packing-supplies)
