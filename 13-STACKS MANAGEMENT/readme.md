@@ -1,35 +1,35 @@
-# Stacks Management
+# Stacks Management [This section needs to be updated]
 
 Current owner: **Becky Sherman**
-* [16.1 Onsite Stacks Management]
-	* [16.1.1 Onsite Stacks Locations]
- 	* [16.1.2 Box naming conventions based on shelving locations]
- 	* [16.1.2 The Shelf List]
-  	* [16.1.3 Managing Locations in ArchivesSpace]
-  	* [16.1.4 Maintenance of movable shelving units]
-* [16.2 LSC Ingest Policies and Procedures](#162-LSC-ingest-policies-and-procedures) 
-	* [16.2.1 Determining eligibility for transfer to LSC](#1621-determining-eligibility-for-transfer-to-lsc1)
-	* [16.2.2 Physical processing](#1622-physical-processing2)
-	* [16.2.3 Basic minimum housing guidelines](#1623-basic-minimum-housing-guidelines)
-	* [16.2.4 Basic minimum description guidelines](#1624-basic-minimum-description-guidelines)
-	* [16.2.5 Labels and barcoding](#1625-labels-and-barcoding)
-	* [16.2.6 Sending items to the LSC](#1626-sending-items-to-the-lsc)
-	* [16.2.7 Removing boxes from the LSC](#1627-removing-boxes-from-the-lsc)
-	* [16.2.8 LSC ingest checklist](#1628-lsc-ingest-checklist)
- * [16.3 Documenting missing boxes and items]
- 	* [16.3.1 Documenting missing boxes]
-  	* [16.3.2 Documenting missing items and folders]
-   	* [16.3.3 Documenting missing items and folders without an identified container]
-   	* [16.3.4 Documenting missing books]
+* [13.1 Onsite Stacks Management]
+	* [13.1.1 Onsite Stacks Locations]
+ 	* [13.1.2 Box naming conventions based on shelving locations]
+ 	* [13.1.2 The Shelf List]
+  	* [13.1.3 Managing Locations in ArchivesSpace]
+  	* [13.1.4 Maintenance of movable shelving units]
+* [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
+	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
+	* [13.2.2 Physical processing](#1322-physical-processing2)
+	* [13.2.3 Basic minimum housing guidelines](#1323-basic-minimum-housing-guidelines)
+	* [13.2.4 Basic minimum description guidelines](#1324-basic-minimum-description-guidelines)
+	* [13.2.5 Labels and barcoding](#1325-labels-and-barcoding)
+	* [13.2.6 Sending items to the LSC](#1326-sending-items-to-the-lsc)
+	* [13.2.7 Removing boxes from the LSC](#1327-removing-boxes-from-the-lsc)
+	* [13.2.8 LSC ingest checklist](#1328-lsc-ingest-checklist)
+ * [13.3 Documenting missing boxes and items]
+ 	* [13.3.1 Documenting missing boxes]
+  	* [13.3.2 Documenting missing items and folders]
+   	* [13.3.3 Documenting missing items and folders without an identified container]
+   	* [13.3.4 Documenting missing books]
 
-## 16.1 Onsite Stacks Management 
+## 13.1 Onsite Stacks Management 
 
   
 
 The Senior Collections Processing Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Senior Collections Processing Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space.  
 
 
-### 16.1.1 Onsite Stacks Locations 
+### 13.1.1 Onsite Stacks Locations 
 
   
 
@@ -77,7 +77,7 @@ We communicate stack locations by giving a range and bay for an item:
 
 * Shelves are the individual shelves within a bay. 
 
-### 16.1.2 Box naming conventions based on shelving locations
+### 13.1.2 Box naming conventions based on shelving locations
 Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
 * OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
 * XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
@@ -88,7 +88,7 @@ Historically Rose Library has used several different nomenclature/box numbering 
 * CLP (combined LP)--phonograph record boxes that contain items from multiple collections and are stored on 11-
   
 
-### 16.1.3 Shelf Lists 
+### 13.1.3 Shelf Lists 
 
   
 
@@ -133,19 +133,19 @@ The notes field can be used to record:
 The [Finding Aid](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI") provides locations for book collections in the stacks on Level 9. 
 
 
-### 16.1.3 Managing Locations in ArchivesSpace
+### 13.1.3 Managing Locations in ArchivesSpace
 
   
-### 16.1.4 Maintenance of movable shelving units
+### 13.1.4 Maintenance of movable shelving units
 
 * Rose Library has unit... 
 * We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
 
 
 
-## 16.2 LSC Ingest Policies and Procedures
+## 13.2 LSC Ingest Policies and Procedures
 
-## 16.2.1 Determining Eligibility for Transfer to LSC<a href="#anchor1"><sup>1</sup></a>
+## 13.2.1 Determining Eligibility for Transfer to LSC<a href="#anchor1"><sup>1</sup></a>
 
 LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections larger than 10 boxes, though smaller collections may also be selected for offsite storage.
 
@@ -153,11 +153,11 @@ No glass-based photographic material including glass-plate negatives, lantern sl
 
 No collection that has active mold may be transferred to the LSC; however, materials that were treated for mold may be transferred.
 
-## 16.2.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
+## 13.2.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
  
 In order for material to be safely transferred to the LSC and easily identifiable once it is there all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
 
-## 16.2.3 Basic Minimum Housing Guidelines
+## 13.2.3 Basic Minimum Housing Guidelines
 
 * Boxes containing archival materials must have adequately fitting lids.  
 * Flat boxes should have lids the cover the entire box; if these boxes have half-lids that do not cover the entire box, these lids must be tied-down.  
@@ -166,7 +166,7 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 * Boxes must be under 40lbs in weight.
 * Boxes with archival materials must be packed fully or with spacers or by other means to ensure materials are secure through transit.  
 
-## 16.2.4 Basic Minimum Description Guidelines
+## 13.2.4 Basic Minimum Description Guidelines
 
 **For archival materials:**
 
@@ -174,7 +174,7 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 * Collection-level finding aid with complete required notes fields per DACS.
 * Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.   
 
-## 16.2.5 Labels and Barcoding
+## 13.2.5 Labels and Barcoding
 
 All boxes must be labeled.  All labels need to include owning library, Collection Number, Title, and Box Number. 
 
@@ -204,7 +204,7 @@ Then add item records to that holdings record for each item in the collection.  
 
 Once all barcodes are entered into Alma you will need to wait overnight and then you can run the barcode script to insert the barcodes into the EAD finding aid for the collection.<a href="#anchor3"><sup>3</sup></a>
 
-## 16.2.6 Sending Items to the LSC
+## 13.2.6 Sending Items to the LSC
 
 Make sure the holdings record in Alma indicates the LSC as the holding library and the sublocation as RSTORM (Rose- Storage-Manuscripts).  The 852 field of your holdings record should look like this: 
 
@@ -230,13 +230,13 @@ You will need to wait 24 hours after changing the Alma holdings record to an LSC
 
 If you have oversized boxes that are 20x24 or larger, email Nathan to alert him that there are oversized boxes slated for pickup. 
 
-## 16.2.7 Removing Boxes from the LSC
+## 13.2.7 Removing Boxes from the LSC
 
 If a barcode needs to be removed from the LSC, email the LSC listserv with the barcode(s) that need to be removed.  
 
 If the barcode needs to be removed from Alma right click on the "actions" button in the item list and select "withdraw" to remove the item record.
 
-## 16.2.8 LSC Ingest Checklist
+## 13.2.8 LSC Ingest Checklist
 
 ![Figure 4: LSC Ingest Checklist](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/LSC-Ingest-checklist.jpg "LSC Ingest Checklist")
 
