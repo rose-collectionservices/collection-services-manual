@@ -40,7 +40,7 @@ At the end of each fiscal year, the Head of Collections Services, in consultatio
 
 The Manuscript Archivist leads the team, creates a work plan, sets goals, and directs student work. Each team member is assigned portions of the collection to process based on the work plan. This includes physical arrangement and foldering as well as description such as scope and content and biographical/historical notes. The Manuscript Archivist works closely with the students to ensure that the collections are being processed according to professional standards. The Manuscript Archivist is responsible for the arrangement plan, but processing students should feel confident to discuss other options and ideas with the Manuscript Archivist. As students work through their assignments, they may discover information or records that will alter the original arrangement plan. It is important to share such information so appropriate decisions can be made. Since each team member is responsible for discreet sections of the collection, communication is key to ensuring that relationships between sections are maintained and well described.
 
-The Manuscript Archivist generally is responsible for compiling the component level descriptions into a finding aid and creating the collection level description. However, as processing students gain more experience, the Manuscript Archivist may delegate some or all of this work. The Manuscript Archivist reviews the portions of the finding aids for which the processing students are responsible. The Archivist should share any changes or corrections with the students, particularly if these affect the physical arrangement of folders within the collection. When the finding aid is complete, the Manuscript Archivist will send it to other archivists and the curator responsible for acquiring the collection (See 5.3 Reviewing and Encoding Finding Aids for additional information).
+The Manuscript Archivist generally is responsible for compiling the component level descriptions into a finding aid and creating the collection level description. However, as processing students gain more experience, the Manuscript Archivist may delegate some or all of this work. The Manuscript Archivist reviews the portions of the finding aids for which the processing students are responsible. The Archivist should share any changes or corrections with the students, particularly if these affect the physical arrangement of folders within the collection. When the finding aid is complete, the Manuscript Archivist will send it to other archivists for review [see 6.3.2 Reviewing the Finding Aid](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#632-reviewing-the-finding-aid).
 
 ### 14.1.2 Work Plans
 Work plans are the blueprints for processing a collection. The work plan outlines the arrangement of a collection, identifies a collection's preservation needs, and recommends appraisal and weeding actions. The work plan also includes estimates of the time needed to process the collection and processing assignments for each component. The work plan will also contain information found in the collection file, including restrictions placed on the materials and important information about the creator or the custodial history of the collection that may affect processing. As processing proceeds, team members will record decisions and changes that alter or add complexity to the original plan. The work plan is a living document for the duration of the project and is not considered complete until the project is finished. The work plan template is available here.
@@ -223,7 +223,7 @@ To order barcodes:
 	* Supply as much information as possible in the field, "Provide a brief description of what you are trying to do";
 	* Attach PDF copy of invoice before submitting.
 
-## 14.1 Packing guidelines
+## 14.4 Packing guidelines
 
 Collection Services staff occasionally travel to a donor/seller (generally with the collecting curator) to assist in packing collections for transfer to the Rose. This will involve packing all desired material into standard sized boxes provided by the Rose and attaching shipping labels as appropriate. After the packing is complete, the Accessioning Archivist will arrange for the move of the material (generally via FedEx).  If there are any particularly fragile or valuable items, those should be hand-carried by the archivist rather than shipped.  If this situation should arise, consult with the Head of Collection Services to determine a plan of action.
 
@@ -238,7 +238,7 @@ Participating in packing gives Collection Services the opportunity to gather pre
 Staff should follow these packing guidelines when packing a collection for transfer to the Rose.  
 
 
-### 14.1.1 Physical Handling
+### 14.4.1 Physical Handling
 
 Make sure that all boxes used for transfer purposes are in good condition. The method of shipping and transfer may affect the kind of box used for packing. Local transfers may use bankers boxes with lids; however when shipping via FedEx or similar carrier, shipping boxes must be used. It is important that the boxes are within the following dimensions whenever possible so that we can shelve them while they await accessioning:
 
@@ -287,7 +287,7 @@ If a collection includes born-digital files stored on the donor's current comput
 
 Collection Services members should submit a report of all packing trips to the Head of Collection Services to be shared with the accessioning team. The report will include the container list made while on site, a general report of the physical space and how the records were created and used, and a high level collection analysis indicating potential series, along with any photographs they took of the collection before and during packing.  
 
-### 14.1.2 Packing Supplies
+### 14.4.2 Packing Supplies
 
 The Accessioning Archivist will arrange to have shipping and other needed supplies sent to the packing location in advance of the packing trip (see [13.3 Shipping supplies](/13-SUPPLIES#133-shipping-supplies)), as well as request shipping labels for the travelers. 
 
@@ -311,9 +311,9 @@ Supplies needed for the transfer of born-digital files from current computers ma
 
 The Digital Archivist will be responsible for packing a bag with the necessary tools and equipment. This should be taken as a carry-on item due to fluctuating temperatures in the cargo hold and the potentially fragile nature of the devices. 
 
-## 14.2 Moving and Shipping Collections
+## 14.5 Moving and Shipping Collections
 
-### 14.2.1 Local Collections
+### 14.5.1 Local Collections
 
 Collections in the Atlanta area are transferred to the library in one of two ways: 
 
@@ -341,7 +341,7 @@ To plan a local move the Accessioning Archivist needs to know:
 * Preferred date and time for the move;
 * Any other information about the physical space (such as if the move will involve stairs, if there is parking at the pickup location, etc.). 
 
-### 14.2.2 Shipping
+### 14.5.2 Shipping
 
 Emory University contracts with FedEx when shipping collections. Processes differ between domestic and international shipping methods.
 
@@ -351,7 +351,7 @@ FedEx can pick up collections from donors' homes except in the following situati
 * When material is too fragile or when the only material gathered are born-digital files transferred to digital media, for example, a flash drive or external hard drive. In both instances, the packing team should plan to bring these materials back with them as carry-on items. 
 * For international shipments, it is far preferable to drop packages off at a FedEx location, however, a FedEx pickup may still be arranged for international shipments if drop off is not an option.
 
-### 14.2.2.1 Shipping supplies
+### 14.5.2.1 Shipping supplies
 
 The Rose recommends that collections are packed in boxes that we supply because we know that these boxes will fit on our shelves. Whether the donor/seller is packing the collection themselves or Rose Library staff is traveling to pack the collection, please send an appropriate amount of boxes and tape to the packing location. In the case of book collections, sometimes additional material may be needed, such as newsprint for cushion. Rose Library staff should refer to the packing instructions above. If donors/sellers are doing the packing, they should be provided with the [packing instructions for donors](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Packing%20instructions%20for%20donors%20shipping%20via%20FedEx.docx?d=w220c3220f3094b58938b27df8e17d4d1&csf=1&web=1&e=M3Iv30), and curators should consult with them thoroughly about what material should be sent.
 
@@ -363,7 +363,7 @@ If shipping supplies are needed, please contact the Accessioning Archivist with:
 
 Typically, a good ratio is one pack of tape (12 rolls) per pack of boxes (25 boxes). Please also provide the shipping address and contact information for a recipient at the location, including name and phone number. Please allow 3 business days from point of order for supplies to arrive to the destination.
 
-### 14.2.2.2 Domestic shipping 
+### 14.5.2.2 Domestic shipping 
 
 Rose Library staff is responsible for procuring prepaid FedEx labels and providing them to the necessary parties. The Accessioning Archivist will email the Library Mail Clerk to request labels or the Facilities & Multimedia Assistant, if the Library Mail Clerk is out of the office. The email should include the return address (meaning the address where it is being picked up) with contact name and phone number and the approximate amount of boxes. All shipping labels should be addressed to the Accessioning Archivist. Labels may either be mailed to the donor/seller or carried by the Rose Library staff person traveling to pack a collection. The Library Mail Clerk will mail the labels, if needed.
 
@@ -382,7 +382,7 @@ To request a pickup from FedEx for domestic shipping, the Accessioning Archivist
 4. Provide the same information that was provided for the shipping labels: pickup address, contact name and phone number, number of boxes, approximate total weight of entire shipment, as well as the requested day of pickup of the donor/seller.
 5. Note the confirmation number and forward that information to the donor and curator. Indicate that this number is not a tracking number and may only be used by calling the 1-800 customer service number.
 
-### 14.2.2.3 International shipping
+### 14.5.2.3 International shipping
 
 The Library Mail Clerk cannot create international shipping labels. To create international shipping labels for FedEx, the Accessioning Archivist will:
 
@@ -412,16 +412,16 @@ For international shipping, there is no guarantee that FedEx will accept our req
 
 The Accessioning Archivist should be provided with tracking numbers in all cases.
 
-## 14.3 FedEx guidelines
+## 14.6 FedEx guidelines
 
 Emory University contracts with FedEx for shipping needs. Shipping is needed when either the donor or seller is shipping collection material to the Rose directly and/or a curator or other staff member is going to pack a collection that will then be shipped to the Rose. Please be aware that processes differ between domestic and international shipping methods.
 
-### 14.3.1 FedEx Drop-Off
+### 14.6.1 FedEx Drop-Off
 If a collection is approximately 20 boxes or less, there is a Rose Library staff member onsite, and the FedEx pickup location is a residence, the collection should be dropped off at a FedEx location by the Rose Library staff member. FedEx requires that someone 18+ years of age wait at the residence for a four hour window for a pickup, and how well the pickup goes is entirely dependent on the luck of the driver who is assigned the job. Dropping off small collections whenever possible is better for our donors. If the collection is too big or there are other factors preventing a drop-off, the Rose Library staff member should remain present for the FedEx pickup whenever possible. The Accessioning Archivist can potentially schedule pickups ahead of a packing trip with enough lead time and a relatively accurate estimate of number of boxes in order to make it possible for the staff member to plan to be present for the pickup.
 
 Whenever possible, FedEx should not be used to move local collections. Collections in the Atlanta area may be transferred to the library by Rose Library staff or a local moving company. FedEx is only an option in exceptional circumstances.
 
-### 14.3.2 FedEx Ground
+### 14.6.2 FedEx Ground
 #### DOMESTIC SHIPPING ONLY
 
 * FedEx Ground cannot be used for international shipments;
@@ -433,7 +433,7 @@ Whenever possible, FedEx should not be used to move local collections. Collectio
 * The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
 
 
-### 14.3.3 FedEx Express (Express Saver)
+### 14.6.3 FedEx Express (Express Saver)
 #### DOMESTIC SHIPPING
 
 FedEx offers several services under their "Express" umbrella, including Express Saver, 2Day, 2Day A.M., Standard Overnight, Priority Overnight, First Overnight, SameDay City, and SameDay. The differences between these services has nothing to do with the pickup procedures, just the delivery window. So, for our purposes, we will only use the most economical option, Express Saver, unless we are shipping from Alaska or Hawaii.
@@ -456,7 +456,7 @@ It is recommended to only use FedEx Express Saver when all of the following crit
 * FedEx policy is to not enter residences; they ask that boxes be left in an accessible area. However, they have been known to enter foyers and similar areas, if requested, when donors/sellers are older, for example. Again, this can be requested as part of the pickup but cannot be guaranteed.
 * The Rose Library cannot guarantee a phone call or entrance to any dwelling by a FedEx driver.
 
-### 14.3.4 FedEx Express (International Economy)
+### 14.6.4 FedEx Express (International Economy)
 #### INTERNATIONAL SHIPPING
 
 * Once the Accessioning Archivist requests a FedEx pickup for International Economy and receives a confirmation number, the donor/seller will receive a call from their local FedEx office to coordinate a pickup time directly.
