@@ -18,13 +18,12 @@ Content owner: **Becky Sherman**
  	* [6.6.2 Redacting materials](#662-redacting-materials)
 * [6.7 Quick guide to processing special formats](#67-quick-guide-to-processing-special-formats)
 	* [6.7.1 Newspaper clippings](#671-newspaper-clippings)
- 	* [6.7.2 Framed items](#672-framed-items)
-	* [6.7.3 Quick guide to processing photographs](#673-quick-guide-to-processing-photographs)
-   	* [6.7.4 Processing audiovisual media](#651-processing-audiovisual-media)
-   		* [6.7.4.1 Accessioning/Minimal Level Processing of AV](#6741-accessioning-minimal-level-processing-of-AV)
-   	 	* [6.7.4.2 Granular Processing of AV](#6742-granular-processing-of-AV)
-   	  	* [6.7.4.3 Notes on Access to Commercial Recordings](#6743-notes-on-access-to-commercial-recordings)
-	* [6.7.5 Processing digital media](#652-processing-digital-media) 
+	* [6.7.2 Quick guide to processing photographs](#672-quick-guide-to-processing-photographs)
+   	* [6.7.3 Processing audiovisual media](#673-processing-audiovisual-media)
+   		* [6.7.3.1 Accessioning/Minimal Level Processing of AV](#6731-accessioning-minimal-level-processing-of-AV)
+   	 	* [6.7.3.2 Granular Processing of AV](#6732-granular-processing-of-AV)
+   	  	* [6.7.3.3 Notes on Access to Commercial Recordings](#6733-notes-on-access-to-commercial-recordings)
+	* [6.7.4 Processing digital media](#674-processing-digital-media) 
 * [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
 	* [6.8.1 General guidelines](#681-general-guidelines)
  	* [6.8.2 Box naming conventions by shelving location](#682-box-naming-conventions-by-shelving-location)
@@ -179,14 +178,6 @@ NEVER redact the original document itself.  If the original document has intrins
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
-### 6.7.2 Framed items
-* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
-* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP.
-* Framed items that are too large to be boxed should be labeled and hung on the art racks on Level 11.
-	* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
- 	* Framed items should be given an FR number to indicate that it is being stored onsite on the framed art shelves. In a collection FRs should be a separate sequence of numbers from the general box number sequence (i.e. FR1, FR2, etc.). When making the label, there is no space between FR and the number (i.e. FR1).
-  	* Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
-
 ### 6.7.3 Quick Guide to Processing Photographs 
 
 Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [6.5.1 Separating materials: Attachments](#651-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
@@ -194,6 +185,8 @@ Generally speaking, in collections where photographs are only one of the formats
 For additional guidelines and detailed information about processing photographs, see [below].
 
 ### 6.7.4 Processing Audiovisual Media
+Content owner: **Anicka Austin**
+
 [So you found some cassette tapes...this section still needs to be updated.]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
@@ -359,7 +352,13 @@ See [Section 16.2 Box naming conventions by shelving location](
  	* Legacy content for collections being stored onsite:
   		* BVs (bound volumes)
     		* OBVs (oversized bound volumes)
-* #### Framed items -- see [6.7.2 Framed items](#672-framed-items)
+* #### Framed items
+	* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See [6.8.4 Oversized materials](#684-oversized-materials) for guidance on boxing and numbering oversized materials.  
+	* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP.
+	* Framed items that are too large to be boxed should be labeled and hung on the art racks on Level 11.
+	* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
+ 	* Framed items should be given an FR number to indicate that it is being stored onsite on the framed art shelves. In a collection FRs should be a separate sequence of numbers from the general box number sequence (i.e. FR1, FR2, etc.). When making the label, there is no space between FR and the number (i.e. FR1).
+  	* Do not affix labels to the frames themselves. Print a small (4" x 2") label, affix the label to a strip of acid free card stock, punch a hole in the top, and tie the label to the hanger on the frame. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison. Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
 
 
 ####  Oversized materials
