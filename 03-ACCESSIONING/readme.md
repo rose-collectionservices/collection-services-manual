@@ -3,18 +3,17 @@
 
 Content owner:
 
-* [2.3 Accessioning](#23-accessioning)
-	* [2.3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
-	* [2.3.2 Creation of the accession record](#232-creation-of-the-accession-record)
-	* [2.3.3 Accessioning digital objects](#233-accessioning-digital-objects)
-	* [2.3.4 Digital Accessioning workflows](#234-accessioning-workflows)
-		* [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)
-	* [2.3.5 Creating the CL-2 file](#235-creating-the-cl-2-file)
-		* [2.3.5.1 Electronic CL-2 file (vital docs folder)](#2351-electronic-cl-2-file-vital-docs-folder)
-	* [2.3.6 Accessioning checklist](#236-accessioning-checklist)
+
+* [2.3.1 Managing accessioning workflow](#231-managing-accessioning-workflow)
+* [2.3.2 Creation of the accession record](#232-creation-of-the-accession-record)
+* [2.3.3 Accessioning digital objects](#233-accessioning-digital-objects)
+* [2.3.4 Digital Accessioning workflows](#234-accessioning-workflows)
+	* [2.3.4.1 Digital archives controlled vocabulary](#2341-digital-archives-controlled-vocabulary)
+* [2.3.5 Creating the CL-2 file](#235-creating-the-cl-2-file)
+	* [2.3.5.1 Electronic CL-2 file (vital docs folder)](#2351-electronic-cl-2-file-vital-docs-folder)
+* [2.3.6 Accessioning checklist](#236-accessioning-checklist)
 	
 
-## 2.3 Accessioning
 
 Accessioning is the formal act of taking legal and physical control of an archival or 
 manuscript collection. Formally accessioning material helps to establish the 
