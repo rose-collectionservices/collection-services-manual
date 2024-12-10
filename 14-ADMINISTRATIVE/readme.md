@@ -62,7 +62,7 @@ Asana is the project management program that Collection Services uses to track p
 ### 14.2.1 Training
 Approaches to training for students and new professional staff will vary. Students need introductions to both basic archival principles and local practices, while new professional staff may only need orientation to local practice. Training for new staff may also include training in advanced concepts relating to cataloging and systems. All training is iterative and will occur as new skills become necessary.
 
-### 14.2.1.1 Students
+#### 14.2.1.1 Students
 Create an orientation packet for a new student's first day. Include:
 
 * Rose and Woodruff Libraries orientation materials:
@@ -83,7 +83,7 @@ When training graduate processing assistants, following the tour and review of o
 
 It's helpful at this point to remind them that they aren't expected to memorize everything on the first day and that you'll work closely with them to teach new skills as they become necessary. Remind the student(s) also to keep their copy of the policy and procedures manual and refer to it when they have questions. If possible, plan to work alongside students regularly for their first few months. Completing tasks together improves the learning process for new students. Additionally, being in close proximity to answer questions as they arise and to model good practice minimizes student mistakes.
 
-### 14.2.1.2 New Staff
+#### 14.2.1.2 New Staff
 In advance of a new staff person starting work, review the Rose Library onboarding checklist and new staff handbook.
 
 New professional staff will have the benefit of graduate training in library and/or archival theory, and may also have prior professional experience. It won't be necessary to spend a lot of time reviewing basic practice with them. However, it is important to gauge their experience and knowledge and plan training accordingly. Most training will be focused on local practice and ensuring the new staff person's performance meets expectations for consistency, clarity, attention to detail, and problem solving. Set expectations early and continue to reinforce training as the person gains proficiency. Remember that the nature of special collections work means that training will occur over a period of months, not weeks.
@@ -97,7 +97,7 @@ General tips:
 ### 14.2.2 Self-Care During Processing
 Self-care at work is important. Our work requires a lot of physical activity such as lifting and carrying heavy boxes that, if done improperly, can lead to injury. Additionally, we are often asked to work with historical materials documenting difficult or triggering events and topics. Protecting ourselves physically and mentally is a crucial element of maintaining productivity and remaining good stewards of our collections. It is important to pay attention to your body; only you will know when something doesn't feel right and you need a break. Always talk to your supervisor if there is a problem or if you have concerns about something in the workplace. We can address problems or provide you with resources that can help.
 
-### 14.2.2.1 Physical Care
+#### 14.2.2.1 Physical Care
 The average records center carton containing books or archival material weighs approximately 40-50 pounds. It's common for boxes to weigh much more, depending on the contents, or to be especially large or awkwardly shaped. Lifting boxes improperly or removing them from shelves/carts improperly can lead to back or neck injuries and pulled muscles.
 
 Guidelines for Lifting:
@@ -152,7 +152,7 @@ There are other tips and general guidelines for physical self-care while working
 * Take plenty of water breaks to stay hydrated. Archives tend to be dry and dehydration can exacerbate issues such as muscle soreness. There is a water fountain on each floor. You may also bring a water bottle to the 9th floor, but it must be kept in the staff cubicle area of the floor. Water is not allowed in the processing pods.
 * Closed-toe shoes are recommended, especially when working on projects that involve a significant amount of box moving.
 
-### 14.2.2.2 Emotional Care
+#### 14.2.2.2 Emotional Care
 Stress, pressure, moments of exhaustion and fatigue, conflict, and frustration are all natural parts of any work environment. Working with archival materials also can be mentally and emotionally draining due to difficulty of subject matter, complexity of the collection and required work, or the tedium of rote tasks such as unfolding tri-fold documents or item-level organization. There is no way to eliminate these things from our work lives, but there are many strategies to cope with and reduce the stress and fatigue caused by our work:
 
 * Create and maintain healthy daily habits.
