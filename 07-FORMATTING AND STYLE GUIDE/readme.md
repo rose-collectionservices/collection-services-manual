@@ -1,27 +1,25 @@
 # Formatting and Style Guide
 
-Content owner: **Meaghan O'Riordan**
-
-- [17.1 Capitalization](#171-capitalization)
-- [17.2 Dates](#172-dates)
-- [17.3 Narrative description](#173-narrative-description)
-- [17.4 Finding aid description](#174-finding-aid-description)
-- [17.5 Folder titles](#175-folder-titles)
-- [17.6 Italics](#176-italics)
-- [17.7 Names](#177-names)
-- [17.8 Numbers](#178-numbers)
-- [17.9 Punctuation](#179-punctuation)
-	- [17.9.1 Brackets and Parentheses](#1791-brackets-and-parentheses)
-	- [17.9.2 Commas](#1792-commas)
-	- [17.9.3 Dashes](#1793-dashes)
-	- [17.9.4 Diacritics](#1794-diacritics)
-	- [17.9.5 Ellipses](#1795-ellipses)
-	- [17.9.6 Hyphenation](#1796-hyphenation)
-	- [17.9.7 Lists](#1797-lists)
-	- [17.9.8 Semicolons and colons](#1798-semicolons-and-colons)
-	- [17.9.9 Spacing](#1799-spacing)
-- [17.10 Style Guides](#1710-style-guides)
-- [17.11 Terminology](#1711-terminology)
+- [7.1 Capitalization](#71-capitalization)
+- [7.2 Dates](#72-dates)
+- [7.3 Narrative description](#73-narrative-description)
+- [7.4 Finding aid description](#74-finding-aid-description)
+- [7.5 Folder titles](#75-folder-titles)
+- [7.6 Italics](#76-italics)
+- [7.7 Names](#77-names)
+- [7.8 Numbers](#78-numbers)
+- [7.9 Punctuation](#79-punctuation)
+	- [7.9.1 Brackets and Parentheses](#791-brackets-and-parentheses)
+	- [7.9.2 Commas](#792-commas)
+	- [7.9.3 Dashes](#793-dashes)
+	- [7.9.4 Diacritics](#794-diacritics)
+	- [7.9.5 Ellipses](#795-ellipses)
+	- [7.9.6 Hyphenation](#796-hyphenation)
+	- [7.9.7 Lists](#797-lists)
+	- [7.9.8 Semicolons and colons](#798-semicolons-and-colons)
+	- [7.9.9 Spacing](#799-spacing)
+- [7.10 Style Guides](#710-style-guides)
+- [7.11 Terminology](#711-terminology)
 
 *Purpose and Limitations of this Style Guide*
 
@@ -31,7 +29,7 @@ This style guide aligns with Emory Communications’ style guide and uses Chicag
 
 DACS, RDA, and name authority rules trump this style guide.  
 
-## 17.1 Capitalization
+## 7.1 Capitalization
 
 - Capitalize form titles
 	- Deed of Gift
@@ -60,7 +58,7 @@ DACS, RDA, and name authority rules trump this style guide.
         
 - Lowercase policy documents
 
-## 17.2 Dates
+## 7.2 Dates
 
 - Do not use apostrophes in dates
 	- 1920s *not* 1920's
@@ -71,7 +69,7 @@ DACS, RDA, and name authority rules trump this style guide.
 
 Standard practice is to use year or year range in file titles unless a more specific date using a month and/or day provides significant content about the creation of the material or serves to distinguish the file from another file.
 
-## 17.3 Narrative description
+## 7.3 Narrative description
 
 - Avoid using abbreviations except in transcribed titles of published works
 
@@ -98,11 +96,11 @@ Standard practice is to use year or year range in file titles unless a more spec
 
 Note: Acronyms should be spelled out every time in file titles
 
-## 17.4 Finding Aid Description
+## 7.4 Finding Aid Description
 
 When writing archival description specific to finding aids, please refer to other sections of this manual, in particular the [Description Section](/05-DESCRIPTION).
 
-## 17.5 Folder titles
+## 7.5 Folder titles
 
 If you are unsure of how to title, please refer to DACS.
 
@@ -142,7 +140,7 @@ If you are unsure of how to title, please refer to DACS.
 	- Only use "v." as an abbreviation in legal contexts
 	- In other contexts, "vs." can be used as an abbreviation
 
-## 17.6 Italics
+## 7.6 Italics
 
 - In titles of books, an initial *The* is always italic
 	- *The Chicago Manual of Style*
@@ -159,7 +157,7 @@ If you are unsure of how to title, please refer to DACS.
 
 - Use quotation marks for poems, article titles, short stories, skits, chapters, songs, and exhibition titles.
 
-## 17.7 Names
+## 7.7 Names
 
 - Add titles in parentheses after personal names in folder titles or a collection's main entry
 	- Smith, John (Dr.)
@@ -176,7 +174,7 @@ If you are unsure of how to title, please refer to DACS.
 - When using initials instead of a first name, space the initials
 	- H. L. Mencken
 
-## 17.8 Numbers
+## 7.8 Numbers
 
 *All of the following ruls also apply to ordinal numbers, e.g., fifteenth or 103rd.*
 
@@ -209,9 +207,9 @@ If you are unsure of how to title, please refer to DACS.
 
 - When writing out dimensions, write in this order: length x width x height x depth
 
-## 17.9 Punctuation
+## 7.9 Punctuation
 
-### 17.9.1 Brackets and parentheses
+### 7.9.1 Brackets and parentheses
 
 Archivist-supplied information refers to information inferred from the material that provides additional context.
 
@@ -238,7 +236,7 @@ Archivist-supplied information refers to information inferred from the material 
 	- Mercedes-Benz Stadium (Atlanta, Georgia)
 	- Provide location information the first time an institution or organization is mentioned in each note at the collection, series, or sub-series level, as well as in in every file title.
 
-### 17.9.2 Commas
+### 7.9.2 Commas
 
 - Always use a comma following an adverb, and before it if the adverb is not the first word in a sentence 
 	- The black strip, therefore, is jarring to the eye. or Therefore, the black strip is jarring to the eye.  
@@ -271,7 +269,7 @@ Archivist-supplied information refers to information inferred from the material 
 	- Non-restrictive clause – removing the clause would not change the sentence’s meaning 
 		- I love musicals, such as Hamilton and Cats. 
  
-### 17.9.3 Dashes
+### 7.9.3 Dashes
 
 - Dashes should be unspaced 
 - Em dashes—are used for emphasis within prose. These will need to be encoded in XML.
@@ -284,13 +282,13 @@ Archivist-supplied information refers to information inferred from the material 
 	- 1970–77
 	- pp. 38–45
 
-### 17.9.4 Diacritics
+### 7.9.4 Diacritics
 
 Use proper diacritics when needed.
 	- Bahāʼ al-Dīn Majrūh
 	Federico García Lorca 
         
-### 17.9.5 Ellipses
+### 7.9.5 Ellipses
 
 - Three spaced ellipsis points indicate an omission within a sentence
 	- Spaces should separate the points from each other and from the words preceding and following  
@@ -306,7 +304,7 @@ Use proper diacritics when needed.
 - Do not use … to indicate missing or illegible words or parts of words  
 	- See \[unintelligible] in the Brackets section
 
-### 17.9.6 Hyphenation
+### 7.9.6 Hyphenation
 
 - African American 
 	- written without a hyphen, whether it is used as a noun or an adjective.
@@ -386,7 +384,7 @@ Use proper diacritics when needed.
 - Use hyphens with compound adjectives when they precede the noun but not when they follow it 
 	- well-planned event \[but, the event was well planned]
 
-### 17.9.7 Lists
+### 7.9.7 Lists
 
 Punctuate ordered lists but not unordered lists:
 - Label and barcode boxes
@@ -402,7 +400,7 @@ File titles that repeat are identified by a bracketed number after the title.  T
 
 File titles can use [1 of 2] instead of the previous format example to designate that the materials were arranged by the creator of the collection in that order, used when removing materials from a binder to multiple folders.
 
-### 17.9.8 Semicolons and Colons
+### 7.9.8 Semicolons and Colons
 
 - If the second clause is introduced by a conjunctive adverb such as *however* or *therefore*, use a semicolon
 	- The artist has worked in several media; however, she now prefers acrylics.
@@ -416,17 +414,17 @@ File titles can use [1 of 2] instead of the previous format example to designate
 
 - Use a colon to denote sections of a container list when series and subseries are not being used but there are significant groupings of material that should be listed together in the container list. The first word after a colon used for this purpose in a file title should be capitalized.
 
-### 17.9.9 Spacing
+### 7.9.9 Spacing
 
 Use only one space after periods, colons, and semicolons.
 
-## 17.10 Style guides
+## 7.10 Style guides
 
 When trying to make a decision about a style question that is not already included in this guide, please rely on [*Describing Archives, A Content Standard (DACS)*](https://github.com/saa-ts-dacs/dacs), the [Emory University style guide](http://communications.emory.edu/resources/identity/guidelines/style-guide-editorial/index.html), and the [Chicago Manual of Style](http://discovere.emory.edu/discovere:default_scope:01EMORY_ALMA51297748280002486).
 
 Other guides referenced for this style guide include the [Association of Art Editors Style Guide](https://artedit.org/style-guide.php) and the [Beinecke Rare Book & Manuscript Library (Yale University) style guide](https://msu-processing-manual.beinecke.library.yale.edu/style).
 
-## 17.11 Terminology
+## 7.11 Terminology
 
 *For any terminology questions not on this list, please preference* Merriam-Webster's *first definition/spelling*.
 
