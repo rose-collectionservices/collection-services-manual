@@ -2,39 +2,39 @@
 
 Content owner: **Becky Sherman**
 
-* [6.1 Sorting](#61-sorting)
-* [6.2 Appraisal and weeding during processing](#62-appraisal-and-weeding-during-processing)
-* [6.3 Routine preservation during processing](#63-routine-preservation-during-processing)
-* [6.4 Foldering materials](#64-foldering-materials)
-	* [6.4.1 Use of original folders](#641-use-of-original-folders)
- 	* [6.4.2 Creasing and stuffing folders](#642-creasing-and-stuffing-folders)
-  	* [6.4.3 Folder titles](#643-folder-titles)
-  	* [6.4.4 Labeling folders](#644-labeling-folders)	 
-* [6.5 Separating materials](#65-separating-materials)
-  	* [6.5.1 Attachments](#651-attachments)
-  	* [6.5.2 Publications](#652-publications)
-* [6.6 Restricting and redacting materials](#66-restricting-and-redacting-materials)
-	* [6.6.1 Restricting materials](#661-restricting-materials)
- 	* [6.6.2 Redacting materials](#662-redacting-materials)
-* [6.7 Quick guide to processing special formats](#67-quick-guide-to-processing-special-formats)
-	* [6.7.1 Newspaper clippings](#671-newspaper-clippings)
-	* [6.7.2 Quick guide to processing photographs](#672-quick-guide-to-processing-photographs)
-   	* [6.7.3 Processing audiovisual media](#673-processing-audiovisual-media)
-   		* [6.7.3.1 Accessioning/Minimal Level Processing of AV](#6731-accessioning-minimal-level-processing-of-AV)
-   	 	* [6.7.3.2 Granular Processing of AV](#6732-granular-processing-of-AV)
-   	  	* [6.7.3.3 Notes on Access to Commercial Recordings](#6733-notes-on-access-to-commercial-recordings)
-	* [6.7.4 Processing digital media](#674-processing-digital-media) 
-* [6.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
-	* [6.8.1 General guidelines](#681-general-guidelines)
- 	* [6.8.2 Box naming conventions by shelving location](#682-box-naming-conventions-by-shelving-location)
-  	* [6.8.3 Materials that should be boxed separately](#683-materials-that-should-be-boxed-separately)
-  	* [6.8.4 Oversized materials](#684-oversized-materials)
-* [6.9 Labeling boxes](#69-labeling-boxes)
- 	* [6.9.1 General labels](#691-general-labels)
-  	* [6.9.2 Labels for materials treated for mold](#692-labels-for-materials-treated-for-mold) 	
-	* [6.9.3 Labeling restricted material](#693-boxing-and-labeling-restricted-material)
- 	* [6.9.4 Printing labels](#694-printing-labels)
- * [6.10 Barcodes](#619-barcodes)
+* [10.1 Sorting](#101-sorting)
+* [10.2 Appraisal and weeding during processing](#102-appraisal-and-weeding-during-processing)
+* [10.3 Routine preservation during processing](#103-routine-preservation-during-processing)
+* [10.4 Foldering materials](#104-foldering-materials)
+	* [10.4.1 Use of original folders](#1041-use-of-original-folders)
+ 	* [10.4.2 Creasing and stuffing folders](#1042-creasing-and-stuffing-folders)
+  	* [10.4.3 Folder titles](#1043-folder-titles)
+  	* [10.4.4 Labeling folders](#1044-labeling-folders)	 
+* [10.5 Separating materials](#105-separating-materials)
+  	* [10.5.1 Attachments](#1051-attachments)
+  	* [10.5.2 Publications](#1052-publications)
+* [10.6 Restricting and redacting materials](#106-restricting-and-redacting-materials)
+	* [10.6.1 Restricting materials](#1061-restricting-materials)
+ 	* [10.6.2 Redacting materials](#1062-redacting-materials)
+* [10.7 Quick guide to processing special formats](#107-quick-guide-to-processing-special-formats)
+	* [10.7.1 Newspaper clippings](#1071-newspaper-clippings)
+	* [10.7.2 Quick guide to processing photographs](#1072-quick-guide-to-processing-photographs)
+   	* [10.7.3 Processing audiovisual media](#1073-processing-audiovisual-media)
+   		* [10.7.3.1 Accessioning/Minimal Level Processing of AV](#10731-accessioning-minimal-level-processing-of-AV)
+   	 	* [10.7.3.2 Granular Processing of AV](#10732-granular-processing-of-AV)
+   	  	* [10.7.3.3 Notes on Access to Commercial Recordings](#10733-notes-on-access-to-commercial-recordings)
+	* [10.7.4 Processing digital media](#1074-processing-digital-media) 
+* [10.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
+	* [10.8.1 General guidelines](#1081-general-guidelines)
+ 	* [10.8.2 Box naming conventions by shelving location](#1082-box-naming-conventions-by-shelving-location)
+  	* [10.8.3 Materials that should be boxed separately](#1083-materials-that-should-be-boxed-separately)
+  	* [10.8.4 Oversized materials](#1084-oversized-materials)
+* [10.9 Labeling boxes](#109-labeling-boxes)
+ 	* [10.9.1 General labels](#1091-general-labels)
+  	* [10.9.2 Labels for materials treated for mold](#1092-labels-for-materials-treated-for-mold) 	
+	* [10.9.3 Labeling restricted material](#1093-boxing-and-labeling-restricted-material)
+ 	* [10.9.4 Printing labels](#1094-printing-labels)
+ * [10.10 Barcodes](#1010-barcodes)
  * 
  * [6.14 Format-specific procedures--getting moved to a separate top level section]
 	* [6.14.1 Photographs]
@@ -53,18 +53,18 @@ Content owner: **Becky Sherman**
 
 This document provides guidance on physical processing tasks, according to local policy and practice at the Rose Library. 
 
-## 6.1 Sorting
+## 10.1 Sorting
 For more information on sorting, see:
 * [Section 3 Collection Analysis](https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-COLLECTION%20ANALYSIS)
 * [4.2 Assumptions and general guidelines about arrangement and description](https://github.com/rose-collectionservices/collection-services-manual/tree/master/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#42-assumptions-and-general-guidelines)
 * [4.3 Before Arranging and Describing a Collection](https://github.com/rose-collectionservices/collection-services-manual/tree/master/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#43-before-arranging-and-describing-a-collection)
 
-## 6.2 Appraisal and weeding during processing
+## 10.2 Appraisal and weeding during processing
 
 See [8.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-APPRAISAL#82-during-arrangement)
 
-## 6.3 Routine preservation during processing
-[moved from Section 9 Preservation] 
+## 10.3 Routine preservation during processing
+[moved from Preservation section] 
 
 Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
 
@@ -87,23 +87,23 @@ Conduct the following minor preservation work during granular processing:
 
 For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
-## 6.4 Foldering Materials
+## 10.4 Foldering Materials
 
-### 6.4.1 Use of original folders
+### 10.4.1 Use of original folders
 
 If the original folders are in good shape, they may be retained as primary housing for the materials. Always retain original containers and folders if they contain important or substantive writing, or if they bear a unique relationship to their contents; original folders can be inserted into new acid-free folders along with the contents of the folder.  Otherwise, folder titles and other basic information may be transcribed onto acid-free folders and the original container discarded.  If an original folder or envelope is too large or bulky to fit in a standard size box, the relevant information can be photocopied and the original item can be discarded. 
 
-### 6.4.2 Creasing and stuffing folders
+### 10.4.2 Creasing and stuffing folders
 
 * Use legal-size folders as the default.
 * When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
 
-### 6.4.3 Folder titles
+### 10.4.3 Folder titles
 
 * Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
 * See also [17.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
 
-### 6.4.4 Labeling folders
+### 10.4.4 Labeling folders
 
 Folders should be labeled with the following information: 
 
@@ -119,28 +119,28 @@ Separate the collection title and manuscript number, series and subseries titles
 
 ![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
-## 6.5 Separating Materials 
+## 10.5 Separating Materials 
 [moved from Section 7 Restrictions]
 
 For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
 
-### 6.5.1 Attachments
+### 10.5.1 Attachments
 Items that are attached to each other should only be separated under limited circumstances. Always remove sound or video/film recordings, books, and other bulky items that affect storage when they are attached to letters or other documents. If a photograph or other printed item is attached to a document, there is no need to separate the items unless there is something extraordinarily compelling about the attached item and separate description is required.
 
 If an item merits separation, the archivist should create a [separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) to document the relationship between the two items. Complete the form, attaching one copy to the original item and a second copy to the item being removed. Separation should be done judiciously and only in cases where access to the item is significantly improved by separation.
 
 In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document. Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]
 
-### 6.5.2 Publications
+### 10.5.2 Publications
 Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed and cataloged. 
 
 * For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
 * If an item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range on Level 9. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
 * If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
 
-## 6.6 Restricting and redacting materials
+## 10.6 Restricting and redacting materials
 
-### 6.6.1 Restricting materials
+### 10.6.1 Restricting materials
 For restriction policies, see [Section 7 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-RESTRICTION%20POLICIES).
 
 * Items that are restricted should be foldered separately:
@@ -153,7 +153,7 @@ For restriction policies, see [Section 7 Restriction policies](https://github.co
 For restriction notes, see [5.1.18 Conditions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5118-conditions-governing-access)
 
 
-### 6.6.2 Redacting materials
+### 10.6.2 Redacting materials
 
 Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
 
@@ -172,19 +172,19 @@ Or:
 
 NEVER redact the original document itself.  If the original document has intrinsic value (original correspondence, etc.), restrict the document as normal and retain in the collection.  If the original document is not unique (forms, title pages without annotations, etc.), the original can be discarded in the confidential shredding bin. 
 
-## 6.7 Quick Guide to Processing Special Formats
+## 10.7 Quick Guide to Processing Special Formats
 
-### 6.7.1 Newspaper clippings
+### 10.7.1 Newspaper clippings
 
 Newspaper clippings should be appraised for their relevancy to a collection and only those that are about the creator or their work should be kept.  Clippings are commonly available outside the archives and should never be arranged or described in detail.  They can be described as "Clippings, [date range]" and be boxed or foldered without sorting.  Preservation photocopies should not be made, nor should clippings be unfolded to create oversized papers (OP).  Weed duplicates if they're obvious, but do not waste time trying to identify duplicates. 
 
-### 6.7.3 Quick Guide to Processing Photographs 
+### 10.7.2 Quick Guide to Processing Photographs 
 
 Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [6.5.1 Separating materials: Attachments](#651-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
 For additional guidelines and detailed information about processing photographs, see [below].
 
-### 6.7.4 Processing Audiovisual Media
+### 10.7.3 Processing Audiovisual Media
 Content owner: **Anicka Austin**
 
 [So you found some cassette tapes...this section still needs to be updated.]
@@ -197,7 +197,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 
 For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r> "https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r").
 
-#### 6.7.4.1 Accessioning/Minimal Level Processing of AV
+#### 10.7.3.1 Accessioning/Minimal Level Processing of AV
 
 Audiovisual materials will be rehoused upon accessioning into boxes labeled "AV."  If more than one box is used, it is preferable to keep audio and visual boxes (e.g. keep all audio together in one box and remove video to another as this will aid in digitization procedures).  Individual items can be rehoused as well at this point (audiocassettes should be in some kind of case) to ensure that damage does not occur.  
 
@@ -240,7 +240,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 	
 At this time, the accessioned materials should be listed in the [Additions to the Audiovisual Inventory form](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u) for future digitization.  These materials will be considered backlog for digitization and the location will be noted in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EZiyR14OgtROk_YUuYsg6MEBiy1izTutJ3BUfHmJM7wAxg?e=gCYaC3).
 
-#### 6.7.4.2 Granular Processing of AV
+#### 10.7.3.2 Granular Processing of AV
 
 Audiovisual materials should be fully processed in conjunction with the paper materials of the collection, and minimal level processing should have been done at accessioning, so materials should be identified at least at that level.  It is likely that as of 2016, most collections will have not gone through the accession procedure listed above, so extra attention should be paid to those materials that have not been identified.  Regardless of the accessioning procedure followed, the following will need to be done for identification:
 
@@ -276,7 +276,7 @@ Note: Image includes a date format that is no longer used.  The approved format 
 
 Unless otherwise identified, “phonograph” is a catch-all for the various forms of recorded disks.  Care should be made to identify the type, but this will allow for enough definition until digitization. Processing staff should use the [Media Guide](https://emory.sharepoint.com/:b:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Media%20Guide.pdf?csf=1&web=1&e=vawA0O) to identify formats.
 
-#### 6.7.4.3 Notes on Access to Commercial Recordings
+#### 10.7.3.3 Notes on Access to Commercial Recordings
 If materials are commercial recordings and will not be digitized or made available to researchers, the physical items can be removed from the collection. However, if this is done, and the archivist should note the identity of each title with the following language:
 
 "Researcher access is restricted due to copyright; there is no access copy. Original recording was removed from holdings"
@@ -286,7 +286,7 @@ The following language should be included at the series and/or subseries level r
 "Commercial recordings are not digitized and content is not available due to a risk assessment of copyright restrictions. A list of titles are included in the inventory for researchers to identify the holdings of the creator. These materials are available commercially and can be accessed via other sources."
 
 
-### 6.7.5 Processing digital media
+### 10.7.4 Processing digital media
 [so you found some floppy disks...]
 Quick overview of what to do if you find digital materials in a collection.
 
@@ -294,19 +294,19 @@ Link out to the born digital manual.
 
 
 
-## 6.8 Boxing Collections and Numbering Boxes
+## 10.8 Boxing Collections and Numbering Boxes
 
-### 6.8.1 General guidelines
+### 10.8.1 General guidelines
 * Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 * Folders should be packed with boxes so that the folders fit snugly. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down, and there should be enough room that the archivist's fingers just reach the bottom of the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection). If materials have been removed for preservation or exhibition, space should be held for those materials when boxing.
 * Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Numbers on box labels should say "Box 1," "Box 2," etc.
 
-### 6.8.2 Box naming conventions by shelving location
+### 10.8.2 Box naming conventions by shelving location
 
 See [Section 16.2 Box naming conventions by shelving location](
 
 
-### 6.8.3 Materials that should be boxed separately
+### 10.8.3 Materials that should be boxed separately
 
 **Restricted material** must be housed separately from the rest of the collection and the label stamped as restricted; [see 6.6.1 Restricting materials](#661-restricting materials) and 6.9.3 Labeling Restricted Material (#693-labeling-restricted-material).
 
@@ -318,7 +318,7 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 
 
-### 6.8.4 Oversized materials
+### 10.8.4 Oversized materials
 
 * Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
 * Oversized material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible.
@@ -375,9 +375,9 @@ See [Section 16.2 Box naming conventions by shelving location](
 
 
 
-## 6.9 Labeling boxes
+## 10.9 Labeling boxes
 
-### 6.9.1 General labels
+### 10.9.1 General labels
 
 **Box labels** should include the following information (see figure 2 for an example): 
 
@@ -413,7 +413,7 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 ![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
 
-### 6.9.2 Labels for materials treated for mold
+### 10.9.2 Labels for materials treated for mold
 
 Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
@@ -434,7 +434,7 @@ Boxes that have been treated for mold must be housed separately from the rest of
 *Figure 9: Oversized box with mold notice label*
 
 
-### 6.9.3 Labeling Restricted Material
+### 10.9.3 Labeling Restricted Material
 
 See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
 
@@ -458,14 +458,16 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
-### 6.9.4 Printing labels
+### 10.9.4 Printing labels
 
 See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
 
-## 6.10 Barcodes
+## 10.10 Barcodes
 
-## 6.14 Deep dives by format
-### 6.14.1 Photographs
+
+
+## 11 Format Specific Procedures
+### 11.1 Photographs
 
 Archivists will use the following guidelines and their professional discretion to determine appropriate levels of arrangement and description for photographs in Rose Library collections. These guidelines are meant to offer general guidance for archivists working with photographs, though there are a few prescriptive rules.
 
