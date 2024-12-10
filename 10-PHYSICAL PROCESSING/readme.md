@@ -101,7 +101,7 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 10.4.3 Folder titles
 
 * Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
-* See also [17.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-FORMATTING%20AND%20STYLE%20GUIDE#175-folder-titles) for additional guidance on formatting and style of folder titles.
+* See also [7.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-FORMATTING%20AND%20STYLE%20GUIDE#75-folder-titles) for additional guidance on formatting and style of folder titles.
 
 ### 10.4.4 Labeling folders
 
@@ -120,7 +120,7 @@ Separate the collection title and manuscript number, series and subseries titles
 ![Figure 1: Folder labeling](/06-LOCAL%20PRACTICE/Images/Figure1.jpg "Folder labeling")
 
 ## 10.5 Separating Materials 
-[moved from Section 7 Restrictions]
+[moved from Section 8 Restrictions]
 
 For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
 
@@ -141,16 +141,16 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 ## 10.6 Restricting and redacting materials
 
 ### 10.6.1 Restricting materials
-For restriction policies, see [Section 7 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-RESTRICTION%20POLICIES).
+For restriction policies, see [Section 8 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-RESTRICTION%20POLICIES).
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [Restricted].
  	* If only individual items in a folder are restricted, separate those items from the rest of the contents of the folder and folder them separately. Handle the original unrestricted folder and the new restricted folder as a series of folders by giving both folders identical titles then adding [1 of 2] and [2 of 2] at the end of the title. If necessary you can use a [MSS separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EStul3EWAvVLqf7lTER_dfwBhGOl41Y5ZoEes6wzQYkZJQ?e=I8Ddew) or [an EUA separation sheet](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ER0YmElt_wVApRIfeUUaq9cB1uAjrYWzz7TYQgMD5YlfKw?e=AcC5UV) to document the separation of the restricted items; however, typically this is not necessary because giving the folders the same title is sufficient, as it indicates that the contents were originally part of a single folder. At the end of the restricted title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [Restricted].
 * For items restricted for preservation reasons, when possible create access copies or digital surrogates for fragile material, so that the access copy can be made available to researchers while the original fragile item remains restricted.
 * Materials deemed restricted must be boxed separately and should be boxed in a way that facilitates providing access to the material once the restrictions have expired.  For example, if there are multiple levels of restriction in a collection, box materials subject to the same restriction end date together; for example, box all materials that can be opened to researchers in 2030 together.  When the restriction expires, the box can simply be relabeled and restrictions governing access notes removed.
-* Labels on restricted boxes must be stamped RESTRICTED. See [6.9.3 Labeling restricted material](#693-labeling-restricted-material)
+* Labels on restricted boxes must be stamped RESTRICTED. See [10.9.3 Labeling restricted material](#1093-labeling-restricted-material)
 
-For restriction notes, see [5.1.18 Conditions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-DESCRIPTION#5118-conditions-governing-access)
+For restriction notes and making materials non-requestable in ASpace, see [6.1.18 Conditions Governing Access.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6118-conditions-governing-access)
 
 
 ### 10.6.2 Redacting materials
@@ -180,14 +180,14 @@ Newspaper clippings should be appraised for their relevancy to a collection and 
 
 ### 10.7.2 Quick Guide to Processing Photographs 
 
-Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [6.5.1 Separating materials: Attachments](#651-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
+Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [10.5.1 Separating materials: Attachments](#1051-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
-For additional guidelines and detailed information about processing photographs, see [below].
+For additional guidelines and detailed information about processing photographs, see [11.1 Format-Specific Procedures](.
 
 ### 10.7.3 Processing Audiovisual Media
 Content owner: **Anicka Austin**
 
-[So you found some cassette tapes...this section still needs to be updated.]
+[This section needs to be updated.]
 
 Audiovisual materials can be described separately by format or intellectually with other records by function.  Physically, sound and video recordings should be housed in audiovisual (AV) masters boxes.  For preservation purposes, sound and video recordings should be housed separately when possible.  When working with a small amount of recordings, everything can be housed together in one box. 
 
@@ -287,8 +287,9 @@ The following language should be included at the series and/or subseries level r
 
 
 ### 10.7.4 Processing digital media
-[so you found some floppy disks...]
-Quick overview of what to do if you find digital materials in a collection.
+[This section needs to be updated.]
+
+Overview of what to do if you find digital media while accessioning or processing a collection.
 
 Link out to the born digital manual.
 
@@ -303,18 +304,18 @@ Link out to the born digital manual.
 
 ### 10.8.2 Box naming conventions by shelving location
 
-See [Section 16.2 Box naming conventions by shelving location](
+See [Section 13.2 Box naming conventions by shelving location](https://github.com/rose-collectionservices/collection-services-manual/tree/master/13-STACKS%20MANAGEMENT#1312-box-naming-conventions-based-on-shelving-locations)
 
 
 ### 10.8.3 Materials that should be boxed separately
 
-**Restricted material** must be housed separately from the rest of the collection and the label stamped as restricted; [see 6.6.1 Restricting materials](#661-restricting materials) and 6.9.3 Labeling Restricted Material (#693-labeling-restricted-material).
+**Restricted material** must be housed separately from the rest of the collection and the label stamped as restricted; [see 10.6.1 Restricting materials](#1061-restricting materials) and 10.9.3 Labeling Restricted Material (#1093-labeling-restricted-material).
 
-**Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV"; see [6.7.4 Processing audiovisual media])(#674-processing-audiovisual-media).
+**Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV"; see [10.7.3 Processing audiovisual media])(#1073-processing-audiovisual-media).
 
-**Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV"; [see 6.7.5 Processing digital media](#675-processing-digital-media)
+**Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV"; [see 10.7.4 Processing digital media](#1074-processing-digital-media)
 
-**Material that has been treated for mold** must be housed separately from the rest of the collection and a moldy label affixed; see [9.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-PRESERVATION#92-moldy-materials) and [6.9.3 Labels for materials trated for mold](#6.9.2-labels-for-materials-treated-for-mold). 
+**Material that has been treated for mold** must be housed separately from the rest of the collection and a moldy label affixed; see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)) and [10.9.2 Labels for materials trated for mold](#1092-labels-for-materials-treated-for-mold). 
 
 
 
