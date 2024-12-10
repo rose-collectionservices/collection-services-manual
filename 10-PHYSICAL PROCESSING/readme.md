@@ -141,7 +141,7 @@ Published monographs, broadsides, and periodicals that are rare or are closely c
 ## 10.6 Restricting and redacting materials
 
 ### 10.6.1 Restricting materials
-For restriction policies, see [Section 8 Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-RESTRICTION%20POLICIES).
+For restriction policies, see [Section 8: Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-RESTRICTION%20POLICIES).
 
 * Items that are restricted should be foldered separately:
 	* If the entire folder is restricted, title it as you normally would. Then at the end of the title write [Restricted until YEAR] if the restriction end date is known. Otherwise simply write [Restricted].
