@@ -1,7 +1,7 @@
 # Format-Specific Procedures
 
 
-* [11.1 Photographs](#111-photographs)
+* [11.1 Photographs](#111-photographs) [finalized]
     * [11.1.1 General rules](#1111-general-rules)
     * [11.1.2 Labeling photographs](#1112-labeling-photographs)
     * [11.1.3 Describing photographs](#1113-describing-photographs)
@@ -13,8 +13,8 @@
     * [11.1.9 Negatives](#1119-negatives)
     * [11.1.10 Nitrate film](#11110-nitrate-film)
     * [11.1.11 Cellulose acetate film](#11111-cellulose-acetate-film) 
-* [11.2 Audiovisual materials](#112-audiovisual-materials)
-* [11.3 Born digital materials](#113-born-digital-materials)
+* [11.2 Audiovisual materials](#112-audiovisual-materials) [draft]
+* [11.3 Born digital materials](#113-born-digital-materials) [draft]
 
 
 ### 11.1 Photographs
