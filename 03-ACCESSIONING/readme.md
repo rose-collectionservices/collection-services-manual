@@ -29,7 +29,7 @@ be described at minimum at the box level, but other descriptive information may 
 limited. Detailed processing is not common at this time, though may be warranted 
 (e.g. the collection is quite small, researcher need is high). 
 
-Determine the appropriate [level of processing](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
+Determine the appropriate [level of processing](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
 
 ## 3.1 Managing Accessioning Workflow
 
