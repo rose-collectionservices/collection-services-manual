@@ -428,7 +428,7 @@ For more information on moldy materials, see [12.2 Moldy materials](https://gith
 
 ![Figure 8: Slim document case with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg)
 
-*Figure 8: Slim document case wtih mold notice label*
+*Figure 8: Slim document case with mold notice label*
 
 ![Figure 9: Oversized box with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg)
 
