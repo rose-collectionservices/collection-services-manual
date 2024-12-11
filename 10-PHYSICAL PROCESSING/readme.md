@@ -254,7 +254,7 @@ While we can refer to the individual cassette, film, or tape as an item, it is i
 
 To identify the material within the finding aid, folder titles that include audiovisual items should end with [original: format type].  For example:
 
-![Figure 14: Representing AV in the container list](/06-LOCAL%20PRACTICE/Images/Figure14.jpg "Representing AV in the container list")
+![Figure 14: Representing AV in the container list](/10-PHYSICAL%20PROCESSING/Images/Figure14.jpg "Representing AV in the container list")
 
 Note: Image includes a date format that is no longer used.  The approved format is Year Month Day.
 
@@ -264,7 +264,7 @@ Duplicates should be kept until material is digitized whereupon they can be cons
 
 Phonographs, because of their size, often do not fit on regular sized shelves and are housed on the LP shelves in the Nunnery. In the case that there are not enough LPs from one collection to fill a phonograph box, they may be housed in one of the combined LP (CLP) boxes. For CLPs: The container list will include the actual CLP number in the box column with a dash in the place of the folder number.  For example:
 
-![Figure 15: Representing CLPs in the container list](/06-LOCAL%20PRACTICE/Images/Figure15.jpg "Representing CLPs in the container list")
+![Figure 15: Representing CLPs in the container list](/10-PHYSICAL%20PROCESSING/Images/Figure15.jpg "Representing CLPs in the container list")
 
 Note: Image includes a date format that is no longer used.  The approved format is Year Month Day.
 
@@ -382,7 +382,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 * Collection title (do not include the date range in the title statement since it will change in the event of accruals);
 * Box number.
 
-![Figure 2: Box labeling](/06-LOCAL%20PRACTICE/Images/Figure2.jpg "Box labeling")
+![Figure 2: Box labeling](/10-PHYSICAL%20PROCESSING/Images/Figure2.jpg "Box labeling")
 
 *Figure 2*
 
@@ -393,19 +393,19 @@ There are three sizes for labels. The most commonly used is the [4" x 3 1/3" lab
 
 *Hollinger box (.5 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
-![Figure 3: Regular Hollinger box](/06-LOCAL%20PRACTICE/Images/Figure3.jpg "Regular Hollinger box")
+![Figure 3: Regular Hollinger box](/10-PHYSICAL%20PROCESSING/Images/Figure3.jpg "Regular Hollinger box")
 
 *Half Hollinger box (.25 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
-![Figure 4: Half Hollinger box](/06-LOCAL%20PRACTICE/Images/Figure4.jpg "Half Hollinger box")
+![Figure 4: Half Hollinger box](/10-PHYSICAL%20PROCESSING/Images/Figure4.jpg "Half Hollinger box")
 
 *Record center box (1 linear foot):* Label should be placed in the middle, under the handle with enough room to place the barcode between the handle and the label. 
 
-![Figure 5: Record center box](/06-LOCAL%20PRACTICE/Images/Figure5.jpg "Record center box")
+![Figure 5: Record center box](/10-PHYSICAL%20PROCESSING/Images/Figure5.jpg "Record center box")
 
 *Oversized papers box (also applies to bound and oversized bound volume boxes):* Label should be placed on the left side of the front of the box. The barcode should be placed to the right of the label. 
 
-![Figure 6: Oversized papers box](/06-LOCAL%20PRACTICE/Images/Figure6.jpg "Oversized papers box")
+![Figure 6: Oversized papers box](/10-PHYSICAL%20PROCESSING/Images/Figure6.jpg "Oversized papers box")
 
 ### 10.9.2 Labels for materials treated for mold
 
@@ -415,15 +415,15 @@ Boxes that have been treated for mold must be housed separately from the rest of
 
 [For more information on moldy materials, see the preservation section](/09-PRESERVATION)
 
-![Figure 7](/06-LOCAL%20PRACTICE/Images/Figure7.jpg)
+![Figure 7](/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg)
 
 *Figure 7: Record center box with mold notice label*
 
-![Figure 8: Slim document case with mold notice label](/06-LOCAL%20PRACTICE/Images/Figure8.jpg "Slim document case with mold notice label")
+![Figure 8: Slim document case with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg "Slim document case with mold notice label")
 
 *Figure 8: Slim document case wtih mold notice label*
 
-![Figure 9: Oversized box with mold notice label](/06-LOCAL%20PRACTICE/Images/Figure9.jpg "Figure 9: Oversized box with mold notice label")
+![Figure 9: Oversized box with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg "Figure 9: Oversized box with mold notice label")
 
 *Figure 9: Oversized box with mold notice label*
 
@@ -434,21 +434,21 @@ See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder 
 
 Restricted boxes that are not requestable by researchers should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
 
-![Figure 10: Restricted material](/06-LOCAL%20PRACTICE/Images/Figure10.jpg "Restricted material")
+![Figure 10: Restricted material](/10-PHYSICAL%20PROCESSING/Images/Figure10.jpg "Restricted material")
 
 *Figure 10*
 
 There may additionally be other kinds of restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
 
-![Figure 11: No personal photography](/06-LOCAL%20PRACTICE/Images/Figure11.jpg "No personal photography")
+![Figure 11: No personal photography](/10-PHYSICAL%20PROCESSING/Images/Figure11.jpg "No personal photography")
 
 *Figure 11: No personal photography*
 
-![Figure 12: Reproduction restrictions](/06-LOCAL%20PRACTICE/Images/Figure12.jpg "Reproduction restrictions")
+![Figure 12: Reproduction restrictions](/10-PHYSICAL%20PROCESSING/Images/Figure12.jpg "Reproduction restrictions")
 
 *Figure 12: Reproduction restrictions, used primarily for boxes that contain sheet music or scores. When affixing this label to boxes, you may place the label higher on the flap to accommodate barcodes.*
 
-![Figure 13: No camera](/06-LOCAL%20PRACTICE/Images/Figure13.jpg "No camera")
+![Figure 13: No camera](/10-PHYSICAL%20PROCESSING/Images/Figure13.jpg "No camera")
 
 *Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
 
