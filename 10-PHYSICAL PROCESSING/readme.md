@@ -422,7 +422,7 @@ Boxes that have been treated for mold must be housed separately from the rest of
 
 For more information on moldy materials, see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)
 
-![Figure 7](/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg)
+![Figure 7](/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg | height = 100px)
 
 *Figure 7: Record storage box with mold notice label*
 
