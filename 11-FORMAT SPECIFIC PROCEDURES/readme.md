@@ -124,6 +124,4 @@ Labeling photographs should be rare. However, if you can identify the subject or
 
 * Cellulose acetates shrink as they age and display vinegar syndrome
 * Cellulose acetates should also be stored in alkaline buffered paper envelopes or sleeves and placed in cold storage
-* 
-![Dbvq3CwWkAMwlNp](https://github.com/user-attachments/assets/6edfa4c4-26ef-4806-980f-1323af82175c)
 
