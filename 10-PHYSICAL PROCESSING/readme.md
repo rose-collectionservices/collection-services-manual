@@ -416,21 +416,21 @@ There are two options for creating labels:
 
 ### 10.9.3 Labels for materials treated for mold
 
-Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Legacy note: Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
+Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Legacy note: Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. Use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
 [Link to mold notice label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=zsUoTU)
 
-[For more information on moldy materials, see the preservation section](/09-PRESERVATION)
+For more information on moldy materials, see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)
 
 ![Figure 7](/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg)
 
-*Figure 7: Record center box with mold notice label*
+*Figure 7: Record storage box with mold notice label*
 
-![Figure 8: Slim document case with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg "Slim document case with mold notice label")
+![Figure 8: Slim document case with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg)
 
 *Figure 8: Slim document case wtih mold notice label*
 
-![Figure 9: Oversized box with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg "Figure 9: Oversized box with mold notice label")
+![Figure 9: Oversized box with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg)
 
 *Figure 9: Oversized box with mold notice label*
 
