@@ -371,9 +371,9 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 ## 10.9 Labeling boxes
 
-### 10.9.1 General labels
+### 10.9.1 Creating general box labels
 
-**Box labels** should include the following information (see figure 2 for an example): 
+All top containers should have a printed label. Box labels should include the following information (see figure 2 for an example): 
 
 * Emory University;
 * Rose Library;
@@ -386,30 +386,37 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 *Figure 2*
 
+There are two options for creating labels:
+	* 1. Generate a label via ASpace (if that works on your computer).
+ 	* 2. Use one of the Word label templates:
+  		* Record storage boxes, document cases, OP folders, and XOP folders: [4" x 3 1/3" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20101-200.doc?d=w22bbbb9e7367446a8b9f668b968c1827&csf=1&web=1&e=zxIl64). 
+    		* Slim document cases and oversized boxes that are 3" in depth: [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh) 
+      		* Oversized boxes that are 1.5" in depth: [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4) 
 
-There are three sizes for labels. The most commonly used is the [4" x 3 1/3" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20101-200.doc?d=w22bbbb9e7367446a8b9f668b968c1827&csf=1&web=1&e=zxIl64). These are used for record center boxes and Hollinger boxes.  Smaller labels measuring [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh) are used for the half Hollinger boxes as well as the OP boxes.  There is an [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4), specifically formatted for OP boxes measuring 1.5" in depth. 
+### 10.9.2 Affixing general box labels and barcodes
 
 **Examples:**
 
-*Hollinger box (.5 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
+*Document case (.5 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
-![Figure 3: Regular Hollinger box](/10-PHYSICAL%20PROCESSING/Images/Figure3.jpg "Regular Hollinger box")
+![Figure 3: Document case](/10-PHYSICAL%20PROCESSING/Images/Figure3.jpg)
 
-*Half Hollinger box (.25 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
+*Slim document case (.25 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
-![Figure 4: Half Hollinger box](/10-PHYSICAL%20PROCESSING/Images/Figure4.jpg "Half Hollinger box")
+![Figure 4: Slim document case](/10-PHYSICAL%20PROCESSING/Images/Figure4.jpg)
 
-*Record center box (1 linear foot):* Label should be placed in the middle, under the handle with enough room to place the barcode between the handle and the label. 
+*Record storage box (1 linear foot):* Label should be placed in the middle, under the handle with enough room to place the barcode between the handle and the label. 
 
-![Figure 5: Record center box](/10-PHYSICAL%20PROCESSING/Images/Figure5.jpg "Record center box")
+![Figure 5: Record center box](/10-PHYSICAL%20PROCESSING/Images/Figure5.jpg)
 
-*Oversized papers box (also applies to bound and oversized bound volume boxes):* Label should be placed on the left side of the front of the box. The barcode should be placed to the right of the label. 
+*Oversized box:* Label should be placed on the left side of the front of the box (the smallest dimension is the front of the box). The barcode should be placed to the right of the label. 
 
-![Figure 6: Oversized papers box](/10-PHYSICAL%20PROCESSING/Images/Figure6.jpg "Oversized papers box")
+![Figure 6: Oversized box](/10-PHYSICAL%20PROCESSING/Images/Figure6.jpg)
 
-### 10.9.2 Labels for materials treated for mold
 
-Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
+### 10.9.3 Labels for materials treated for mold
+
+Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Legacy note: Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. You can use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
 [Link to mold notice label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ2ks6eu6e1GjHr1Cpv4_9QBgir9FIB9IuIerb3-88_uNg?e=zsUoTU)
 
@@ -457,5 +464,8 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
 
 ## 10.10 Barcodes
+
+### Affixing barcodes
+See above.
 
 
