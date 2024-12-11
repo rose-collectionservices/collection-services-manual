@@ -29,6 +29,12 @@ Content owner: **Becky Sherman**
  	* [10.8.2 Box naming conventions by shelving location](#1082-box-naming-conventions-by-shelving-location)
   	* [10.8.3 Materials that should be boxed separately](#1083-materials-that-should-be-boxed-separately)
   	* [10.8.4 Oversized materials](#1084-oversized-materials)
+  		* [10.8.4.1 Oversized boxes that will be stored at the LSC (typically up to 20x24")(treat as regular boxes)]
+  	  	* [10.8.4.2 Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)]
+  	  	* [10.8.4.3 Oversized folders larger than 20x24" and up to 38x34" (OPs)]
+  	  	* [10.8.4.4 Oversized folders larger than 38x36" and up to 56x34" (XOPs)]
+  		* [10.8.5.5 Legacy content: Bound volumes]
+  	 	* [10.8.5.6 Framed items]	
 * [10.9 Labeling boxes](#109-labeling-boxes)
  	* [10.9.1 General labels](#1091-general-labels)
   	* [10.9.2 Labels for materials treated for mold](#1092-labels-for-materials-treated-for-mold) 	
@@ -312,27 +318,30 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 * Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
 * Oversized material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible.
 * All top containers should have a printed label (including OP and XOP folders). 
-* #### Oversized boxes that will be stored at the LSC (typically up to 20x24"; it is strongly preferred for all new collections to be sent to the LSC)
+
+* #### 10.8.4.1 Oversized boxes that will be stored at the LSC (typically up to 20x24")(treat as regular boxes)
+	* It is strongly preferred for all new collections to be sent to the LSC
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since OP indicates a shelving location.
  	* Treat bound volumes up to 20x24" as you would any other oversized material. House it in an appropriately sized box and label it with regular box numbers. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item." Oversized bound volumes should be sent to the LSC whenever possible.
-* #### Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
+
+* #### 10.8.4.2 Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
 	* Folders up to 20x24" should be placed inside an appropriately sized box.
  	* Oversized bound items that are too large for a document case should be housed in an appropriately sized box. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item."
  	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
- 	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 in the Abbey
-    	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
-     	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.		
-* #### Oversized folders larger than 20x24" and up to 38x34" (OPs)
-	* Oversized material larger than 20x24" will not fit in a standard oversized box, as the largest standard sized box that we typically order is 20x24", but larger or custom boxes can be ordered in some instances.
+   	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+     	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.
+   	* Any box designated as an OP must be stored onsite on the OP shelves on Level 11 		
+* #### 10.8.4.3 Oversized folders larger than 20x24" and up to 38x34" (OPs)
+	* Oversized material larger than 20x24" will not fit in a standard oversized box (the largest standard sized box that we typically order is 20x24"), but larger or custom boxes can be ordered in some instances.
  	* If the oversized material will not fit in a box, it should be placed in an oversized folder as the top container.
-  	* Oversized folders of these dimensions (i.e. will fit on the OP shelves) should be handled as an OP.	
+  	* Oversized folders of these dimensions (i.e. will fit on the OP shelves) should be handled as OPs.	
   	* Rolled items and scroll boxes that will fit on 38x34" shelves should also be handled as OPs.
   	* OP folders, rolled items, and scroll boxes serve as top containers in ASpace
   		* OP folder container profile in ArchivesSpace = box folder (38x34 or less)
   	 	* Rolled item container profile = rolled item
   	  	* Scroll box container profile = scroll box [choose best size]
-  	* OP folders should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
- * #### Oversized folders larger than 38x36" and up to 56x34" (XOPs)
+  	* OP folders should be given OP numbers to indicate that they are being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
+ * #### 10.8.4.4 Oversized folders larger than 38x36" and up to 56x34" (XOPs)
  	* Any oversized material larger than 38x36" should be handled as an XOP because it will need to be stored on the XOP shelves in the Nunnery.
   	* Oversized artifacts and computer hardware that need to be stored on the XOP shelves due to size should also be handled as XOPs.
   	* XOPs serve as top containers in ASpace
@@ -340,23 +349,14 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
      		* Rolled item container profile = rolled item
   	  	* Scroll box container profile = scroll box [choose best size]	  	  		  	
   	  	 
-* #### [Legacy content: Bound volumes]
+* #### 10.8.4.5 Legacy content: Bound volumes
 	* At one point Rose Library treated bound volumes as a separate format that was boxed and shelved separately. Bound volumes included ledgers, scrapbooks, photograph albums, etc.  	
-	* Historically bound volumes were handled as BVs and OBVs based on size and were shelved on the BV and OBV shelving on L11.
- 	* New BVs should not be created; box and treat bound volumes as any other oversized material.
+	* Historically bound volumes were handled as BVs or OBVs based on size and were shelved on the BV and OBV shelving on L11.
+ 	* New BVs should not be created; box and treat bound volumes the same way as any other oversized material.
   	* Under rare circumstances you may need to create a new OBV if a volume is too large for a 20x24" box and must be stored onsite. In those rare cases, it should be identified with a strip of acid-free card stock inserted into the volume, given an OBV number, and stored on the OBV shelves on L11.
  
-DELETE below this 
- * If a collection is being stored at the LSC:
- 		* 
-   		* Bound volumes that are too large for a 20 x 24" box must be stored onsite and should be handled as OBVs (oversized bound volumes). It should be identified with a strip of acid-free card stock inserted into the volume. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). They should be stored on the OBV shelves on L11.
- 	* If a collection is being stored onsite:
-  		
- 		* If a box containing a bound volume is too big to be stored with the rest of the collection on regular stacks shelving:
-  			* BVs (bound volumes)--smaller boxes that will fit on the BV shelves should be handled as BVs. In a collection BVs should be given a separate sequence of numbers from the general box number sequence (i.e. BV1, BV2, etc.). [Note: this is legacy content and will rarely come up.]
-     		* OBVs (oversized bound volumes)--larger volumes that need to be stored on the OBV shelves should be handled as an OBV. If a volume is too large for a 20x24" box, it should be identified with a strip of acid-free card stock inserted into the volume. In a collection OBVs should be given a separate sequence of numbers from the general box number sequence (i.e. OBV1, OBV2, etc.). 
         
-* #### Framed items
+* #### 10.8.4.6 Framed items
 	* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above on oversized boxes.
 	* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. **Do not send framed items with glass to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP. Affix a label that says "caution: glass".
 	* Framed items that are too large to be boxed should be handled as a FR (framed item), which will be stored on the art racks on L11:
