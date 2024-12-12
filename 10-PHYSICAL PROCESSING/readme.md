@@ -116,7 +116,6 @@ Separate the collection title and manuscript number, series and subseries titles
 ![Figure 1: Folder labeling](/10-PHYSICAL%20PROCESSING/Images/Figure1.jpg "Folder labeling")
 
 ## 10.5 Separating Materials 
-[moved from Section 8 Restrictions]
 
 For access and preservation considerations, some materials may be physically removed from their original location. Materials can be moved either to different locations within a collection or be removed from the collection and managed separately.
 
