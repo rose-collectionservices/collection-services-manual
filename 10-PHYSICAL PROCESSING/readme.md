@@ -381,9 +381,11 @@ All top containers should have a printed label. Box labels should include the fo
 * Emory University;
 * Rose Library;
 * Manuscript or EUA number;
-* Main entry (dates do not have to be included and should not be included if they're subject to change, i.e. if the person is still living); 
+* Main entry (preferably without the dates since they can be subject to change); 
 * Collection title (do not include the date range in the title statement since it will change in the event of accruals);
 * Box number.
+
+*Figure 2*
 
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure2new.jpg" width="300" />
 
@@ -391,7 +393,7 @@ All top containers should have a printed label. Box labels should include the fo
 
 
 
-*Figure 2*
+
 
 * There are two options for creating labels:
 	* Generate a label via ASpace (if that works on your computer).
