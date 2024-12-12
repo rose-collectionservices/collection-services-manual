@@ -20,11 +20,11 @@ Content owner: **Becky Sherman**
 	* [10.7.1 Newspaper clippings](#1071-newspaper-clippings)
 	* [10.7.2 Quick guide to processing photographs](#1072-quick-guide-to-processing-photographs)
    	* [10.7.3 Processing audiovisual media](#1073-processing-audiovisual-media)
-   		* [10.7.3.1 Accessioning/Minimal Level Processing of AV](#10731-accessioning-minimal-level-processing-of-AV)
+   		* [10.7.3.1 Accessioning and Minimal Level Processing of AV](#10731-accessioning-and-minimal-level-processing-of-AV)
    	 	* [10.7.3.2 Granular Processing of AV](#10732-granular-processing-of-AV)
    	  	* [10.7.3.3 Notes on Access to Commercial Recordings](#10733-notes-on-access-to-commercial-recordings)
 	* [10.7.4 Processing digital media](#1074-processing-digital-media) 
-* [10.8 Boxing collections and numbering boxes](#68-boxing-collections-and-numbering-boxes)
+* [10.8 Boxing collections and numbering boxes](#108-boxing-collections-and-numbering-boxes)
 	* [10.8.1 General guidelines](#1081-general-guidelines)
  	* [10.8.2 Box naming conventions by shelving location](#1082-box-naming-conventions-by-shelving-location)
   	* [10.8.3 Materials that should be boxed separately](#1083-materials-that-should-be-boxed-separately)
@@ -36,10 +36,13 @@ Content owner: **Becky Sherman**
   		* [10.8.5.5 Legacy content: Bound volumes]
   	 	* [10.8.5.6 Framed items]	
 * [10.9 Labeling boxes](#109-labeling-boxes)
- 	* [10.9.1 General labels](#1091-general-labels)
-  	* [10.9.2 Labels for materials treated for mold](#1092-labels-for-materials-treated-for-mold) 	
-	* [10.9.3 Labeling restricted material](#1093-boxing-and-labeling-restricted-material)
- 	* [10.9.4 Printing labels](#1094-printing-labels)
+ 	* [10.9.1 Creating general labels](#1091-creating-general-labels)
+  	* [10.9.2 Printing labels](#1092-printing-labels)
+	* [10.9.3 Affixing labels and barcodes](#1093-affixing-labels-and-barcodes)
+ 	* [10.9.4 Labels for materials treated for mold](#1094-labels-for-materials-treated-for-mold)
+	* [10.9.5 Restriction stamps for labels](#1095-restriction-stamps-for-labels)
+ 	* [10.9.6 Heavy labels](#1096-heavy-labels)
+  	* [10.9.7 Fragile labels](#1097-fragile-labels) 	
  * [10.10 Barcodes](#1010-barcodes)
 
 
@@ -191,7 +194,7 @@ Since The Rose Library is conducting more thorough processing at the point of ac
 
 For more information on the Audiovisual Liaison workflow for digitization of materials, please use this [document ](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r> "https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUqt0cH4y2tPuj6W1wXNdDgB3kq8wxMglsmifxg-Yt6RAw?e=T7c85r").
 
-#### 10.7.3.1 Accessioning/Minimal Level Processing of AV
+#### 10.7.3.1 Accessioning and Minimal Level Processing of AV
 
 Audiovisual materials will be rehoused upon accessioning into boxes labeled "AV."  If more than one box is used, it is preferable to keep audio and visual boxes (e.g. keep all audio together in one box and remove video to another as this will aid in digitization procedures).  Individual items can be rehoused as well at this point (audiocassettes should be in some kind of case) to ensure that damage does not occur.  
 
