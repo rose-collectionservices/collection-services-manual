@@ -91,7 +91,7 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 10.4.2 Creasing and stuffing folders
 
 * Use legal-size folders as the default.
-* When foldering, ensure that the folder is creased to the appropriate width for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
+* When foldering, ensure that the folder is creased to the appropriate depth for the materials inside. The folder should fit the contents snugly like the cover of a book. Leaving too much space or overstuffing the folder can cause damage such as slumping and tearing. This includes using a bone folder as needed to create a new crease that is not at the precreased lines.
 
 
 ### 10.4.3 Folder titles
