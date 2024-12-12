@@ -309,7 +309,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 * **Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV"; [see 10.7.4 Processing digital media](#1074-processing-digital-media)
 
-* **Material that has been treated for mold** must be housed separately from the rest of the collection and a moldy label affixed; see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)) and [10.9.2 Labels for materials trated for mold](#1092-labels-for-materials-treated-for-mold). 
+* **Materials that have been treated for mold** must be housed separately from the rest of the collection and a moldy label affixed; see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)) and [10.9.2 Labels for materials treated for mold](#1092-labels-for-materials-treated-for-mold). 
 
 
 
@@ -371,7 +371,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 ## 10.9 Labeling boxes
 
-### 10.9.1 Creating general box labels
+### 10.9.1 Creating box labels
 
 All top containers should have a printed label. Box labels should include the following information (see figure 2 for an example): 
 
@@ -393,7 +393,7 @@ There are two options for creating labels:
     		* Slim document cases and oversized boxes that are 3" in depth: [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh) 
       		* Oversized boxes that are 1.5" in depth: [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4) 
 
-### 10.9.2 Affixing general box labels and barcodes
+### 10.9.2 Affixing box labels and barcodes
 
 **Examples:**
 
@@ -426,16 +426,16 @@ For more information on moldy materials, see [12.2 Moldy materials](https://gith
 
 *Figure 7: Record storage box with mold notice label*
 
-![Figure 8: Slim document case with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg)
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg" width="300" />
 
 *Figure 8: Slim document case with mold notice label*
 
-![Figure 9: Oversized box with mold notice label](/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg)
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg" width="300" />
 
 *Figure 9: Oversized box with mold notice label*
 
 
-### 10.9.3 Labeling Restricted Material
+### 10.9.3 Stamping restricted materials
 
 See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
 
