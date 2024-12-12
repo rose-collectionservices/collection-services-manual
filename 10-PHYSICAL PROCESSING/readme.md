@@ -502,6 +502,12 @@ All top containers must be barcoded, including all boxes going to the LSC.
 * Affix one barcode to the box. See [10.9.3 Affixing labels and barcodes](#1093-affixing-labels-and-barcodes) for barcode placement.
 * Affix the duplicate barcode to the worksheet.
 * Once the barcode worksheet is completed, create a barcode folder to store the worksheets in, labeled with the creator in the top left corner and the collection number in the center.
+
+*Figure 19: Barcode folder*
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure19.jpg" width="300" />
+
+  
 * File the barcode folder in the appropriate filing cabinet in 973B.
 
 
