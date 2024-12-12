@@ -376,7 +376,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 ### 10.9.1 Creating general labels
 
-All top containers should have a printed label. Box labels should include the following information (see figure 2 for an example): 
+All top containers should have a printed label, including OP folders that serve as top containers and XOP folders. Box labels should include the following information (see figure 2 for an example): 
 
 * Emory University;
 * Rose Library;
