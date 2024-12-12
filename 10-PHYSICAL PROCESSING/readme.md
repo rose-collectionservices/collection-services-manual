@@ -318,16 +318,15 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 * Use discretion when unfolding oversized material; if the item does not warrant oversized storage, unfold it as much as possible and leave it in a standard legal folder.
 * Oversized material that fits into a box should be boxed. It is strongly preferred to have a box as the top container if possible.
-* All top containers should have a printed label (including OP and XOP folders). 
+* All top containers should have a printed label (including OP and XOP folders).
+* Treat bound volumes that are too large for a document case and are up to 20x24" as you would any other oversized material. House it in an appropriately sized box and label it with regular box numbers. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item." Oversized bound volumes should be sent to the LSC whenever possible.
 
 * #### 10.8.4.1 Oversized boxes that will be stored at the LSC (typically up to 20x24")(treat as regular boxes)
 	* It is strongly preferred for all new collections to be sent to the LSC
 	* Any oversized material that fits into a box and will be stored at the LSC should be given **regular box and folder numbers** in sequence with material stored in other box types. OP numbers should **not** be used for boxes being sent to the LSC, since OP indicates a shelving location.
- 	* Treat bound volumes up to 20x24" as you would any other oversized material. House it in an appropriately sized box and label it with regular box numbers. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item." Oversized bound volumes should be sent to the LSC whenever possible.
-
+ 	
 * #### 10.8.4.2 Oversized boxes that will be stored onsite (typically up to 20x24") (OPs)
 	* Folders up to 20x24" should be placed inside an appropriately sized box.
- 	* Oversized bound items that are too large for a document case should be housed in an appropriately sized box. When boxing multiple items together, insert a strip of acid-free card stock into each item identifying and numbering it. In ASpace, for each item in the box use child type indicator of "item."
  	* When a collection is being stored onsite, the oversized boxes will remain onsite as well and will be handled as OPs (oversized papers)
    	* OP boxes should be given OP numbers to indicate that it is being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
      	* Folders within an OP box are also numbered sequentially in the same fashion as regular size folders, for example OP1/1, OP1/2, etc.
