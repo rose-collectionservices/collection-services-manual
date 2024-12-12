@@ -438,17 +438,19 @@ Boxes that have been treated for mold must be housed separately from the rest of
 
 For more information on moldy materials, see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials)
 
-<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg" width="300" />
-
 *Figure 7: Record storage box with mold notice label*
 
-<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg" width="300" />
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure7.jpg" width="300" />
 
 *Figure 8: Slim document case with mold notice label*
 
-<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg" width="300" />
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure8.jpg" width="300" />
 
 *Figure 9: Oversized box with mold notice label*
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure9.jpg" width="300" />
+
+
 
 
 ### 10.9.5 Restriction stamps for labels
@@ -457,9 +459,10 @@ See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder 
 
 Restricted boxes that are not requestable by researchers should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
 
+*Figure 10: Restricted stamp*
+
 ![Figure 10: Restricted material](/10-PHYSICAL%20PROCESSING/Images/Figure10.jpg "Restricted material")
 
-*Figure 10*
 
 There may additionally be other kinds of restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
 
@@ -481,11 +484,15 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 
 If an item is heavy enough that staff and researchers should be warned before lifting it, affix a "heavy" label to the box.
 
+*Figure 18: Heavy label*
+
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure18.jpg" width="300" />
 
 ### 10.9.7 Fragile labels
 
 If a box contains glass or other fragile materials, put a label to that effect on the box. Do NOT send fragile materials to the LSC.
+
+*Figure 17: Fragile label*
 
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure17.jpg" width="300" />
 
