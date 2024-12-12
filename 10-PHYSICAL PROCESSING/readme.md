@@ -404,7 +404,7 @@ All top containers should have a printed label, including OP folders that serve 
 
 ### 10.9.2 Printing labels
 
-See instructions in [SharePoint:](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
+See instructions in [SharePoint.](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
 
 ### 10.9.3 Affixing labels and barcodes
 
