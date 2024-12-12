@@ -417,8 +417,7 @@ All top containers should have a printed label. Box labels should include the fo
 
 *Oversized box:* Label should be placed on the left side of the front of the box (the smallest dimension is the front of the box). The barcode should be placed to the right of the label. 
 
-![Figure 6: Oversized box](/10-PHYSICAL%20PROCESSING/Images/Figure6.jpg)
-
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure6new.jpg" width="300" />
 
 ### 10.9.3 Labels for materials treated for mold
 
@@ -441,7 +440,7 @@ For more information on moldy materials, see [12.2 Moldy materials](https://gith
 *Figure 9: Oversized box with mold notice label*
 
 
-### 10.9.3 Stamping restricted materials
+### 10.9.3 Restricted stamps for labels
 
 See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
 
@@ -453,17 +452,19 @@ Restricted boxes that are not requestable by researchers should be clearly stamp
 
 There may additionally be other kinds of restrictions on how patrons may use material, such as **prohibitions on photography** or **reproduction restrictions** that are also indicated by a stamp on the label. See figures 11-13 for examples.
 
-![Figure 11: No personal photography](/10-PHYSICAL%20PROCESSING/Images/Figure11.jpg "No personal photography")
+
 
 *Figure 11: No personal photography*
 
-![Figure 12: Reproduction restrictions](/10-PHYSICAL%20PROCESSING/Images/Figure12.jpg "Reproduction restrictions")
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure11new.jpg" width="300" />
 
-*Figure 12: Reproduction restrictions, used primarily for boxes that contain sheet music or scores. When affixing this label to boxes, you may place the label higher on the flap to accommodate barcodes.*
+*Figure 12: Reproduction restrictions, used primarily for boxes that contain sheet music or scores.*
 
-![Figure 13: No camera](/10-PHYSICAL%20PROCESSING/Images/Figure13.jpg "No camera")
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure12new.jpg" width="300" />
 
-*Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for patrons and staff.*
+*Figure 13: When the restriction only applies to one or a few folders in the box, also stamp the folders with the "no camera" stamp as a visual cue for researchers and staff.*
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure13.jpg" width="300" />
 
 ### 10.9.4 Printing labels
 
