@@ -59,7 +59,6 @@ For more information on sorting, see:
 See [9.2 Appraisal during arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-APPRAISAL#92-during-arrangement)
 
 ## 10.3 Routine preservation during processing
-[moved from Preservation section] 
 
 Preservation treatment in a collection corresponds to the level of arrangement and description for the collection. During high level/minimal processing, archivists look mostly for large-scale problems that affect the entire collection (or large parts of it) such as mold and water damage; large segments of fragile documents that need to be stabilized or restricted from use; poor packing; lack of folders; and items that need special housing such as oversized or bound material.
 
