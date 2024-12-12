@@ -494,7 +494,15 @@ If a box contains glass or other fragile materials, put a label to that effect o
 
 ## 10.10 Barcodes
 
-### Affixing barcodes
-See above.
+All top containers must be barcoded, including all boxes going to the LSC.
+
+* Download, edit and print barcode worksheets using one of the templates:
+	* [Barcode worksheet template (1-120)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EY1J4ema9jREjdpTZL649UQBOyZUk6YlbycJ24bxiw0CWA?e=7jCZ4t)
+ 	* [Barcode worksheet template (blank)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eb45m7PLZfxKmDeaYvz99jUBlI8c8KIKJj4R4PowIY-CFg?e=hEK70q)
+* Affix one barcode to the box. See [10.9.3 Affixing labels and barcodes](#1093-affixing-labels-and-barcodes) for barcode placement.
+* Affix the duplicate barcode to the worksheet.
+* Once the barcode worksheet is completed, create a barcode folder to store the worksheets in, labeled with the creator in the top left corner and the collection number in the center.
+* File the barcode folder in the appropriate filing cabinet in 973B.
+
 
 
