@@ -408,6 +408,8 @@ See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibra
 
 ### 10.9.3 Affixing labels and barcodes
 
+Barcodes should be covered with a clear barcode cover to help them stay on.
+
 **Examples:**
 
 *Document case (.5 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
