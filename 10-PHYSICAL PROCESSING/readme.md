@@ -371,7 +371,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 ## 10.9 Labeling boxes
 
-### 10.9.1 Creating box labels
+### 10.9.1 Creating general labels
 
 All top containers should have a printed label. Box labels should include the following information (see figure 2 for an example): 
 
@@ -397,7 +397,11 @@ All top containers should have a printed label. Box labels should include the fo
     		* Slim document cases and oversized boxes that are 3" in depth: [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh)
       		* Oversized boxes that are 1.5" in depth: [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4) 
 
-### 10.9.2 Affixing box labels and barcodes
+### 10.9.2 Printing labels
+
+See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
+
+### 10.9.3 Affixing labels and barcodes
 
 **Examples:**
 
@@ -419,7 +423,7 @@ All top containers should have a printed label. Box labels should include the fo
 
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure6new.jpg" width="300" />
 
-### 10.9.3 Labels for materials treated for mold
+### 10.9.4 Labels for materials treated for mold
 
 Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a mold notice label, which should be printed on white paper. (Legacy note: Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. Use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
 
@@ -440,7 +444,7 @@ For more information on moldy materials, see [12.2 Moldy materials](https://gith
 *Figure 9: Oversized box with mold notice label*
 
 
-### 10.9.3 Restricted stamps for labels
+### 10.9.5 Restriction stamps for labels
 
 See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
 
@@ -466,9 +470,18 @@ There may additionally be other kinds of restrictions on how patrons may use mat
 
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure13.jpg" width="300" />
 
-### 10.9.4 Printing labels
+### 10.9.6 Heavy labels
 
-See instructions in SharePoint: (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ETATqxSva6NMhbWWnLWfAD8BjWbLyPhyrA37N_mZ5_7Mpw?e=5O9I2g) 
+If an item is heavy enough that staff and researchers should be warned before lifting it, affix a "heavy" label to the box.
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure18.jpg" width="300" />
+
+### 10.9.7 Fragile labels
+
+If a box contains glass or other fragile materials, put a label to that effect on the box. Do NOT send fragile materials to the LSC.
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure17.jpg" width="300" />
+
 
 ## 10.10 Barcodes
 
