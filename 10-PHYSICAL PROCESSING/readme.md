@@ -398,9 +398,9 @@ All top containers should have a printed label, including OP folders that serve 
 * There are two options for creating labels:
 	* Generate a label via ASpace (if that works on your computer).
  	* Use one of the Word label templates:
-  		* Record storage boxes, document cases, OP folders, and XOP folders: [4" x 3 1/3" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20101-200.doc?d=w22bbbb9e7367446a8b9f668b968c1827&csf=1&web=1&e=zxIl64).
-    		* Slim document cases and oversized boxes that are 3" in depth: [4" x 2"](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[small]%201-100.doc?d=w33190c2d0c574d44a4ce8d245a1ebf84&csf=1&web=1&e=NYu0hh)
-      		* Oversized boxes that are 1.5" in depth: [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/MSSlabels%20[1.5%20depth%20boxes].doc?d=w894f959bdda44618866d3fb30162f097&csf=1&web=1&e=7SKAx4) 
+  		* Record storage boxes, document cases, OP folders, and XOP folders: [4" x 3 1/3" labels](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWOhXTD0nqJMk-QNkvfUO-8Bv9Ius4Ywi4ao1KLrVinn-A?e=njaXWJ).
+    		* Slim document cases and oversized boxes that are 3" in depth: [4" x 2"](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ES0MGTNXDERNpM6NJFoev4QBPDvMlJgek7BEtgKsOQj4RA?e=gnSQTp)
+      		* Oversized boxes that are 1.5" in depth: [additional template for the 4" x 2" labels](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZuVT4mk3RhGhm0_swFi8JcBOsRcQHtguRA8Q-KMFK3ZTw?e=Bob32x)
 
 ### 10.9.2 Printing labels
 
