@@ -43,7 +43,7 @@ Content owner: **Becky Sherman**
 	* [10.9.5 Restriction stamps for labels](#1095-restriction-stamps-for-labels)
  	* [10.9.6 Heavy labels](#1096-heavy-labels)
   	* [10.9.7 Fragile labels](#1097-fragile-labels) 	
- * [10.10 Barcodes](#1010-barcodes)
+ * [10.10 Barcoding boxes](#1010-barcoding-boxes)
 
 
 This document provides guidance on physical processing tasks, according to local policy and practice at the Rose Library. 
@@ -492,7 +492,7 @@ If a box contains glass or other fragile materials, put a label to that effect o
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure17.jpg" width="300" />
 
 
-## 10.10 Barcodes
+## 10.10 Barcoding boxes
 
 All top containers must be barcoded, including all boxes going to the LSC.
 
