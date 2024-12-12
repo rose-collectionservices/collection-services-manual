@@ -399,7 +399,7 @@ There are two options for creating labels:
 
 *Document case (.5 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
-![Figure 3: Document case](/10-PHYSICAL%20PROCESSING/Images/Figure3.jpg)
+![Figure 3: Document case](/10-PHYSICAL%20PROCESSING/Images/Figure3_new.jpg)
 
 *Slim document case (.25 linear feet):* Label should be placed in the middle, under the flap. The barcode should be placed on the middle of the bottom of the flap.
 
