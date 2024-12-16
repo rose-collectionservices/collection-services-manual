@@ -15,8 +15,8 @@ curators to provide guidance on any precustodial actions taken by the Library.
 
 ## 2.1 Consultations with donors
 
-Prior to a collection being acquired by the Rose Library, the Head of Collection 
-Processing may consult with curators to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+Prior to a collection being acquired by the Rose Library, curators or collection development archivists may consult with the the Head of Collection 
+Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
 Additionally, Collection Services staff may meet with donors or curators to provide 
 guidance and assistance on matters such as: 
@@ -29,21 +29,35 @@ guidance and assistance on matters such as:
 
 ## 2.2 Collections receiving 
 
-Collections receiving is the physical transfer of collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. The primary point of contact for collections receiving for all other units at the Rose Library is the Accessioning Archivist.
+Collections receiving is the physical transfer of collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
+
+*	The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. 
+*	The primary point of contact for collections receiving for all other units at the Rose Library is the Associate Director of Collection Services (or, as a backup, the Head of Processing).
+
 
 ### 2.2.1 Receipt of New or Potential Acquisitions 
 
-All collection material should be received and opened by the Accessioning Archivist. 
+All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing.
 
-All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Accessioning Archivist for pickup. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival. 
+All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, will be delivered to the tenth-floor mail spaces. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.
+
+The Head of Processing is responsible for the starting the accessioning process of manuscript, archival, and larger collection materials while the Associate Director of Collection Services will oversee acquisitions of books and the smaller miscellany collections.
 
 **New Acquisition Storage:**
 
-Acquisitions that measure 5 linear feet or fewer will be stored on the new acquisition storage shelves on Level 9, given space. Larger acquisitions will be moved to additional holding spaces on Level 9 or 11. Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. In some circumstances, material may be received at the Library Service Center (LSC). All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. This information can be written clearly in marker on each container or labels can be created using [this template](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv") or via ArchivesSpace. If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
+Storage for manuscript acquisitions that include completed paperwork
+*	Smaller than 5 linear feet will be stored on the L9 storage shelves located at 09-09b, given space. 
+*	Identified by number of items (usually additions to miscellany or artificial collections) will be stored on the accession area shelves.
+*	Larger than 5 linear feet may be stored in other holding spaces on Level 9 or 11.
+*	Significantly-sized acquisitions cand be received at the Library Service Center (LSC) and accessioning and minimal processing can be done on-site there.
 
-Upon receipt of material the Accessioning Archivist will:  
+Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. 
 
-*	Open collection material less than 1 linear foot.
+All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. This information can be written clearly in marker on each container or labels can be created using [this template](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv") or via ArchivesSpace. If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
+
+Upon receipt of material the Head of Processing will:  
+
+*	Rebox collection material as appropriate.
 *	For manuscript and archives material: Create a stub accession record in [ArchivesSpace](<https://archives.libraries.emory.edu/staff/> "https://archives.libraries.emory.edu/staff") including creating instances for each container received as an "Accession" instance type and with the proper shlef location. The Accessioning Archivist will also create an accompanying custody transfer event record. If the acquisition has an accompanying signed deed of sale or gift or deed addendum at the time of receipt, the Accessioning Archivist will also add an agreement signed event record.
 *	Log in Airtable in the [Acquisitions and Accessioning base](<https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3> "https://airtable.com/invite/l?inviteId=invIzvJvL7uX2guNB&inviteToken=86acbad9730435fd6c8574d72239aa0de6d53f173b62c30ae242274d50d6e8c3") or update status of existing record in Airtable. 
 *	Place the items and any accompanying documentation onto the appropriate curatorial review shelf (for material comprised of 5 linear feet or fewer)
