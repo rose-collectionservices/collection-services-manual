@@ -7,11 +7,9 @@
 	* [2.2.2 Paperwork](#222-paperwork1)
 	* [2.2.3 Financial appraisal](#223-financial-appraisal)
 
-Precustodial work is all work that occurs before a collection is formally transferred 
-to the Rose Library. It includes the packing, shipping, and receiving of material, as 
-well as managing the paperwork required to formally transfer a collection or item. 
-Collection Services staff should be prepared to work with donors, vendors, and 
-curators to provide guidance on any precustodial actions taken by the Library. 
+Precustodial work is all work that occurs before a collection is formally and legally transferred to the Rose Library. It includes the packing, shipping, and receiving of material, as well as managing the paperwork required to formally transfer a collection or item. Acquisition workflows normally cover the selecting and acquisition of collection material. It is most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork.  While the custodial team is primarily responsible for acquisitions and precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
+
+Collection Services precustodial workflows include reviewing the documentation and/or the physical collection to ensure that all requirements necessary for starting accessioning are complete and includes documenting the process while awaiting the delivery of the physical materials, the deed, or approval from curators.  Precustodial workflows consists of entering information into the Rose Library systems of records including Airtable and ArchivesSpace as well as reboxing and labeling as needed.
 
 ## 2.1 Consultations with donors
 
