@@ -961,11 +961,11 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of notes that must be used verbatim:**
 
 *	Collection stored off-site; materials must be requested two business days in advance of appointment.
-*	Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
+*	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
 	access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
 	access to audiovisual material.
-*	[For unprocessed born digital materials:] Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials. Use of the original digital media is restricted.
-*	[For processed born digital materials:] Access to processed born digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original digital media is restricted.
+*	[**For unprocessed born digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials. Use of the original digital media is restricted.
+*	[**For processed born digital materials:**] Access to processed born digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original digital media is restricted.
 *	Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born digital materials.
 
 **Other examples:**
