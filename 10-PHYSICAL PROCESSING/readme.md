@@ -224,7 +224,7 @@ This quick guide outlines the steps to take when you encounter digital media whi
 	*	Examples:
 		*	"Teaching files" [Zip disk], 1999
 		*	Photographs from memorial service [memory card (microSD)], 2008
-		*	Unidentified computer files [floppy disk], undated
+		*	Unidentified digital files [floppy disk], undated
 		*	Digital photographs [compact discs (10 CD-Rs)], 2000-2005
 		*	Computer backups [hard drives (2 WD My Book)], 2012-2014
 5. Enter a date as you would for any other AO.
