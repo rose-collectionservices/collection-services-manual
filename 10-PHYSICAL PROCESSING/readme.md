@@ -177,7 +177,7 @@ Newspaper clippings should be appraised for their relevancy to a collection and 
 
 Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [10.5.1 Separating materials: Attachments](#1051-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
-For additional guidelines and detailed information about processing photographs, see [11.1 Format-Specific Procedures](.
+For additional guidelines and detailed information about processing photographs, see [11-FORMAT SPECIFIC PROCEDURES].
 
 ### 10.7.3 Processing Audiovisual Media
 
@@ -200,13 +200,68 @@ For additional guidelines and detailed information about processing photographs,
 
 
 ### 10.7.4 Processing digital media
-[This section needs to be updated.]
+Content owner: **Katherine Fisher**
 
-Overview of what to do if you find digital media while accessioning or processing a collection.
+This quick guide outlines the steps to take when you encounter digital media while accessioning or processing a collection. For processing of digital content beyond handling of physical carriers, see [11-FORMAT SPECIFIC PROCEDURES].
+1. Create a BD box to contain the media. Restrict the box in ArchivesSpace.
+	* If the collection contains only a small amount of digital media, you may leave it in a regular box or combine it with AV.
+	* 	House all fragile media in appropriate cases, sleeves, or envelopes. For example, compact discs, floppy disks, and hard disks should be individually housed to prevent damage. Hard drives and flash drives do not require individual housing. Retain original housings unless badly damaged.
+	* 	If media are filed in a manuscript box with non-media materials, they may be foldered individually in regular archival folders.
+	* 	Consult a digital archivist if the media appears to require specialized housing because it is large, unusually shaped, or fragile. 
+2. Record the media in the Digital Archives tab of the shelf list by adding the number of each media type and their location.
+	* 	If there is already an entry for the collection, add the new media, specify what you added and when in the notes field, and update the "Imaged" column if necessary (for example, if it says "Y," change to "Partly").  
+3. If you need to preview the content, you may safely access most CDs and DVDs using a USB optical drive. For other media, talk to a digital archivist.
+	* 	Previewing optical disc content is encouraged during granular processing projects and optional during accessioning.
+	* 	If media could contain either audiovisual or data content and you do not preview the content, handle it based on your best guess. A digital archivist or audiovisual liaison will reroute media that ends up in the wrong workflow. 
+4. Create AOs in the resource record for all media (or file transfers/batches) using the following convention: Label text or description [media type from controlled vocabulary].
+	*	The main part of the title should describe the intellectual content, not the carrier, while the bracketed portion indicates the original carrier and provenance.
+	*	The brackets may contain additional details about format, brand, or number of items after the appropriate CV term.
+	*	If you are accessioning materials at the collection level and find more than 10 (approximately) digital carriers, aggregate description of media at the box level might be sufficient until a digital archivist accessions the content of the physical media. In these cases, create an AO for each category of media (e.g., CDs, floppy disks) and describe their content if possible. A digital archivist will split up these AOs later.
+	*	If your are processing granularly OR the collection has fewer than 10 (approximately) digital carriers, create an AO for each piece of media.
+ 		*	If the media is labeled, transcribe the label information, in quotes, for the AO title.
+   		*	If the media is unlabeled or the label information is incorrect or not useful, title the AO with a basic description of the content.
+	*	Make educated guesses about content when necessary; for example, an unlabeled SD card from a photographer’s papers most likely contains digital photographs. If you have no idea what the media contains, describe the content as “unidentified computer files.”
+	*	Examples:
+		*	"Teaching files" [Zip disk], 1999
+		*	Photographs from memorial service [memory card (microSD)], 2008
+		*	Unidentified computer files [floppy disk], undated
+		*	Digital photographs [compact discs (10 CD-Rs)], 2000-2005
+		*	Computer backups [hard drives (2 WD My Book)], 2012-2014
+5. Enter a date as you would for any other AO.
+6. Restrict the AOs and add the following file-level Conditions Governing Access note: “Original digital media restricted.”
+7. Organize the AOs within the resource record tree.
+	* 	In many cases, leaving the AOs at the top level is fine.
+	* 	If you are doing a granular processing project and know where to intellectually arrange the AOs, place them in the correct series/subseries or title them appropriately to be grouped with similar items.
+	* 	Following accessioning or processing of the digital files, the digital archivist will rearrange the AOs if need. 
+8. Make sure the digital material is included in the scope and content note.
+	* 	A digital archivist will update other finding aid fields after accessioning the content of the digital media.
+9. Add an instance for each AO using the box you placed the media in.
+	* 	If the content is a file transfer and there is no physical carrier, leave the AO without an instance.
+	* 	When the digital files are fully accessioned or processed, the digital archivist will add a DO record as an additional instance. 
+10. Add the following collection-level Conditions Governing Access note to the finding aid: "Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials." A digital archivist will change the note after the media are processed. 
+11. Notify a digital archivist directly in the following situations: large volume of digital media, priority processing project, known researcher demand, unusual or unidentifiable media, poor condition. Otherwise, the digital archivist will use the shelf list to identity and prioritize media for accessioning and processing. 
 
-Link out to the born digital manual.
+#### 10.7.4.1 Digital media controlled vocabulary
+Based on AAT with local modifications. If other terms are needed, consult AAT first and then a digital archivist. 
 
+For help identifying digital media, see <a href="https://nypl.github.io/digarch/sitevisits/identifying-digital-media.html">NYPL's guide to identifying digital media</a> and the <a href="https://obsoletemedia.org/data/">Museum of Obsolete Media</a>.
 
+| Main ﻿Term                     | Additional Terms   (Optional—add one or a combination in parentheses after main term. Format or brand names not listed below may also be used.)  	| Notes                                                                                                                                                                       	|
+|-----------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| cellular telephone          	|                                                                                                                                                  	| Use for cell phones that are not smartphones or PDAs                                                                                                                        	|
+| compact disc                	| CD-R, CD-RW, CD-ROM, data disk                                                                                                                   	| Use for all types of CDs                                                                                                                                                    	|
+| computer                    	| tower, Mac, PC                                                                                                                                   	|                                                                                                                                                                             	|
+| computer equipment          	| monitor, RAM                                                                                                                                     	| Use for peripherals or other accessories that typically do not contain digital files (this should be used rarely)                                                           	|
+| digital files               	|                                                                                                                                                  	| Use for files received via file transfer (e.g., email, LIBSAFE Go submission, OneDrive, Google Drive, Dropbox), not on a physical carrier                                   	|
+| DVD                         	| DVD-R, DVD-RW, Blu-ray, DVD-ROM                                                                                                                  	| Use for all types of DVDs                                                                                                                                                   	|
+| flash drive                 	|                                                                                                                                                  	| Use for removable drives known as thumb drives, jump drives, USB sticks, etc.                                                                                               	|
+| floppy disk                 	| 3.5-inch, 5.25-inch, 8-inch                                                                                                                      	| Use for floppy disks (all sizes)                                                                                                                                            	|
+| hard disk                   	|                                                                                                                                                  	| Use for hard drives extracted from computers or laptops                                                                                                                     	|
+| hard drive                  	|                                                                                                                                                  	| Use for external hard drives                                                                                                                                                	|
+| Jaz drive                   	|                                                                                                                                                  	|                                                                                                                                                                             	|
+| laptop computer             	| MacBook, Chromebook                                                                                                                              	|                                                                                                                                                                             	|
+| memory card                 	| microSD, CompactFlash                                                                                                                            	| Use for any of the small memory cards often used in digital cameras and mobile phones                                                                                       	|
+| personal digital assistant  	| Palm Pilot, BlackBerry, Sidekick                                                                                                                 	| Use for pre-smartphone mobile devices used to organize and store personal information. Personal digital assistants may or may not include phone and Internet capabilities.  	|
 
 ## 10.8 Boxing Collections and Numbering Boxes
 
