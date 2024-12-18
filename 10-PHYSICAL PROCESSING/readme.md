@@ -281,7 +281,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 
 * **Audiovisual materials** in granularly processed collections should be housed separately and placed in boxes labeled "AV"; see [10.7.3 Processing audiovisual media])(#1073-processing-audiovisual-media).
 
-* **Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BV"; [see 10.7.4 Processing digital media](#1074-processing-digital-media)
+* **Born digital materials** in granularly processed collections should be housed separately and placed in boxes labeled "BD"; [see 10.7.4 Processing digital media](#1074-processing-digital-media)
 
 * **Materials that have been treated for mold** must be housed separately from the rest of the collection and have a moldy label affixed; see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION#122-moldy-materials) and [10.9.4 Labels for materials treated for mold](#1094-labels-for-materials-treated-for-mold). 
 
