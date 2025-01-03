@@ -97,7 +97,15 @@ If the original folders are in good shape, they may be retained as primary housi
 ### 10.4.3 Folder titles
 
 * Folder titles may be formal or devised by the archivist. Formal titles are those transcribed from the original folder or directly from the material itself (e.g., the formal title of a published work). Devised titles are those created by the archivist to best describe the material within the folder.
-* See also [7.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-FORMATTING%20AND%20STYLE%20GUIDE#75-folder-titles) for additional guidance on formatting and style of folder titles.
+* [Brackets] should be used to enclose archivist-supplied information, which is information that is inferred from the material that provides additional context. 
+	* For example: <title>The Tain</title>, galley proof [1 of 2]
+		* Use when original folder is too large to fit into a single new folder
+		* Indicates part of a whole item
+	* For example: Notebook, undated [1]
+		* For multiple items requiring the same description 
+		* Indicates differences between material that are similar but do not have a part/whole relationship.
+		* Also use when distinguishing between material with the same title but different content
+* See [7.5 Formatting and Style Guide: Folder titles](https://github.com/rose-collectionservices/collection-services-manual/tree/master/07-FORMATTING%20AND%20STYLE%20GUIDE#75-folder-titles) for additional guidance on formatting and style of folder titles.
 
 ### 10.4.4 Labeling folders
 
