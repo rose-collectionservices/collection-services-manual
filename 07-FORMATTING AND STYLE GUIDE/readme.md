@@ -211,9 +211,7 @@ If you are unsure of how to title, please refer to DACS.
 
 ### 7.9.1 Brackets and parentheses
 
-Archivist-supplied information refers to information inferred from the material that provides additional context.
-
-- \[Brackets] enclose archivist-supplied information
+- \[Brackets] enclose archivist-supplied information, which is information that is inferred from the material that provides additional context.
 	- "Banker's Ode" \[variant title: "Ode to a Banker"]
 	- *Southern Changes*, Southern Regional Council \[2 copies]
 	- Last Will and Testament, Corbin  \[photocopy]
