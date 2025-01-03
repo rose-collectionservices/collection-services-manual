@@ -120,7 +120,7 @@ Folders should be labeled with the following information:
 
 Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash. The box number always precedes the folder number. Separate segments of the folder title with commas. 
 
-![Figure 1: Folder labeling](/10-PHYSICAL%20PROCESSING/Images/Figure1.jpg "Folder labeling")
+![Figure 1: Folder labeling](/10-PHYSICAL%20PROCESSING/Images/Figure1new.jpg "Folder labeling")
 
 ## 10.5 Separating Materials 
 
