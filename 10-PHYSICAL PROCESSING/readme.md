@@ -1,4 +1,4 @@
-# Physical Processing [draft]
+# Physical Processing
 
 Content owner: **Becky Sherman**
 
