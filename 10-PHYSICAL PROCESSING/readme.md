@@ -80,7 +80,7 @@ Conduct the following minor preservation work during granular processing:
 * Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
 * If you encounter moldy materials, see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION)
 
-For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
+For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison and/or Audiovisual Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
 
 ## 10.4 Foldering Materials
 
@@ -106,12 +106,11 @@ Folders should be labeled with the following information:
 * Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
 * Collection number;
 * Series/subseries title, if applicable;
-* Bolded header, if applicable;
 * Box number;
 * Folder number;
 * When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
 
-Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash.  The box number always precedes the folder number.  When using bolded headers, they should be followed by a colon before writing the folder title.  Separate segments of the folder title with commas. 
+Separate the collection title and manuscript number, series and subseries titles, and box and folder numbers with a slash. The box number always precedes the folder number. Separate segments of the folder title with commas. 
 
 ![Figure 1: Folder labeling](/10-PHYSICAL%20PROCESSING/Images/Figure1.jpg "Folder labeling")
 
@@ -127,7 +126,7 @@ If an item merits separation, the archivist should create a [separation sheet](h
 In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document. Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]
 
 ### 10.5.2 Publications
-Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed and cataloged. 
+Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed and cataloged. Serials typically should be left with the collection and only removed and cataloged separately in rare cases. 
 
 * For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
 * If an item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range on Level 9. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
@@ -150,7 +149,7 @@ For restriction notes and making materials non-requestable in ASpace, see [6.1.1
 
 ### 10.6.2 Redacting materials
 
-Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original.   
+Often, rather than restricting an entire document, you can simply redact the information in question and provide access to the altered copy in place of the original. Redaction is most often used in cases where there is only a single piece of information in a document or folder that needs to be restricted, for instance the Social Security number of a living individual. Redacting the Social Security number allows the rest of the document to be opened to researchers. See [Section 8: Restriction policies](https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-RESTRICTION%20POLICIES) and [Section 9.2 Appraisal during Arrangement](https://github.com/rose-collectionservices/collection-services-manual/tree/master/09-APPRAISAL#92-during-arrangement) for more information about what types of information to restrict and what types of material are routinely removed from a collection due to privacy concerns.   
 
 To redact information, either:
 
