@@ -430,7 +430,7 @@ For more information on moldy materials, see [12.2 Moldy materials](https://gith
 
 ### 10.9.5 Restriction stamps for labels
 
-See [6.6.1 Restricting materials](#661-restricting-materials) for how to folder and box restricted material.
+See [10.6.1 Restricting materials](#1061-restricting-materials) for how to folder and box restricted material.
 
 Restricted boxes that are not requestable by researchers should be clearly stamped with the red RESTRICTED stamp (see figure 10). 
 
