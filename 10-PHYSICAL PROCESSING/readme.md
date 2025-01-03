@@ -184,7 +184,7 @@ Newspaper clippings should be appraised for their relevancy to a collection and 
 
 Generally speaking, in collections where photographs are only one of the formats, the photographic value of the material is usually incidental. In these cases, item level arrangement and description is almost never warranted. Photographs can be arranged and described at the file level and will mostly not be sleeved. Photographs that are attached to paper documents or part of subject files should be left in their original locations; see [10.5.1 Separating materials: Attachments](#1051-attachments) for additional guidance on when and how to separate photos. If photos are put at increased risk of degradation because of their proximity to newsprint or other formats in a subject file, use folder inserts to segregate the photographs. Early or rare photographic formats may require additional considerations, even in a mixed format collection. Fragile photographs should always be sleeved and stored with care.
 
-For additional guidelines and detailed information about processing photographs, see [11-FORMAT SPECIFIC PROCEDURES].
+For additional guidelines and detailed information about processing photographs, see [11.1 Photographs](https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#111-photographs).
 
 ### 10.7.3 Processing Audiovisual Media
 
@@ -209,7 +209,7 @@ For additional guidelines and detailed information about processing photographs,
 ### 10.7.4 Processing digital media
 Content owner: **Katherine Fisher**
 
-This quick guide outlines the steps to take when you encounter digital media while accessioning or processing a collection. For processing of digital content beyond handling of physical carriers, see [11-FORMAT SPECIFIC PROCEDURES].
+This quick guide outlines the steps to take when you encounter digital media while accessioning or processing a collection. For processing of digital content beyond handling of physical carriers, see [11.3 Born digital materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#113-born-digital-materials).
 1. Create a BD box to contain the media. Restrict the box in ArchivesSpace.
 	* If the collection contains only a small amount of digital media, you may leave it in a regular box or combine it with AV.
 	* 	House all fragile media in appropriate cases, sleeves, or envelopes. For example, compact discs, floppy disks, and hard disks should be individually housed to prevent damage. Hard drives and flash drives do not require individual housing. Retain original housings unless badly damaged.
