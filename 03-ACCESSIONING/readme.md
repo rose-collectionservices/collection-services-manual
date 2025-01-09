@@ -4,7 +4,7 @@
 Content owner:
 
 
-* [3.1 Managing accessioning workflow](#31-managing-accessioning-workflow)
+* [3.1 Moving from Acquisition to Accessioning](#31-moving-from-Acquisition-to Accessioning)
 * [3.2 Creation of the accession record](#32-creation-of-the-accession-record)
 * [3.3 Accessioning digital objects](#33-accessioning-digital-objects)
 * [3.4 Digital Accessioning workflows](#34-digital-accessioning-workflows)
@@ -38,34 +38,23 @@ The Head of Processing manages the [acquisition workflow](<https://github.com/ro
 
 *	Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>).
 	-	Basic Information sub-record: 
-		-	*Title*
+		-	**Title**
+   			-	The title statement should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3). 
+			-	Titles should include both a name segment and the nature of the material being described. 
+		-	**Identifier**
+			-	Record the unique accession number in this field.
+   			-	Consists of the four digit year followed by the two-digit month and then a two-digit number indicating the number of accessions for that month and this should all be included in the first field.
 
-    The title statement should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3). 
+For example, the third accessioning project in March 1995 would have an accession number of 1995-03-03
+		-	**Accession date**
+			-	Record the date of accession in the YYYY-MM-DD format
+		-	**Content Description**
+			-	Brief description of the scope and contents of the collection. 
+   			-	Usually pulled from acquisition documents or Airtable record
+		-	**Acquisition Type**
+  			-	Select from the drop-down menu the type of acquisition.
 
-    Titles should include both a name segment and the nature of the material being described. 
-
-    Identifier: 
-
-    Record the unique accession number in this field. 
-
-    Repositories can retain their local convention. 
-
-    Accession date: 
-
-    Record the date of accession in this field. 
-
-    Acquisition date, if known, should be recorded in an event record. 
-
-    Content Description: 
-
-    Brief description of the scope and contents of the collection. 
-
-    Acquisition Type: 
-
-    Select from the drop-down menu the type of acquisition. 
-
-    Gift 
-
+    Gift
     Purchase 
 
     Deposit 
