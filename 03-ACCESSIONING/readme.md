@@ -16,36 +16,174 @@ Content owner:
 
 Accessioning is the formal act of taking legal and physical control of an archival or manuscript collection. Formally accessioning material helps to establish the authenticity of the material through documenting the chain of custody. It also gives the Rose Library administrative and custodial control over collections and shows that the library is acting in good faith when accepting archival material by documenting the transfer and its terms.
 
-The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Processing archivists should determine the appropriate  [level of processing](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
+The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Processing archivists should determine the appropriate  [level of processing](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
 
-## 3.1 Accessioning Systems
+## 3.1 Moving from Acquisition to Accessioning
 
 *Note: This workflow was fully implemented for Fiscal Year 2019 (FY19). Collection material received prior to FY19 will be recorded in ArchivesSpace but may not follow current process.*
 
-When material has been either acknowledged or paid for and is ready to be accessioned, the Head of Processing will update the Airta.
-*	The Acquisitions and Accessioning base in Airtable is the system of record for the acquisition workflow, and collections that are ready for accessioning are shown in the view, "Accessioning To-Be-Assigned" for easy access during accessioning discussions.  
-*  	Relevant information should be passed to the archivists including the status of pending collections and information on any significant, new collections that have entered the acquisitions process.
-*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning.  Archivists choose/are assigned collections to their individual accessioning queues based on current workloads and specific expertise when possible.
-*	The electronic version of the paperwork is located in Sharepoint in the Acquisitions folder - which is the system of record for acquisition documents- and linked to the Airtable record and the accession record in ArchivesSpace in the External Documents sub-record.
+When material has been either acknowledged or paid for and is ready to be accessioned, the Head of Processing include information about the accession in Airtable.
+*	The Acquisitions and Accessioning base in Airtable is the system of record for the acquisition workflow, and  the Head of Processing adds information that can be accessed in the "Accessioning To-Be-Assigned" view.  
+*  	The Head of Processing passes relevant information on pending or upcoming acquisitions through minutes taken at the monthly Acquisition Strategies meetings. Information about the status of colllections can be found in the "Potential and/or Not Yet Received" view.
+*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning.  Archivists choose/are assigned collections (which are added their individual accessioning queues in Airtable) based on current workloads and specific expertise when possible. Archivists will use their personal views in Airtable to access these lists.
+*	The electronic version of the paperwork is located in Sharepoint in the Acquisitions folder - which is the system of record for acquisition documents- and a link is included in the Airtable record as well as in the accession record in ArchivesSpace in the External Documents sub-record.
+*	The Head of Processing will create a stub accessioning record in ArchivesSpace based on the information in the deed (and in the Airtable record) upon receipt of the materials, paperwork, and approval by the curator to move forward.
 
-The system of record for accession information is [ArchivesSpace]((https://archives.libraries.emory.edu/staff)/> "https://archives.libraries.emory.edu/staff"). The Head of Processing will create a stub record in this database upon receipt of the materials and paperwork (and approval by the curator). One accession record should be created for each acquisition (i.e., there should be one record for each invoice and/or deed/addendum). However, for collections acquired through a simultaneous purchase and gift, there could be separate accession records for each contract and for acquisitions that will be separated over collecting areas/collections, there could also be separate accession records.
+The system of record for accession information is [ArchivesSpace]((https://archives.libraries.emory.edu/staff)/>). One accession record should be created for each acquisition (i.e., there should be one record for each invoice and/or deed/addendum). However, for collections acquired through a simultaneous purchase and gift, there could be separate accession records for each contract and for acquisitions that will be separated over collecting areas/collections, there could also be separate accession records.
 
 
-**Initial Steps in Accessioning**
-The Head of Processing manages the Acquisition workflow, creating a basic accession record in ASpace. In rare circumstances, archivists will need to follow the [acquisition workflow](<https://github.com/rose-collectionservices/collection-services-manual/edit/master/02-ACQUISITIONS/readme.md#221-receipt-of-new-or-potential-acquisitions>), but the workflow will normally start with the next step in this guide, Accessioning Workflow.
+## 3.2 Accessioning workflow
+### 3.2.1 ArchivesSpace
+The Head of Processing manages the [acquisition workflow](<https://github.com/rose-collectionservices/collection-services-manual/edit/master/02-ACQUISITIONS/readme.md#221-receipt-of-new-or-potential-acquisitions>) which can overlap steps in the accessioning workflow including creating the stub accession record in ASpace. In rare circumstances, archivists will need to complete steps in that workflow, but normally, the archivist will follow the [accessioning checklist](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides/checklists/Accessioning_checklist.docx?d=w1e2057bf9129418e8a56ef133477332e&csf=1&web=1&e=4gfgFP>) to complete the accession record.
 
-*	Assign the accession number, as well as complete any field for which they have information, according to the guidelines in the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>).
-*	Document physical receipt of the material in an event record attached to the accession record. 
-	-	Type is equal to "custody transfer"
-	-	The role of the selector linked as an agent is "curator"
-	-	Date is the date the event record is created
-*	Document the receipt of the completed deed or deed addendum in an event record attached to the accession record. 
-	-	Type is equal to "agreement signed"
-	-	The role of the donor or seller or signed the deed is linked as an agent with the label of "authorizer"
-	-	Date of signing should be found on the paperwork
-•	If portions of the same accession are added to multiple collections: 
-	-	In the disposition field of the basic information sub-record, describe the disposition of each portion; provide a brief description of the material and the title of the collection to which it is being added
-•	Add or update the status of the acquisition in the [Acquisitions & Accessioning Airtable base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>)
+*	Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>).
+	-	Basic Information sub-record: 
+		-	*Title*
+
+    The title statement should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3). 
+
+    Titles should include both a name segment and the nature of the material being described. 
+
+    Identifier: 
+
+    Record the unique accession number in this field. 
+
+    Repositories can retain their local convention. 
+
+    Accession date: 
+
+    Record the date of accession in this field. 
+
+    Acquisition date, if known, should be recorded in an event record. 
+
+    Content Description: 
+
+    Brief description of the scope and contents of the collection. 
+
+    Acquisition Type: 
+
+    Select from the drop-down menu the type of acquisition. 
+
+    Gift 
+
+    Purchase 
+
+    Deposit 
+
+    Use when collections are transferred without title and a Temporary Custody form is present. 
+
+    Transfer 
+
+    Use for transfer within Emory 
+
+    Use for transfers from one institution to another (example: Transfer from University of Georgia to the Rose Library) 
+
+    Resource Type: 
+
+    Select from the drop-down menu the type of collection being described. 
+
+    Should broadly conform to the rules established in DACS Chapter 2.3.18. 
+
+    Papers:  Created by an individual or family 
+
+    Records: Created by an organization or corporate body 
+
+    Collection: Artificially created by a collector or the repository 
+
+    Publications:  Published material 
+
+    Resource type may be broader than Title Statement, though they are related. 
+
+    Restrictions: 
+
+    This field is required if applicable, but each repository is responsible for appropriate deployment in the resource or accession record. 
+
+    Use in the accession record if the restriction applies specifically to that accrual and not more broadly to the entire collection. 
+
+    Must include a termination date. 
+
+ 
+
+Dates sub-record: 
+
+    Label:  Use "creation" by default 
+
+    Expression:  Not required 
+
+    Expression is only used to describe dates when normalized dates are not present or if the expressed dates differ from the normalized dates.  In accession records, the normalized date is preferred. 
+
+    Type:  Select from the drop-down menu as appropriate 
+
+    Normalization:  Required 
+
+    Certainty:  Select from the drop-down menu as appropriate 
+
+    Era:  ce 
+
+    Calendar: Gregorian 
+
+ 
+
+Extents sub-record: 
+
+    Portion:  Select from the drop-down menu as appropriate 
+
+    Choose "whole" when the accession is the entirety of the collection 
+
+    Choose "part" when the accession is an accrual to or portion of the collection 
+
+    Number:  Enter the number of items you're measuring 
+
+    Type:  Select from the drop-down menu as appropriate 
+
+    Most likely, this will be linear feet or items 
+
+    Container summary (optional):  A natural language description of the extent 
+
+    Physical details (optional):  Additional pertinent details describing the physical state of the collection 
+
+    Dimensions (optional):  Dimensions of the material being described 
+
+ 
+
+Related Resources sub-record: 
+
+    Links to Resource records associated with the accession 
+
+ 
+
+Agent links sub-record: 
+
+    Role: Select from the drop-down menu as appropriate. 
+
+    Relator (optional): Select from the drop down as appropriate. 
+
+    Use when it is helpful or appropriate to indicate a more specific relationship of the creator to the material being described. 
+
+    Agents: Browse for existing agents or create a new record. 
+
+    Agent links for creators are required for all accessions. 
+
+    Agent links for source are required (in the Rose Library only?) when the source of acquisition is different from the creator of the material being described. 
+*	
+*	Create an _Accesion_ event record to document that the collection has been accessioned:
+	-	Basic information heading
+ 		-	Type is equal to "accession"
+		-	Outcome is “Fulfilled”
+	-	Event Date/time heading
+		-	Choose "UTC Timestamp" as the specifier in the drop down menu
+		-	Add the current date in the format noted into the UTC Timestamp field
+	-	Agent link heading
+		-	Use the drop down menu to select "archivist" for Role
+		-	Agent: archivist’s name
+	-	Record Link heading
+		-	Role: Source
+		-	Record should autopopulate with the accession number and title to which the event record is attached.
+o	
+
+
+*
+*	   [Acquisitions & Accessioning Airtable base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>)
  
 ###Accessioning Workflow
 
