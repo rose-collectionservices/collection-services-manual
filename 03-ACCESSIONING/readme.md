@@ -275,32 +275,32 @@ If you pull a collection file from the cabinet for longer than a business day, y
 
 There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX>) available on OneDrive/SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on OneDrive and available through ArchivesSpace and Airtable and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
-
 ### 3.6 Accessioning Checklist
-
-- [ ] [Create/update accession record](#32-creation-of-the-accession-record)
-- [ ] Write accession number on the acquisitions paperwork
-- [ ] [CL-2 file: create or update](#35-creating-the-cl-2-file)
-- [ ] [Arrange and re-house](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
-- [ ] [Create finding aid for new collections](/06-DESCRIPTION)
-- [ ] Request review of new finding aids from team; revise once feedback is received
-- [ ] [Encode finding aid for new collections](/06-DESCRIPTION)
-- [ ] [Update encoded finding aid for additions](/06-DESCRIPTION)
-- [ ] Create or update catalog record
-- [ ] [Label and barcode container(s)](/06-LOCAL%20PRACTICE)
-- [ ] Add barcodes to Alma and EAD
-- [ ] Add to or update the [shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ"), including the pending tab if applicable
-- [ ] If material includes audiovisual material, complete [this Microsoft Form](<https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u> "https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u")
-- [ ] If material includes born digital material, update the Digital Archives tab in the [shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ")
-- [ ] If there are websites related to the collection that we should track as part of our web archiving program, please complete this form.
-- [ ] [Flag](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Removed%20from%20MSS%20Collection%20Flag.docx?d=wd9af5c64b196427ea1c6a0af9d9492b8&csf=1&web=1&e=9o2itU> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Removed%20from%20MSS%20Collection%20Flag.docx?d=wd9af5c64b196427ea1c6a0af9d9492b8&csf=1&web=1&e=9o2itU") materials separated from the collection for cataloging and place on the appropriate range on Level 9
+- [ ] [Create/update accession record in ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#322-archivesspace>)
+	- [ ] [Confirm Custody Transfer and Agreement Signed events](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-ACCESSIONING#3228-event-records>)
+	- [ ] [Add Accession event](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-ACCESSIONING#3228-event-records>)
+- [ ] [CL-2 file: create or update](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#35-creating-the-cl-2-file>)
+	- [ ] [Write accession number on the acquisitions paperwork](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-ACCESSIONING#322-archivesspace>)
+- [ ] [Arrange and re-house](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#physical-processing>)
+- [ ] [Create Resource record for new collections](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#description>)
+	- [ ] [If new collection is created, request review of new content; revise once feedback is received](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#63-reviewing-and-editing-finding-aids>)
+- [ ] [Create or update catalog record in OCLC and ALMA](< https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides/OCLC_connexion_collection%20cataloging_2024.docx?d=w1be12cbefd284c16a0059b27bdbfa5e7&csf=1&web=1&e=Yy1Qgv>)
+- [ ] Document physical information about collection
+	- [ ] [Label containers](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes>)
+	- [ ] [Barcode container(s)](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1010-barcoding-boxes>)
+	- [ ] Enter barcodes, locations, and container profiles in ASpace using Top Container access
+	- [ ] [Add barcodes to Alma](< https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUApomTliJNCpIVaKpK-OpwBeRZzGQ6qPjZySzEZP_u1KQ?e=GZA1Mn>) 
+	- [ ] Add to or update the [shelf list](< https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared Documents/aczebla_emory_edu/MARBL_Master SHELF LIST/Master shelf list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ>)
+- [ ] Document additional format information about collection
+	- [ ] If material includes audiovisual material, complete [the audiovisual inventory Microsoft form](< https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u>)
+	- [ ] [If material includes born digital material, update the Digital Archives tab in the [shelf list](< https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared Documents/aczebla_emory_edu/MARBL_Master SHELF LIST/Master shelf list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ>)
+	- [ ] If there are websites related to the collection that we should track as part of our web archiving program, please complete this form.
+- [ ] [Flag](< https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Collection Processing Templates/Manuscript Processing Flags, Forms, and Templates/Removed from MSS Collection Flag.docx?d=wd9af5c64b196427ea1c6a0af9d9492b8&csf=1&web=1&e=9o2itU>) materials separated from the collection for cataloging and place on the appropriate range on Level 9
 - [ ] Move containers to permanent physical locations
-- [ ] Update [processing statistics spreadsheet](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG")
-- [ ] Update record in [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa")
-- [ ] If shelving onsite, update the [Stacks Space Map](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=vyfuBV> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Stacks%20Space%20Map.xlsx?d=w4855da5e14f14a3d96136f19cb8ef6e3&csf=1&web=1&e=vyfuBV")
+- [ ] Update [processing statistics spreadsheet](< https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared Documents/Reports and Statistics/Collection Services/Manuscript Processing Statistics/Annual Processing Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG>)
+- [ ] Mark accession as complete in Airtable
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
-
 
 ---
 
