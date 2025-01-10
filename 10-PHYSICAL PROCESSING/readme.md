@@ -224,14 +224,14 @@ This quick guide outlines the steps to take when you encounter digital media whi
 	*	The main part of the title should describe the intellectual content, not the carrier, while the bracketed portion indicates the original carrier and provenance.
 	*	The brackets may contain additional details about format, brand, or number of items after the appropriate CV term.
 	*	If you are accessioning materials at the collection level and find more than 10 (approximately) digital carriers, aggregate description of media at the box level might be sufficient until a digital archivist accessions the content of the physical media. In these cases, create an AO for each category of media (e.g., CDs, floppy disks) and describe their content if possible. A digital archivist will split up these AOs later.
-	*	If your are processing granularly OR the collection has fewer than 10 (approximately) digital carriers, create an AO for each piece of media.
+	*	If you are processing granularly OR the collection has fewer than 10 (approximately) digital carriers, create an AO for each piece of media.
  		*	If the media is labeled, transcribe the label information, in quotes, for the AO title.
    		*	If the media is unlabeled or the label information is incorrect or not useful, title the AO with a basic description of the content.
 	*	Make educated guesses about content when necessary; for example, an unlabeled SD card from a photographer’s papers most likely contains digital photographs. If you have no idea what the media contains, describe the content as “unidentified computer files.”
 	*	Examples:
 		*	"Teaching files" [Zip disk], 1999
 		*	Photographs from memorial service [memory card (microSD)], 2008
-		*	Unidentified digital files [floppy disk], undated
+		*	Unidentified computer files [floppy disk], undated
 		*	Digital photographs [compact discs (10 CD-Rs)], 2000-2005
 		*	Computer backups [hard drives (2 WD My Book)], 2012-2014
 5. Enter a date as you would for any other AO.
