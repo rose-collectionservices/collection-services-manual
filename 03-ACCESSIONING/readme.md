@@ -29,398 +29,168 @@ When material has been either acknowledged or paid for and is ready to be access
 *	The electronic version of the paperwork is located in Sharepoint in the Acquisitions folder - which is the system of record for acquisition documents- and a link is included in the Airtable record as well as in the accession record in ArchivesSpace in the External Documents sub-record.
 *	The Head of Processing will create a stub accessioning record in ArchivesSpace based on the information in the deed (and in the Airtable record) upon receipt of the materials, paperwork, and approval by the curator to move forward.
 
-The system of record for accession information is [ArchivesSpace]((https://archives.libraries.emory.edu/staff)/>). One accession record should be created for each acquisition (i.e., there should be one record for each invoice and/or deed/addendum). However, for collections acquired through a simultaneous purchase and gift, there could be separate accession records for each contract and for acquisitions that will be separated over collecting areas/collections, there could also be separate accession records.
+The system of record for accession information is [ArchivesSpace](<https://archives.libraries.emory.edu/staff)/>) and [Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) is used for managing the workflow between acquisition through accessioning. One accession record should be created for each acquisition (i.e., there should be one record for each invoice and/or deed/addendum). However, for collections acquired through a simultaneous purchase and gift, there could be separate accession records for each contract and for acquisitions that will be separated over collecting areas/collections, there could also be separate accession records.
 
 
 ## 3.2 Accessioning workflow
-### 3.2.1 ArchivesSpace
+### 3.2.1 Airtable: Acquisitions & Accessioning
+
+#### 3.2.1.1 Create checklist
+*	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "Accessioning Workflow" view.
+*	Click on the (+) at the bottom right of the screen to open the checklist
+*	Type the title of the accession. This is not the collection title, so it can be the "Atlanta Daily World records" if it starts a new collection, but if it's an addition to an existing collection, you will title this space as "addition to Atlanta Daily World"
+  	-	Start typing the name of the accession (as found in the Airtable record) and a suggested list will come up.  Click on the correct record to connect the checklist to the appropriate record.
+	*Confirm that you have linked to the correct accession record by clicking through the record once you have attached it. Scroll to the bottom of that record, click on the button to “Show (#) fields” and search for the Accession record number to which you can compare to the accession number you are using. If you’ve chosen the wrong accession record, go back to the checklist and hover over the box in the Acquisitions & Accessioning Table Link until the “x” appears.*
+*	Complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
+
+#### 3.2.1.2 Checklist view
+
+#### 3.2.1.3 Finalize and update Airtable record after completion of accessioning and minimal processing 
+*	When accession is completed, use the drop down to update the *Stage* to "Accesioning and/or Cataloging Completed"
+*	Confirm the *Accession #* is entered and correct
+*	Update the *Linear Feet*, *MSS Items* and *Extent Type* as well as an other *Special Format* fields
+*	Update the *Assigned To* field with your name if not already updated
+*	Enter the current date in the *Accession Date* field
+*	Confirm that the correct link is used in the *Paperwork* field
+  
+### 3.2.2 ArchivesSpace
 The Head of Processing manages the [acquisition workflow](<https://github.com/rose-collectionservices/collection-services-manual/edit/master/02-ACQUISITIONS/readme.md#221-receipt-of-new-or-potential-acquisitions>) which can overlap steps in the accessioning workflow including creating the stub accession record in ASpace. In rare circumstances, archivists will need to complete steps in that workflow, but normally, the archivist will follow the [accessioning checklist](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides/checklists/Accessioning_checklist.docx?d=w1e2057bf9129418e8a56ef133477332e&csf=1&web=1&e=4gfgFP>) to complete the accession record.
 
-*	Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>).
-	-	Basic Information sub-record: 
-		-	**Title**
-   			-	The title statement should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3). 
-			-	Titles should include both a name segment and the nature of the material being described. 
-		-	**Identifier**
-			-	Record the unique accession number in this field.
-   			-	Consists of the four digit year followed by the two-digit month and then a two-digit number indicating the number of accessions for that month and this should all be included in the first field.
+Browse accessions and sort by identifier to see the most recent accession number, so that you may assign the next number in sequence.
 
-For example, the third accessioning project in March 1995 would have an accession number of 1995-03-03
-		-	**Accession date**
-			-	Record the date of accession in the YYYY-MM-DD format
-		-	**Content Description**
-			-	Brief description of the scope and contents of the collection. 
-   			-	Usually pulled from acquisition documents or Airtable record
-		-	**Acquisition Type**
-  			-	Select from the drop-down menu the type of acquisition.
+<kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure5.png" alt="Figure 5: Find accession number" width="75%"/></p></kbd>
 
-    Gift
-    Purchase 
+To create the accession record, click on Create and select Accession.
 
-    Deposit 
+<kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure4.jpg" alt="Figure 4: Create accession record" width="75%"/></p></kbd>
 
-    Use when collections are transferred without title and a Temporary Custody form is present. 
+Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>). Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace. The Rose Library requires additional information for a record to be considered complete. 
 
-    Transfer 
+#### 3.2.2.1 Basic Information sub-record
+| Required Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Title**|<ul><li>This title statement reflects the accession record</li><li>When establishing a collection, the title should follow the rules outlines in [6.1.2.1 Collection Title](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6121-collection-title>)</li><li>For additions to collections, the title should be followed by "additions"</li><li>The title should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3)</ul>|
+|**Identifier**|<ul><li>All collection material acquired by the Rose Library is assigned a unique accession number.</li><li>Consists of the four digit year followed by the two-digit month and then a two-digit number indicating the number of accessions for that month and this should all be included in the first field.</li><p>*For example, the third accessioning project in March 1995 would have an accession number of 1995-03-03*<li>There is a separate sequence of accession numbers for MSS collections and for EUA collections.</li><p>*For EUA accession records that are created retroactively, assign an accession number that corresponds with the date that the materials were received. (For example, if an accession was received in May 2007, determine the next available accession number in EUA for May 2007.) If an accession number is retroactively assigned, add a note to that effect in the general note field.*<li>The accession number should be entered all in the first field.</li></ul><kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure6new.jpg" alt="Figure 6: Identifier" width="75%"/></p></kbd>|
+|**Accession date**|<ul><li>This field will pre-populate the current date.  If it doesn't, or it needs to be changed, click on the calendar and select the correct date (which should be formatted as YYYY-MM-DD).</li><li>This date should always match the day the accession record was originally created and the accession number assigned.</li><li>For EUA accession records that are created retroactively, choose an accession date that corresponds with the date that the materials were received.<p>*When the EUA accession record is added retroactively, you must complete the General Note field that otherwise is optional*</li></ul> 
+|**Publish?**|The checkbox should not be unchecked.  If it displays with a checkmark, unclick it|
+|**Content Description**|<ul><li>Brief description of the scope and contents of the collection.</li><li>Usually pulled from acquisition documents or Airtable record.</li></ul> 
+|**Disposition**|<ul><li>Used to identify whether the collection establishes collection or is an addition</li><p>*Establishes Len Prince papers* or *Addition to the Len Prince papers*<li>Can be used to describe portions of the same accession with different dispositionsas when acquisitions of multiple items from a single dealer are added to multiple miscellany collections.</li><li>Items and their corresponding collection are listed.</li></ul>
+|**Provenance**|<ul><li>Use this field to describe the provenance/custodial history of an accession.</li><p>*Donor is creator of materials*<p>*Donor Rhonda Boutte is the neice of the creator Ted Shine*<p>*Acquired from dealer; provenance unknown*</li></ul>
+|**Retention Rule<p>[Required when applicable, primarily for EUA records]**|Use this field to record any records management retention rules that apply to the accession.
+|**Acquisition Type**|<ul><li>Select from the drop-down menu the type of acquisition.</li><p>*Gift*<p>*Purchase*<p>*Deposit (Use when collections are transferred without title and a Temporary Custody form is present.)*<p>*Transfer (Use for transfer within Emory or from one institution to another)*</li></ul>|
+|**Resource Type**|<ul><li>Select from the drop-down menu the type of collection being described.</li><li>See [6.1.5 Resource Type](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#615-resource-type>)</li><li>Resource type may be broader than title statement, though they are related.</li><li>Type should broadly conform to the rules established in DACS Chapter 2.3.18.</li></ul>|
+|**Language of Description**<p>and<p>**Script of Description**|These fields are autofilled with "English" and "Latin" respectively|
+|**Restrictions Apply?<p>[Required when applicable]**|<ul><li>Check box if either use or access restrictions are present in the accession.</li><li>See [8 Restriction Policies](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/08-RESTRICTION%20POLICIES#restriction-policies>) for more information on restrictions.</li></ul>|
+|**Access Restrictions<p>[Required when applicable]**|If any portion of the accession is restricted from access, check this box.|
+|**Access Restrictions Note<p>[Required when applicable]**|Describe the restrictions noted in the accessioning paperwork here.|
+|**Use Restrictions<p>[Required when applicable]**|If any portion of the accession is restricted from certain kinds of use, check this box.|
+|**Use Restrictions Note<p>[Required when applicable]**|Describe the restriction here.This field is required if applicable.| 	
+<br>
 
-    Use for transfer within Emory 
 
-    Use for transfers from one institution to another (example: Transfer from University of Georgia to the Rose Library) 
+| Optional Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Condition Description<p>[Preferred when applicable]**|Use this field to describe preservation issues in the collection (mold, water damage, insect presence, or other significant issues) or current organization of the collection.<p align="center"><img src="/03-ACCESSIONING/Images/figure9.png" alt="Figure 9: Condition Description" width="75%"/></p>|
+|**Inventory**|<ul><li>Use this field to transcribe any existing inventories, for example those provided by the donor or created during packing. </li><li>Use this field only if the inventory is not in a document that can be linked in the External Documents subrecord.</li></ul>|
+|**General Note**|<ul><li>Use this field to provide any other information relevant to the accession that isn't accounted for elsewhere in the record. </li><li>If an EUA accession number was retroactively assigned, add a general note to that effect.</li></ul>|
 
-    Resource Type: 
+#### 3.2.2.2 Dates sub-record
+*	All accession records require at least one dates subrecord. 
+ 	-	Add separate subrecords for each type of date being described, for example inclusive and bulk dates. 
+   	-	More than one dates subrecord should be rare in accession records.
+*	To add a date subrecord, click the "Add Date" button in the right corner of the subrecord.
+  	<kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure13.png" alt="Figure 13: Add Accessioning Date" width="75%"/></p></kbd>
+* 	See [6.1.7 Dates](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#617-dates>)
 
-    Select from the drop-down menu the type of collection being described. 
 
-    Should broadly conform to the rules established in DACS Chapter 2.3.18. 
+#### 3.2.2.3 Extents sub-record
+*	All accession records require an extents subrecord.
+*	Since the accession record doesn't have the option to automate the creation of an extent field, this must be filled in by the archivist.
 
-    Papers:  Created by an individual or family 
+The table contains information where the content in the accession record deviates from [6.1.8 Extent](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#618-extent>)
 
-    Records: Created by an organization or corporate body 
 
-    Collection: Artificially created by a collector or the repository 
+| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|**Portion [Required]**|<ul><li>Select from the drop-down menu as appropriate</li><p>-Choose "whole" when the accession is the entirety of the collection<p>-Choose "part" when the accession is an accrual to or portion of the collection</ul>|
+|**Type [Required]**|<ul><li>Related to the Number field (which is also required)</li><li>Field will fill in as you type</li><li>Usually either *Linear Feet* or *Item(s)* </li></ul>|
+|**Container summary**|<ul><li>Optional, but preferred field</li><li>This is especially helpful if the material is oversized or stored in unusual containers.</li></ul>|
+|**Physical Details [Optional]**|Use this field for any additional, pertinent details describing the physical state of the collection.|
+|**Dimensions [Optional]**|This field will rarely be used for manuscript accessionins, but it can be used to note and additional, physical dimensions of the accession|
 
-    Publications:  Published material 
+#### 3.2.2.4 Agent links sub-record 
+An agent is a person, corporate body, family, or software responsible in some way for the creation or management of a described resource, or the subject of that resource. 
 
-    Resource type may be broader than Title Statement, though they are related. 
+Accession records require two Agent links:
+*	Role [Required]
+	-	Select **Source** from the drop down menu to identify the donor/supplier of the acquisition
+ 	-	Select **Creator** from the drop down menu to identify the content creator of the acquisition materials
+*	Agent [Required]
+  	-	Using the drop down menu, select *Browse* to search for the name of the Role selected
+   	-	If the *Agent Name* has not been already been created in our system, create the name using the workflow found in the [RoseLibrary_AgentRecords](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/_layouts/15/Doc.aspx?sourcedoc=%7B1BCB89E9-869E-4154-ABA8-432270A243C0%7D&file=RoseLibrary_AgentRecords.docx&action=default&mobileredirect=true>)
+*	Relator [Optional]
+  	-	Can be used if archivist finds the content to be helpful or appropriateto indicate a more specific relationship of the creator/source to the material being described.
+   	-	Rarely used	
 
-    Restrictions: 
+#### 3.2.2.5 Related Resources sub-record [Required]
+*	All accession records must be linked to a resource record.
+	-	When the accession is establishing a new collection, this field autopopulate upon the spawning of a Resource Record from the Accession Record and establish a link between the two.
+ 	-	When the accession is an addition to a collection, the field will autopopulate with titles as you type in the Resource record title or you can click the drop down menu to *Browse* collection titles.
 
-    This field is required if applicable, but each repository is responsible for appropriate deployment in the resource or accession record. 
+#### 3.2.2.6 Related Accessions sub-record [Preferred when applicable]
+This subrecord links related accessions. It should be used only when material that is acquired together is accessioned into different collections and not linked to the same resource record. 
+*	Use this record when:
+	-	Multiple collections are created out of one acquisition from a single donor (e.g., the Pauline Brown Payne papers and Homer G. Phillips Hospital records)
+	-	A single donor sends additions to multiple collections under one deed (e.g., a Michael Lomax accession that includes additions to both his papers and Almena Lomax's papers).
+*	Do not link accessions for miscellany collections.
+*	The easiest way to link accessions is to create the record for the first accession, then generate the Related Accession link between the subsequent accessions as they are created.
+  	-	The original accession will use the "has part" designation to the subsequent accessions
+   	-	Choose "forms part of" when completing the subsequent accessions.
+      
+To create a related accession
+*	Click the "Add Related Accession" button in the right corner.
+*	From the "Relationship Type" drop down menu, select "Part of" to indicate that material has been acquired as part of a larger whole.
+	-	**The "Sibling Relationship" will not be used in Rose Library records**
+ 	-	The sibling relationship is for linking accession records of accruals to the same collection. Rose Library will be tracking those relationships in the resource record, not the accession record.
+*	From the "This accession" field, use the drop down menu to select:
+	-	"Has part" to identify the original accession
+ 	-	"Forms part of" to signify the subsequent accessions
+*	Type the title into the "Accession" search box and select the correct accession record
+*	"Relator type" autopulates as "Part of"
 
-    Use in the accession record if the restriction applies specifically to that accrual and not more broadly to the entire collection. 
+Below is an example of the Pauline Brown Payne papers (accession number 2017-02-05) being linked to the accession record for the Homer G. Phillips School of Nursing records (accession number 2016-12-13). 
+<kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure20.png" alt="Figure 20: Related Accessions Subrecord" width="75%"/></p></kbd>
 
-    Must include a termination date. 
+The image below shows the how the accession record for the Homer G. Phillips School of Nursing records displays the link with the accession record for the Pauline Brown Payne papers linked.
+<kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure21.png" alt="Figure 21: Homer G. Phillips example" width="75%"/></p></kbd>
 
- 
+#### 3.2.2.7 Instances sub-record
+If any instances exist from the stub record created as part of the acquisition workflow, remove these instances when you complete the minimal processing at theh point of accessioning.
 
-Dates sub-record: 
+#### 3.1.2.8 Events
+Confirm the Custody Transfer and Agreement Signed event records have been completed
+*	Use *Browse* drop down menu and select *Accessions* to search for the accession.
+*	Identify the accession and use the *View* option to access the record
+*	Scroll to the Events Subrecord to view the event types
+*	If not completed, follow workflow in Acquisitions section
 
-    Label:  Use "creation" by default 
-
-    Expression:  Not required 
-
-    Expression is only used to describe dates when normalized dates are not present or if the expressed dates differ from the normalized dates.  In accession records, the normalized date is preferred. 
-
-    Type:  Select from the drop-down menu as appropriate 
-
-    Normalization:  Required 
-
-    Certainty:  Select from the drop-down menu as appropriate 
-
-    Era:  ce 
-
-    Calendar: Gregorian 
-
- 
-
-Extents sub-record: 
-
-    Portion:  Select from the drop-down menu as appropriate 
-
-    Choose "whole" when the accession is the entirety of the collection 
-
-    Choose "part" when the accession is an accrual to or portion of the collection 
-
-    Number:  Enter the number of items you're measuring 
-
-    Type:  Select from the drop-down menu as appropriate 
-
-    Most likely, this will be linear feet or items 
-
-    Container summary (optional):  A natural language description of the extent 
-
-    Physical details (optional):  Additional pertinent details describing the physical state of the collection 
-
-    Dimensions (optional):  Dimensions of the material being described 
-
- 
-
-Related Resources sub-record: 
-
-    Links to Resource records associated with the accession 
-
- 
-
-Agent links sub-record: 
-
-    Role: Select from the drop-down menu as appropriate. 
-
-    Relator (optional): Select from the drop down as appropriate. 
-
-    Use when it is helpful or appropriate to indicate a more specific relationship of the creator to the material being described. 
-
-    Agents: Browse for existing agents or create a new record. 
-
-    Agent links for creators are required for all accessions. 
-
-    Agent links for source are required (in the Rose Library only?) when the source of acquisition is different from the creator of the material being described. 
-*	
-*	Create an _Accesion_ event record to document that the collection has been accessioned:
+At the point of accessioning, the archivist will create an Accession event record to document the completion of the workflow.
+*	Click on the *Edit* button on the top left to open the record
+*	Click on the *Add Event* drop down menu on the top right and select *Accession*; click *Add Event*
 	-	Basic information heading
  		-	Type is equal to "accession"
 		-	Outcome is “Fulfilled”
 	-	Event Date/time heading
 		-	Choose "UTC Timestamp" as the specifier in the drop down menu
-		-	Add the current date in the format noted into the UTC Timestamp field
+		-	Add the current date in the format noted into the UTC Timestamp field (YYYY-MM-DD)
+  		-	Hours, minutes, and seconds not required		
 	-	Agent link heading
-		-	Use the drop down menu to select "archivist" for Role
+		-	Role: Use the drop down menu to select "archivist"
 		-	Agent: archivist’s name
 	-	Record Link heading
 		-	Role: Source
 		-	Record should autopopulate with the accession number and title to which the event record is attached.
-o	
-
-
-*
-*	   [Acquisitions & Accessioning Airtable base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>)
- 
-###Accessioning Workflow
-
-
-Create a basic accession record in ArchivesSpace 
-*	Assign the accession number by using the , as well as complete any field for which they have information, according to the guidelines in the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd").
-*	Document physical receipt of the material in an event record attached to the accession record.
-	*	Type is equal to "custody transfer"
-	*	The role of the selector linked as an agent is "curator"
-	*	Date records the date materials moved into Rose Library possession. Often, this date will align with the creation of the record since new acquisitions should be recorded as soon as they are identified.
-*	When deed or deed addendum is present and has been signed by the donor and counter-signed by the Director, document the agreement in an event record attached to the accession record.
-	*	Type is equal to "agreement signed"
-	*	The role of the donor or seller or signed the deed is linked as an agent with the label of "authorizer"
-	*	Date of signing can be found on the paperwork
-*	If portions of the same accession are being added to multiple collections:
-	*	In the disposition field of the basic information sub-record, describe the disposition of each portion; provide a brief description of the material and the title of the collection to which it is being added
-*	Add or update the status of the acquisition in the [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa")
-*	Add the location of the material to the Pending tab in the [Master Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=ULnYUi> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=ULnYUi").
-
-**At the time of accessioning, staff will:**
-
-*	Update and complete any fields in the accession record that the Accessioning Archivist could not complete during receipt, according to the [Emory Libraries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd"). 
-*	[Create an event record](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_EventRecords.docx?d=w254f3b8f58bd4b8d9d20d296507cd83a&csf=1&web=1&e=1zPhic> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_EventRecords.docx?d=w254f3b8f58bd4b8d9d20d296507cd83a&csf=1&web=1&e=1zPhic") attached to the accession record to document that the collection has been accessioned
-	*	Type is equal to "accession"
-	*	The role of the staff member linked as an agent is "accessioner"
-	*	Date is the date the event record is created
-
-*	If creating a new collection, assign an identifier to the collection by assigning the next number in sequence in the [Manuscript Register](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk) or [EUA Register](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EQyyLS-B7fVHvYOf7t0JLbEBLW_YsrF0AOagwRBVceoxKw?e=MCihpT). See [Description 5.1.3: Identifier](https://github.com/rose-collectionservices/collection-services-manual/blob/master/05-DESCRIPTION/readme.md#513-identifier) for more information about assigning an identifier.
-*	Link to an existing resource record for additions to collections or spawn a new resource record for new collections and complete the form according to the [Emory Libraries Resource Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/ResourceRecord_Field_Usage_Guidelines.docx?d=wb0edbbbcf08c4d40a773abe1d5a61fb4&csf=1&web=1&e=zT4xfE") for stub resource records
-*	Print any needed documentation from OneDrive using the external documents link in the accession record and combine with any physical documentation in hand to add to or create the physical CL-2 file. Write the accession number on the deed, if present, or on the invoice if there is no deed.
-*	Process the material at whichever level is deemed appropriate and create description according to the policies and procedures outlined in the Rose Library Collection Services Manual.
-*	Update the status of the acquisition in the [Acquisitions & Accessioning Airtable base](<https://airtable.com/shrCBB24THckYDtOa> "https://airtable.com/shrCBB24THckYDtOa"). Changing the status to "Complete" will automatically send the curator an email.
-
-The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
-
-## 3.2 Creation of the Accession Record
-
-Browse accessions and sort by identifier to see the most recent accession number, so that you may assign the next number in sequence.
-
-![Figure 5: Find accession number](/03-ACCESSIONING/Images/figure5.png "Figure 5: Find accession number")
-
-To create the accession record, click on Create and select Accession.
-
-![Figure 4: Create accession record](/03-ACCESSIONING/Images/figure4.jpg "Figure 4: Create accession record")
-
-Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace. The Rose Library requires additional information for a record to be considered complete.
-
-**Populating the Accession Record**
-
-
-#### Basic Information Subrecord [Required]
-
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Title [Required]                             | Assign a title for the accession. For new collections, titles should include both a name segment and the nature of the material being described. The title should be formed according to the rules outlined in the [Description section](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#612-title) of the manual. For additions, the title should include the collection title and the word "additions." If the additions are a single item or record type, the title can include that information (e.g., Dianora Niccolini papers audiovisual additions). For additions to miscellany collections, the title will mirror the title of the corresponding paperwork on OneDrive/SharePoint (e.g., Langdon Manor Books_187_FY19, Adam Schachter_2018, etc.).|
-| Identifier [Required]                        |  All collection material acquired by the Rose Library is assigned a unique accession number, consisting of the year, the month, and the next accession number in sequence for the month [e.g., 2017-06-34]. There is a separate sequence of accession numbers for MSS collections and for EUA collections. You can determine the next available accession number to assign in ASpace by going to Browse/Accessions and sorting by identifier. For EUA accession records that are created retroactively, assign an accession number that corresponds with the date that the materials were received. (For example, if an accession was received in May 2007, determine the next available accession number in EUA for May 2007.) If an accession number is retroactively assigned, add a note to that effect in the general note field. The accession number should be entered all in the first field. ![Figure 6: Identifier](/03-ACCESSIONING/Images/figure6new.jpg)|
-| Accession Date [Required]                    |  This field will pre-populate the current date. To change the date, click on the calendar and select the correct date. For recently received materials, this date should always match the day the accession record was originally created and the accession number assigned. For EUA accession records that are created retroactively, choose an accession date that corresponds with the date that the materials were received. ![Figure 7: Accession Date](/03-ACCESSIONING/Images/figure7_2.png "Figure 7: Accession date")|
-| Collection Description [Required]            | Include a brief description of the scope and contents of the collection ![Figure 8: Collection description](/03-ACCESSIONING/Images/figure8_2.png "Figure 8: Collection description")|
-| Condition Description [Optional; preferred when applicable] | Use this field to describe preservation issues in the collection (mold, water damage, insect presence, or other significant issues) or current organization of the collection. ![Figure 9: Condition description](/03-ACCESSIONING/Images/figure9.png "Figure 9: Condition description")|
-| Disposition [Optional; required when applicable]                            | Use this field to describe portions of the same accession with different disposition. Will primarily be used for acquisitions of multiple items from a single dealer that will be added to multiple miscellany collections. List the items and corresponding collections in this field. ![Figure 10: Disposition](/03-ACCESSIONING/Images/figure10.png "Figure 10: Disposition")|
-| Inventory [Optional]                               | Use this field to transcribe any existing inventories, for example those provided by the donor or created during packing. Use this field only if the inventory is not in a document that can be linked in the External Documents subrecord. |
-| Provenance [Required when applicable]              | Use this field to describe the provenance/custodial history of an accession. Required if there is additional provenance information relevant to a specific accession that is different from the provenance of the rest of the collection. Required when the source of the material is different from the creator of the material. ![Figure 11: Provenance](/03-ACCESSIONING/Images/figure11.png "Figure 11: Provenance") ![Figure 12: More Provenance](/03-ACCESSIONING/Images/figure12.png "Figure 12: More Provenance")|
-| Retention Rule [Required when applicable]          | Use this field to record any records management retention rules that apply to the accession. Most likely to be used for University records. |
-| General Note [Optional]                           | Use this field to provide any other information relevant to the accession that isn't accounted for elsewhere in the record. If an EUA accession number was retroactively assigned, add a general note to that effect. ![Figure 29: General Note](/03-ACCESSIONING/Images/figure29.jpg "Figure 29: General Note")|
-| Acquisition Type [Required]                       | Select the appropriate acquisition type from the drop down menu. Use "Deposit" when collections are transferred without title and a Temporary Custody form is present. Use "Transfer" for transfers within Emory or from one institution to another (e.g., transfer from University of Georgia to the Rose Library)|
-| Resource Type [Required]                          | Select the appropriate resource type from the drop down menu. Type should broadly conform to the rules established in DACS Chapter 2.3.18. Resource type may be broader than Title Statement, though they are related.|
-| Restrictions Apply? [Required when applicable]    | Check box if either use or access restrictions are present in the accession. |
-| Publish | The Rose Library does not and will not publish accession records. This box is pre-checked by ArchivesSpace but repository settings override. The Rose repository is set to not publish.|
-| Access Restrictions [Required when applicable]    | If any portion of the accession is restricted from access, check this box.|
-| Access Restrictions Note [Required when applicable]   | Describe the restriction here. If this field is in use, it must include a termination date.|
-| Use Restrictions [Required when applicable]       | If any portion of the accession is restricted from certain kinds of use, check this box.|
-| Use Restrictions Note [Required when applicable]  | Describe the restriction here. |
-
-
-#### Dates Subrecord [Required]
-
-All accession records require at least one dates subrecord. Add separate subrecords for each type of date being described, for example inclusive and bulk dates. More than one dates subrecord should be rare in accession records.
-
-To add a date subrecord, click the "Add Date" button in the right corner of the subrecord.
-
-![Figure 13: Dates subrecord](/03-ACCESSIONING/Images/figure13.png "Figure 13: Dates Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Label [Required]                             | "Creation" is selected by default. |
-| Expression [Do Not Use]                      | Expression is only used to describe dates when normalized dates are not present or if the expressed dates differ from the normalized dates.  In accession records, the normalized date is preferred. |
-| Type [Required]                             | Select from the drop down menu as appropriate. Use bulk dates for the range in which the bulk of the material in the accession was created. Use inclusive dates for the date range in which the entirety of the accession was created. Use a single day for the date of a single item or single year in which all material in the accession was created. |
-| Normalization [Required]                    | Enter the beginning and ending dates of the accession. Years are sufficient for most accessions. |
-| Certainty [Required if applicable]          | If you are uncertain about the accuracy of the dates, select "circa" from the drop down menu. Otherwise, leave blank.|
-| Era [Required]                             | Defaults to "ce." |
-| Calendar [Required]                             | Defaults to "Gregorian." |
-
-![Figure 14: Complete Dates Subrecord](/03-ACCESSIONING/Images/figure14.png "Figure 14: Complete Dates Subrecord")
-
-#### Extents Subrecord [Required]
-
-All accession records require an extents subrecord.
-
-To add an extent record, click the "Add Extent" button in the right corner of the subrecord.
-
-![Figure 15: Add Extents Subrecord](/03-ACCESSIONING/Images/figure15.png "Figure 15: Add Extents Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Portion [Required]                             | Select "part" or "whole" from the drop down menu as appropriate. Choose "whole" when the accession is the entirety of the acquisition. Choose "part" when the accession includes multiple formats (e.g., paper and born digital) and you're creating multiple extent subrecords. |
-| Number [Required]                             | Enter the number of items you're measuring. |
-| Type [Required]                             | Select from the drop down menu as appropriate. For accessions, this will most likely be linear feet or item.|
-| Container Summary [Required]                             | Use this field to describe the type of containers in which the accession is stored. This is especially helpful if the material is oversized or stored in unusual containers. |
-| Physical Details [Optional]                            | Use this field for any additional pertinent details describing the physical state of the collection. |
-| Dimensions [Optional]                            | Use this field to note the physical dimensions of the accession. Use of this field will be rare for manuscript accessions. ![Figure 16: Dimensions](/03-ACCESSIONING/Images/figure16.png "Figure 16: Dimensions") |
-
-#### Agent Links Subrecord [Required]
-
-An agent is a person, corporate body, family, or software responsible in some way for the creation or management of a described resource, or the subject of that resource.
-
-Add an agent subrecord for both the source and the creator of the accession, even if they are the same. 
-
-[See Creating an Agent Record in ArchivesSpace.](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_AgentRecords.docx?d=w1bcb89e9869e4154aba8432270a243c0&csf=1&web=1&e=PSzxRc")
-
-Agent records for curators and archivists responsible for the accession will be added to event records.
-
-#### Related Resources Subrecord [Required]
-
-All accession records must be linked to a resource record. 
-
-When accessioning a new collection, resource records will be spawned from the accession record and automatically linked.
-
-[See Creating a Resource Record in ArchivesSpace](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_ResourceRecords.docx?d=w3f0763fa10134a8d842f4ec3aaf92ee9&csf=1&web=1&e=fVaPQ4> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Systems/ArchivesSpace/ArchivesSpace%20Workflow%20and%20Instruction%20Docs/RoseLibrary_ResourceRecords.docx?d=w3f0763fa10134a8d842f4ec3aaf92ee9&csf=1&web=1&e=fVaPQ4") for spawning instructions.
-
-When accessioning additions to a collection, add a related resources subrecord here. Click "Add Related Resource" in the right corner of the subrecord.
-
-![Figure 17: Add Related Resources Subrecord](/03-ACCESSIONING/Images/figure17.png "Figure 17: Add Related Resources Subrecord")
-
-Type the title or portion of the title into the search box and select the correct collection from the menu.
-
-![Figure 18: Related Resources Subrecord](/03-ACCESSIONING/Images/figure18.png "Figure 18: Related Resources Subrecord")
-
-#### Related Accessions Subrecord [Preferred when applicable]
-
-This subrecord links related accessions. It should be used only when material that is acquired together is accessioned into different collections and not linked to the same resource record. For example, use this record when multiple collections are created out of one acquisition from a single donor (e.g. the Pauline Brown Payne papers and Homer G. Phillips Hospital records) or when a single donor sends additions to multiple collections (e.g. Michael Lomax sends material that includes additions to both his papers and Almena Lomax's papers). Do not link accessions for miscellany collections.
-
-To link a related accession, click the "Add Related Accession" button in the right corner.
-
-![Figure 19: Add Related Accessions Subrecord](/03-ACCESSIONING/Images/figure19.png "Figure 19: Add Related Accessions Subrecord")
-
-From the "Relationship Type" drop down menu, select "Part of" to indicate that material has been acquired as part of a larger whole.
-
-*	From the "This accession" drop down menu, choose "Forms part of" or "Has part"
-*	Type the title into the "Accession" search box and select the correct accession record
-*	"Relator type" defaults to "Part of"
-
-The easiest way to link accessions is to create the record for the first accession, then link to that record from this subrecord on any subsequent accessions. Choose "forms part of" when completing the subsequent accessions. The links will also appear on the original record with "has part" appearing under "this accession."
-
-For example, below the Pauline Brown Payne papers, accession 2017-02-05 is being linked to the accession record for the Homer G. Phillips School of Nursing records, accession 2016-12-13. 
-
-![Figure 20: Related Accessions Subrecord](/03-ACCESSIONING/Images/figure20.png "Figure 20: Related Accessions Subrecord")
-
-The image below shows the accession record for the Homer G. Phillips School of Nursing records with the accession record for the Pauline Brown Payne papers linked.
-
-![Figure 21: Homer G. Phillips example](/03-ACCESSIONING/Images/figure21.png "Figure 21: Homer G. Phillips example")
-
-You should never have to select "sibling" as a relationship type. The sibling relationship is for linking accession records of accruals to the same collection. Rose Library will be tracking those relationships in the resource record, not the accession record. If you identify a possible exception, discuss with the accessioning team and we will decide as a group if sibling is the correct relationship type. If it is, then complete the subrecord as follows:
-
-*	"This accession" will pre-populate with "Is sibling of"
-*	Type the title into the "Accession" search box and select the correct accession record
-*	Relator type defaults to "Bound with relationship"
-
-#### Subjects Subrecord [Do not use]
-
-Skip this subrecord. We will not be adding subject terms to accession records.
-
-#### External Documents Subrecord [Required]
-
-Use this field to link to relevant external documentation such as inventories, deeds, appraisal reports, and other acquisition paperwork.
-
-Link to the relevant acquisitions paperwork on OneDrive/SharePoint.
-
-To create an external documents subrecord, click "Add External Document" in the right corner of the subrecord.
-
-![Figure 22: Create External Documents Subrecord](/03-ACCESSIONING/Images/figure22.png "Figure 22: Create External Documents Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Title                             | Copy the title of the document from OneDrive/SharePoint |
-| Location                          | Click "Share" next to the document in box. Enable the shared link if necessary. Copy and paste the link in this field. |
-| Publish?                            | Deselect this box. |
-
-![Figure 23: Complete External Documents Subrecord](/03-ACCESSIONING/Images/figure23.png "Figure 23: Complete External Documents Subrecord")
-
-#### Rights Statements Subrecord
-
-Used to record rights information specific to an individual accession, as opposed to information that is applicable to an entire collection. This subrecord is not relevant to accession records and will only be used in resource records.
-
-#### Instances Subrecord
-
-This subrecord is not currently in use by Rose Library.
-
-#### Deaccessions Subrecord [Required when applicable]
-
-Add a deaccessions subrecord to record deaccessions contemporaneous to the accession. 
-To create a deaccessions subrecord, click "Add Deaccession" in the upper right corner.
-
-![Figure 24: Add Deaccessions Subrecord](/03-ACCESSIONING/Images/figure24.png "Figure 24: Add Deaccessions Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Portion                             | Select part or whole from the drop down menu as appropriate. |
-| Description                             | Free text field. Describe the material being deaccessioned. |
-| Reason                             | Free text field.  Record the reason for the deaccession. |
-| Disposition                             | Free text field.  Record the disposition of the material (e.g., shredded, returned, transferred, etc.) |
-| Notification given                             | Check the box if applicable. |
-| Deaccession Date                             | Label should be Deaccession. Complete the rest of the Deaccession Date subrecord according to the rules established for the Dates sub-record |
-| Extent                             | Record the extent of the deaccessioned material according to the rules established for the Extent sub-record  |
-
-#### Collection Management Subrecord
-
-Use this field to record internal information about processing the material. Use of this subrecord for accessions may be rare and will likely not be completed by the accessioning archivist. This field is likely most useful at the point of accessioning when describing plans for processed collections with unprocessed additions.
-
-#### Classifications Subrecord
-
-This subfield is not applicable to Emory University special collections material.
-
-#### User Defined Fields Subrecord [Required]
-
-This subrecord is where you will record the purchase price or appraisal value for accessions.
-
-To create a new user defined fields subrecord, click "Add User Defined Fields" in the right corner of the subrecord.
-
-![Figure 25: Add User Defined Fields Subrecord](/03-ACCESSIONING/Images/figure25.png "Figure 25: Add User Defined Fields Subrecord")
-
-Note that there are many possible fields in this subrecord and only four that Rose Library is interested in: Appraisal value, appraisal date, purchase price, and purchase price currency. The first three are close to each other, and the fourth is farther down the subrecord.
-
-Enter the appraisal value and/or purchase price in the appropriate field. If a purchase was also appraised, always record both values. Only record the appraisal value and date if an official financial appraisal was conducted for the material. Do not record donors' financial valuations of material on Gift-in-Kind Contribution forms if no appraisal report is present.
-
-![Figure 26: Apprisal value and purchase price](/03-ACCESSIONING/Images/figure26.png "Figure 26: Appraisal value and purchase price")
-
-If the collection was financially appraised, select the date of appraisal in the Appraisal date field.
-
-![Figure 27: Appraisal date](/03-ACCESSIONING/Images/figure27.png "Figure 27: Appraisal date")
-
-If the collection is a purchase, also record the currency in which the purchase was made. Most common will be U.S. Dollars and U.K. Pounds.
-
-![Figure 28: Purchase price currency](/03-ACCESSIONING/Images/figure28.png "Figure 28: Purchase price currency")
-
-**Finalizing the record**
-
-When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number on the aperwork filed in the physical CL-2 file.
+*	Save Event
 
 ## 3.3 Accessioning Digital Objects
 
