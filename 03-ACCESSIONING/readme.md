@@ -2,10 +2,21 @@
 # Accessioning and Precustodial Work [This section needs to be updated]
 
 Content owner:
-
-
-* [3.1 Moving from Acquisition to Accessioning](#31-moving-from-Acquisition-to Accessioning)
-* [3.2 Creation of the accession record](#32-creation-of-the-accession-record)
+* [3.1 Moving from Acquisition to Accessioning](#31-moving-from-acquisition-to-accessioning)
+* [3.2 Accessioning workflow](#32-accessioning-workflow)
+	* [3.2.1 Airtable Acquisitions and Accessioning base](#321-airtable-acquisitions-and-accessioning-base)
+ 		* [3.2.1.1 Create checklist](#3211-create-checklist)
+  		* [3.2.1.2 Checklist view](#3212-checklist-view)
+  		* [3.2.1.3 Finalize and update Airtable record](#3213-finalize-and-update-airtable-record)
+	* [3.2.2 ArchivesSpace](#322-archivesspace)
+		* [3.2.2.1 Basic Information sub-record](#3221-basic-information-sub-record)
+		* [3.2.2.2 Dates sub-record](#3222-dates-sub-record)
+		* [3.2.2.3 Extents sub-record](#3223-extents-sub-record)
+		* [3.2.2.4 Agent links sub-record](#3224-agent-links-sub-record)
+		* [3.2.2.5 Related Resources sub-record](#3225-related-resources-sub-record)
+		* [3.2.2.6 Related Accessions sub-record](#3226-related-accessions-sub-record)
+		* [3.2.2.7 Instances sub-record](#3227-instances-sub-record)
+		* [3.2.2.8 Event records](#3228-event-records)
 * [3.3 Accessioning digital objects](#33-accessioning-digital-objects)
 * [3.4 Digital Accessioning workflows](#34-digital-accessioning-workflows)
 * [3.5 Creating the CL-2 file](#35-creating-the-cl-2-file)
@@ -33,7 +44,7 @@ The system of record for accession information is [ArchivesSpace](<https://archi
 
 
 ## 3.2 Accessioning workflow
-### 3.2.1 Airtable: Acquisitions & Accessioning
+### 3.2.1 Airtable Acquisitions and Accessioning base
 
 #### 3.2.1.1 Create checklist
 *	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "Accessioning Workflow" view.
@@ -45,7 +56,7 @@ The system of record for accession information is [ArchivesSpace](<https://archi
 
 #### 3.2.1.2 Checklist view
 
-#### 3.2.1.3 Finalize and update Airtable record after completion of accessioning and minimal processing 
+#### 3.2.1.3 Finalize and update Airtable record
 *	When accession is completed, use the drop down to update the *Stage* to "Accesioning and/or Cataloging Completed"
 *	Confirm the *Accession #* is entered and correct
 *	Update the *Linear Feet*, *MSS Items* and *Extent Type* as well as an other *Special Format* fields
@@ -132,12 +143,14 @@ Accession records require two Agent links:
   	-	Can be used if archivist finds the content to be helpful or appropriateto indicate a more specific relationship of the creator/source to the material being described.
    	-	Rarely used	
 
-#### 3.2.2.5 Related Resources sub-record [Required]
+#### 3.2.2.5 Related Resources sub-record 
+[Required]
 *	All accession records must be linked to a resource record.
 	-	When the accession is establishing a new collection, this field autopopulate upon the spawning of a Resource Record from the Accession Record and establish a link between the two.
  	-	When the accession is an addition to a collection, the field will autopopulate with titles as you type in the Resource record title or you can click the drop down menu to *Browse* collection titles.
 
-#### 3.2.2.6 Related Accessions sub-record [Preferred when applicable]
+#### 3.2.2.6 Related Accessions sub-record
+[Preferred when applicable]
 This subrecord links related accessions. It should be used only when material that is acquired together is accessioned into different collections and not linked to the same resource record. 
 *	Use this record when:
 	-	Multiple collections are created out of one acquisition from a single donor (e.g., the Pauline Brown Payne papers and Homer G. Phillips Hospital records)
@@ -167,7 +180,7 @@ The image below shows the how the accession record for the Homer G. Phillips Sch
 #### 3.2.2.7 Instances sub-record
 If any instances exist from the stub record created as part of the acquisition workflow, remove these instances when you complete the minimal processing at theh point of accessioning.
 
-#### 3.1.2.8 Events
+#### 3.2.2.8 Event records
 Confirm the Custody Transfer and Agreement Signed event records have been completed
 *	Use *Browse* drop down menu and select *Accessions* to search for the accession.
 *	Identify the accession and use the *View* option to access the record
@@ -241,15 +254,26 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 
 ### 3.5 Creating the CL-2 File
 
-The permanent collection files document the history of a collection including, solicitation, acquisition, processing, and later communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
+The permanent collection files document the history of a collection including solicitation, acquisition, processing, and communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
 
-When we receive a new collection, the staff member accessioning the material is responsible for creating the collection file and adding collection documentation to the newly created file. Some of this documentation should be transferred to the archivist from the Accessioning Archivist while others can be printed from OneDrive/SharePoint. The [collection file’s label](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Collection%20File%20Folder%20Labels.doc?d=w77a10adb8c2d4fa797bc64adef3a20ef&csf=1&web=1&e=vVH3VP> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Collection%20File%20Folder%20Labels.doc?d=w77a10adb8c2d4fa797bc64adef3a20ef&csf=1&web=1&e=vVH3VP") should include the main entry and the manuscript number. The files are stored alphabetically by main entry. 
+At the point of accessioning, the Head of Processing will 
+*	Link the deeds and other acquisitions paperwork (found in the [Sharepoint Acquisitions folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions?csf=1&web=1&e=1TZPwS>)) to:
+	-	The ArchivesSpace Accession Record under *External Documents*
+	-	The Airtable record in the Acquisitions & Accessions base in the *Paperwork* field.
+*  	Either print out the electronic copy or include the original paperwork with the collection material
+*  	Tell the Archivist where the materials and paperwork are located.
+
+The Archivist who will accession the materials will create the physical CL-2 file
+*	Write the accession number on the paperwork
+*	Print the [collection file’s label](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Collection%20File%20Folder%20Labels.doc?d=w77a10adb8c2d4fa797bc64adef3a20ef&csf=1&web=1&e=vVH3VP>)
+*	File the physical documents alphabetically by main entry in the cabinets located on the L9 BizHub room.
+*	If the accession is an addition, the archivist will file the paperwork in the established collection file.
 
 If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
 
 ### 3.5.1 Electronic CL-2 File (Vital Docs Folder)
 
-There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX") available on OneDrive/SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on OneDrive and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
+There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX>) available on OneDrive/SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on OneDrive and available through ArchivesSpace and Airtable and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
 
 ### 3.6 Accessioning Checklist
