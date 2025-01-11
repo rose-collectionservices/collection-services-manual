@@ -23,28 +23,26 @@ Content owner:
 	* [3.3.5.1 Electronic CL-2 file (vital docs folder)](#351-electronic-cl-2-file-vital-docs-folder)
 * [3.6 Accessioning checklist](#36-accessioning-checklist)
 	
-
-
 Accessioning is the formal act of taking legal and physical control of an archival or manuscript collection. Formally accessioning material helps to establish the authenticity of the material through documenting the chain of custody. It also gives the Rose Library administrative and custodial control over collections and shows that the library is acting in good faith when accepting archival material by documenting the transfer and its terms.
-
-The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Processing archivists should determine the appropriate  [level of processing](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION) at the time of accessioning and then move forward with creating the descriptive documents.
 
 ## 3.1 Moving from Acquisition to Accessioning
 
 *Note: This workflow was fully implemented for Fiscal Year 2019 (FY19). Collection material received prior to FY19 will be recorded in ArchivesSpace but may not follow current process.*
 
-When material has been either acknowledged or paid for and is ready to be accessioned, the Head of Processing include information about the accession in Airtable.
-*	The Acquisitions and Accessioning base in Airtable is the system of record for the acquisition workflow, and  the Head of Processing adds information that can be accessed in the "Accessioning To-Be-Assigned" view.  
+When material is ready to be accessioned, the Head of Processing enters the relevant information about the accession in Airtable.
+*	This information can be accessed in the "Accessioning To-Be-Assigned" view.  
 *  	The Head of Processing passes relevant information on pending or upcoming acquisitions through minutes taken at the monthly Acquisition Strategies meetings. Information about the status of colllections can be found in the "Potential and/or Not Yet Received" view.
-*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning.  Archivists choose/are assigned collections (which are added their individual accessioning queues in Airtable) based on current workloads and specific expertise when possible. Archivists will use their personal views in Airtable to access these lists.
-*	The electronic version of the paperwork is located in Sharepoint in the Acquisitions folder - which is the system of record for acquisition documents- and a link is included in the Airtable record as well as in the accession record in ArchivesSpace in the External Documents sub-record.
+*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning.  Archivists choose/are assigned collections (which are added their individual accessioning queues in Airtable) based on current workloads and specific expertise when possible. Archivists use their personal views in Airtable to access these lists.
+*	- and a link is included in the Airtable record as well as in the accession record in ArchivesSpace in the External Documents sub-record.
 *	The Head of Processing will create a stub accessioning record in ArchivesSpace based on the information in the deed (and in the Airtable record) upon receipt of the materials, paperwork, and approval by the curator to move forward.
 
-The system of record for accession information is [ArchivesSpace](<https://archives.libraries.emory.edu/staff)/>) and [Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) is used for managing the workflow between acquisition through accessioning. One accession record should be created for each acquisition (i.e., there should be one record for each invoice and/or deed/addendum). However, for collections acquired through a simultaneous purchase and gift, there could be separate accession records for each contract and for acquisitions that will be separated over collecting areas/collections, there could also be separate accession records.
-
-
 ## 3.2 Accessioning workflow
+The accessioning workflow primarily focuses on systems to document the ownership and custody of collection materials through the systems of record and systems that manage them.  The system of record for accessions is [ArchivesSpace](<https://archives.libraries.emory.edu/staff)/>) and [Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) is used to manage the workflow between acquisition through accessioning. The [Acquisitions folder in Sharepoint](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions?csf=1&web=1&e=5W2pNF>) is the system of record for acquisitions paperwork, and information is linked from there to both ArchivesSpace and Airtable for access. 
+
+The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Therefore, while other processing workflows, creation of resource records, and physical processing steps are not part of the accessioning workflow, they are listed in the [Accessioning Checklist](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#36-accessioning-checklist>) as part of the procedure.
+
 ### 3.2.1 Airtable Acquisitions and Accessioning base
+The Acquisitions & Accessioning base in Airtable documents the acquisition workflow and includes records of acquisitions based on paperwork from the donor and information from the curatorial team. Airtable also tracks the stages of completion of acquisitions including their location and extent among other administrative content. 
 
 #### 3.2.1.1 Create checklist
 *	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "Accessioning Workflow" view.
