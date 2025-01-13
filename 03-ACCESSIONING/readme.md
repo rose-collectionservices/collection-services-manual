@@ -299,7 +299,7 @@ There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sit
 	- [ ] If there are websites related to the collection that we should track as part of our web archiving program, please complete this form.
 - [ ] [Flag](< https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Collection Processing Templates/Manuscript Processing Flags, Forms, and Templates/Removed from MSS Collection Flag.docx?d=wd9af5c64b196427ea1c6a0af9d9492b8&csf=1&web=1&e=9o2itU>) materials separated from the collection for cataloging and place on the appropriate range on Level 9
 - [ ] Move containers to permanent physical locations
-- [ ] Update [processing statistics spreadsheet](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared Documents/Reports and Statistics/Collection Services/Manuscript Processing Statistics/Annual Processing Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG>)
+- [ ] Update [processing statistics spreadsheet](<[https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared Documents/Reports and Statistics/Collection Services/Manuscript Processing Statistics/Annual Processing Reports.xls?d=w7e8bdf8f65a54b8eb817bbc805493ae4&csf=1&web=1&e=bzmAqG](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xlsx?d=we8382d29282646d8a17b240c1a701e96&csf=1&web=1&e=DJFk4B)>)
 - [ ] Mark accession as complete in Airtable
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
