@@ -114,6 +114,7 @@ Folders should be labeled with the following information:
 * Abbreviated form of the collection title (usually the creator's last name or an abbreviation of the organization's name);
 * Collection number;
 * Series/subseries title, if applicable;
+* Folder title;
 * Box number;
 * Folder number;
 * When adding folders to artificial (miscellaneous) collections or when interfiling a small number of folders in existing collections (additions), also add the accession number to the left corner of the front flap.
