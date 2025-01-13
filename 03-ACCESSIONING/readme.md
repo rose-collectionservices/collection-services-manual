@@ -1,5 +1,5 @@
 
-# Accessioning and Precustodial Work [This section needs to be updated]
+# Accessioning workflow [This section needs to be updated]
 
 Content owner:
 * [3.1 Moving from Acquisition to Accessioning](#31-moving-from-acquisition-to-accessioning)
@@ -39,16 +39,20 @@ When material is ready to be accessioned, the Head of Processing enters the rele
 ## 3.2 Accessioning workflow
 The accessioning workflow primarily focuses on systems to document the ownership and custody of collection materials through the systems of record and systems that manage them.  The system of record for accessions is [ArchivesSpace](<https://archives.libraries.emory.edu/staff)/>) and [Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) is used to manage the workflow between acquisition through accessioning. The [Acquisitions folder in Sharepoint](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions?csf=1&web=1&e=5W2pNF>) is the system of record for acquisitions paperwork, and information is linked from there to both ArchivesSpace and Airtable for access. 
 
-The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Therefore, while other processing workflows, creation of resource records, and physical processing steps are not part of the accessioning workflow, they are listed in the [Accessioning Checklist](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#36-accessioning-checklist>) as part of the procedure.
+The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Therefore, while other processing workflows, creation of resource records, and physical processing steps are not part of the accessioning workflow, they are listed in the [3.6 Accessioning Checklist](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#36-accessioning-checklist>) as part of the procedure.
 
 ### 3.2.1 Airtable Acquisitions and Accessioning base
 The Acquisitions & Accessioning base in Airtable documents the acquisition workflow and includes records of acquisitions based on paperwork from the donor and information from the curatorial team. Airtable also tracks the stages of completion of acquisitions including their location and extent among other administrative content. 
 
 #### 3.2.1.1 Create checklist
-*	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "Accessioning Workflow" view.
+*	Click on the *Accessioning Checklist tab* in the Acquisitions and Accessioning base and navigate to “(yourname)’s Gallery View” under the "Accessioning Workflow" view.
 *	Click on the (+) at the bottom right of the screen to open the checklist
 *	Type the title of the accession. This is not the collection title, so it can be the "Atlanta Daily World records" if it starts a new collection, but if it's an addition to an existing collection, you will title this space as "addition to Atlanta Daily World"
-  	-	Start typing the name of the accession (as found in the Airtable record) and a suggested list will come up.  Click on the correct record to connect the checklist to the appropriate record.
+  	-	Note the Date of Invoice on the Acquisitions & Accessioning tab
+   	-	Click on the "+Add Record" button next to the "Acquisitions & Accessioning Table Link"
+  	-	Start typing the name of the accession (as found in the Airtable record) and a suggested list will come up.
+   		- 	Because many of the records have the same name, and the Date of Invoice is the only other field that shows up in the list, you can use that information to identify the correct record.	
+    	-	Click on the correct record to connect the checklist to the appropriate record.
 	*Confirm that you have linked to the correct accession record by clicking through the record once you have attached it. Scroll to the bottom of that record, click on the button to “Show (#) fields” and search for the Accession record number to which you can compare to the accession number you are using. If you’ve chosen the wrong accession record, go back to the checklist and hover over the box in the Acquisitions & Accessioning Table Link until the “x” appears.*
 *	Complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
 
@@ -223,7 +227,7 @@ Like all collection material, born-digital media and files should not be accessi
 If a hybrid collection includes known born-digital media and/or hardware:
 
 * During the weekly accessioning meeting, the Accessioning Archivist assigns hybrid collection to a member of the accessioning team. 
-* The Accessioning Archivist adds information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored as a tab in the master shelf list.
+* The Accessioning Archivist adds information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored as a [tab in the master shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Shelf%20List.xlsx?d=wf0968fe689044379898108b0228a3a62&csf=1&web=1&e=UhojMn&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0>).
 * The accessioning archivist accessions the born-digital media and/or hardware with the rest of the collection, following the steps in the quick guide to processing digital media and using [10.7.4.1 Digital media controlled vocabulary](/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary) to describe what is included.
 
 If a collection (or addition to a collection) is comprised exclusively of born-digital media and/or hardware:
@@ -232,7 +236,7 @@ If a collection (or addition to a collection) is comprised exclusively of born-d
 * Following the steps in the quick guide to processing digital media and using [10.7.4.1 Digital media controlled vocabulary](/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary) to describe what is included, the digital archivist accessions the born-digital media and/or hardware.
 * Where possible, the digital archivist will also image disks, create digital object records, and ingest preservation copies into the digital repository at the point of accessioning.
 
-Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks or sent to the LSC. The Digital Archivist will identify a storage location for computer towers and laptops. The accessioning team member will shelve the computer and record the location in the born-digital inventory and the master shelf list.
+Archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks or sent to the LSC. The Digital Archivist will identify a storage location for computer towers and laptops. The accessioning team member will shelve the computer and record the location in the born-digital inventory and the [master shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/_layouts/15/Doc.aspx?sourcedoc=%7BF0968FE6-8904-4379-8981-08B0228A3A62%7D&file=Shelf%20List.xlsx&action=default&mobileredirect=true>).
 
 If a hybrid collection includes a file transfer:
 
@@ -288,7 +292,7 @@ There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sit
 	- [ ] [Barcode container(s)](< https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1010-barcoding-boxes>)
 	- [ ] Enter barcodes, locations, and container profiles in ASpace using Top Container access
 	- [ ] [Add barcodes to Alma](< https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUApomTliJNCpIVaKpK-OpwBeRZzGQ6qPjZySzEZP_u1KQ?e=GZA1Mn>) 
-	- [ ] Add to or update the [shelf list](< https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared Documents/aczebla_emory_edu/MARBL_Master SHELF LIST/Master shelf list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ>)
+	- [ ] Add to or update the [shelf list](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared Documents/aczebla_emory_edu/MARBL_Master SHELF LIST/Master shelf list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ>)
 - [ ] Document additional format information about collection
 	- [ ] If material includes audiovisual material, complete [the audiovisual inventory Microsoft form](< https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOB8h8E_9r5RCthRr1wsf1axUNjFITEY4U1JVUzZDRTlCV1RGOEZBMFNCQS4u>)
 	- [ ] [If material includes born digital material, update the Digital Archives tab in the [shelf list](< https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared Documents/aczebla_emory_edu/MARBL_Master SHELF LIST/Master shelf list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=YHN6ZZ>)
