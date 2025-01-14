@@ -11,24 +11,32 @@
 
 ## 2.1 Precustodial work
 <details>
+<summary>Introduction to precustodial work including the delineation of precustodial work and acquisition workflows (as it applied to Collection Services' responsibilities as well as definitions used for delineating the responsibilities of work before accessioning.</summary>
+	
+Precustodial work occurs before a collection is recieved and paperwork completed.  It includes the selecting and acquisition of collection material which is the primary responsibility of the Curatorial team and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork, the last two being the common point of intersection between the curatorial team and the processing team.  
+	
+	Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
 
-<summary>Introduction to precustodial work</summary>
+For the purposes of this manual, **precustodial work** is the work done before materials are brought onsite and/or acquisition paper is signed.  
 
-Precustodial work is all work that occurs before a collection is formally and legally transferred to the Rose Library up to an including the creation of an initial stub record in ArchivesSpace. It includes the packing, shipping, and receiving of material (or arrangement thereof), as well as managing the paperwork required to formally transfer a collection or item. Acquisition workflows normally cover the selecting and acquisition of collection material which is the primary responsibility of a Curator and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork which is the common point of intersection between the curatorial team and the processing team.  While the curatorial team is primarily responsible for acquisitions and precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
-
-Collection Services acquisition workflows include reviewing the documentation and/or the physical collection to ensure that all requirements necessary for starting accessioning are complete and documenting the process of acquisitions awaiting the delivery of the physical materials, the deed, or approval from curators.  Acquisition workflows consists of entering information into the Rose Library systems of records including Airtable and ArchivesSpace as well as reboxing and labeling.
-
+While the term **acquisitions** does apply to the work of curators in developing collections, the Collection Services acquisitions workflow covers the overlap of the two departments primarily in identifying and tracking the requirements necessary for starting accessioning including:
+*	Recieving  materials and signed paperwork
+*	Initial accessioning documentation through ArchivesSpace
+*	Documenting and tracking the status of the new materials
+*	Storing materials that are not ready for accessioning
 </details>
 
-### 2.1.1 Support for Curators
+### 2.1.1 Collaborative efforts with the Curatorial team
 <details>
-Prior to a collection being acquired by the Rose Library, curators or collection development archivists may reach out to and consult with the the Head of Collection 
-Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+<summary>Information regarding Collection Services work that can be undertaken in support of curators's preacquisition work. transferring of born-digital material, and donor relations</summary>
 
-Additionally, Collection Services staff may meet with donors or curators to provide 
-guidance and assistance on matters such as: 
+Prior to a collection being acquired by the Rose Library, the Curatorial team members may reach out to and consult with the the Head of Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA>) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
-*	Packing and shipping (see Sections [14.4 Packing guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#144-packing-guidelines>); [14.5 Moving and shipping collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#145-moving-and-shipping-collections>); and [14.6 FedEx guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#146-fedex-guidelines>))
+Additionally, Collection Services staff may meet with donors or curators to provide guidance and assistance on matters such as: 
+*	Packing and shipping support
+	*	[14.4 Packing guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#144-packing-guidelines>);
+   	*	[14.5 Moving and shipping collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#145-moving-and-shipping-collections>); and
+     	*	[14.6 FedEx guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#146-fedex-guidelines>))
 *	Transfer of of born-digital material (see forms and procedures [here](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
 *	Appraisal
 *	Arrangement and description
@@ -36,7 +44,8 @@ guidance and assistance on matters such as:
 </details>
 
 
-## 2.1.2.2 Collections receiving 
+### 2.1.2.2 Collections receiving 
+<details><summary>Information on who is responsible for recieving materials, where materials are recieved, and where new acquisitions are stored before accessioning.</summary>
 
 Collections receiving is the physical transfer of the collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
 
@@ -50,7 +59,7 @@ All collection material should be received and opened by staff that did not arra
 
 All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, deliver the materials to the tenth-floor mail spaces where the Associate Director of Collection Services will review materials and pass on to the Head of Processing to compete the acquisition workflow. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.
 
-The Head of Processing is responsible for the completing the acquisition process for manuscript collection materials while the Associate Director of Collection Services will oversee acquisitions of books. The University Archivist oversees the acquisition and transfer of University Archives materials.
+The Head of Processing completes the acquisition process for manuscript collection materials while the Associate Director of Collection Services will oversee acquisitions of books. The University Archivist oversees the acquisition and transfer of University Archives materials.
 
 **New Acquisition Storage:**
 
@@ -63,6 +72,7 @@ The Head of Processing is responsible for the completing the acquisition process
 *	Significantly-sized acquisitions can be received at the Library Service Center (LSC) and accessioning and minimal processing can be done on-site there.
 
 Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. 
+</details>
 
 All new acquisitions should be labeled with the creator, potential collection title, date of receipt, and temporary box number upon receipt. Labels can be created using [this template](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Manuscript%20Box%20Labels/Custody%20Transfer%20Labels.doc?d=w2ed7373a42f442e8b84dc4a94de54906&csf=1&web=1&e=OxH4sv") or via ArchivesSpace. If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing.
 
