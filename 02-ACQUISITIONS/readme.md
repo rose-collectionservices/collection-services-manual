@@ -1,17 +1,22 @@
 
 # Precustodial Work and Acquisition Workflow [This section needs to be updated]
 
-* [2.1 Support for Curators](#21-support-for-curators)
-* [2.2 Collections receiving](#22-collections-receiving)
-	* [2.2.1 Receipt of new or potential acquisitions](#221-receipt-of-new-or-potential-acquisitions)
-	* [2.2.2 Paperwork](#222-paperwork1)
-	* [2.2.3 Financial appraisal](#223-financial-appraisal)
+* [2.1 Precustodial work](#21-precustodial-work)
+	* [2.1.1 Support for Curators](#211-support-for-curators) 	
+	* [2.1.2 Collections receiving](#212-collections-receiving)
+		* [2.1.2.1 Receipt of new or potential acquisitions](#2121-receipt-of-new-or-potential-acquisitions)
+		* [2.1.2.2 Paperwork](#2122-paperwork1)
+	* [2.1.3 Financial appraisal](#213-financial-appraisal)
+ * [2.2 Acquisitions workflow](#22-acquisitions-workflow)
+
+## 2.1 Precustodial work
 
 Precustodial work is all work that occurs before a collection is formally and legally transferred to the Rose Library up to an including the creation of an initial stub record in ArchivesSpace. It includes the packing, shipping, and receiving of material (or arrangement thereof), as well as managing the paperwork required to formally transfer a collection or item. Acquisition workflows normally cover the selecting and acquisition of collection material which is the primary responsibility of a Curator and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork which is the common point of intersection between the curatorial team and the processing team.  While the curatorial team is primarily responsible for acquisitions and precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
 
 Collection Services acquisition workflows include reviewing the documentation and/or the physical collection to ensure that all requirements necessary for starting accessioning are complete and documenting the process of acquisitions awaiting the delivery of the physical materials, the deed, or approval from curators.  Acquisition workflows consists of entering information into the Rose Library systems of records including Airtable and ArchivesSpace as well as reboxing and labeling.
 
-## 2.1 Support for Curators
+
+### 2.1.1 Support for Curators
 
 Prior to a collection being acquired by the Rose Library, curators or collection development archivists may reach out to and consult with the the Head of Collection 
 Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA> "https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA") to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
@@ -25,16 +30,16 @@ guidance and assistance on matters such as:
 *	Arrangement and description
 *	Conservation
 
-## 2.2 Acquisition Workflow
+## 2.1.2 Acquisition Workflow
 
 The Associate Director of Collection Services or the subject area curator will contact the Head of Processing to start the acquisition of new materials once both the materials and the signed paperwork are on-site. The Head of Processing will confirm that the paperwork and the materials are onsite and complete.  
 
-### 2.2.1 Potential Acquisitions Report
+### 2.1.2.1 Potential Acquisitions Report
 
 The Head of Processing will search for the Potential Acquisition Report, created by the curator, in the [Airtable Acquisitions and Accessioning base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwE90ZM7CdMKCJDR?blocks=hide>).  If this hasn't been completed, the Head of Processing can enter this information based on content from the paperwork which should be found in the appropriate [Acquisitions folder](<https://emory-my.sharepoint.com/my?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents&remoteItem=%7B%22mp%22%3A%7B%22webAbsoluteUrl%22%3A%22https%3A%2F%2Femory%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Flstarra%5Femory%5Fedu%22%2C%22listFullUrl%22%3A%22https%3A%2F%2Femory%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Flstarra%5Femory%5Fedu%2FDocuments%22%2C%22rootFolder%22%3A%22%2Fpersonal%2Flstarra%5Femory%5Fedu%2FDocuments%2FShared%20Documents%22%7D%2C%22rsi%22%3A%7B%22listFullUrl%22%3A%22https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%22%2C%22rootFolder%22%3A%22%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%22%2C%22webAbsoluteUrl%22%3A%22https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%22%7D%7D&viewid=278c9798%2D80be%2D44f0%2Da53c%2D2bd07dcfe9bb>). 
 
 
-## 2.2 Collections receiving 
+## 2.1.2.2 Collections receiving 
 
 Collections receiving is the physical transfer of the collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
 
@@ -42,7 +47,7 @@ Collections receiving is the physical transfer of the collection material from a
 *	The primary point of contact for collections receiving for all other units at the Rose Library is the Associate Director of Collection Services (or, as a backup, the Head of Collection Processing).
 
 
-### 2.2.1 Receipt of New or Potential Acquisitions 
+### 2.1.2.3 Receipt of New or Potential Acquisitions 
 
 All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing.
 
@@ -219,15 +224,7 @@ Invoices for an appraiser’s services should be directed to the Operational Man
 
 On very rare occasions, it may be requested that financial appraisal be conducted on collections too large to move to the CTR. This requires additional notice to properly staff the appraiser during their stay on our secure floor. It is not the responsibility of Collection Services staff to accompany the appraiser but, rather, the responsibility of the curator. 
 
-
-### Materials moved from Accessioning to Acquisition workflow [Draft]
-o	
-
-
-*
-*	   [Acquisitions & Accessioning Airtable base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>)
- 
-###Accessioning Workflow
+ ##2.3 Acquisition Workflow
 
 
 *	If creating a new collection, assign an identifier to the collection by assigning the next number in sequence in the [Manuscript Register](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=Vg0Tkk) or [EUA Register](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EQyyLS-B7fVHvYOf7t0JLbEBLW_YsrF0AOagwRBVceoxKw?e=MCihpT). See [Description 5.1.3: Identifier](https://github.com/rose-collectionservices/collection-services-manual/blob/master/05-DESCRIPTION/readme.md#513-identifier) for more information about assigning an identifier.
@@ -239,58 +236,6 @@ o
 The below instructions explain how to make accession records from start to finish. However, please note that most staff will not be creating any records from scratch. Navigate to the part of the instructions applicable to your piece of the workflow.
 
 ## 3.2 Creation of the Accession Record
-
-#### Deaccessions Subrecord [Required when applicable]
-
-Add a deaccessions subrecord to record deaccessions contemporaneous to the accession. 
-To create a deaccessions subrecord, click "Add Deaccession" in the upper right corner.
-
-![Figure 24: Add Deaccessions Subrecord](/03-ACCESSIONING/Images/figure24.png "Figure 24: Add Deaccessions Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Portion                             | Select part or whole from the drop down menu as appropriate. |
-| Description                             | Free text field. Describe the material being deaccessioned. |
-| Reason                             | Free text field.  Record the reason for the deaccession. |
-| Disposition                             | Free text field.  Record the disposition of the material (e.g., shredded, returned, transferred, etc.) |
-| Notification given                             | Check the box if applicable. |
-| Deaccession Date                             | Label should be Deaccession. Complete the rest of the Deaccession Date subrecord according to the rules established for the Dates sub-record |
-| Extent                             | Record the extent of the deaccessioned material according to the rules established for the Extent sub-record  |
-
-#### Collection Management Subrecord
-
-Use this field to record internal information about processing the material. Use of this subrecord for accessions may be rare and will likely not be completed by the accessioning archivist. This field is likely most useful at the point of accessioning when describing plans for processed collections with unprocessed additions.
-
-#### Classifications Subrecord
-
-This subfield is not applicable to Emory University special collections material.
-
-#### User Defined Fields Subrecord [Required]
-
-This subrecord is where you will record the purchase price or appraisal value for accessions.
-
-To create a new user defined fields subrecord, click "Add User Defined Fields" in the right corner of the subrecord.
-
-![Figure 25: Add User Defined Fields Subrecord](/03-ACCESSIONING/Images/figure25.png "Figure 25: Add User Defined Fields Subrecord")
-
-Note that there are many possible fields in this subrecord and only four that Rose Library is interested in: Appraisal value, appraisal date, purchase price, and purchase price currency. The first three are close to each other, and the fourth is farther down the subrecord.
-
-Enter the appraisal value and/or purchase price in the appropriate field. If a purchase was also appraised, always record both values. Only record the appraisal value and date if an official financial appraisal was conducted for the material. Do not record donors' financial valuations of material on Gift-in-Kind Contribution forms if no appraisal report is present.
-
-![Figure 26: Apprisal value and purchase price](/03-ACCESSIONING/Images/figure26.png "Figure 26: Appraisal value and purchase price")
-
-If the collection was financially appraised, select the date of appraisal in the Appraisal date field.
-
-![Figure 27: Appraisal date](/03-ACCESSIONING/Images/figure27.png "Figure 27: Appraisal date")
-
-If the collection is a purchase, also record the currency in which the purchase was made. Most common will be U.S. Dollars and U.K. Pounds.
-
-![Figure 28: Purchase price currency](/03-ACCESSIONING/Images/figure28.png "Figure 28: Purchase price currency")
-
-**Finalizing the record**
-
-When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number on the aperwork filed in the physical CL-2 file.
-
 Browse accessions and sort by identifier to see the most recent accession number, so that you may assign the next number in sequence.
 
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure5.png" alt="Figure 5: Find accession number" width="75%"/></p></kbd>
@@ -301,7 +246,7 @@ To create the accession record, click on Create and select Accession.
 
 Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>). Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace. The Rose Library requires additional information for a record to be considered complete. 
 **Pulled from Accessioning to include in Acquisitions**
-#### 3.2.2.1 Basic Information sub-record
+### 2.3.1 Basic Information sub-record
 | Required Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Title**|<ul><li>This title statement reflects the accession record</li><li>When establishing a collection, the title should follow the rules outlines in [6.1.2.1 Collection Title](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6121-collection-title>)</li><li>For additions to collections, the title should be followed by "additions"</li><li>The title should be formed according to the rules set forth in Describing Archives: A Content Standard (Chapter 2.3)</ul>|
@@ -329,7 +274,7 @@ Update and complete any fields in the accession record that the Head of Processi
 |**Inventory**|<ul><li>Use this field to transcribe any existing inventories, for example those provided by the donor or created during packing. </li><li>Use this field only if the inventory is not in a document that can be linked in the External Documents subrecord.</li></ul>|
 |**General Note**|<ul><li>Use this field to provide any other information relevant to the accession that isn't accounted for elsewhere in the record. </li><li>If an EUA accession number was retroactively assigned, add a general note to that effect.</li></ul>|
 
-#### 3.2.2.2 Dates sub-record
+### 2.3.2 Dates sub-record
 *	All accession records require at least one dates subrecord. 
  	-	Add separate subrecords for each type of date being described, for example inclusive and bulk dates. 
    	-	More than one dates subrecord should be rare in accession records.
@@ -338,7 +283,7 @@ Update and complete any fields in the accession record that the Head of Processi
 * 	See [6.1.7 Dates](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#617-dates>)
 
 
-#### 3.2.2.3 Extents sub-record
+### 2.3.3 Extents sub-record
 *	All accession records require an extents subrecord.
 *	Since the accession record doesn't have the option to automate the creation of an extent field, this must be filled in by the archivist.
 
@@ -353,7 +298,7 @@ The table contains information where the content in the accession record deviate
 |**Physical Details [Optional]**|Use this field for any additional, pertinent details describing the physical state of the collection.|
 |**Dimensions [Optional]**|This field will rarely be used for manuscript accessionins, but it can be used to note and additional, physical dimensions of the accession|
 
-#### 3.2.2.4 Agent links sub-record 
+### 2.3.4 Agent links sub-record 
 An agent is a person, corporate body, family, or software responsible in some way for the creation or management of a described resource, or the subject of that resource. 
 
 Accession records require two Agent links:
@@ -367,13 +312,13 @@ Accession records require two Agent links:
   	-	Can be used if archivist finds the content to be helpful or appropriateto indicate a more specific relationship of the creator/source to the material being described.
    	-	Rarely used	
 
-#### 3.2.2.5 Related Resources sub-record 
+### 2.3.5 Related Resources sub-record 
 [Required]
 *	All accession records must be linked to a resource record.
 	-	When the accession is establishing a new collection, this field autopopulate upon the spawning of a Resource Record from the Accession Record and establish a link between the two.
  	-	When the accession is an addition to a collection, the field will autopopulate with titles as you type in the Resource record title or you can click the drop down menu to *Browse* collection titles.
 
-#### 3.2.2.6 Related Accessions sub-record
+### 2.3.6 Related Accessions sub-record
 [Preferred when applicable]
 This subrecord links related accessions. It should be used only when material that is acquired together is accessioned into different collections and not linked to the same resource record. 
 *	Use this record when:
@@ -401,6 +346,54 @@ Below is an example of the Pauline Brown Payne papers (accession number 2017-02-
 The image below shows the how the accession record for the Homer G. Phillips School of Nursing records displays the link with the accession record for the Pauline Brown Payne papers linked.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure21.png" alt="Figure 21: Homer G. Phillips example" width="75%"/></p></kbd>
 
-#### 3.2.2.7 Instances sub-record
+### 2.3.7 Instances sub-record
 If any instances exist from the stub record created as part of the acquisition workflow, remove these instances when you complete the minimal processing at theh point of accessioning.
+
+
+#### 2.4 Deaccessions Subrecord [Required when applicable]
+
+Add a deaccessions subrecord to record deaccessions contemporaneous to the accession. 
+To create a deaccessions subrecord, click "Add Deaccession" in the upper right corner.
+
+![Figure 24: Add Deaccessions Subrecord](/03-ACCESSIONING/Images/figure24.png "Figure 24: Add Deaccessions Subrecord")
+
+| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Portion                             | Select part or whole from the drop down menu as appropriate. |
+| Description                             | Free text field. Describe the material being deaccessioned. |
+| Reason                             | Free text field.  Record the reason for the deaccession. |
+| Disposition                             | Free text field.  Record the disposition of the material (e.g., shredded, returned, transferred, etc.) |
+| Notification given                             | Check the box if applicable. |
+| Deaccession Date                             | Label should be Deaccession. Complete the rest of the Deaccession Date subrecord according to the rules established for the Dates sub-record |
+| Extent                             | Record the extent of the deaccessioned material according to the rules established for the Extent sub-record  |
+
+#### Collection Management Subrecord
+
+Use this field to record internal information about processing the material. Use of this subrecord for accessions may be rare and will likely not be completed by the accessioning archivist. This field is likely most useful at the point of accessioning when describing plans for processed collections with unprocessed additions.
+
+#### User Defined Fields Subrecord [Required]
+
+This subrecord is where you will record the purchase price or appraisal value for accessions.
+
+To create a new user defined fields subrecord, click "Add User Defined Fields" in the right corner of the subrecord.
+
+![Figure 25: Add User Defined Fields Subrecord](/03-ACCESSIONING/Images/figure25.png "Figure 25: Add User Defined Fields Subrecord")
+
+Note that there are many possible fields in this subrecord and only four that Rose Library is interested in: Appraisal value, appraisal date, purchase price, and purchase price currency. The first three are close to each other, and the fourth is farther down the subrecord.
+
+Enter the appraisal value and/or purchase price in the appropriate field. If a purchase was also appraised, always record both values. Only record the appraisal value and date if an official financial appraisal was conducted for the material. Do not record donors' financial valuations of material on Gift-in-Kind Contribution forms if no appraisal report is present.
+
+![Figure 26: Apprisal value and purchase price](/03-ACCESSIONING/Images/figure26.png "Figure 26: Appraisal value and purchase price")
+
+If the collection was financially appraised, select the date of appraisal in the Appraisal date field.
+
+![Figure 27: Appraisal date](/03-ACCESSIONING/Images/figure27.png "Figure 27: Appraisal date")
+
+If the collection is a purchase, also record the currency in which the purchase was made. Most common will be U.S. Dollars and U.K. Pounds.
+
+![Figure 28: Purchase price currency](/03-ACCESSIONING/Images/figure28.png "Figure 28: Purchase price currency")
+
+**Finalizing the record**
+
+When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number on the aperwork filed in the physical CL-2 file.
 
