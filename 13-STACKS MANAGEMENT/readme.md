@@ -164,7 +164,8 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 * Records center boxes must have intact handles.  
 * To the extent possible, flat boxes should also be over 3 inches tall.
 * Boxes must be under 40lbs in weight.
-* Boxes with archival materials must be packed fully or with spacers or by other means to ensure materials are secure through transit.  
+* Boxes with archival materials must be packed fully or with spacers or by other means to ensure materials are secure through transit.
+* Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.) 
 
 ## 13.2.4 Basic Minimum Description Guidelines
 
