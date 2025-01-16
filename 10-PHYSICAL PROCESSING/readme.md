@@ -276,6 +276,7 @@ For help identifying digital media, see <a href="https://nypl.github.io/digarch/
 ### 10.8.1 General guidelines
 * Processed collections should be placed into acid-neutral, archival containers.  In the Rose, we primarily house collections in Hollinger document cases or Paige Miracle boxes.  These boxes are expensive and should not be used for temporary storage projects in cases where the boxes will be broken back down at the end of a project.
 * Folders should be packed within boxes so that the folders fit snugly. The box should be full enough that folders do not slouch, but not so full that folders cannot be removed easily. If a box is properly packed, a single folder can be partially lifted from the box and not fall back down, and there should be enough room that the archivist's fingers just reach the bottom of the box. Partially filled or overstuffed boxes cause damage such as slumping and tearing. Spacers should be used when there are not enough folders to fill a box properly (usually necessary in the last box of paper materials in a collection or at the end of a series). If materials have been removed for preservation or exhibition, space should be held for those materials when boxing.
+* Collections should be boxed separately, with one collection per box. (The only exception to this is CLP boxes.)
 * Boxes in a collection should get numbered in a single sequence, with the exception of boxes with other naming conventions (see below). Numbers on box labels should say "Box 1," "Box 2," etc.
 
 ### 10.8.2 Box naming conventions by shelving location
