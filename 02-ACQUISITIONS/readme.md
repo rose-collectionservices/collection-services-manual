@@ -55,7 +55,9 @@ All collection material should be received and opened by staff that did not arra
 Materials that are brought onsite should be stored according to [link to storage information for acquisitions]
 
 #### 2.2.2 Airtable
-The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](< Search the Acquisitions & Accessioning base in Airtable for information about the collection under the Potential and/or Not yet Received Acquisitions (MSS/EUA) heading on the left menu. Update the record with information from the deed
+Airtable is the system we use to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the sheet and updated as the archivist moves through the process.  The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) 
+
+Search the Acquisitions & Accessioning base in Airtable for information about the collection under the Potential and/or Not yet Received Acquisitions (MSS/EUA) heading on the left menu. Update the record with information from the deed
 |   **Required Fields**                                   |                                                                                                                                                                                                                                               |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 Creator|Usually the main heading of the collection, but can be the donor name
@@ -88,7 +90,7 @@ Possible locations within the Acquisitions folder
 *	[Inter- and Intra-Institutional Transfers](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=fTbkc3>)
 *	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
 
-##### 2.2.3.1 Acquisition requiring curatorial review**
+##### 2.2.2.1 When acquisition require curatorial review**
 If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials were sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading: 
 *	Books Potential Acquisition Report Form
 *	MSS: Potential Acquisition Report Form
@@ -121,7 +123,7 @@ Move the materials to the Curatorial Review shelves (L9-32a) with the included p
 It is the curator's responsibility to notify the donor/seller that materials are being returned. The Head of Processing can help coordinate return of the material once the donor/seller has been notified by the curator.
 
 **If the curator decides to move forward with the acquisition**
-The curator should let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning*.
+The curator should let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning* and 
 
 The Head of Processing will then create the ArchivesSpace stub record.
 
@@ -236,7 +238,7 @@ The image below shows the how the accession record for the Homer G. Phillips Sch
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure21.png" alt="Figure 21: Homer G. Phillips example" width="75%"/></p></kbd>
 
 ### 2.3.2.7 Instances sub-record
-If any instances exist from the stub record created as part of the acquisition workflow, remove these instances when you complete the minimal processing at theh point of accessioning.
+Create Instances for each container following the steps outlined in the [Archives Section on Creating Top Containers to be created]. These will be removed when the collection is accessioned and the Instances are replaced with other Top Containers.
 
 **New Acquisition Storage:**
 
