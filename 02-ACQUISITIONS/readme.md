@@ -15,20 +15,13 @@
 	
 Precustodial work occurs before a collection is recieved and paperwork completed.  It includes the selecting and acquisition of collection material which is the primary responsibility of the Curatorial team and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork, the last two being the common point of intersection between the curatorial team and the processing team.  
 	
-	Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
+Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
 
-For the purposes of this manual, **precustodial work** is the work done before materials are brought onsite and/or acquisition paper is signed.  
-
-While the term **acquisitions** does apply to the work of curators in developing collections, the Collection Services acquisitions workflow covers the overlap of the two departments primarily in identifying and tracking the requirements necessary for starting accessioning including:
+For the purposes of this manual, **precustodial work** is the work done before materials are brought onsite and/or acquisition paper is signed, and while the term **acquisition** is a term used to describe curatorial work in developing collections, the Collection Services acquisitions workflow covers the overlap of the two departments primarily in identifying and tracking the requirements necessary for starting accessioning including:
 *	Recieving  materials and signed paperwork
 *	Initial accessioning documentation through ArchivesSpace
 *	Documenting and tracking the status of the new materials
 *	Storing materials that are not ready for accessioning
-
-
-### 2.1.1 Collaborative efforts with the Curatorial team
-
-[summary]Information regarding Collection Services work that can be undertaken in support of curators's preacquisition work. transferring of born-digital material, and donor relations
 
 Prior to a collection being acquired by the Rose Library, the Curatorial team members may reach out to and consult with the the Head of Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA>) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
@@ -37,13 +30,18 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 	*	[14.4 Packing guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#144-packing-guidelines>);
    	*	[14.5 Moving and shipping collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#145-moving-and-shipping-collections>); and
      	*	[14.6 FedEx guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#146-fedex-guidelines>))
-*	Transfer of of born-digital material (see forms and procedures [here](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
+*	[Transfer of of born-digital material](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")) 
 *	Appraisal
 *	Arrangement and description
 *	Conservation
 
-
 ## 2.2 Acquisition workflow
+*	The Head of Processing completes the acquisition process for manuscript collection materials
+*	The Associate Director of Collection Services will oversee acquisitions of books. 
+*	The University Archivist oversees the acquisition and transfer of University Archives materials.
+
+Curators are responsible for completing paperwork for acquisitions and handing those documents off to either the Associate Director of Collection Services or the Head of Processing.
+
 ### 2.2.1 Collections receiving 
 [summary]Information on who is responsible for recieving materials, where materials are recieved, and where new acquisitions are stored before accessioning.</summary>
 
@@ -52,14 +50,12 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 *	The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. 
 *	The primary point of contact for collections receiving for all other units at the Rose Library is the Associate Director of Collection Services (or, as a backup, the Head of Collection Processing).
 
-All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing.
+All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing. **All packages delivered onsite will be delivered to the main Woodruff Library mailroom**, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, deliver the materials to the tenth-floor mail spaces where the Associate Director of Collection Services will review materials and pass on to the Head of Processing to compete the acquisition workflow. *The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.*
 
-All packages delivered onsite will be delivered to the main Woodruff Library mailroom, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, deliver the materials to the tenth-floor mail spaces where the Associate Director of Collection Services will review materials and pass on to the Head of Processing to compete the acquisition workflow. The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.
-
-The Head of Processing completes the acquisition process for manuscript collection materials while the Associate Director of Collection Services will oversee acquisitions of books. The University Archivist oversees the acquisition and transfer of University Archives materials.
+Materials that are brought onsite should be stored according to [link to storage information for acquisitions]
 
 #### 2.2.2 Airtable
-Search the Acquisitions & Accessioning base in Airtable for information about the collection under the Potential and/or Not yet Received Acquisitions (MSS/EUA) heading on the left menu. Update the record with information from the deed
+The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](< Search the Acquisitions & Accessioning base in Airtable for information about the collection under the Potential and/or Not yet Received Acquisitions (MSS/EUA) heading on the left menu. Update the record with information from the deed
 |   **Required Fields**                                   |                                                                                                                                                                                                                                               |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 Creator|Usually the main heading of the collection, but can be the donor name
@@ -92,8 +88,8 @@ Possible locations within the Acquisitions folder
 *	[Inter- and Intra-Institutional Transfers](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=fTbkc3>)
 *	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
 
-##### 2.2.3.1 Acquisition requires curatorial review**
-If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials are sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading 
+##### 2.2.3.1 Acquisition requiring curatorial review**
+If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials were sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading: 
 *	Books Potential Acquisition Report Form
 *	MSS: Potential Acquisition Report Form
 *	MSS: Collection Received Form (used for additions and one-offs)
@@ -119,25 +115,25 @@ Anticipated timeline and method of transfer (“on-site”) |
 
 You may not have answers to all of the fields these, so make a note where curators should review content. 
 
-Move the materials to the Curatorial Review shelves (L9-32a) with the included paperwork and document this location in Airtable. Alert the appropriate curator that material is ready to be reviewed and provide the location. The curator will make the final decision on whether to move forward with the acquisition.
+Move the materials to the Curatorial Review shelves (L9-32a) with the included paperwork and document their location in Airtable. Alert the appropriate curator that material is ready to be reviewed and provide the location and any questions or concerns that are identified. The curator will make the final decision on whether to move forward with the acquisition.
 
 **If the curator decides not to move forward with an acquisition**
 It is the curator's responsibility to notify the donor/seller that materials are being returned. The Head of Processing can help coordinate return of the material once the donor/seller has been notified by the curator.
 
 **If the curator decides to move forward with the acquisition**
-Return to the Potential and/or Not yet Received Acquisitions (MSS/EUA) section and complete the record, marking the stage as ready for accessioning, and assigning the collection to an archivist. Be sure to identify the location and size of the acquisition.
+The curator should let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning*.
 
-#### 2.2.3 ArchivesSpace stub record
+The Head of Processing will then create the ArchivesSpace stub record.
 
-Browse accessions and sort by identifier to see the most recent accession number, so that you may assign the next number in sequence.
+#### 2.2.3 ArchivesSpace stub accession record
 
+To create the Accessioning stub record, first **identify the next accession number** by clicking on the "Browse" button on the top left and selecting Accessions.  Sort by identifier (the ArchivesSpace name for accession number) to see the most recent and assign the next number in sequence.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure5.png" alt="Figure 5: Find accession number" width="75%"/></p></kbd>
 
-To create the accession record, click on Create and select Accession.
+The whole of the identifier should be included in the first field with components separated by dashes (e.g., 2024-11-02) where the first component is the four-digit year, the second is the two-digit month, and the last is a two-digit number that is the next consecutive number of accessions in that month.  If the last accession number corresponds to the previous month, then the last portion of the accession number should return to "01," (i.e., the first accession of February should be "YYYY-02-01")
 
+Once you have identified the accession number, you will click on "Create" and select Accession.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure4.jpg" alt="Figure 4: Create accession record" width="75%"/></p></kbd>
-
-Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to the [Emory Libaries Accession Record Field Usage Guidelines](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Systems/ArchivesSpace/ArchivesSpace Workflow and Instruction Docs/AccessionRecord_Field_Usage_Guidelines.docx?d=w0f6d77107ef745069dc384bcc79cd410&csf=1&web=1&e=E8SwOd>). Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace. The Rose Library requires additional information for a record to be considered complete. 
 
 ### 2.3.2.1 Basic Information sub-record
 | Required Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
