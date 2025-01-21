@@ -9,16 +9,21 @@
  	* [2.2.2 Airtable](#222-airtable)
   		* [2.2.2.1 When acquisitions require curatorial review](#2221-when-acquisitions-require-curatorial-review)
     	* [2.2.3 ArchivesSpace stub accession record](#223-archivesspace-stub-accession-record) 
-		* [2.2.3.1 Basic Information sub-record](#3221-basic-information-sub-record)
-		* [2.2.3.2 Dates sub-record](#3222-dates-sub-record)
-		* [2.2.3.3 Extents sub-record](#3223-extents-sub-record)
-		* [2.2.3.4 Agent links sub-record](#3224-agent-links-sub-record)
-		* [2.2.3.5 Related Resources sub-record](#3225-related-resources-sub-record)
-		* [2.2.3.6 Related Accessions sub-record](#3226-related-accessions-sub-record)
-		* [2.2.3.7 Instances sub-record](#3227-instances-sub-record)
-		* [2.2.3.8 Event records](#3228-event-records)
-  	* [2.3 Acquisition shelves and labeling]
-  	* [2.4 Paperwork]
+		* [2.2.3.1 Basic Information sub-record](#2231-basic-information-sub-record)
+		* [2.2.3.2 Dates sub-record](#2232-dates-sub-record)
+		* [2.2.3.3 Extents sub-record](#2233-extents-sub-record)
+		* [2.2.3.4 Agent links sub-record](#2234-agent-links-sub-record)
+		* [2.2.3.5 Related Resources sub-record](#2235-related-resources-sub-record)
+		* [2.2.3.6 Related Accessions sub-record](#2236-related-accessions-sub-record)
+		* [2.2.3.7 External documents sub-record](#2237-external-documents-sub-record)
+  		* [2.2.3.8 Instances sub-record](#2238-instances-sub-record)
+		* [2.2.3.9 User Defined sub-record](#2239-user-defined-sub-record)
+  		* [2.2.3.10 Event records](#22310-event-records)
+  	* [2.3 New acquisition storage and labeling](#23-new-acquisition-storage-and-labeling)
+  	* [2.4 Paperwork](#24-paperwork)
+  		* [2.4.1 Managing paperwork in Sharepoint](#241-managing-paperwork-in-sharepoint)
+  	 		* [2.4.1.1 Paperwork for purchased materials](#2411-paperwork-for-purchased-materials)
+  	  		* [2.4.1.2 Paperwork for gifts in kind](#2412-paperwork-for-gifts-in-kind)
 
 ## 2.1 Precustodial work
 
@@ -26,7 +31,7 @@
 	
 Precustodial work occurs before a collection is recieved and paperwork completed.  It includes the selecting and acquisition of collection material which is the primary responsibility of the Curatorial team and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork, the last two being the common point of intersection between the curatorial team and the processing team.  
 
-[Is this still done?] *Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.*
+**[Is this still done?]** Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.*
 	
 Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
 
@@ -71,7 +76,7 @@ All collection material should be received and opened by staff that did not arra
 
 When materials are brought to Rose Library, the responsible party will confirm what material has arrived and if the paperwork is completed. Information about the new acquisition will be entered into airtable, and any material will be reboxed (as necessary) and stored according to [link to storage information for acquisitions]
 
-#### 2.2.2 Airtable
+### 2.2.2 Airtable
 Airtable is the system we use to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the sheet and updated as the archivist moves through the process.  The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) 
 
 While it is best if materials and paperwork are logged together, materials without paperwork and paperwork information (before the physical transfer of materials) can be logged into Airtable. Start by searching the Acquisitions & Accessioning base in Airtable for information about the collection under the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* heading on the left menu and update the record with any information from the deed or materials. [This may need an image, confirm other's view is not as complicated]
@@ -109,6 +114,7 @@ Depending on what curatorial workflow the acquisition is coming through, paperwo
 *	[Inter- and Intra-Institutional Transfers](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=fTbkc3>)
 *	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
 
+For more information on paperwork, refer to [2.4 Paperwork](#2412-paperwork-for-gifts-in-kind)
 #### 2.2.2.1 When acquisition require curatorial review
 If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials were sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading: 
 *	Books Potential Acquisition Report Form
@@ -145,7 +151,7 @@ It is the curator's responsibility to notify the donor/seller that materials are
 **If the curator decides to move forward with the acquisition**
 The curator will let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning* and assign the acquisition to an archivist.  If the Head of Processing can move forward with the accession at that time, they should follow through with the accessioning.  Otherwise, the Head of Processing should create the stub accessioning record and complete the acquisition workflow, placing materials on the appropriate shelving.
 
-#### 2.2.3 ArchivesSpace stub accession record
+### 2.2.3 ArchivesSpace stub accession record
 
 To create the Accessioning stub record, first **identify the next accession number** by clicking on the "Browse" button on the top left and selecting Accessions.  Sort by identifier (the ArchivesSpace name for accession number) to see the most recent and assign the next number in sequence.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure5.png" alt="Figure 5: Find accession number" width="75%"/></p></kbd>
@@ -155,7 +161,7 @@ The whole of the identifier should be included in the first field with component
 Once you have identified the accession number, you will click on "Create" and select Accession.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure4.jpg" alt="Figure 4: Create accession record" width="75%"/></p></kbd>
 
-### 2.2.3.1 Basic Information sub-record
+#### 2.2.3.1 Basic Information sub-record
 Information listed below includes a table for the required fields and one for optional fields in the Basic Information sub-record.  
 
 | Required Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -185,7 +191,7 @@ Information listed below includes a table for the required fields and one for op
 |**Inventory**|<ul><li>Use this field to transcribe any existing inventories, for example those provided by the donor or created during packing. </li><li>Use this field only if the inventory is not in a document that can be linked in the External Documents subrecord.</li></ul>|
 |**General Note**|<ul><li>Use this field to provide any other information relevant to the accession that isn't accounted for elsewhere in the record. </li><li>If an EUA accession number was retroactively assigned, add a general note to that effect.</li></ul>|
 
-### 2.3.2.2 Dates sub-record
+#### 2.3.2.2 Dates sub-record
 *	All accession records require at least one dates subrecord. 
  	-	Add separate subrecords for each type of date being described, for example inclusive and bulk dates. 
    	-	More than one dates subrecord should be rare in accession records.
@@ -194,7 +200,7 @@ Information listed below includes a table for the required fields and one for op
 * 	See [6.1.7 Dates](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#617-dates>)
 
 
-### 2.2.3.3 Extents sub-record
+#### 2.2.3.3 Extents sub-record
 *	All accession records require an extents subrecord.
 *	Since the accession record doesn't have the option to automate the creation of an extent field, this must be filled in by the archivist.
 
@@ -209,7 +215,7 @@ The table contains information where the content in the accession record deviate
 |**Physical Details [Optional]**|Use this field for any additional, pertinent details describing the physical state of the collection.|
 |**Dimensions [Optional]**|This field will rarely be used for manuscript accessionins, but it can be used to note and additional, physical dimensions of the accession|
 
-### 2.2.3.4 Agent links sub-record 
+#### 2.2.3.4 Agent links sub-record 
 An agent is a person, corporate body, family, or software responsible in some way for the creation or management of a described resource, or the subject of that resource. 
 
 Accession records require two Agent links:
@@ -223,13 +229,13 @@ Accession records require two Agent links:
   	-	Can be used if archivist finds the content to be helpful or appropriateto indicate a more specific relationship of the creator/source to the material being described.
    	-	Rarely used	
 
-### 2.2.3.5 Related Resources sub-record 
+#### 2.2.3.5 Related Resources sub-record 
 [Required]
 *	All accession records must be linked to a resource record.
 	-	When the accession is establishing a new collection, this field autopopulate upon the spawning of a Resource Record from the Accession Record and establish a link between the two.
  	-	When the accession is an addition to a collection, the field will autopopulate with titles as you type in the Resource record title or you can click the drop down menu to *Browse* collection titles.
 
-### 2.2.3.6 Related Accessions sub-record
+#### 2.2.3.6 Related Accessions sub-record
 [Preferred when applicable]
 This subrecord links related accessions. It should be used only when material that is acquired together is accessioned into different collections and not linked to the same resource record. 
 *	Use this record when:
@@ -257,14 +263,14 @@ Below is an example of the Pauline Brown Payne papers (accession number 2017-02-
 The image below shows the how the accession record for the Homer G. Phillips School of Nursing records displays the link with the accession record for the Pauline Brown Payne papers linked.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure21.png" alt="Figure 21: Homer G. Phillips example" width="75%"/></p></kbd>
 
-### 2.2.3.7 External documents sub-record
+#### 2.2.3.7 External documents sub-record
 This field defined the location of the papework found in the Sharepoint Acquisitions folder.
 
 Click the button to Add Externa Document, and fill in the Title and Location.
 *	Title: File name of the deed or other paperwork located in the 
 *	Location: Link to the paperwork from the Sharepoint Acquisitions folder
 
-### 2.2.3.8 Instances sub-record
+#### 2.2.3.8 Instances sub-record
 Create Instances for each container following the steps outlined in the **[Archives Section on Creating Top Containers to be created]**. These will be removed when the collection is accessioned and the Instances are replaced with permanent Top Containers.
 
 #### 2.2.3.9 User defined sub-record
@@ -272,7 +278,7 @@ This subrecord records the purchase price or appraisal value for accessions. Whi
 
 To create a new user defined fields subrecord, click "Add User Defined Fields" in the right corner of the subrecord.  Include the price paid for purchased acquisitions as well as the currency.
 
-### 2.2.3.10 Event records
+#### 2.2.3.10 Event records
 Event records document the transfer of the materials and of the paperwork.
 
 In the top right corner of the accession record, click on the *Add Event* drop down and choose:
@@ -326,7 +332,7 @@ The organization of these folders is different but should be straight forward. M
 
 #### 2.4.1.1 Paperwork for purchased materials [Carrie will need to review this]
 
-The Rose Library requires the following [forms](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms?csf=1&web=1&e=S0KcjO> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms?csf=1&web=1&e=S0KcjO">) for purchases: 
+The Rose Library requires the following [forms](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms?csf=1&web=1&e=S0KcjO>) for purchases: 
 *	Invoice (Associate Director of Colletion Services will generate an invoice for purchases from individuals)
 *	Deed of Sale or Deed Addendum (for purchases from individuals). A Deed Addendum may be used for purchase of additions to existing collection by the same donor who signed the original deed - original deed can be a deed of sale or deed of gift.
 *	Deeds of Sale may require additional signatures. 
@@ -363,26 +369,4 @@ The Rose Library manages gift paperwork on OneDrive/SharePoint through the [Rose
 *	The Head of Processing will reach out to curators to follow up on materials that await paperwork.
 *	At the end of the fiscal year, the Accessioning Archivist moves all completed paperwork in the curatorial folders to their respective Past Gifts folders into a new subfolder for the calendar year.
 
-#### 2.4 Deaccessions Subrecord [Required when applicable]
-
-Add a deaccessions subrecord to record deaccessions contemporaneous to the accession. 
-To create a deaccessions subrecord, click "Add Deaccession" in the upper right corner.
-
-![Figure 24: Add Deaccessions Subrecord](/03-ACCESSIONING/Images/figure24.png "Figure 24: Add Deaccessions Subrecord")
-
-| Field                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Portion                             | Select part or whole from the drop down menu as appropriate. |
-| Description                             | Free text field. Describe the material being deaccessioned. |
-| Reason                             | Free text field.  Record the reason for the deaccession. |
-| Disposition                             | Free text field.  Record the disposition of the material (e.g., shredded, returned, transferred, etc.) |
-| Notification given                             | Check the box if applicable. |
-| Deaccession Date                             | Label should be Deaccession. Complete the rest of the Deaccession Date subrecord according to the rules established for the Dates sub-record |
-| Extent                             | Record the extent of the deaccessioned material according to the rules established for the Extent sub-record  |
-
-
-
-**Finalizing the record**
-
-When you have finished filling out the record, press the Save button. At this point you may spawn a resource record for new collections, as well as add event records to the accession record as needed. Record the accession number on the aperwork filed in the physical CL-2 file.
 
