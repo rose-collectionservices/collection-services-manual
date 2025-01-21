@@ -36,7 +36,6 @@ Precustodial work occurs before a collection is recieved and paperwork completed
 **[Is this still done?]** Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.*
 	
 Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
-
 	
 ### 2.1.1 Acquisitions v. Accessioning
 For the purposes of this manual, **precustodial work** is the work done before materials are brought onsite and/or acquisition paper is signed, and while the term **acquisition** is a term used to describe curatorial work in developing collections, the Collection Services acquisitions workflow covers the overlap of the two departments primarily in identifying and tracking the requirements necessary for starting accessioning including:
@@ -57,12 +56,9 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 *	Appraisal
 *	Arrangement and description
 *	Conservation
-</details>
-<details>
-<summary>
+</details><details><summary>
 	
-## 2.2 Acquisition workflow
-</summary>
+## 2.2 Acquisition workflow </summary>
 *	The Head of Processing completes the acquisition process for manuscript collection materials
 *	The Associate Director of Collection Services will oversee acquisitions of books. 
 *	The University Archivist oversees the acquisition and transfer of University Archives materials.
@@ -70,12 +66,9 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 Curators are responsible for completing paperwork for acquisitions and handing those documents off to either the Associate Director of Collection Services or the Head of Processing.
 
 For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1") on OneDrive.
-</details>
-<details>
-<summary>
+</details><details><summary>
 	
-### 2.2.1 Collections receiving 
-</summary> 
+### 2.2.1 Collections receiving </summary> 
 *Collections receiving* is the physical transfer of the collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
 
 *	The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. 
