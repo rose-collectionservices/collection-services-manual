@@ -5,10 +5,10 @@
 	* [2.1.1 Acquisitions v. Accessioning](#21-acquisitions-v-accessioning) 	
 	* [2.1.2 Curatorial Support](#212-curatorial-support)
 * [2.2 Acquisitions workflow](#22-acquisitions-workflow)
-	* [2.2.1 Collections receiving](#221-collections-receiving)
+	* [2.2.1 Physical Transfer and Receiving ](#221-physical-transfer-and-receiving)
  	* [2.2.2 Airtable](#222-airtable)
   		* [2.2.2.1 When acquisitions require curatorial review](#2221-when-acquisitions-require-curatorial-review)
-    	* [2.2.3 ArchivesSpace stub accession record](#223-archivesspace-stub-accession-record) 
+	* [2.2.3 ArchivesSpace stub accession record](#223-archivesspace-stub-accession-record) 
 		* [2.2.3.1 Basic Information sub-record](#2231-basic-information-sub-record)
 		* [2.2.3.2 Dates sub-record](#2232-dates-sub-record)
 		* [2.2.3.3 Extents sub-record](#2233-extents-sub-record)
@@ -64,7 +64,7 @@ Curators are responsible for completing paperwork for acquisitions and handing t
 
 For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1") on OneDrive.
 
-### 2.2.1 Collections receiving 
+### 2.2.1 Physical Transfer and Receiving 
 *Collections receiving* is the physical transfer of the collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
 
 *	The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. 
@@ -74,17 +74,19 @@ All collection material should be received and opened by staff that did not arra
 
 When materials are brought to Rose Library, the responsible party will confirm what material has arrived and if the paperwork is completed. Information about the new acquisition will be entered into airtable, and any material will be reboxed (as necessary) and stored according to [link to storage information for acquisitions]
 
-### 2.2.2 Airtable
+### 2.2.2 Airtable and recording the acquisition stage
 
-Airtable is the system we use to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the sheet and updated as the archivist moves through the process.  The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) 
+Airtable is the system used to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) and updated as the Collections Archivist moves through the process. 
 
-While it is best if materials and paperwork are logged together, materials without paperwork and paperwork information (before the physical transfer of materials) can be logged into Airtable. Start by searching the Acquisitions & Accessioning base in Airtable for information about the collection under the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* heading on the left menu and update the record with any information from the deed or materials. [This may need an image, confirm other's view is not as complicated]
+Curators should submit Potential Acquisitions Report Form for [MSS](<https://airtable.com/shrFpKc5EDLllbV5j>) or for [Books](<https://airtable.com/shrsr8NWrF9B5F5Cx>) with as much information as possible. The forms should be submitted for all significant acquisitions where significant refers to either the size or the scope of the collection. This information will populate a record in the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* table  It will appear in the "Cataloging Views" section for acquisitions that include books and the "Accessioning Views" section for acquisitions that include manuscript material. 
+
+While it is best if materials and paperwork are logged together, materials without paperwork or just the paperwork (before the physical transfer of materials) can be logged into Airtable. The Head of Processing should confirm the record has not been started by searching for information about the collection in the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* table and create or update that record with any information from the deed or materials. 
 
 |   **All fields preferred**                                   |                                                                                                                                                                                                                                               |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 Creator|Usually the main heading of the collection, but can be the donor name
 Title|Collection title 
-Stage|Drop down menu to describe the current point in the workflow
+Stage|Drop down menu to describe the current point in the workflow including whether it's awaiting paperwork or ready for accessioning
 Box or Manuscript|Drop Down menu
 Date of Invoice|Date found on the deed
 Date Recieved|Date materials arrived onsite
@@ -106,50 +108,19 @@ Container Summary|clarification on the extent if necessary; used to document non
 Location|Shelf location
 Paperwork|Link to documentation within the Acquisitions folder in Sharepoint|
 
-**Possible locations within the Acquisitions folder**
-Depending on what curatorial workflow the acquisition is coming through, paperwork may be available through one of the following Sharepoint Acquisition folders:
-*	[Purchases](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Verified%20and%20Paid%20Purchases%20%5BCurrent%20FY%5D?csf=1&web=1&e=vKVdjg>)
-*	[Gifts](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
-*	[Inter- and Intra-Institutional Transfers](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=fTbkc3>)
-*	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
+See [2.4.1 Managing Paperwork in SharePoint](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#241-managing-paperwork-in-sharepoint>) for information in identifying paperwork location
 
-For more information on paperwork, refer to [2.4 Paperwork](#2412-paperwork-for-gifts-in-kind)
-	
 #### 2.2.2.1 When acquisition require curatorial review
-If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials were sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading: 
-*	Books Potential Acquisition Report Form
-*	MSS: Potential Acquisition Report Form
-*	MSS: Collection Received Form (used for additions and one-offs)
-*	EUA: University Records Transfer form
-
-*Make sure to  "Open Form" through the button on the top ribbon so as to create a new report and not change the template.*
-
-|   **Required Fields**                                   |                                                                                                                                                                                                                                               |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-Creator|Creation Date Range (circa) |
-Title|Brief biographical or administrative history note for the creator of the materials. (add what you can) |
-Curator (radio buttons) |Collection Policy|
-Acquisition Type (radio buttons) |Research Value|
-Source Type (radio buttons) |Diversity and Documentation Value|
-Brief Scope and Content Note: |Donor Relations Value|
-Linear feet (not required in form, but required) |Related Collections at the Rose Library|
-MSS items (not required in form, but required) |Related Collections at Other Repositories|
-Special formats (check box) |Context of Creation|
-Zip code of Origin|Custodial History|Arrangement|
-Geographic and Physical Location (can add “no information”) |Restrictions|
-Condition|Rights|
-Anticipated timeline and method of transfer (“on-site”) |
-
-**You may not have answers to all of the fields these, so make a note where curators should review content.**
-
 Move the materials to the Curatorial Review shelves (L9-32a) with a physicly copy of the paperwork and document that location in Airtable. Alert the appropriate curator that material is ready to be reviewed and provide the location and any questions or concerns that are identified. The curator will make the final decision on whether to move forward with the acquisition.
 
 **If the curator decides not to move forward with an acquisition**
 It is the curator's responsibility to notify the donor/seller that materials are being returned and return those materials. The Head of Processing can help coordinate return of the material once the donor/seller has been notified by the curator. 
 
-
 **If the curator decides to move forward with the acquisition**
 The curator will let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning* and assign the acquisition to an archivist.  If the Head of Processing can move forward with the accession at that time, they should follow through with the accessioning.  Otherwise, the Head of Processing should create the stub accessioning record and complete the acquisition workflow, placing materials on the appropriate shelving.
+
+#### 2.2.2.1 Acquisition approved to move forward
+If the Curator approves acquisition, and the materials and paperwork are complete and on-site, the Head of Processing will rebox the materials (as necessary), label the boxes with *Acquisition* labels (see 2.3 New acquisition storage and labeling](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/02-ACQUISITIONS/readme.md#23-new-acquisition-storage-and-labeling>)), and set the Airtable stage to *Ready for Accessioning*. 
 
 ### 2.2.3 ArchivesSpace stub accession record
 To create the Accessioning stub record, first **identify the next accession number** by clicking on the "Browse" button on the top left and selecting Accessions.  Sort by identifier (the ArchivesSpace name for accession number) to see the most recent and assign the next number in sequence.
@@ -316,11 +287,11 @@ No collection material may be cataloged or accessioned until the appropriate pap
 
 Rose staff stores and manages all acquisitions-related paperwork in the Sharepoint Acquisitions folder in the following folders:
 
-[Rose Library 
+*	[Rose Library 
 Purchases folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases?csf=1&web=1&e=ENpVuR> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases?csf=1&web=1&e=ENpVuR") 
-[Rose Library Gifts-in-Kind folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3"). 
-[Rose Library Inter- and Intra-Institutional Transfers](<(https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=81MvEw>)
-**[Emory Univerity Transfer forms to be added]**
+*	[Rose Library Gifts-in-Kind folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind?csf=1&web=1&e=CBbtB3"). 
+*	[Rose Library Inter- and Intra-Institutional Transfers](<(https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Inter-%20and%20Intra-%20Institutional%20Transfers?csf=1&web=1&e=81MvEw>)
+*	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
 
 The organization of these folders is different but should be straight forward. Most staff should not be updating or changing paperwork in these folders but, rather, using them for reference or as part of the accessioning process. As new collections move through the acquisitions process, the Associate Director of Collection Services will update the files and move or update the paperwork as needed. 
 
