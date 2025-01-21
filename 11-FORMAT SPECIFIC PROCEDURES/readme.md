@@ -15,7 +15,7 @@
     * [11.1.11 Cellulose acetate film](#11111-cellulose-acetate-film) 
 * [11.2 Audiovisual materials](#112-audiovisual-materials) [draft]
 * [11.3 Born-digital materials](#113-born-digital-materials) [draft]
-
+* [11.4 Web archives](#114-web-archives) [draft]
 
 ### 11.1 Photographs
 
@@ -130,3 +130,43 @@ Labeling photographs should be rare. However, if you can identify the subject or
 ### 11.3 Born-digital materials
 
 This section is under construction and will eventually contain detailed instructions for imaging, processing, and preserving born-digital content. For now, refer to the <a href="https://github.com/rose-collectionservices/digital-archives">Rose Library Digital Archives Manual</a>.
+
+### 11.4 Web archives
+Web archives are a type of born-digital content but have unique acquisition and management processes. For policies and workflows, see the <a href="https://github.com/rose-collectionservices/digital-archives/blob/master/web_archives.md">Web Archives section of the Digital Archives manual</a>.
+
+#### Accessioning Web Archives 
+**(Note: This section should be reviewed for alignment and possible consolidation with general accessioning documentation.)**
+
+The Rose Library maintains accession records for all new web crawls. If a website is part of a larger gift or purchase, create an accession record for the website and one for the remainder of the materials. Separate paperwork for the website is not necessary as long as the original deed covers web capture, but the accession record for both should link to the same paperwork.  If a website is captured per the suggestion of Rose Library curators or processing staff, an accession record should be generated to record the reasoning behind the capture, but no other paperwork is required. 
+
+Accession records for archived websites should be made after the seed has been crawled and added to Archive-it so that the seed identifier can be added to the content description in the accession record. Accession records do not need to be updated for subsequent crawls of the same seed.   
+
+The following metadata fields are designed to work in tandem with policies and guidelines outlined in the Rose Library collection services manual:
+* Title (required). Supply a DACS-compliant title for the accession.  The title should be formed in accordance to the rules outlined in the Description section of the Rose Library collection services manual.  For archived websites, the title should include the name of the website and “website crawl” (e.g. Alice Walker’s Garden website crawl).
+* Identifier (required). All collection material is assigned a unique accession number, consisting of the year, the month, and the next accession number in sequence for the month [e.g. 2017-06-34].
+* Accession date (required). This field will pre-populate the current date.  This date should match the day the accession record was originally created and the accession number assigned.
+* Content Description (required). Describe the content and context of the materials for the accession.  Include a description of the archived website, including subject(s) covered, the creator and content of the website, date(s) of creation if apparent, and the context of the website in the overall collection (where applicable).  The content description should also include the ArchiveIt initial crawl date and a link to the website in the ArchiveIt wayback machine [e.g. https://wayback.archive-it.org/6326/*/http://alicewalkersgarden.com].
+* Provenance (required). The source from which the repository acquired the archived website. When the provenance of an accession is unknown, indicate so (e.g. There is no documentation concerning the provenance of these materials).  Optionally, add any other known information about the custodial history of the collection including the original seed URL, scoping rules, and site IDs.
+Example: Original URL was selected by curators (possibly Pellom McDaniels) and captured through the use of Archive-It in 2012. In 2019, the URL changed and was added to Archive-it by Elizabeth Russey Roke. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website.
+* General note (required). Use this field to record the crawl frequency (e.g. one-time).
+* Acquisition type (required). Select the “Web Capture” resource type from the drop-down menu.
+* Resource type (required). Select the nature of the archival collection according to DACS guidance: papers, collection, or records.
+* Restrictions apply? (required when applicable). Check box if use or access restrictions are present in the crawled website.
+* Access Restrictions (required when applicable). If the website is restricted from access, check this box.  Access restrictions are rarely applied for websites, but possibilities include downloaded WARC files, crawls of sites requiring authentication, or manual captures of sensitive content.  Archive-It crawls cannot be restricted.
+* Access Restrictions Note (required when applicable). Describe the restriction here.  If this field is in use, it must include a termination date.
+* Use Restrictions (required when applicable). If any portion of the accession is restricted from certain kinds of use, check this box. Use restrictions apply in cases where special software is needed to render or view the capture.
+* Use Restrictions Note (required). For all archived websites:
+** This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+* Dates (required). For type, select single if an ongoing capture (record enter the month and year of first capture) or inclusive if the website is defunct and/or no longer captured (enter the month and year of first and last captures).
+* Extents (required). The following guidelines are for hosted captures (e.g. Archive-It).  If the accession consists of WARC files or other derivatives stored in a general preservation system, a parallel extent statement for size in MB/GB (combined with any other born-digital material counted in MB/GB) should be added.
+** Portion: Whole
+** Number: Number of websites captured
+** Type: websites
+* Related resource (required). Link the accession to its corresponding resource record/parent collection.  
+* Agents (required if applicable). Add an agent link for the creator(s) of the website.
+* External Documents (required if applicable). If the acquisition is donor-initiated (e.g. part of the deed of gift or other acquisitions paperwork), use this field to link to relevant external documentation.
+** Title: Copy the title of the document from OneDrive/SharePoint
+** Location: Copy and paste the link to the document.
+
+#### Describing Web Archives
+[under construction]
