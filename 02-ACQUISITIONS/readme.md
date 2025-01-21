@@ -1,5 +1,5 @@
 
-# Precustodial Work and Acquisition Workflow [This section needs to be updated]
+# Precustodial Work and Acquisition Workflow [To be reviewed]
 
 * [2.1 Precustodial work](#21-precustodial-work)
 	* [2.1.1 Acquisitions v. Accessioning](#21-acquisitions-v-accessioning) 	
