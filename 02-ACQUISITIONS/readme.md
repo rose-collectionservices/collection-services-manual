@@ -24,13 +24,11 @@
   		* [2.4.1 Managing paperwork in Sharepoint](#241-managing-paperwork-in-sharepoint)
   	 		* [2.4.1.1 Paperwork for purchased materials](#2411-paperwork-for-purchased-materials)
   	  		* [2.4.1.2 Paperwork for gifts in kind](#2412-paperwork-for-gifts-in-kind)
-
-<details>
-<summary>
+		* [2.4.2 Creating the CL2 File](#242-creating-the-CL2-file)
+			* [2.4.2.1 Electronic CL-2 File](#2421-electronic-cl2-file)
 
 ## 2.1 Precustodial work
- </summary>
-	
+
 Precustodial work occurs before a collection is recieved and paperwork completed.  It includes the selecting and acquisition of collection material which is the primary responsibility of the Curatorial team and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork, the last two being the common point of intersection between the curatorial team and the processing team.  
 
 **[Is this still done?]** Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.*
@@ -56,9 +54,8 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 *	Appraisal
 *	Arrangement and description
 *	Conservation
-</details><details><summary>
 	
-## 2.2 Acquisition workflow </summary>
+## 2.2 Acquisition workflow
 *	The Head of Processing completes the acquisition process for manuscript collection materials
 *	The Associate Director of Collection Services will oversee acquisitions of books. 
 *	The University Archivist oversees the acquisition and transfer of University Archives materials.
@@ -66,9 +63,8 @@ Additionally, Collection Services staff may meet with donors or curators to prov
 Curators are responsible for completing paperwork for acquisitions and handing those documents off to either the Associate Director of Collection Services or the Head of Processing.
 
 For acquisitions logs prior to the implementation of ArchivesSpace, please see the [Rose Acquisitions Log folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Acquisitions%20Log?csf=1&web=1&e=WILjX1") on OneDrive.
-</details><details><summary>
-	
-### 2.2.1 Collections receiving </summary> 
+
+### 2.2.1 Collections receiving 
 *Collections receiving* is the physical transfer of the collection material from a donor, individual seller, or vendor to the Stuart A. Rose Manuscript, Archives, & Rare Book Library. 
 
 *	The primary point of contact for collections receiving for Emory University Archives at the Rose Library is the University Archivist. 
@@ -77,13 +73,8 @@ For acquisitions logs prior to the implementation of ArchivesSpace, please see t
 All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing. **All packages delivered onsite will be delivered to the main Woodruff Library mailroom**, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, deliver the materials to the tenth-floor mail spaces where the Associate Director of Collection Services will review materials and pass on to the Head of Processing to compete the acquisition workflow. *The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.*
 
 When materials are brought to Rose Library, the responsible party will confirm what material has arrived and if the paperwork is completed. Information about the new acquisition will be entered into airtable, and any material will be reboxed (as necessary) and stored according to [link to storage information for acquisitions]
-</details>
-
-<details>
-<summary>
 
 ### 2.2.2 Airtable
-</summary> 
 
 Airtable is the system we use to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the sheet and updated as the archivist moves through the process.  The first step in documenting the collection, is creating a record in the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) 
 
@@ -123,12 +114,8 @@ Depending on what curatorial workflow the acquisition is coming through, paperwo
 *	[Emory University Archives Transfers](<https://emory-my.sharepoint.com/shared?id=%2Fsites%2FEUVRoseLibrary%2FShared%20Documents%2FAcquisitions%2FRose%20Library%20Gifts%2Din%2DKind%2FCurrent%20Year%20and%20Incomplete%20Gifts&listurl=https%3A%2F%2Femory%2Esharepoint%2Ecom%2Fsites%2FEUVRoseLibrary%2FShared%20Documents>)
 
 For more information on paperwork, refer to [2.4 Paperwork](#2412-paperwork-for-gifts-in-kind)
-</details>
-<details>
-<summary>
 	
 #### 2.2.2.1 When acquisition require curatorial review
-</summary>
 If there is no Potential Acquisitions Record, the acquisition may have been sent without curatorial approval or the materials were sent on spec.  If the curator needs to review the acquisition before moving forward, information from the paperwork should be used to create the Potentional Acqusitions Report through the appropriate webform available under the Collection Development Views heading: 
 *	Books Potential Acquisition Report Form
 *	MSS: Potential Acquisition Report Form
@@ -163,12 +150,8 @@ It is the curator's responsibility to notify the donor/seller that materials are
 
 **If the curator decides to move forward with the acquisition**
 The curator will let the Head of Processing know to start the acquisition process.  The Head of Processing will return to the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* section and complete the record, marking the stage as *Ready for Accessioning* and assign the acquisition to an archivist.  If the Head of Processing can move forward with the accession at that time, they should follow through with the accessioning.  Otherwise, the Head of Processing should create the stub accessioning record and complete the acquisition workflow, placing materials on the appropriate shelving.
-</details>
-<details>
-<summary>
 
 ### 2.2.3 ArchivesSpace stub accession record
-</summary>
 To create the Accessioning stub record, first **identify the next accession number** by clicking on the "Browse" button on the top left and selecting Accessions.  Sort by identifier (the ArchivesSpace name for accession number) to see the most recent and assign the next number in sequence.
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure5.png" alt="Figure 5: Find accession number" width="75%"/></p></kbd>
 
@@ -312,13 +295,9 @@ In the top right corner of the accession record, click on the *Add Event* drop d
 |Event Date/Time|<ul><li>Date/Time specifier: UTC Timestamp (from drop down menu)</ul></li><ul><li>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul></li>|
 |Agent Links|<ul><li>Role: Authorizer (from drop down menu)</ul></li><ul><li>Agents: name of donor/person responsible for signing the paperwork (from drop down menu)</ul></li>|
 |Record Links|<ul><li>Role: Source (should be autofilled, but if not, select from drop down menu)</ul></li><ul><li>Record: accession record that this custody record was pulled from (should be autofilled, but if not, select from drop down menu) </ul></li>
-</details>
-<details>
-<summary>
 
 ## 2.3 New acquisition storage and labeling
-</summary>
-	**Storage for manuscript acquisitions and books without completed paperwork** are held on the shelves located at 09-32a.  These ranges are assigned to the curators based on subject area.  Materials that need further curatorial review are also housed on these shelves.  In cases where the acquisition is large enough to require more space, the location information will be included in the [Airtable Acquisitions and Accessioning base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwE90ZM7CdMKCJDR?blocks=hide>).
+**Storage for manuscript acquisitions and books without completed paperwork** are held on the shelves located at 09-32a.  These ranges are assigned to the curators based on subject area.  Materials that need further curatorial review are also housed on these shelves.  In cases where the acquisition is large enough to require more space, the location information will be included in the [Airtable Acquisitions and Accessioning base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwE90ZM7CdMKCJDR?blocks=hide>).
 
 **Storage for manuscript acquisitions with completed paperwork** that are:
 *	Smaller than 5 linear feet will be stored on the L9 storage shelves located at 09-09b, given space. 
@@ -329,12 +308,8 @@ In the top right corner of the accession record, click on the *Add Event* drop d
 Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. 
 
 All new acquisitions should be labeled with the creator, potential collection title, accession number (or date of reciept if stub record can't be created), and temporary box number upon receipt. Labels can be created using [this template](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Acquision%20labels?csf=1&web=1&e=r40Gef>) or via ArchivesSpace top container page. *If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing*.
-</details>
-<details>
-<summary>
 
 ## 2.4 Paperwork
-</summary>
 No collection material may be cataloged or accessioned until the appropriate paperwork has been received. All original paperwork should be transferred to the Associate Director of Collections or the Head of Processing.  
 
 ### 2.4.1 Managing Paperwork in SharePoint
@@ -390,4 +365,20 @@ The Rose Library manages gift paperwork on OneDrive/SharePoint through the [Rose
 *	The Head of Processing will reach out to curators to follow up on materials that await paperwork.
 *	At the end of the fiscal year, the Accessioning Archivist moves all completed paperwork in the curatorial folders to their respective Past Gifts folders into a new subfolder for the calendar year.
 
-</details>
+### 2.4.2 Creating the CL-2 File
+The permanent collection files document the history of a collection including solicitation, acquisition, processing, and communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection.
+
+As part of the acquisition workflow, the Head of Processing will
+*	Link the deeds and other acquisitions paperwork (found in the Sharepoint Acquisitions folder) to: 
+	-	The ArchivesSpace Accession Record under External Documents
+	-	The Airtable record in the Acquisitions & Accessions base in the Paperwork field.
+*	Either print out the electronic copy or include the original paperwork with the collection material
+*	Write the accession number on the paperwork
+*	Create a CL-2 file, if necessary. This includes printing a label and filing the paperwork in the file
+  	-	If the acquisition is accessioned by the Head of Processing, they will file the CL-2 folder in the appropriate file cabinet in the L9 Bizhub room
+   	-	If the acquisition is to be assigned, the file will be placed with the acquisition materials		
+
+If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher. Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
+
+#### 2.4.2.1 Electronic CL-2 File (Vital Docs Folder)
+There are legacy electronic CL-2 files available on SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on Sharepoint and available through ArchivesSpace and Airtable and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
