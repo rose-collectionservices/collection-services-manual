@@ -31,26 +31,26 @@
 
 Precustodial work occurs before a collection is received and paperwork completed.  It includes the selecting and acquisition of collection material which is the primary responsibility of the Curatorial team and most often refers to the intellectual work of identifying in-scope materials, working with donors, and the physical transfer of both materials and deeds/paperwork, the last two being the common point of intersection between the curatorial team and the processing team.  
 
-**[Is this still done?]** Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.*
+**[Is this still done?]** Prior to discussion at the monthly collection strategies meeting, curators submit a Potential Acquisitions Report form [via this link for manuscript material](<https://airtable.com/shrFpKc5EDLllbV5j> "https://airtable.com/shrFpKc5EDLllbV5j") or [via this link for rare books](<https://airtable.com/shrsr8NWrF9B5F5Cx> "https://airtable.com/shrsr8NWrF9B5F5Cx"). A Word document will automatically appear in the [Potential Acquisitions Reports folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Potential%20Acquisitions%20Reports?csf=1&web=1&e=jwx8sV"). Curators and archivists may use the Potential Acquisitions Reports folder to upload additional relevant documentation for purchases under consideration, such as appraisal report, inventories, and operational impact statements.
 	
 Collection Services team members support curators in precustodial work, including the packing, shipping, and receiving of material (or arrangement thereof), as well as accepting the paperwork required to formally transfer a collection or item. While the curatorial team is primarily responsible for  precustodial work, Collection Services staff should be prepared to work with donors, vendors, and curators to provide guidance on any precustodial actions taken by the Library. 
 	
 ### 2.1.1 Acquisitions v. Accessioning
 For the purposes of this manual, **precustodial work** is the work done before materials are brought onsite and/or acquisition paper is signed, and while the term **acquisition** is a term used to describe curatorial work in developing collections, the Collection Services acquisitions workflow covers the overlap of the two departments primarily in identifying and tracking the requirements necessary for starting accessioning including:
-*	Recieving  materials and signed paperwork
+*	Receiving  materials and signed paperwork
 *	Initial accessioning documentation through ArchivesSpace
 *	Documenting and tracking the status of the new materials
 *	Storing materials that are not ready for accessioning
 
 ### 2.1.2 Curatorial Support
-Prior to a collection being acquired by the Rose Library, the Curatorial team members may reach out to and consult with the the Head of Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA>) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
+Prior to a collection being acquired by the Rose Library, the Curatorial team members may reach out to and consult with the Head of Processing to draft an [Operational Impact Statement](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Manuscript%20Processing%20Flags,%20Forms,%20and%20Templates/Operational%20Impact%20Template.docx?d=wd71816b5768b48e3bd3ba63cd914bd79&csf=1&web=1&e=9I9DqA>) to assess the overall space and supply needs of a collection, as well as cost of transfer, accessioning, processing, and storing a collection.  
 
 Additionally, Collection Services staff may meet with donors or curators to provide guidance and assistance on matters such as: 
 *	Packing and shipping support
 	*	[14.4 Packing guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#144-packing-guidelines>);
    	*	[14.5 Moving and shipping collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#145-moving-and-shipping-collections>); and
      	*	[14.6 FedEx guidelines](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/14-ADMINISTRATIVE#146-fedex-guidelines>)
-*	[Transfer of of born-digital material](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")
+*	[Transfer of born-digital material](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms/Born%20Digital%20Acquisitions%20Documents?csf=1&web=1&e=dQyJsr")
 *	Appraisal
 *	Arrangement and description
 *	Conservation
@@ -72,13 +72,13 @@ For acquisitions logs prior to the implementation of ArchivesSpace, please see t
 
 All collection material should be received and opened by staff that did not arrange for the acquisition of the materials. This responsibility should most often fall to the Associate Director of Collection Services or the Head of Processing. **All packages delivered onsite will be delivered to the main Woodruff Library mailroom**, and mailroom staff will contact the Head of Processing for pickup or, if acquisition is small, deliver the materials to the tenth-floor mail spaces where the Associate Director of Collection Services will review materials and pass on to the Head of Processing to compete the acquisition workflow. *The main Woodruff Library mailroom on Level 2 is not a secure space and collection material should be moved to a secure holdings location as soon as possible upon arrival.*
 
-When materials are brought to Rose Library, the responsible party will confirm what material has arrived and if the paperwork is completed. Information about the new acquisition will be entered into airtable, and any material will be reboxed (as necessary) and stored according to [link to storage information for acquisitions]
+When materials are brought to Rose Library, the responsible party will confirm what material has arrived and if the paperwork is completed. Information about the new acquisition will be entered into Airtable, and any material will be reboxed (as necessary) and stored according to [link to storage information for acquisitions]
 
 ### 2.2.2 Airtable and recording the acquisition stage
 
 Airtable is the system used to document the process of acquisitions through accessioning.  When materials come onsite, they are entered into the [Acquisitions & Accessioning base in Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) and updated as the Collections Archivist moves through the process. 
 
-Curators should submit Potential Acquisitions Report Form for [MSS](<https://airtable.com/shrFpKc5EDLllbV5j>) or for [Books](<https://airtable.com/shrsr8NWrF9B5F5Cx>) with as much information as possible. The forms should be submitted for all significant acquisitions where significant refers to either the size or the scope of the collection. This information will populate a record in the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* table  It will appear in the "Cataloging Views" section for acquisitions that include books and the "Accessioning Views" section for acquisitions that include manuscript material. 
+Curators should submit Potential Acquisitions Report Form for [MSS](<https://airtable.com/shrFpKc5EDLllbV5j>) or for [Books](<https://airtable.com/shrsr8NWrF9B5F5Cx>) with as much information as possible. The forms should be submitted for all significant acquisitions where significant refers to either the size or the scope of the collection. This information will populate a record in the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* table.  It will appear in the "Cataloging Views" section for acquisitions that include books and the "Accessioning Views" section for acquisitions that include manuscript material. 
 
 While it is best if materials and paperwork are logged together, materials without paperwork or just the paperwork (before the physical transfer of materials) can be logged into Airtable. The Head of Processing should confirm the record has not been started by searching for information about the collection in the *Potential and/or Not yet Received Acquisitions (MSS/EUA)* table and create or update that record with any information from the deed or materials. 
 
@@ -89,9 +89,9 @@ Title|Collection title
 Stage|Drop down menu to describe the current point in the workflow including whether it's awaiting paperwork or ready for accessioning
 Box or Manuscript|Drop Down menu
 Date of Invoice|Date found on the deed
-Date Recieved|Date materials arrived onsite
+Date Received|Date materials arrived onsite
 Documentation Needed (as necessary)|If awaiting paperwork, include this field
-Documentation Recieved (as necessary)|When paperwork is present, this field should be updated
+Documentation Received (as necessary)|When paperwork is present, this field should be updated
 From|Drop down menu of the donor/seller.  If the name isn't included, you can just type it in (last name, first) to add
 Source Type|Drop down menu to clarify the nature of the person noted in the From field
 Accession record title|includes the name of the collection, and, if an addition, it should be noted here
@@ -111,7 +111,7 @@ Paperwork|Link to documentation within the Acquisitions folder in Sharepoint|
 See [2.4.1 Managing Paperwork in SharePoint](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#241-managing-paperwork-in-sharepoint>) for information in identifying paperwork location
 
 #### 2.2.2.1 When acquisition require curatorial review
-Move the materials to the Curatorial Review shelves (L9-32a) with a physicly copy of the paperwork and document that location in Airtable. Alert the appropriate curator that material is ready to be reviewed and provide the location and any questions or concerns that are identified. The curator will make the final decision on whether to move forward with the acquisition.
+Move the materials to the Curatorial Review shelves (L9-32a) with a physical copy of the paperwork and document that location in Airtable. Alert the appropriate curator that material is ready to be reviewed and provide the location and any questions or concerns that are identified. The curator will make the final decision on whether to move forward with the acquisition.
 
 **If the curator decides not to move forward with an acquisition**
 It is the curator's responsibility to notify the donor/seller that materials are being returned and return those materials. The Head of Processing can help coordinate return of the material once the donor/seller has been notified by the curator. 
@@ -234,9 +234,9 @@ The image below shows the how the accession record for the Homer G. Phillips Sch
 <kbd><p align="center"><img src="/03-ACCESSIONING/Images/figure21.png" alt="Figure 21: Homer G. Phillips example" width="75%"/></p></kbd>
 
 #### 2.2.3.7 External documents sub-record
-This field defined the location of the papework found in the Sharepoint Acquisitions folder.
+This field defined the location of the paperwork found in the Sharepoint Acquisitions folder.
 
-Click the button to Add Externa Document, and fill in the Title and Location.
+Click the button to Add Externa Document and fill in the Title and Location.
 *	Title: File name of the deed or other paperwork located in the 
 *	Location: Link to the paperwork from the Sharepoint Acquisitions folder
 
@@ -253,19 +253,19 @@ Event records document the transfer of the materials and of the paperwork.
 
 In the top right corner of the accession record, click on the *Add Event* drop down and choose:
    
-| Custody Transfer Record Fields                                        | Content                                                                                                                                                                                                                                                       |
+| Custody Transfer event record Fields                                        | Content                                                                                                                                                                                                                                                       |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Basic Information|<ul><li>Type: Custory Transfer (from drop down menu)</ul></li><ul><li>Outcome: Fulfilled (from drop down menu)</ul></li>|
-|Event Date/Time|<ul><li>Date/Time specifier: UTC Timestamp (from drop down menu)</ul></li><ul><li>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul></li>|
-|Agent Links|<ul><li>Role: curator (from drop down menu)</ul></li><ul><li>Agents: name of curator who brought collection in (from drop down menu)</ul></li>|
-|Record Links|<ul><li>Role: Source (should be autofilled, but if not, select from drop down menu)</ul></li><ul><li>Record: accession record that this custody record was pulled from (should be autofilled, but if not, select from drop down menu) </ul></li>
+|Basic Information|<ul>Type: Custody Transfer (from drop-down menu)</ul><ul>Outcome: Fulfilled (from drop-down menu)</ul>|
+|Event Date/Time|<ul>Date/Time specifier: UTC Timestamp (from drop-down menu)</ul><ul>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul>|
+|Agent Links|<ul>Role: curator (from drop-down menu)</ul><ul>Agents: name of curator who brought collection in (from drop-down menu)</ul>|
+|Record Links|<ul>Role: Source (should be auto filled, but if not, select from drop-down menu)</ul><ul>Record: accession record that this custody record was pulled from (should be auto filled, but if not, select from drop-down menu) </ul>
 
-| Agreement Signed Fields                                        | Content                                                                                                                                                                                                                                                       |
+| Agreement Signed evemt recprd fields                                        | Content                                                                                                                                                                                                                                                       |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Basic Information|<ul><li>Type: Agreement Signed (from drop down menu)</ul></li><ul><li>Outcome: Fulfilled (from drop down menu)</ul></li>|
-|Event Date/Time|<ul><li>Date/Time specifier: UTC Timestamp (from drop down menu)</ul></li><ul><li>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul></li>|
-|Agent Links|<ul><li>Role: Authorizer (from drop down menu)</ul></li><ul><li>Agents: name of donor/person responsible for signing the paperwork (from drop down menu)</ul></li>|
-|Record Links|<ul><li>Role: Source (should be autofilled, but if not, select from drop down menu)</ul></li><ul><li>Record: accession record that this custody record was pulled from (should be autofilled, but if not, select from drop down menu) </ul></li>
+|Basic Information|<ul>Type: Agreement Signed (from drop-down menu)</ul><ul>Outcome: Fulfilled (from drop-down menu)</ul>|
+|Event Date/Time|<ul>Date/Time specifier: UTC Timestamp (from drop-down menu)</ul></li><ul><li>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul>|
+|Agent Links|<ul>Role: Authorizer (from drop-down menu)</ul><ul>Agents: name of donor/person responsible for signing the paperwork (from drop-down menu)</ul>|
+|Record Links|<ul>Role: Source (should be auto filled, but if not, select from drop-down menu)</ul><ul>Record: accession record that this custody record was pulled from (should be auto filled, but if not, select from drop-down menu) </ul>
 
 ## 2.3 New acquisition storage and labeling
 **Storage for manuscript acquisitions and books without completed paperwork** are held on the shelves located at 09-32a.  These ranges are assigned to the curators based on subject area.  Materials that need further curatorial review are also housed on these shelves.  In cases where the acquisition is large enough to require more space, the location information will be included in the [Airtable Acquisitions and Accessioning base](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwE90ZM7CdMKCJDR?blocks=hide>).
@@ -278,7 +278,7 @@ In the top right corner of the accession record, click on the *Add Event* drop d
 
 Hard drives storing born-digital collection material should be securely stored in the Digital Archives lab while awaiting accessioning. 
 
-All new acquisitions should be labeled with the creator, potential collection title, accession number (or date of reciept if stub record can't be created), and temporary box number upon receipt. Labels can be created using [this template](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Acquision%20labels?csf=1&web=1&e=r40Gef>) or via ArchivesSpace top container page. *If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing*.
+All new acquisitions should be labeled with the creator, potential collection title, accession number (or date of receipt if stub record can't be created), and temporary box number upon receipt. Labels can be created using [this template](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Acquision%20labels?csf=1&web=1&e=r40Gef>) or via ArchivesSpace top container page. *If the collection arrives with temporary box numbers do not renumber them, as they may correspond to an inventory completed during packing*.
 
 ## 2.4 Paperwork
 No collection material may be cataloged or accessioned until the appropriate paperwork has been received. All original paperwork should be transferred to the Associate Director of Collections or the Head of Processing.  
@@ -300,7 +300,7 @@ The organization of these folders is different but should be straight forward. M
 #### 2.4.1.1 Paperwork for purchased materials [Carrie will need to review this]
 
 The Rose Library requires the following [forms](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Purchases/Process%20Files%20and%20Forms?csf=1&web=1&e=S0KcjO>) for purchases: 
-*	Invoice (Associate Director of Colletion Services will generate an invoice for purchases from individuals)
+*	Invoice (Associate Director of Collection Services will generate an invoice for purchases from individuals)
 *	Deed of Sale or Deed Addendum (for purchases from individuals). A Deed Addendum may be used for purchase of additions to existing collection by the same donor who signed the original deed - original deed can be a deed of sale or deed of gift.
 *	Deeds of Sale may require additional signatures. 
 	*	For purchases totaling $100,000-$249,999, the deed must also be signed by the Dean and University Librarian.
@@ -320,7 +320,7 @@ folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Docume
 
 The following [paperwork](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind/Gift%20Process%20Files%20and%20Forms?csf=1&web=1&e=bdpFf4> "https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions/Rose%20Library%20Gifts-in-Kind/Gift%20Process%20Files%20and%20Forms?csf=1&web=1&e=bdpFf4") is required to process and accession gifts: 
 
-*	Signed Gift-in-Kind Contribution Form (required by Advancement and Almuni Engagement (AAE) for all gifts) with a monetary valuation provided by the donor
+*	Signed Gift-in-Kind Contribution Form (required by Advancement and Almnii Engagement (AAE) for all gifts) with a monetary valuation provided by the donor
 *	Deed of Gift (long) (required for new manuscript or book collections or additions to existing manuscript or book collections by a new donor)
 **OR**
 *	Deed of Gift (short) (required for additions of manuscript material to existing artificial collections, such as Black print culture collection, or small additions of books to existing book collections, such as the Danowski Poetry Library)
