@@ -29,71 +29,78 @@ Accessioning is the formal act of taking legal and physical control of an archiv
 
 *Note: This workflow was fully implemented for Fiscal Year 2019 (FY19). Collection material received prior to FY19 will be recorded in ArchivesSpace but may not follow current process.*
 
-When material is ready to be accessioned, the Head of Processing enters the relevant information about the accession in Airtable.
-*	This information can be accessed in the "Accessioning To-Be-Assigned" view.  
-*  	The Head of Processing passes relevant information on pending or upcoming acquisitions through minutes taken at the monthly Acquisition Strategies meetings. Information about the status of colllections can be found in the "Potential and/or Not Yet Received" view.
-*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning.  Archivists choose/are assigned collections (which are added their individual accessioning queues in Airtable) based on current workloads and specific expertise when possible. Archivists use their personal views in Airtable to access these lists.
-*	- and a link is included in the Airtable record as well as in the accession record in ArchivesSpace in the External Documents sub-record.
-*	The Head of Processing will create a stub accessioning record in ArchivesSpace based on the information in the deed (and in the Airtable record) upon receipt of the materials, paperwork, and approval by the curator to move forward.
+There is overlap between the acquisition and accessioning workflow, but as a general rule, the Acquisition workflow is completed by the Head of Processing or University Archivist and documents the transfer of materials and the creation and signing of paperwork. 
+*	Head of Processing or University Archivist makes information available to Collections Archivists through Airtable’s "Accessioning To-Be-Assigned" view.
+*	Head of Processing or University Archivist will also have created a stub accessioning record in ArchivesSpace.
+*	Information from curators (including notes taken by the Head of Processing during monthly Acquisition Strategies meetings) will be passed on to the Archivist responsible for that accession.
+*	Information about the status of collections can be found in the Airtable "Potential and/or Not Yet Received" view.
+*	Processing team members identify capacity, and the Head of Processing discusses collections that are available for accessioning. Archivists choose/are assigned collections (which are added their individual accessioning queues in Airtable) based on current workloads and specific expertise when possible. Archivists use their personal views in Airtable to access these lists.
 
 ## 3.2 Accessioning workflow
 The accessioning workflow primarily focuses on systems to document the ownership and custody of collection materials through the systems of record and systems that manage them.  The system of record for accessions is [ArchivesSpace](<https://archives.libraries.emory.edu/staff)/>) and [Airtable](<https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide>) is used to manage the workflow between acquisition through accessioning. The [Acquisitions folder in Sharepoint](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions?csf=1&web=1&e=5W2pNF>) is the system of record for acquisitions paperwork, and information is linked from there to both ArchivesSpace and Airtable for access. 
 
-The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Therefore, extensible or minimal processing happens at the point of accessioning to make the collection discoverable and usable. Detailed processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high).  Therefore, while other processing workflows, creation of resource records, and physical processing steps are not part of the accessioning workflow, they are listed in the [3.6 Accessioning Checklist](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#36-accessioning-checklist>) as part of the procedure.
+The Rose Library aims to make all new acquisitions available to researchers immediately following the accessioning of collection material. Traditionally, an accession workflow does not include processing, but the Rose Library completes extensible or minimal processing at this point to make the collection discoverable and usable. More granular processing is not necessary at this time, but, at minimum, the material must be described at the box/container level. More granular processing may be done in some cases (e.g., where the collection is quite small or researcher interest is high). Therefore, while other processing workflows - creation of resource records and physical processing -  are not part of traditional accessioning, they are listed in the [3.6 Accessioning Checklist](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#36-accessioning-checklist>) as part of the Rose Library process.  
 
 ### 3.2.1 Airtable Acquisitions and Accessioning base
-The Acquisitions & Accessioning base in Airtable documents the acquisition workflow and includes records of acquisitions based on paperwork from the donor and information from the curatorial team. Airtable also tracks the stages of completion of acquisitions including their location and extent among other administrative content. 
+The Acquisitions & Accessioning base in Airtable documents the acquisition workflow and includes records of acquisitions based on paperwork from the donor and information from the curatorial team. Airtable also tracks the stages of completion of acquisitions including their location and extent among other administrative content.
 
-#### 3.2.1.1 Create checklist
-*	Click on the *Accessioning Checklist tab* in the Acquisitions and Accessioning base and navigate to “(yourname)’s Gallery View” under the "Accessioning Workflow" view.
+#### 3.2.1.1 Using "Views" in Airtable
+Views are personalized access portals to the content of the Acquisitions & Accessioning Base.  Each view can have its own unique configurations, customizable via the filters at the top of the page. For accessioning, the most useful fields include:
+*	Creator
+*	Accessioning Record Title (which deviates from “Title” in that title is the collection name and accessioning record title refers to the accession project)
+*	Accession number
+*	Stage
+*	Location
+*	Paperwork
+*	Extent information (including linear feet and item number)
+
+At this initial point, confirm the following in Airtable: 
+*	That the accession number is entered and correct
+*	The Assigned To field includes your name
+*	That Paperwork field links to the correct file in the Sharepoint Acquisition folder
+
+#### 3.2.1.2 Create Airtable checklist (optional, but recommended)
+*	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "My personal views" view.
 *	Click on the (+) at the bottom right of the screen to open the checklist
-*	Type the title of the accession. This is not the collection title, so it can be the "Atlanta Daily World records" if it starts a new collection, but if it's an addition to an existing collection, you will title this space as "addition to Atlanta Daily World"
-  	-	Note the Date of Invoice on the Acquisitions & Accessioning tab
-   	-	Click on the "+Add Record" button next to the "Acquisitions & Accessioning Table Link"
-  	-	Start typing the name of the accession (as found in the Airtable record) and a suggested list will come up.
-   		- 	Because many of the records have the same name, and the Date of Invoice is the only other field that shows up in the list, you can use that information to identify the correct record.	
-    	-	Click on the correct record to connect the checklist to the appropriate record.
-	*Confirm that you have linked to the correct accession record by clicking through the record once you have attached it. Scroll to the bottom of that record, click on the button to “Show (#) fields” and search for the Accession record number to which you can compare to the accession number you are using. If you’ve chosen the wrong accession record, go back to the checklist and hover over the box in the Acquisitions & Accessioning Table Link until the “x” appears.*
-*	Complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
-
-#### 3.2.1.2 Checklist view
+*	Type the title of the accession. This is not the collection title, so it can be the "Atlanta Daily World records" if it starts a new collection, but if it's an addition to an existing collection, you will title this space as " Atlanta Daily World additions". [This is a free text field where you can enter whatever title you like. You will link to the Airtable record in the next step.]  
+*	Click on Add record. Start typing the name of the accession (as found in the Airtable record) and a suggested list will come up. Click on the correct record to connect the checklist to the appropriate record.
+  	- *In cases where there are multiple accessions with similar, if not the same, accession titles, confirm that you have linked to the correct accession record by clicking through the record once you have attached it. Scroll to the bottom of that record, click on the button to “Show (#) fields” and search for the Accession record number to which you can compare to the accession number you are using. If you’ve chosen the wrong accession record, go back to the checklist and hover over the box in the Acquisitions & Accessioning Table Link until the “x” appears.*
+   	-*Identifying the "Date of Invoice" can also help you select the correct record as it displays in the selection*
+*	As you go through the accessioning process, complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
 
 #### 3.2.1.3 Finalize and update Airtable record
-*	When accession is completed, use the drop down to update the *Stage* to "Accesioning and/or Cataloging Completed"
+*	When accessioning is completed, use the drop down to update the *Stage* to "Accesioning and/or Cataloging Completed"
 *	Confirm the *Accession #* is entered and correct
 *	Update the *Linear Feet*, *MSS Items* and *Extent Type* as well as an other *Special Format* fields
-*	Update the *Assigned To* field with your name if not already updated
 *	Enter the current date in the *Accession Date* field
 *	Confirm that the correct link is used in the *Paperwork* field
   
-### 3.2.2 ArchivesSpace
-The Head of Processing manages the [acquisition workflow](<https://github.com/rose-collectionservices/collection-services-manual/edit/master/02-ACQUISITIONS/readme.md#221-receipt-of-new-or-potential-acquisitions>) which can overlap steps in the accessioning workflow including creating the stub accession record in ASpace. In rare circumstances, archivists will need to complete steps in that workflow, but normally, the archivist will follow the [accessioning checklist](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides/checklists/Accessioning_checklist.docx?d=w1e2057bf9129418e8a56ef133477332e&csf=1&web=1&e=4gfgFP>) to complete the accession record.
+### 3.2.2 Accessioning workflow for Processing Archivists
+The Head of Processing manages the acquisition workflow, which can overlap steps in the accessioning workflow. Typically, the Head of Processing will have created the stub accession record before handing the accession off to a processing archivist, and the processing archivist is then responsible for updating the record during accessioning.  Processing archivists should refer back to [2.2.3 ArchivesSpace stub accession record](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#223-archivesspace-stub-accession-record<) to verify that all content is entered into the ArchivesSpace accession record. Normally, the archivist will not have to start within the [2.2 Acquisition workflow](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#22-acquisition-workflow-)>), but will only have to follow the accessioning checklist.
 
+Archivists will use the location in Airtable to locate and pull the acquisition materials.  Paperwork should be with the acquisition, but if it isn’t, use the link in Airtable's *Paperwork* field or ArchivesSpace's *External Document* sub-record to print it out and write the accession number on the top of the page.
 
-#### 3.2.2.8 Event records
-Confirm the Custody Transfer and Agreement Signed event records have been completed
-*	Use *Browse* drop down menu and select *Accessions* to search for the accession.
-*	Identify the accession and use the *View* option to access the record
-*	Scroll to the Events Subrecord to view the event types
-*	If not completed, follow workflow in Acquisitions section
+Update the accession record in ArchivesSpace
+*	Update and complete any fields in the accession record that the Head of Processing could not complete during initial receipt, according to [2.2.3 ArchivesSpace stub accession record](https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#223-archivesspace-stub-accession-record>). 
+	-	Fields in ArchivesSpace marked with a red asterisk are required by ArchivesSpace. 
+	-	The Rose Library requires additional information for a record to be considered complete. 
+*	Typically, the processing archivist should update:
+	-	Extents
+	-	Dates
+	-	Instances sub-record
+		-	If any instances are attached to the Accession Record, delete them after you have pulled the boxes and are ready to begin accessioning, either by deleting the sub-records that are attached to the accession record or through top container management. 
+	-	Event records, using the *Browse* drop down menu and select *Accessions* to produce a list of Accessions
+		-	Confirm the *Custody Transfer* and *Agreement Signed* event records have been completed by clicking *View* and reviewing the contents (see [2.2.3.10 Event records](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/02-ACQUISITIONS#22310-event-records>)).
+		-	Add the *Accession* event record by clicking on *Edit* to open the record and selecting *Accession* from the *Add Event* drop down menu in the top right. Complete the record according the following content:
 
-At the point of accessioning, the archivist will create an Accession event record to document the completion of the workflow.
-*	Click on the *Edit* button on the top left to open the record
-*	Click on the *Add Event* drop down menu on the top right and select *Accession*; click *Add Event*
-	-	Basic information heading
- 		-	Type is equal to "accession"
-		-	Outcome is “Fulfilled”
-	-	Event Date/time heading
-		-	Choose "UTC Timestamp" as the specifier in the drop down menu
-		-	Add the current date in the format noted into the UTC Timestamp field (YYYY-MM-DD)
-  		-	Hours, minutes, and seconds not required		
-	-	Agent link heading
-		-	Role: Use the drop down menu to select "archivist"
-		-	Agent: archivist’s name
-	-	Record Link heading
-		-	Role: Source
-		-	Record should autopopulate with the accession number and title to which the event record is attached.
-*	Save Event
+| Accession Event Fields                                        | Content                                                                                                                                                                                                                                                       |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Basic Information|<ul>Type: accession (from drop down menu)</ul><ul>Outcome: Fulfilled (from drop down menu)</ul>|
+|Event Date/Time|<ul>Date/Time specifier: UTC Timestamp (from drop down menu)</ul><ul>UTC Timestamp: date the material arrived on-site in YYYY-MM-DD format</ul><ul> Hours, minutes, and seconds not required</ul>|
+|Agent Links|<ul>Role: archivist (from drop down menu)</ul><ul>Agents: name of archivist accessioning (from drop down menu)</ul>|
+|Record Links|<ul>Role: Source (should be autofilled, but if not, select from drop down menu)</ul><ul>Record: accession record that this custody record was pulled from (should be autofilled, but if not, select from drop down menu) </ul>
+
+*	Save the Event record
 
 ## 3.3 Accessioning Digital Objects
 
@@ -142,28 +149,12 @@ If a collection (or addition to a collection) is comprised exclusively of a file
 * The digital archivist ingests the transferred files into the digital repository.
 * The digital archivist adds information about the file transfer to the born-digital inventory, and notes that files have been ingested into the digital repository.
 
-### 3.5 Creating the CL-2 File
+## 3.5 Creating the CL-2 File
+The Head of Processing should have created the CL-2 file as part of the acquisition process (see [2.4.2 Creating the CL-2 File](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/02-ACQUISITIONS/readme.md#242-creating-the-cl-2-file>)), so it should be placed with the accession materials.
 
-The permanent collection files document the history of a collection including solicitation, acquisition, processing, and communications with the donor. They will contain transfer paperwork such as deeds of gift or sale and supporting documentation such as invoices, donor correspondence, paper inventories, and other items that help the Rose Library manage and administer the collection. 
+The Archivist accessioning the materials will be responsible for filing the physical documents alphabetically by main entry in the cabinets located on the L9 BizHub room or, in the case of additions, file the paperwork in the established collection file.
 
-At the point of accessioning, the Head of Processing will 
-*	Link the deeds and other acquisitions paperwork (found in the [Sharepoint Acquisitions folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Acquisitions?csf=1&web=1&e=1TZPwS>)) to:
-	-	The ArchivesSpace Accession Record under *External Documents*
-	-	The Airtable record in the Acquisitions & Accessions base in the *Paperwork* field.
-*  	Either print out the electronic copy or include the original paperwork with the collection material
-*  	Tell the Archivist where the materials and paperwork are located.
 
-The Archivist who will accession the materials will create the physical CL-2 file
-*	Write the accession number on the paperwork
-*	Print the [collection file’s label](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Collection%20Processing%20Templates/Labels/Collection%20File%20Folder%20Labels.doc?d=w77a10adb8c2d4fa797bc64adef3a20ef&csf=1&web=1&e=vVH3VP>)
-*	File the physical documents alphabetically by main entry in the cabinets located on the L9 BizHub room.
-*	If the accession is an addition, the archivist will file the paperwork in the established collection file.
-
-If you pull a collection file from the cabinet for longer than a business day, you must fill out an “out” card with the collection title, your name, and the date. When you return the file, remove the out card and add the date you returned it. One might pull a file while accessioning an addition, processing a collection, or to assist a researcher.  Much of the information contained in the collection file is sensitive, and the files are considered confidential. Biographical information, restrictions, rights information, summary collection histories, and inventories may be shared with students and researchers if appropriate.
-
-### 3.5.1 Electronic CL-2 File (Vital Docs Folder)
-
-There are legacy [electronic CL-2 files](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=wQoUaX>) available on OneDrive/SharePoint. These files are no longer maintained since acquisitions paperwork pertaining to new accessions is already maintained on OneDrive and available through ArchivesSpace and Airtable and can serve as the electronic record. Once material is accessioned, the connection between the paperwork, the accession record, and the collection will be clear in ArchiveSpace. From FY19 forward, please refer to ArchivesSpace, the physical CL-2 file, and/or the electronic acquisitions paperwork for information concerning the history of collections.
 
 ### 3.6 Accessioning Checklist
 - [ ] [Create/update accession record in ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#322-archivesspace>)
