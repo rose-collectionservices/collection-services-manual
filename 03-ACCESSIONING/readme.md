@@ -149,6 +149,8 @@ The Archivist accessioning the materials will be responsible for filing the phys
 
 
 ### 3.6 Accessioning Checklist
+[Link to printable version of Accessioning Checklist](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides/checklists/Accessioning_checklist.docx?d=w1e2057bf9129418e8a56ef133477332e&csf=1&web=1&e=4PgDtn>)
+
 - [ ] [Create/update accession record in ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/blob/master/03-ACCESSIONING/readme.md#322-archivesspace>)
 	- [ ] [Confirm Custody Transfer and Agreement Signed events](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-ACCESSIONING#3228-event-records>)
 	- [ ] [Add Accession event](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/03-ACCESSIONING#3228-event-records>)
@@ -175,9 +177,8 @@ The Archivist accessioning the materials will be responsible for filing the phys
 - [ ] Announce new collections or significant additions on the #collections Slack channel
 - [ ] Inform or request that curators inform donors and/or creators that new collections are now open
 
----
 
-<a id="anchor1">[1]</a> Access copies of documents referenced in this section are available [here](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK/related-files/).
+
 
 
 
