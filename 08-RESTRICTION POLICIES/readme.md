@@ -64,9 +64,9 @@ For records created by Emory departments and offices, consult the [retention sch
 
 For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor Imposed Restrictions](#81-donor-imposed-restrictions) and [8.3 Protection of Privacy in MSS and EUA collections](#83-protection-of-privacy-in-MSS-and-EUA-collections).  
 
-* A.	Unprocessed university collections are closed to researcher uses.  Unprocessed university collections may be opened for research with permission and prior review by the University Archivist.  
+* A.	Unprocessed university collections are closed to research use.  Unprocessed university collections may be opened for research with permission and prior review by the University Archivist.  
 
-* B.	Records of the Office of the President are closed to researchers use for 20 years beginning on the date on which the president leaves office.  The restriction applies to the entire body of records created during the president’s tenure.  
+* B.	Records of the Office of the President are closed to research use for 20 years beginning on the date on which the president leaves office.  The restriction applies to the entire body of records created during the president’s tenure.  
 
 * C.	Records of the Board of Trustees and its committees are closed for 25 years from the date of creation.   
   * All Board of Trustees records are closed for 25 years except those records that were made publicly available (i.e. rosters of Board members).
