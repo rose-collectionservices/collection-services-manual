@@ -8,11 +8,14 @@ Current owner: **Becky Sherman**
   	* [13.1.4 Alma holdings locations]
   	* [13.1.5 Book Finding Aid] 
 * [13.2 Onsite Stacks Management](#131-onsite-stacks-management)
-	* [13.1.1 Onsite Storage Locations](#1311-onsite-storage-locations)
- 	* [13.1.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
-  	* [13.1.4 Maintenance of movable shelving units]
+	* [13.2.1 Onsite Storage Locations](#1311-onsite-storage-locations)
+ 	* [13.2.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
+  	* [13.3.3 Maintenance of movable shelving units]
 * [13.3 Offsite Storage Locations]
-
+	* [13.3.1 Library Service Center (LSC)]
+ 	* [13.3.2 Access Storage]
+  	* [13.3.3 CV Fine Art]
+  	   
 * [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
 	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
 	* [13.2.2 Physical processing](#1322-physical-processing2)
@@ -59,9 +62,6 @@ Although ArchivesSpace is now the system of record for locations for all accessi
 The Master Shelf List also has a tab for the born digital inventory
 [Legacy note: The Pending Acquisitions tab of the Master Shelf List is no longer updated, but contains some legacy information about locations of unaccessioned materials in the backlog that may be useful.]
 
- 
-
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com.  
 
 #### 13.1.4 Alma holdings location
 
@@ -71,14 +71,14 @@ The Master Shelf List also has a tab for the born digital inventory
 The [Book Finding Aid](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EWcl1ejWBbxGsBOCt63VnyEBaZUth59gnSMWr7h2w6rymw?e=6RrgQf)  provides locations for books collections in the Level 9 stacks.
 
 
-## 13.1 Onsite Stacks Management 
+## 13.2 Onsite Stacks Management 
 
   
 
 The Senior Collections Processing Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Senior Collections Processing Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space.  
 
 
-### 13.1.1 Onsite Storage Locations 
+### 13.2.1 Onsite Storage Locations 
 
 * On Level 9:
 	* Book Stacks 
@@ -120,7 +120,7 @@ We communicate stack locations by giving a range and bay for an item:
 
 * Shelves are the individual shelves within a bay. 
 
-### 13.1.2 Box naming conventions based on shelving locations
+### 13.2.2 Box naming conventions based on shelving locations
 Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
 * OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
 * XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
@@ -130,24 +130,23 @@ Historically Rose Library has used several different nomenclature/box numbering 
 * LP--phonograph record boxes that are stored on 11-
 * CLP (combined LP)--phonograph record boxes that contain items from multiple collections and are stored on 11-
   
-
-
-
-  
-
-
-
-
-
-
-### 13.1.3 Managing Locations in ArchivesSpace
-
-  
-### 13.1.4 Maintenance of movable shelving units
+### 13.2.3 Maintenance of movable shelving units
 
 * Rose Library has unit... 
 * We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
 
+
+## 13.3 Offsite storage locations
+
+### 13.3.1 Library Service Center (LSC)
+
+### 13.3.2 Access Storage
+
+Rose Library has material stored at Access Storage. The University Records Manager places all requests to retrieve material from Access. 
+
+### 13.3.3 CV Fine Art
+
+Rose Library has some material stored at CV Fine Art.
 
 
 ## 13.2 LSC Ingest Policies and Procedures
