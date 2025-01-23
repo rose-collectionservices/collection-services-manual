@@ -4,6 +4,7 @@
 * [8.2 Preservation restrictions](#82-preservation-restrictions)
 * [8.3 Protection of privacy in MSS and EUA collections](#83-protection-of-privacy-in-mss-and-eua-collections)
 * [8.4 Emory University Archives restrictions](#84-emory-university-archives-restrictions)
+* [8.5 Restricting and redacting materials during physical processing](#85-restricting-and-redacting-materials-during-physical-processing)
 
 
 ## 8.1 Donor Imposed Restrictions
@@ -91,5 +92,7 @@ For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor
 
 * G.	Medical records and patient/client files are restricted for 100 years from the date of creation.
 
-See 10.6 Restricting and redacting materials for how to restrict materials during physical processing.
+## 8.5 Restricting and redacting materials during physical processing
+
+See [10.6 Restricting and redacting materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#106-restricting-and-redacting-materials) for how to restrict materials during physical processing.
    
