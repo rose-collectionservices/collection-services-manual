@@ -1,9 +1,9 @@
 # Stacks Management [This section needs to be updated]
 
 Current owner: **Becky Sherman**
-* [13.1 Onsite Stacks Management]
-	* [13.1.1 Onsite Stacks Locations]
- 	* [13.1.2 Box naming conventions based on shelving locations]
+* [13.1 Onsite Stacks Management](#131-onsite-stacks-management)
+	* [13.1.1 Onsite Storage Locations](#1311-onsite-storage-locations)
+ 	* [13.1.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
  	* [13.1.2 The Shelf List]
   	* [13.1.3 Managing Locations in ArchivesSpace]
   	* [13.1.4 Maintenance of movable shelving units]
@@ -29,51 +29,46 @@ Current owner: **Becky Sherman**
 The Senior Collections Processing Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Senior Collections Processing Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space.  
 
 
-### 13.1.1 Onsite Stacks Locations 
-
-  
-
-We have five primary stacks locations:  
-
-  
+### 13.1.1 Onsite Storage Locations 
 
 * On Level 9:
 	* Book Stacks 
-	* Manuscript storage for unaccessioned manuscript collections
+	* Manuscript storage for unaccessioned manuscript collections (both MSS and EUA)
+ 	* Curatorial review shelves (09-32a) 
    
 * On Level 11:
 	* Main Stacks (the first room off of the elevator on Level 11) 
-		* Manuscript collections 
-		* EUA Collections 
-		* Oversized bound volumes from MSS collections 
-		* Bound volumes from EUA collections 
+		* Manuscript collections (accessioned)
+		* EUA Collections (both accessioned and unaccessioned)
+		* Oversized bound volumes (OBVs) from MSS collections 
+		* Bound volumes (BVs)from EUA collections
+  		* Oversized papers (OPs) from EUA collections
+    		* Storage closet contains some collection material  	 
 
 	* The Nunnery 
-		* Manuscript collections 
+		* Manuscript collections (both accessioned and unaccessioned) 
 		* Vault 
-		* XOP shelving 
-		* Oversized bound volumes from MSS collections 
+		* Extra-oversized papers (XOP) shelving for MSS and EUA collections 
+		* Oversized bound volumes (OBVs) from MSS collections 
 		* LP boxes 
 
 	* The Abbey
-		* Oversized papers (OP) 
-		* Bound volumes from MSS collections 
+		* Oversized papers (OPs) from MSS collections 
+		* Bound volumes (BVs) from MSS collections 
 		* Hanging art storage 
 		* Architectural drawings (rolled items)
 		* Newspapers
+    
   	* [Machine room--some EUA framed items are stored in the machine room on L11] 	
 
 * Library Service Center 
 
-  
 
 We communicate stack locations by giving a range and bay for an item: 
 
-  
-
 * Ranges are one side of an aisle. These are numbered, and, in the books stacks, also given an A or B designation; 
 
-* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right. Always read bays left to right when you face them. 
+* Bays are sections of shelving within the range. The bays receive alphabetical designations. When you are looking at a range the A bay will be on your left and proceed through the alphabet to your right. Always read bays left to right while facing them. 
 
 * Shelves are the individual shelves within a bay. 
 
