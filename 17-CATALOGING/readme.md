@@ -18,7 +18,7 @@
 
 See [OCLC Client Set Up in Emory University Libraries Alma Documentation](https://emory.screenstepslive.com/s/alma/m/settings/l/522172-oclc-client-set-up-production)
 
-* The OCLC gateway export password is in SharePoint at the bottom of [OCLC_connexion_collection_cataloging]
+* The OCLC gateway export password is in SharePoint at the bottom of [OCLC_connexion_collection_cataloging](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eb4s4Rso_RZMoAWbJ72_pecB9_tRLxjzYY77SCbR0oEEfw?e=gE31g6)
 
 ### 17.1.2 Creating an OCLC catalog record for archival collections
 
