@@ -16,11 +16,11 @@ Current owner: **Becky Sherman**
 	* [13.2.6 Sending items to the LSC](#1326-sending-items-to-the-lsc)
 	* [13.2.7 Removing boxes from the LSC](#1327-removing-boxes-from-the-lsc)
 	* [13.2.8 LSC ingest checklist](#1328-lsc-ingest-checklist)
- * [13.3 Documenting missing boxes and items]
- 	* [13.3.1 Documenting missing boxes]
-  	* [13.3.2 Documenting missing items and folders]
-   	* [13.3.3 Documenting missing items and folders without an identified container]
-   	* [13.3.4 Documenting missing books]
+ * [13.3 Documenting missing boxes and items](#133-documenting-missing-boxes-and-items)
+ 	* [13.3.1 Documenting missing boxes](#1331-documenting-missing-boxes)
+  	* [13.3.2 Documenting missing items and folders](#1332-documenting-missing-items-and-folders)
+   	* [13.3.3 Documenting missing items and folders without an identified container](#1333-documenting-missing-items-and-folders-without-an-identified-container)
+   	* [13.3.4 Documenting missing books](#1334-documenting-missing-books)
 
 ## 13.1 Onsite Stacks Management 
 
@@ -251,9 +251,9 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 <a id="anchor3">[3]</a> Detailed instructions for running this script are included in the EAD manual.
 
 
-## 16.3 Documenting missing boxes and items
+## 13.3 Documenting missing boxes and items
 
-### 16.3.1 Documenting missing boxes
+### 13.3.1 Documenting missing boxes
 
 * If a MSS or EUA box is missing (and you can reasonably conclude that the container actually existed at one point):
   	* In In ASpace, change the current location for that container to “MISSING."
@@ -272,7 +272,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
    		* Local Access Restriction Type = Select restricted
 		* Content = Box is missing as of (date)
 
-### 16.3.2 Documenting missing items and folders
+### 13.3.2 Documenting missing items and folders
 * In ASpace, for the archival object that is missing, add after the title of the AO [MISSING]
 * In ASpace, for the archival object that is missing, add a Conditions Governing Access Note:
   	* Publish = true
@@ -285,7 +285,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 	* Delete the Archival Object in ASpace
 	* Add a memo to the CL-2 file documenting that the item was declared permanently missing and deleted from the finding aid.
 
-### 16.3.3 Documenting missing items and folders without an identified container
+### 13.3.3 Documenting missing items and folders without an identified container
 
 * On rare occasions, a folder/item cannot be located due to containers being renumbered. For example, OPs in a collection were renumbered at some point and now an OP folder cannot be located.
 * Check other logical containers (i.e. oversized folders and boxes) to try and locate the item. If the item cannot be located and you cannot identify the container that it should be in, document as follows.
@@ -309,7 +309,7 @@ If the barcode needs to be removed from Alma right click on the "actions" button
   	* Content = Item/folder is missing as of (date)
 * Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor)
 
-### 16.3.4 Documenting missing books
+### 13.3.4 Documenting missing books
   
 * Missing books should be added to the [Missing books spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfTaM8c26vROpWCkE5obViABudgB1RfE2MynHNIGMTyyrQ?e=1qSuPa). 
 * The Rare Book Librarian will mark the item as missing in Alma [LINK TO CATALOGING MANUAL]  
