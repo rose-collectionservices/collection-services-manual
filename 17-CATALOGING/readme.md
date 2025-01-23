@@ -1,8 +1,9 @@
 # Cataloging
 
-* [17.1 OCLC Connexion](#171-oclc-connexion]
+* [17.1 OCLC Connexion](#171-oclc-connexion)
    * [17.1.1 OCLC Client Set Up to export to Alma](#1712-OCLC-client-set-up-to-export-to-alma)
    * [17.1.2 Creating an OCLC catalog record for archival collections](#1711-creating-an-oclc-catalog-record-for-archival-collections)
+   * [17.1.3 Deleting OCLC holdings and OCLC records](#1713-deleting-oclc-holdings-and-oclc-records)
  
 * [17.2 Alma](#172-alma)
   * [17.2.1 Master list of Alma holdings record locations used in Rose](#1721-master-list-of-alma-holdings-record-locations-used-in-rose)
