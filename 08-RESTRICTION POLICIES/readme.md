@@ -1,7 +1,5 @@
 # Restriction Policies
 
-Content owner: **Sarah Quigley**
-
 * [8.1 Donor imposed restrictions](#81-donor-imposed-restrictions)
 * [8.2 Preservation restrictions](#82-preservation-restrictions)
 * [8.3 Protection of privacy in MSS and EUA collections](#83-protection-of-privacy-in-mss-and-eua-collections)
@@ -60,6 +58,38 @@ Generally, staff does not evaluate collection contents for subjectively sensitiv
  
 ## 8.4 Emory University Archives restrictions
 
-[This section needs to be updated]
+The [Emory University Archives access policy](https://libraries.emory.edu/sites/default/files/2021-12/eua-access-policy.pdf) restricts access to certain categories of university records. The guidelines below provide guidance on implementing EUA restrictions during processing. These guidelines are a work-in-progress and will be updated as new scenarios arise during processing that require restriction and appraisal decisions to be made. 
 
+For records created by Emory departments and offices, consult the [retention schedules](https://records.emory.edu/records-retention-schedules) for more information about the appraisal and disposition of specific records. 
+
+For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor Imposed Restrictions](#81-donor-imposed-restrictions) and [8.3 Protection of Privacy in MSS and EUA collections](#83-protection-of-privacy-in-MSS-and-EUA-collections).  
+
+* A.	Unprocessed university collections are closed to researcher uses.  Unprocessed university collections may be opened for research with permission and prior review by the University Archivist.  
+
+* B.	Records of the Office of the President are closed to researchers use for 20 years beginning on the date on which the president leaves office.  The restriction applies to the entire body of records created during the president’s tenure.  
+
+* C.	Records of the Board of Trustees and its committees are closed for 25 years from the date of creation.   
+  * All Board of Trustees records are closed for 25 years except those records that were made publicly available (i.e. rosters of Board members).
+
+* D.	Financial records and records relating to donors are closed for 75 years from the date of creation. 
+  * All records of donors and donations made to the university are restricted for 75 years.
+  * Departmental budget information does not need to be restricted, unless there are records of salaries or other financial compensation paid to individuals (which falls under personnel records). 
+  * Financial information related to grants and awards, or donations for the specific purpose of funding grants, awards, etc., does not need to be restricted as this is public information (with the exception of salary info).
+  * Expense reports and payment vouchers can be removed and discarded.
+
+* E.	Student educational records such as credentials, grade sheets, correspondence, reports, notes, applications, and all other records pertaining to past and present students are governed by the Family Educational Rights and Privacy Act of 1974 and are restricted for 75 years from the date of creation.  
+  * Generally student work should be removed and discarded.  
+  * Student work intended for public display can be kept at the archivist’s discretion, if it has exceptional research value (for example, student projects on Emory history intended for public exhibit). 
+  * Discard applications by students for programs, grants, etc.   
+  * Letters of recommendation written by faculty on behalf of students do not need to be removed or restricted, since they are not part of the official university student record. 
+
+* F.	Personnel related files of the University's faculty and staff, including search, review, promotion, reappointment, tenure, and disciplinary/grievance records, are restricted for 75 years from the date of creation. 
+  * Records related to the salary of individuals and to financial compensation to individuals who were employed by the university, including contractors, should be restricted for 75 years. Departmental budgets and other aggregated information about salaries does not need to be restricted.
+  * Discard applications by faculty and staff for programs, grants, etc.; program and grant applications found in personal papers that belong to the creator of the collection may be retained at the archivist’s discretion.
+  * All materials related to evaluation of faculty as part of the tenure process are restricted for 75 years.
+  * Letters of recommendation for faculty written for the purpose of grants, etc. do not need to be restricted.
+
+* G.	Medical records and patient/client files are restricted for 100 years from the date of creation.
+
+See 10.6 Restricting and redacting materials for how to restrict materials during physical processing.
    
