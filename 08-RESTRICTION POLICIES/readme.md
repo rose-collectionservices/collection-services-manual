@@ -79,7 +79,7 @@ For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor
   * Expense reports and payment vouchers can be removed and discarded.
 
 * E.	Student educational records such as credentials, grade sheets, correspondence, reports, notes, applications, and all other records pertaining to past and present students are governed by the Family Educational Rights and Privacy Act of 1974 and are restricted for 75 years from the date of creation.  
-  * Generally student work should be removed and discarded.  
+  * Generally student work should be removed and discarded, especially graded, marked-up copies of student work.  
   * Student work intended for public display can be kept at the archivist’s discretion, if it has exceptional research value (for example, student projects on Emory history intended for public exhibit). 
   * Discard applications by students for programs, grants, etc.   
   * Letters of recommendation written by faculty on behalf of students do not need to be removed or restricted, since they are not part of the official university student record. 
