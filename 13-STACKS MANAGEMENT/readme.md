@@ -4,8 +4,7 @@ Current owner: **Becky Sherman**
 * [13.1 Onsite Stacks Management](#131-onsite-stacks-management)
 	* [13.1.1 Onsite Storage Locations](#1311-onsite-storage-locations)
  	* [13.1.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
- 	* [13.1.2 The Shelf List]
-  	* [13.1.3 Managing Locations in ArchivesSpace]
+  	* [13.1.3 Systems of record for location management]
   	* [13.1.4 Maintenance of movable shelving units]
 * [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
 	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
@@ -118,7 +117,9 @@ The Master Shelf List also has a tab for the born digital inventory
 
 **Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com.  
 
-  
+#### 13.1.3.4 Book Finding Aid
+
+The [Book Finding Aid](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EWcl1ejWBbxGsBOCt63VnyEBaZUth59gnSMWr7h2w6rymw?e=6RrgQf)  provides locations for books collections in the Level 9 stacks.
 
 
   
@@ -126,7 +127,6 @@ The Master Shelf List also has a tab for the born digital inventory
 
 
 
-The [Finding Aid](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI") provides locations for book collections in the stacks on Level 9. 
 
 
 ### 13.1.3 Managing Locations in ArchivesSpace
