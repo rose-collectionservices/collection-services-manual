@@ -28,6 +28,7 @@ See instructions in SharePoint in [OCLC_connexion_collection cataloging](https:/
 
 See instructions in SharePoint in [OCLC_connexion_deleting OCLC holdings and OCLC records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZsVdhx86UxGhYsyhH7fx58Bv6XpuAxoX3hxSGnuYLq1uw?e=o5NJOU)
 
+
 ## 17.2 Alma
 
 ### 17.2.1 Master list of Alma holdings record locations used in Rose
