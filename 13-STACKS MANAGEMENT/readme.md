@@ -108,9 +108,8 @@ The Senior Collections Processing Archivist is responsible for maintaining the p
 		* Architectural drawings (rolled items)
 		* Newspapers
     
-  	* [Machine room--some EUA framed items are stored in the machine room on L11] 	
-
-* Library Service Center 
+  	* Machine room
+  		* EUA framed items 	
 
 
 We communicate stack locations by giving a range and bay for an item: 
