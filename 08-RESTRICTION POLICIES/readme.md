@@ -73,7 +73,7 @@ For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor
 
 * D.	Financial records and records relating to donors are closed for 75 years from the date of creation. 
   * All records of donors and donations made to the university are restricted for 75 years.
-  * Departmental budget information does not need to be restricted, unless there are records of salaries or other financial compensation paid to individuals (which falls under personnel records). 
+  * Departmental budget information does not need to be restricted, unless there are records of salaries or other financial compensation paid to individuals (see personnel records below).  
   * Financial information related to grants and awards, or donations for the specific purpose of funding grants, awards, etc., does not need to be restricted as this is public information (with the exception of salary info).
   * Expense reports and payment vouchers can be removed and discarded.
 
@@ -84,7 +84,7 @@ For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor
   * Letters of recommendation written by faculty on behalf of students do not need to be removed or restricted, since they are not part of the official university student record. 
 
 * F.	Personnel related files of the University's faculty and staff, including search, review, promotion, reappointment, tenure, and disciplinary/grievance records, are restricted for 75 years from the date of creation. 
-  * Records related to the salary of individuals and to financial compensation to individuals who were employed by the university, including contractors, should be restricted for 75 years. Departmental budgets and other aggregated information about salaries does not need to be restricted.
+  * Records related to the salary of individuals and to financial compensation to individuals who were employed by the university, including contractors, should be restricted for 75 years. Departmental budgets and other aggregated information about salaries does not need to be restricted. If individual salary information is included in a departmental budget, that portion of the budget can be separated and restricted (if feasible).
   * Discard applications by faculty and staff for programs, grants, etc.; program and grant applications found in personal papers that belong to the creator of the collection may be retained at the archivist’s discretion.
   * All materials related to evaluation of faculty as part of the tenure process are restricted for 75 years.
   * Letters of recommendation for faculty written for the purpose of grants, etc. do not need to be restricted.
