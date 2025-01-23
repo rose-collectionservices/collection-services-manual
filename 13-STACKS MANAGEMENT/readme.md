@@ -83,23 +83,25 @@ Historically Rose Library has used several different nomenclature/box numbering 
 * CLP (combined LP)--phonograph record boxes that contain items from multiple collections and are stored on 11-
   
 
-### 13.1.3 Shelf Lists 
+### 13.1.3 Systems of Record for Location Management
 
-  
+#### 13.1.3.1 Airtable (acquisitions and unaccessioned material)
 
-Collection Services and Emory University Archives staff manage the locations of all manuscript and archival collections in an [Excel spreadsheet called the Master Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=B8KPCv> "https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Master%20shelf%20list.xls?d=w5e47b298820e4ed493f614b98b20e8c1&csf=1&web=1&e=B8KPCv") located on OneDrive/SharePoint. The shelf list is used to record the location and extent of each collection. It includes tabs for MSS collections, EUA collections, born digital inventory, and unaccessioned material (pending tab). All staff members and students have reading access to the document, but only collections services and EUA staff can edit the shelf list. 
+The [Acquisitions and Accessioning base in Airtable](https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide) is the system of record for locations of unaccessioned manuscript and EUA material. Going forward, all new accessions should also have ArchivesSpace instances that include the location.
 
-  
+[Legacy note: The Pending Acquisitions tab of the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EeaPlvAEiXlDiYEIsCKKOmIBvtqxGMDbM50pZ5qmZaBWdg?e=QDYZBe) is no longer updated, but contains some legacy information about locations of unaccessioned materials in the backlog that may be useful.] 
 
-**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com.  
+#### 13.1.3.2 ArchivesSpace (accessioned MSS and EUA collections)
 
-  
+[ArchivesSpace](https://archives.libraries.emory.edu/staff/?login=true) is the system of record for locations of all accessioned MSS and EUA collections.
 
-The shelf list should be updated: 
+Going forward, all new accessions should also have ArchivesSpace instances that include the location.
 
-  
+#### 13.1.3.3 Master Shelf List (updated for accessioned MSS and EUA collections; born digital inventory)
 
-* When new collection material is received (in the pending tab) 
+Prior to 2023, Collections Services managed the location of all MSS and EUA collections in the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EeaPlvAEiXlDiYEIsCKKOmIBvtqxGMDbM50pZ5qmZaBWdg?e=cRPZYq) in SharePoint.
+
+Although ArchivesSpace is now the system of record for locations for all accessioned MSS and EUA collections, we continue to update the Master Shelf List due to discrepancies and bad data in ArchivesSpace. Update the Master Shelf List:
 
 * When a new collection is accessioned (physical or born digital) 
 
@@ -109,21 +111,20 @@ The shelf list should be updated:
 
 * When a collection is deaccessioned 
 
-  
+The Master Shelf List also has a tab for the born digital inventory
+[Legacy note: The Pending Acquisitions tab of the Master Shelf List is no longer updated, but contains some legacy information about locations of unaccessioned materials in the backlog that may be useful.]
 
-The notes field can be used to record: 
+ 
 
-  
-
-* When a collection is being processed 
-
-* Restrictions 
-
-* Unusual location information 
-
-* Notes on if a collection has been deaccessioned or transferred  
+**Note:** In addition to the Rose stacks and the LSC, the Rose has material stored at CV Fine Art Storage and in dark storage at Access. The University Records Manager places all requests to retrieve material from Access. Our contacts to retrieve material at CV Fine Art are Mark Pennell at mpennell@classicdesignservices.com and Caroline Snowberger at caroline@classicdesignservices.com.  
 
   
+
+
+  
+
+
+
 
 The [Finding Aid](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI> "https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Shelf%20Lists/Book%20Finding%20Aid.xlsx?d=we8d5256705d646bcb01382b7add59f21&csf=1&web=1&e=pNBvCI") provides locations for book collections in the stacks on Level 9. 
 
