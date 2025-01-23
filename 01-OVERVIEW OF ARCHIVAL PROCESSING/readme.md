@@ -3,7 +3,6 @@
 
 * [1.1 What it means to process](#11-what-it-means-to-process)
 * [1.2 What we do and do not do when we process](#12-what-we-do-and-do-not-do-when-we-process)
-* [1.3 How we manage restrictions](#13-how-we-manage-restrictions)
 
 ## 1.1 What it means to process:
 
@@ -37,13 +36,4 @@ Archivists process collections by applying their knowledge of professional best 
 *	Interpret the meaning or possible use of a collection or document.
 *	Arrange items within files or folders.
 *	Promise to identify every occurrence of personal information.
-
-## 1.3 How we manage restrictions:
-
-In the course of processing a collection, archivists make every reasonable attempt to locate and redact or restrict confidential records.  Confidential records are any records that must be restricted from public access for a period of time to ensure compliance with legal or statutory regulations.  Examples include third party student records (FERPA), personnel records, some medical records, and privileged attorney-client or doctor-patient communications. In addition, as a matter of course, we make a reasonable attempt to identify social security numbers, tax returns, bank account information and medical records and remove or redact this information as well. 
-
-In addition to confidential records, which are restricted as a matter of course, we also make every reasonable attempt to locate and redact or restrict any material stipulated in the donor agreement.  This may include categories of information that a donor wishes to restrict for a period of time and falls into the category of private information, or what we often call donor-imposed restrictions.   This allows the donor more control over how the Library manages access to the collection. 
-
-Because of the size and scope of manuscript collections the archivists are not able to examine every sheet of paper in a collection, but instead are trained to identify document types and formats most likely to contain confidential and private information.  
-
-Archivists do not apply their personal opinions about what might constitute sensitive information and will not restrict documents or information that may be controversial or embarrassing unless instructed to by the donor.  
+ 
