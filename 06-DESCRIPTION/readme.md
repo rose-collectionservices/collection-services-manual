@@ -1188,8 +1188,11 @@ This field identifies any additional formats, such as microfilm or digital surro
 * Also available on microfiche. 
 * Minutes also available on microfilm. 
 * Typewritten transcript available. 
-* The majority of this collection is available digitally to researchers in the [Emory Digital Collections Repository](<https://digital.library.emory.edu/>). Users with an Emory University network ID should log in to view additional images unavailable to the general public. 
-
+* This collection is available digitally in the [Emory Digital Collections repository](<https://digital.library.emory.edu/>). Some digitized items are accessible only in the Rose Library reading room or by logging in with an Emory network ID.
+* The majority of this collection is available digitally in the [Emory Digital Collections repository](<https://digital.library.emory.edu/>). Users with an Emory University network ID should log in to view additional images unavailable to the general public.
+* Selected items from this collection are available digitally in [Aviary](<https://aviary.libraries.emory.edu/>), Emory's audio and video platform.
+* Interviews and event recordings are available in [Aviary](<https://aviary.libraries.emory.edu/>), Emory's audio and video platform.
+ 
 **Corresponding MARC field:**  530
 
 **Corresponding EAD element(s):** ``<altformavail></altformavail>``
