@@ -156,17 +156,108 @@ Example: Original URL was selected by curators (possibly Pellom McDaniels) and c
 * Access Restrictions Note (required when applicable). Describe the restriction here.  If this field is in use, it must include a termination date.
 * Use Restrictions (required when applicable). If any portion of the accession is restricted from certain kinds of use, check this box. Use restrictions apply in cases where special software is needed to render or view the capture.
 * Use Restrictions Note (required). For all archived websites:
-** This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
-* Dates (required). For type, select single if an ongoing capture (record enter the month and year of first capture) or inclusive if the website is defunct and/or no longer captured (enter the month and year of first and last captures).
+  * This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
+* Dates (required). For type, select single if an ongoing capture (enter the month and year of first capture) or inclusive if the website is defunct and/or no longer captured (enter the month and year of first and last captures).
 * Extents (required). The following guidelines are for hosted captures (e.g. Archive-It).  If the accession consists of WARC files or other derivatives stored in a general preservation system, a parallel extent statement for size in MB/GB (combined with any other born-digital material counted in MB/GB) should be added.
-** Portion: Whole
-** Number: Number of websites captured
-** Type: websites
+  * Portion: Whole
+  * Number: Number of websites captured
+  * Type: websites
 * Related resource (required). Link the accession to its corresponding resource record/parent collection.  
 * Agents (required if applicable). Add an agent link for the creator(s) of the website.
 * External Documents (required if applicable). If the acquisition is donor-initiated (e.g. part of the deed of gift or other acquisitions paperwork), use this field to link to relevant external documentation.
-** Title: Copy the title of the document from OneDrive/SharePoint
-** Location: Copy and paste the link to the document.
+  * Title: Copy the title of the document from OneDrive/SharePoint
+  * Location: Copy and paste the link to the document.
 
 #### Describing Web Archives
-[under construction]
+Once a website has been crawled by Archive-It and accessioned in ArchivesSpace, create descriptive information about the website in the ArchivesSpace resource record and in Archive-It. In general, ArchivesSpace is the database of record for descriptive metadata. Archive-It should duplicate information necessary for discovery and access and to be consistent with LIBSAFE Go, Emory Digital Collections, and other repositories, but does not serve as the authoritative descriptive record.
+
+##### ArchivesSpace
+If the collection as a whole is processed at the collection level or consists entirely of archived web content, archival objects representing web archives will be at the top level of the structure. If the collection is processed at the series level or more granularly, place the archival objects where they fit best intellectually. 
+
+For websites captured using Archive-It, create one file-level archival object for each seed, complete the fields listed below, and add a corresponding digital object as an instance. For websites archived using tools other than Archive-It, the same information should be recorded in the finding aid, although WARC files containing content from multiple sites/seeds may be described in aggregate using a single file-level AO and DO record when appropriate. 
+
+Regardless of the capture tool and level of description, the digital object that serves as the instance for each archival object should point to the repository where the packaged content is stored (e.g., Archive-It or LIBSAFE Go) and follow any additional applicable guidelines (e.g., Component Unique ID and other metadata fields used for content in LIBSAFE Go).
+
+This section includes guidelines and examples specific to web archives, but all description in ArchivesSpace should align with overall Rose Library policies. For additional instructions and fields not covered here, see the [general guidelines](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#611-main-entrycreator).
+
+Required elements for web archives described in ArchivesSpace resource records:
+* Title (file level)
+  * The name by which the website is known, in italics if the official title, followed by “[web archive]” (see 10.7.4.1 Digital media controlled vocabulary). If unclear, the archivist may derive a title from the page source (look for “title” in the metadata) or devise one using a brief description of the website content. Groups of websites represented as a single archival object are described in aggregate.
+  * Examples:
+    * Alice Walker: The Official Website [web archive]
+    * Statements and open letters [web archive]
+* Dates (file level)
+  * One-time capture:
+    * Type: Single
+    * Begin date: Month and year of capture
+  * Ongoing captures:
+    * Type: Inclusive
+    * Begin date: Year and month of first capture
+    * End date: Leave blank
+    * Date expression: [First crawl date]-ongoing (e.g., “2012 May-ongoing”)
+  * Multiple captures but no longer crawling:
+    * Type: Inclusive
+    * Begin date: Year and month of first capture
+    * End date: Year and month of last capture
+* Agents (file level)
+  * Creator:
+    * The organization or person principally responsible for creating the intellectual content of an archived website.
+    * If the website has the same creator as the entire collection, the collection-level creator entry is sufficient.
+    * If the creator of the archived website is different from the collection as a whole, add the creator as an agent at the file level with the role of “Creator.”
+    * Form this field according to DACS guidelines and use headings from LCNAF when possible.
+    * If the author/publisher is unknown, or if you are describing a group of archived websites from various creators, do not add a creator.
+  * Source:
+    * For websites captured by Rose Library staff, add “Emory University. Stuart A. Rose Manuscript, Archives, and Rare Book Library.” as an agent with the role of “Source” and the relator “Collector.”
+* Extent (collection level)
+  * Add the number of sites to the appropriate container summary (e.g., “1 archived website”) and include the volume of captured web content (in MB/GB) as part of the extent subrecord.
+  * For ongoing crawls, the storage volume count will quickly become outdated. If you have reason to revisit a collection, consider revising the extent, but at this time we do not systematically update this field.
+* Abstract (collection level)
+  * Add a mention of archived websites to the abstract if they are sizeable and/or have significant research value.
+* Scope and content note (collection and file level)
+  * At the collection/series/subseries level, as appropriate, make sure the note includes archived web content.
+  * At the file level, add a brief scope and content note explaining the content and context of the archived website. Note any limitations or possible content exclusions based on capture technology or QA processes.
+* Custodial history (collection and file level)
+  * If the collection has multiple archived websites, record seed-specific details at the file level and a brief overview at the collection level. If the collection has only one archived website or if there are multiple but they share the same custodial history, a collection-level note is sufficient.
+  * Briefly describe how the material was captured: who initiated and/or oversaw the capture, the tool(s) used, an overview of the capture timeline (start date, one-time vs. ongoing, frequency), and any unusual circumstances or specific context around the capture. 
+* Appraisal note (collection level)
+  * Record who selected the site for crawling (if known) along with their title. May also include reasons for crawling, if not obvious, and notes about seed scoping decisions. A collection-level note is sufficient unless the collection contains multiple web archives with significantly different appraisal processes and decisions.
+  * Examples:
+    * Selected for capture and acquisition by Katherine Fisher, Head of Digital Archives, in consultation with Randy Gue, Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements.
+    * Selected for capture and acquisition by John Bence, Assistant Director and University Archivist.
+    * Rose Library acquired the web archives as part of a larger group of digital materials selected by the donor. Katherine Fisher, Head of Digital Archives, assisted with capture at the donor’s request.
+    * Websites identified for archiving by various Rose Library staff and selected for crawling by Katherine Fisher, Head of Digital Archives, based on technical feasibility.
+* Conditions governing access and use (collection and file level)
+  * Not typically used for web archives, especially those crawled and accessed using Archive-It. If needed for content acquired through other workflows and tools, follow general guidelines for documenting restrictions.
+* Digital object record
+  * Add a DO as an instance for each web archive AO. Follow the [guidelines for describing digital content](https://emory.sharepoint.com/:w:/r/sites/EmoryUniversityLibraries/_layouts/15/Doc.aspx?sourcedoc=%7B25158557-429B-4A4A-867C-F6FE6FD0946D%7D&file=Metadata%20Guidelines%20for%20Digital%20Archival%20Objects%20in%20ArchivesSpace%20at%20Emory.docx&action=default&mobileredirect=true&DefaultItemOpen=1).
+  * Summary of requirements:
+    * Title: Repeat from AO
+    * Identifier: For Archive-It crawls, enter the Wayback URL for the list of captures. Example: https://wayback.archive-it.org/6326/*/https://opendoorcommunity.org/. For captures stored elsewhere, enter the equivalent PID/item link.
+    * Date: Repeat from AO
+    * File URI (for file version): Link to access version, if different from above. Repeat above URL if also used for access.
+    * Caption: Enter “Digital file available.” (Unless restrictions apply, then see DO guidelines for appropriate caption as well as file version handling.)
+    * Publish both the DO and the file version.
+
+##### Archive-It 
+Selected metadata entered in Archive-It should be transcribed to the finding aid to support management and integration.
+
+Note that collection-level metadata for Archive-It collections should not be changed. These collections exist for administrative purposes and do not correspond with provenance-based collections in ArchivesSpace. Seeds within the Archive-It collections are associated with various archival collections and ArchivesSpace resource records.
+
+Seed-level metadata in Archive-It describes individual websites and their captures. This metadata can be searched/browsed in Archive-It’s front-end interface (link), although ArchivesSpace remains the system of record for descriptive metadata and the primary access point for archived websites. 
+
+For more information about how to add seed-level metadata (including batch edits) in Archive-It, see the Archive-It Help Center.
+
+Complete the following fields for each seed, skipping other fields available in Archive-It:
+* Title (“Title” field in Archive-It): Must match AO title.
+* Call Number (custom field in Archive-It): Collection identifier formatted as in Cor (e.g., "MSS 930")
+* Holding Repository (custom field in Archive-It): Choose from controlled list (Stuart A. Rose Manuscript, Archives, and Rare Book Library; Emory University. General Libraries; Pitts Theology Library; Oxford College Library (Oxford, Ga.); Robert W. Woodruff Health Science Center. Library; MacMillan Law Library; Emory University Archives).
+* Creator (“Creator” field in Archive-It): Use LCNAF when possible.
+* Date Created (“Date” field in Archive-It): Describe the dates of the capture (year + month), not the site itself. Enter as a single date or range, using ISO 8601 date format, which calls for a forward slash separating start and end dates. Example: 2012-02/2022-12
+* Primary Language (“Language” field in Archive-It): Assume English unless another language is known to be present. Use ISO 639-2 Code (e.g., eng).
+* Rights Statement (custom field in Archive-It)
+  * If Emory owns the site: © Emory University. This online edition is made available for individual viewing and reference for educational purposes only. To request permission for further re-use, please contact the Rose Library at rose.library@emory.edu.
+  * If someone else owns the site: Emory University does not control copyright for this work. This online edition is made available for individual viewing and reference for educational purposes only, such as personal study, preparation for teaching, and research. Your reproduction, distribution, public display or other re-use of any content beyond a fair use as codified in section 107 of US Copyright Law or other applicable privilege is at your own risk.  It is your sole responsibility to investigate the copyright status of a work and obtain permission when needed.
+* Rightsstatement.org statement (“Rights” field in Archive-It): Enter https://rightsstatements.org/page/InC/1.0/ in most cases.
+* ArchivesSpace ID (“Identifier” field in Archive-It): Copy and paste the ArchivesSpace ref ID from the archival object record.
+* Accession Number (custom field in Archive-It): Record the accession number assigned when the site/crawl was accessioned.
+
