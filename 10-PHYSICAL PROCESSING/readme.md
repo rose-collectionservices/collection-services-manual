@@ -270,6 +270,7 @@ For help identifying digital media, see <a href="https://nypl.github.io/digarch/
 | laptop computer             	| MacBook, Chromebook                                                                                                                              	|                                                                                                                                                                             	|
 | memory card                 	| microSD, CompactFlash                                                                                                                            	| Use for any of the small memory cards often used in digital cameras and mobile phones                                                                                       	|
 | personal digital assistant  	| Palm Pilot, BlackBerry, Sidekick                                                                                                                 	| Use for pre-smartphone mobile devices used to organize and store personal information. Personal digital assistants may or may not include phone and Internet capabilities.  	|
+| web archive	|		| Use for WARC files and other forms of archived web content
 
 ## 10.8 Boxing Collections and Numbering Boxes
 
