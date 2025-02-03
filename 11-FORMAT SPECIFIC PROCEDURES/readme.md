@@ -215,12 +215,14 @@ Required elements for web archives described in ArchivesSpace resource records:
   * Add a mention of archived websites to the abstract if they are sizeable and/or have significant research value.
 * Scope and content note (collection and file level)
   * At the collection/series/subseries level, as appropriate, make sure the note includes archived web content.
+  	* Example: "The collection also contains the captured and preserved website of the Department of Music, available for browsing via the Internet Archive's Wayback Machine."	
   * At the file level, add a brief scope and content note explaining the content and context of the archived website. Note any limitations or possible content exclusions based on capture technology or QA processes.
-* Custodial history (collection and file level)
+  	* Example: "Preserved copies of the official department website include faculty and staff directories, news releases, course descriptions, and event calendars. Some embedded video content is not available."	
+* Custodial history (collection and/or file level)
   * If the collection has multiple archived websites, record seed-specific details at the file level and a brief overview at the collection level. If the collection has only one archived website or if there are multiple but they share the same custodial history, a collection-level note is sufficient.
-  * Briefly describe how the material was captured: who initiated and/or oversaw the capture, the tool(s) used, an overview of the capture timeline (start date, one-time vs. ongoing, frequency), and any unusual circumstances or specific context around the capture. 
+  * Briefly describe how the material was captured: who initiated and/or oversaw the capture, the tool(s) used, an overview of the capture timeline (start date, one-time vs. ongoing, frequency), and any unusual circumstances or specific context around the capture.
 * Appraisal note (collection level)
-  * Record who selected the site for crawling (if known) along with their title. May also include reasons for crawling, if not obvious, and notes about seed scoping decisions. A collection-level note is sufficient unless the collection contains multiple web archives with significantly different appraisal processes and decisions.
+  * Record who selected the site(s) for crawling (if known) along with their title. May also include reasons for crawling, if not obvious, and notes about seed scoping decisions. A collection-level note is sufficient unless the collection contains multiple web archives with significantly different appraisal processes and decisions.
   * Examples:
     * Selected for capture and acquisition by Katherine Fisher, Head of Digital Archives, in consultation with Randy Gue, Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements.
     * Selected for capture and acquisition by John Bence, Assistant Director and University Archivist.
