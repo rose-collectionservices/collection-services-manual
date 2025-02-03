@@ -218,7 +218,7 @@ Required elements for web archives described in ArchivesSpace resource records:
   	* Example: "The collection also contains the captured and preserved website of the Department of Music, available for browsing via the Internet Archive's Wayback Machine."	
   * At the file level, add a brief scope and content note explaining the content and context of the archived website. Note any limitations or possible content exclusions based on capture technology or QA processes.
   	* Example: "Preserved copies of the official department website include faculty and staff directories, news releases, course descriptions, and event calendars. Some embedded video content is not available."	
-* Custodial history (collection and/or file level)
+* Custodial history (collection and file level)
   * If the collection has multiple archived websites, record seed-specific details at the file level and a brief overview at the collection level. If the collection has only one archived website or if there are multiple but they share the same custodial history, a collection-level note is sufficient.
   * Briefly describe how the material was captured: who initiated and/or oversaw the capture, the tool(s) used, an overview of the capture timeline (start date, one-time vs. ongoing, frequency), and any unusual circumstances or specific context around the capture.
 * Appraisal note (collection level)
@@ -228,7 +228,7 @@ Required elements for web archives described in ArchivesSpace resource records:
     * Selected for capture and acquisition by John Bence, Assistant Director and University Archivist.
     * Rose Library acquired the web archives as part of a larger group of digital materials selected by the donor. Katherine Fisher, Head of Digital Archives, assisted with capture at the donor’s request.
     * Websites identified for archiving by various Rose Library staff and selected for crawling by Katherine Fisher, Head of Digital Archives, based on technical feasibility.
-* Conditions governing access and use (collection and file level)
+* Conditions governing access and use (collection and file level, if applicable)
   * Not typically used for web archives, especially those crawled and accessed using Archive-It. If needed for content acquired through other workflows and tools, follow general guidelines for documenting restrictions.
 * Digital object record
   * Add a DO as an instance for each web archive AO. Follow the [guidelines for describing digital content](https://emory.sharepoint.com/:w:/r/sites/EmoryUniversityLibraries/_layouts/15/Doc.aspx?sourcedoc=%7B25158557-429B-4A4A-867C-F6FE6FD0946D%7D&file=Metadata%20Guidelines%20for%20Digital%20Archival%20Objects%20in%20ArchivesSpace%20at%20Emory.docx&action=default&mobileredirect=true&DefaultItemOpen=1).
