@@ -211,7 +211,7 @@ Required elements for web archives described in ArchivesSpace resource records:
   * For ongoing crawls and archived websites stored with Archive-It, we do not currently record the volume (in MB/GB) of captured web content. For archived web content that is static and stored elsewhere, such as LIBSAFE Go, the volume should be included with other digital materials as part of hte extent subrecord. 
 * Abstract (collection level, required)
   * Add a mention of archived websites to the abstract if they are sizeable and/or have significant research value.
-* Scope and content note (collection/series/subseries level, required), 
+* Scope and content note (collection/series/subseries level, required)
   * At the collection/series/subseries level, as appropriate, make sure the note includes archived web content.
   * Example: "The collection also contains the captured and preserved website of the Department of Music, available for browsing via the Internet Archive's Wayback Machine."	
 * Scope and content note (file level, required)
@@ -225,7 +225,7 @@ Required elements for web archives described in ArchivesSpace resource records:
   * If the collection contains multiple web archives with significantly different appraisal processes and decisions, consider adding file-level notes in addition to a general overview at the collection level.
   * Examples:
     * Web archive selected for capture and acquisition by Katherine Fisher, Head of Digital Archives, in consultation with Randy Gue, Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, to document the online presence and public communications of the foundation. The archived website is a single capture acquired in 2021 using Webrecorder.
-    * Web archive selected for capture and acquisition by John Bence, Assistant Director and University Archivist. The website was first captured in 2012 and is crawled semiannually on an ongoing basis.
+    * Web archive selected for capture and acquisition by John Bence, Assistant Director and University Archivist. The website was first captured in 2012 and is crawled semiannually by Archive-It on an ongoing basis.
     * Rose Library acquired the web archive as part of a larger group of digital materials selected by the donor. Katherine Fisher, Head of Digital Archives, assisted with capture at the donor’s request.
     * Websites identified for archiving by various Rose Library staff and selected for crawling by Katherine Fisher, Head of Digital Archives, based on technical feasibility. The resulting web archives, captured in 2024 using ArchiveWeb.page, are preserved as WARC files.
 * Conditions governing access and use (collection and file level, if applicable)
