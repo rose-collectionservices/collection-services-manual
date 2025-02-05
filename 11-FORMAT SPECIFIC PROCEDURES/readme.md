@@ -211,9 +211,9 @@ Required elements for web archives described in ArchivesSpace resource records:
   * For ongoing crawls and archived websites stored with Archive-It, we do not currently record the volume (in MB/GB) of captured web content. For archived web content that is static and stored elsewhere, such as LIBSAFE Go, the volume should be included with other digital materials as part of hte extent subrecord. 
 * Abstract (collection level, required)
   * Add a mention of archived websites to the abstract if they are sizeable and/or have significant research value.
-* Scope and content note (collection/series/subseries level)
+* Scope and content note (collection/series/subseries level, required), 
   * At the collection/series/subseries level, as appropriate, make sure the note includes archived web content.
-  	* Example: "The collection also contains the captured and preserved website of the Department of Music, available for browsing via the Internet Archive's Wayback Machine."	
+  * Example: "The collection also contains the captured and preserved website of the Department of Music, available for browsing via the Internet Archive's Wayback Machine."	
 * Scope and content note (file level, required)
   * Add a brief scope and content note explaining the content and context of the archived website. Note any limitations or possible content exclusions based on capture technology or QA processes.
   * Example: "Preserved copies of the official department website include faculty and staff directories, news releases, course descriptions, and event calendars. Some embedded video content is not available."	
