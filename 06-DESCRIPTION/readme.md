@@ -431,18 +431,6 @@ For Manuscript collections, this is usually the last name of creator followed by
 For EUA collections, the EADID is “eua” followed by a four-digit series number (holding zeros are used, for example eua0301). The alpha and numerical portions are not separated by a space. [Legacy note: Historically the EADID for EUA collections also included a shortened form of the title, for ex. eua0029senate. After the migration to ASpace we have shifted to using just euaXXXX.]  
 
  
-**EAD Location**
-
-Do not use--leave blank. 
-
-[Legacy note: Records migrated from the Emory Finding Aids Database include an EAD location.]
-
-**Finding Aid Date**
-
-Do not use--leave blank.
-
-[Legacy note: Records migrated from the Emory Finding Aids Database include a finding aid date, which should be left intact because it indicates the date the finding aid was originally encoded. We are not using this field for new resource records going forward because ArchivesSpace will have that metadata elsewhere.]
-
 **Finding Aid Author (Required)** 
 
 Manually enter: “Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University” 
@@ -462,23 +450,17 @@ This field describes the language used in the finding aid, so it will usually be
  
 **Fields Not Used in Finding Aid Data Subheading** 
 
-Finding Aid Subtitle  
-
-Finding Aid Filing Title  
-
-Language of Description Note 
-
-Sponsor 
-
-Edition Statement 
-
-Series Statement 
-
-Finding Aid Status 
-
-Finding Aid Status Published
-
-Finding Aid Note 
+* EAD Location [Legacy note: Records migrated from the Emory Finding Aids Database include an EAD location.]
+* Finding Aid Subtitle  
+* Finding Aid Filing Title
+* Finding Aid Date [Legacy note: Records migrated from the Emory Finding Aids Database include a finding aid date, which should be left intact because it indicates the date the finding aid was originally encoded. We are not using this field for new resource records going forward because ArchivesSpace will have that metadata elsewhere.]
+* Language of Description Note 
+* Sponsor 
+* Edition Statement 
+* Series Statement
+* Finding Aid Status 
+* Finding Aid Status Published
+* Finding Aid Note 
 
 
 
