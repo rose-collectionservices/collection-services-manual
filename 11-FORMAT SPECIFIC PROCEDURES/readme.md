@@ -172,7 +172,7 @@ Example: Original URL was selected by curators (possibly Pellom McDaniels) and c
 Once a website has been crawled by Archive-It and accessioned in ArchivesSpace, create descriptive information about the website in the ArchivesSpace resource record and in Archive-It. In general, ArchivesSpace is the database of record for descriptive metadata. Archive-It should duplicate information necessary for discovery and access and to be consistent with LIBSAFE Go, Emory Digital Collections, and other repositories, but does not serve as the authoritative descriptive record.
 
 ##### ArchivesSpace
-Description in ArchivesSpace should be done at the time of resource record creation (or when an existing resource record is revised or new additions added). This work may be completed by a processing archivist or a digital archivist.
+Description in ArchivesSpace should be done at the time of resource record creation (or when an existing resource record is revised). This work may be completed by a processing archivist or a digital archivist.
 
 If the collection as a whole is processed at the collection level or consists entirely of archived web content, archival objects representing web archives will be at the top level of the structure. If the collection is processed at the series level or more granularly, place the archival objects where they fit best intellectually. 
 
