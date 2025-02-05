@@ -1030,11 +1030,21 @@ Indicates the preferred style for the citation of the unit being described.
 
 This field includes the Rose Library's preferred citation for the collection.  The citation only includes a description of the item and the title of the collection.  It does not include the manuscript number, or box and folder numbers.  Do not include dates in the title statement as dates are subject to change after detailed processing or as additions are accrued.   
 
-[identification of item(s)], [title statement], Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University 
+**For MSS collections:**
 
-**Example:**
+[identification of item(s)], [title statement], Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University. 
 
-* [after identification of item(s)], Alli Royce Soble photographs, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University. 
+Example:
+
+* [after identification of item(s)], Royce Soble photographs, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University.
+
+**For EUA collections:**
+
+[identification of item(s)], [title statement], Emory University Archives, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University. 
+
+Example:
+
+* [after identification of item(s)], Department of Music records, Emory University Archives, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University.
 
 **Corresponding MARC field:**  524
 
