@@ -430,6 +430,7 @@ For Manuscript collections, this is usually the last name of creator followed by
 
 For EUA collections, the EADID is “eua” followed by a four-digit series number (holding zeros are used, for example eua0301). The alpha and numerical portions are not separated by a space. [Legacy note: Historically the EADID for EUA collections also included a shortened form of the title, for ex. eua0029senate. After the migration to ASpace we have shifted to using just euaXXXX.]  
 
+**Finding Aid Title** (Still under discussion whether we should be using this field at all or not. Legacy finding aids that were migrated have a finding aid title. This title is overriding the title of the resource record in the PDF version, so dates are inaccurate.)
  
 **Finding Aid Author (Required)** 
 
