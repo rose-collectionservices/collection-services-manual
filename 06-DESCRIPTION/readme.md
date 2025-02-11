@@ -455,7 +455,6 @@ This field describes the language used in the finding aid, so it will usually be
 * Finding Aid Subtitle  
 * Finding Aid Filing Title
 * Finding Aid Date [Legacy note: Records migrated from the Emory Finding Aids Database include a finding aid date, which should be left intact because it indicates the date the finding aid was originally encoded. We are not using this field for new resource records going forward because ArchivesSpace will have that metadata elsewhere.]
-* Language of Description Note 
 * Sponsor 
 * Edition Statement 
 * Series Statement
