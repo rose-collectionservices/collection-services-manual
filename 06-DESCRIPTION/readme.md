@@ -434,7 +434,8 @@ For EUA collections, the EADID is “eua” followed by a four-digit series numb
  
 **Finding Aid Author (Required)** 
 
-Manually enter: “Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University” 
+* For MSS, manually enter: “Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University”
+* For EUA, manually enter: "Emory University Archives, Emory University"
 
 **Description Rules (Required; autofilled)** 
 
