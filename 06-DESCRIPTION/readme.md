@@ -713,7 +713,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
  
 *Collector and Collecting area (Required):*
  
-* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. 
+* Acquired by Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. 
 * Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.
 * Acquired by Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, Randy Gue, as part of the Rose Library’s holdings documenting arts and culture in Atlanta.
 * Acquired by Assistant Director and University Archivist, John Bence, as part of the Emory University Archives.
