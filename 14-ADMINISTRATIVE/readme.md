@@ -55,6 +55,8 @@ When the processing project is complete and all updates have been made to the wo
 Asana is the project management program that Collection Services uses to track processing projects. Projects can be divided into task lists and each task can be assigned to individual team members. Asana will send reminders about approaching deadlines to whoever is assigned a particular task. Asana also allows team members to communicate via comments on tasks. This program also offers a calendar view that allows team members to see deadlines in relation to other unit projects. When a task is marked complete, a rainbow unicorn or other mythical creature will fly across the computer screen to celebrate. Staff can use Asana to track other projects as well.
 
 ### 14.1.4 Clockify
+[This section is up to date]
+
 Clockify is the time tracking software used by Collection Services.  
 
 **Administrative info** 
