@@ -55,7 +55,73 @@ When the processing project is complete and all updates have been made to the wo
 Asana is the project management program that Collection Services uses to track processing projects. Projects can be divided into task lists and each task can be assigned to individual team members. Asana will send reminders about approaching deadlines to whoever is assigned a particular task. Asana also allows team members to communicate via comments on tasks. This program also offers a calendar view that allows team members to see deadlines in relation to other unit projects. When a task is marked complete, a rainbow unicorn or other mythical creature will fly across the computer screen to celebrate. Staff can use Asana to track other projects as well.
 
 ### 14.1.4 Clockify
-[This section needs to be updated]
+Clockify is the time tracking software used by Collection Services.  
+
+**Administrative info** 
+
+* The Rosecollectionservices’s workspace in Clockify is owned by the CS gmail; see [RL Login & Passwords](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EcFaFoFEMlFEjoYYJWiqNs0BxgdP05TmPnqYwJMuqSukXA?e=WNJ46M) for login info.  
+* Becky Sherman is the administrator of the account. Contact Becky to be added to the Clockify workspace. 
+* Staff should be added to the Collection Services group.  
+* Projects and tasks are shared by everyone in the Collection Services group.   
+	* A project is a broad category that covers a job function. All time logged in Clockify should be assigned to a project. New project categories should be approved by all staff before being added to Clockify.
+ 	* Tasks are subcategories below projects. Staff should create new tasks sparingly, since they are shared with the group. 
+* Optional additional descriptive data for individual use can be added to the free text description field. 
+* Tags can also be used to track certain data if they are deemed useful by the individual staff person. Current tags are “meetings” and “staff/user support.”
+
+**Guidelines for using project and task categories**
+
+* Administrative
+	* Staff, unit, and one on one meetings
+ 	* Other meetings that don’t fit into another specific category
+  	* Email
+  	* Writing and updating documentation
+  	* General administrative tasks
+* Campus Service
+	* Committee work that fits the Librarians’ Handbook definition of campus service
+ 	* Do not add individual committees to the list of Tasks. Use the free text description field for optional individual reporting.
+* Creative and Scholarly Endeavors
+	* Work that fits the Librarians’ Handbook definition of creative and scholarly endeavors, including time spent on presentations for conferences, publications, etc.
+ 	* Do not add individual projects to the list of Tasks. Use the free text description field for optional individual reporting. 
+* Professional Development
+	* Work that fits the Librarians’ Handbook definition of professional development
+ 	* Do not add individual committees or projects to the list of Tasks. Use the free text description field for optional individual reporting. 
+* Acquisitions (use tasks for EUA or MSS as appropriate)
+	* Contact with donors about acquisitions or paperwork
+ 	* Packing trips, including preparation
+  	* Receiving and shelving acquisitions
+  	* Logging acquisitions in Airtable and creating ASpace accession record
+  	* Managing acquisitions paperwork  
+* Collection Management
+	* AV liaison
+ 	* EUA and MSS collection management (choose appropriate task)
+  		* Prepping materials to be sent to the LSC
+    	* General collection management tasks including reconciling number of containers in a collection, renumbering boxes, reboxing, relabeling boxes, barcode issues, container management in ASpace, etc.
+	* Preservation liaison
+		* Preservation review of materials
+  		* Sending materials to Preservation and handling materials returned after treatment
+   * Stacks management
+		* Leak mitigation on L11
+		* Shelf inventory projects
+  		* Moving collection material
+  * Student supervision
+  	* Time spent training students and directing or reviewing student work
+* Priority Processing Projects
+	* Add a task for each priority processing project. The task can be marked as done when the project is complete, so that the task no longer displays in the active list.
+ 	* Student supervision
+  		* Time spent training students and directing or reviewing student work
+* Other Processing and Accessioning
+	* EUA and MSS (choose appropriate task)
+ 		* All accessioning projects; do not create tasks for accessioning projects. Use free text description field for optional individual reporting.
+   		* All other processing projects that have not been designated as priority processing projects. Use free text description field for optional individual reporting.
+   * Student supervision
+     * Time spent training students and directing or reviewing student work
+* Reference Desk/Reading Room
+	* Tracks time where your primary task is working at the reference desk or in the reading room. Even though you may be able to multitask while at the reference desk or in the reading room, you only need to log your primary task as reference desk/reading room.
+ 	* Backup shifts should NOT be logged as reference desk/reading room, unless you are actually sitting at the desk or actively pulling materials, etc. Log backup shifts according to your primary task during that time.
+* Outreach and Instruction
+	* Outreach on behalf of Rose Library including events, etc.
+ 	* Rose Library instruction sessions or other Emory Libraries instruction  
+
 
 ## 14.2 Workplace and Environment
 
