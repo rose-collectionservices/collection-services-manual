@@ -245,7 +245,6 @@ If the barcode needs to be removed from Alma right click on the "actions" button
 
 ## 13.2.8 LSC Ingest Checklist
 
-![Figure 4: LSC Ingest Checklist](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/LSC-Ingest-checklist.jpg "LSC Ingest Checklist")
 
 
 *Footnotes:*
