@@ -69,6 +69,7 @@ Clockify is the time tracking software used by Collection Services.
  	* Tasks are subcategories below projects. Staff should create new tasks sparingly, since they are shared with the group. 
 * Optional additional descriptive data for individual use can be added to the free text description field. 
 * Tags can also be used to track certain data if they are deemed useful by the individual staff person. Current tags are “meetings” and “staff/user support.”
+* When logging time, you do not need to use accurate time stamps. As a unit we are focused on tracking aggregate time spent on projects and tasks.
 
 **Guidelines for using project and task categories**
 
