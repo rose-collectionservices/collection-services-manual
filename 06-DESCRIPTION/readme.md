@@ -53,7 +53,7 @@ processes."<a href="#anchor1"><sup>1</sup></a>  Description applies to both the 
 creator and the collection, materials within collections, and collections within repositories.  Description reflects both physical and intellectual 
 arrangement but is not always an exact representation of that arrangement (for example, correspondence may be arranged at the item level but described at 
 the folder level, or materials may be arranged at the box level and described at the item level).  Rose Library description follows guidelines established 
-by Describing Archives: A Content Standard (DACS).
+by [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/).
 
 Finding aids are the most common form of description in the Rose Library, but description also refers to accession records, catalog records, and additional 
 inventories/descriptions created by curators, dealers, donors, or appraisers during the acquisition process.  Description may be more or less detailed 
