@@ -247,7 +247,7 @@ This quick guide outlines the steps to take when you encounter digital media whi
 	* 	If the content is a file transfer and there is no physical carrier, leave the AO without an instance.
 	* 	When the digital files are fully accessioned or processed, the digital archivist will add a DO record as an additional instance. 
 10. Add the following collection-level Conditions Governing Access note to the finding aid: "Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials." A digital archivist will change the note after the media are processed. 
-11. Notify a digital archivist directly in the following situations: large volume of digital media, priority processing project, known researcher demand, unusual or unidentifiable media, poor condition. Otherwise, the digital archivist will use the shelf list to identity and prioritize media for accessioning and processing. 
+11. Notify a digital archivist directly in the following situations: large volume of digital media, oversized media or computer equipment, priority processing project, known researcher demand, unusual or unidentifiable media, poor condition. Otherwise, the digital archivist will use the shelf list to identity and prioritize media for accessioning and processing. 
 
 #### 10.7.4.1 Digital media controlled vocabulary
 Based on AAT with local modifications. If other terms are needed, consult AAT first and then a digital archivist. 
