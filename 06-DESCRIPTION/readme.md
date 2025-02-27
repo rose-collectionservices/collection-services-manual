@@ -424,7 +424,7 @@ The Finding Aid Data sub-record is used to record administrative data about the 
 
 (DACS Chapter 13.2 Authority Record Identifier)
 
-The EAD ID is a unique identifier for the EAD, which was used when migrating finding aids to ASpace. We continue to use this field in case it is useful for exporting the EAD in the future.  
+The EAD ID is a unique identifier for the EAD, which was used when migrating finding aids to ASpace. The EAD ID also appears as the file title of the pdf version of the finding aid. We continue to use the EAD ID field in case it is useful for exporting the EAD in the future.  
 
 For Manuscript collections, this is usually the last name of creator followed by the manuscript number, all lowercase (e.g., jackson1531). In some cases, where the family name is not clarifying (i.e., there are already collections with that name), the processing archivist can choose to refine this by adding a first name (e.g. smithjohn12345). The alpha and numerical portions are not separated by a space. 
 
