@@ -416,7 +416,7 @@ data and/or extent of physical media for born digital content.
 
 ### 6.1.9 Finding aid data
 
-The Finding Aid Data sub-record is used to record administrative data about the archival description, usually for when the description is exported into Encoded Archival Description (EAD). This information is used to identify and provide bibliographic descriptive data about the finding aid for the resource and should not be confused with description of the archival resource itself. Some of this finding aid data is not required by ArchivesSpace for a valid resource record, and some fields do not directly correspond to DACS, but the following explains what is required and used administratively for Rose Library finding aids.  
+The Finding Aid Data sub-record is used to record administrative data about the archival description. This information is used to identify and provide bibliographic descriptive data about the finding aid for the resource and should not be confused with description of the archival resource itself. Description entered in the finding aid data sub-record appears in two place: 1) in the PUI, it populates the "Finding Aid & Administrative Information" fields and 2) in the pdf version of the finding aid, it appears on the cover page. Some of this finding aid data is not required by ArchivesSpace for a valid resource record, and some fields do not directly correspond to DACS, but the following explains what is required and used administratively for Rose Library finding aids.  
 
 **Fields in the Finding Aid Data subheading:**
 
@@ -424,14 +424,12 @@ The Finding Aid Data sub-record is used to record administrative data about the 
 
 (DACS Chapter 13.2 Authority Record Identifier)
 
-The EAD ID is a unique identifier for the EAD, which was necessary for the purposes of migrating finding aids to ASpace.  
+The EAD ID is a unique identifier for the EAD, which was used when migrating finding aids to ASpace. We continue to use this field in case it is useful for exporting the EAD in the future.  
 
 For Manuscript collections, this is usually the last name of creator followed by the manuscript number, all lowercase (e.g., jackson1531). In some cases, where the family name is not clarifying (i.e., there are already collections with that name), the processing archivist can choose to refine this by adding a first name (e.g. smithjohn12345). The alpha and numerical portions are not separated by a space. 
 
 For EUA collections, the EADID is “eua” followed by a four-digit series number (holding zeros are used, for example eua0301). The alpha and numerical portions are not separated by a space. [Legacy note: Historically the EADID for EUA collections also included a shortened form of the title, for ex. eua0029senate. After the migration to ASpace we have shifted to using just euaXXXX.]  
 
-**Finding Aid Title** (Still under discussion whether we should be using this field at all or not. Legacy finding aids that were migrated have a finding aid title. This title is overriding the title of the resource record in the PDF version, so dates are inaccurate.)
- 
 **Finding Aid Author (Required)** 
 
 * For MSS, manually enter: “Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University”
@@ -453,6 +451,10 @@ This field describes the language used in the finding aid, so it will usually be
 **Fields Not Used in Finding Aid Data Subheading** 
 
 * EAD Location [Legacy note: Records migrated from the Emory Finding Aids Database include an EAD location.]
+* Finding Aid Title 
+	* The finding aid title field appears in the PUI in "Finding Aid & Administrative Info" field and also appears in the pdf version of a finding aid on the title page. If the finding aid title is blank, the collection title will appear on the title page of the pdf version of the finding aid.
+	* For new resource records, leave blank.
+	* For legacy records, delete the finding aid title. Legacy records migrated with the title and dates in the finding aid title field, and this should be deleted when updating a resource record so that the dates are not inaccurate.
 * Finding Aid Subtitle  
 * Finding Aid Filing Title
 * Finding Aid Date [Legacy note: Records migrated from the Emory Finding Aids Database include a finding aid date, which should be left intact because it indicates the date the finding aid was originally encoded. We are not using this field for new resource records going forward because ArchivesSpace will have that metadata elsewhere.]
