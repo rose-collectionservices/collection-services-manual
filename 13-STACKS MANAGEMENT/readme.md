@@ -161,7 +161,7 @@ No collection that has active mold may be transferred to the LSC; however, mater
 
 ## 13.2.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
  
-In order for material to be safely transferred to the LSC and easily identifiable once it is there all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
+In order for material to be safely transferred to the LSC and easily identifiable once it is there, all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
 
 ## 13.2.3 Basic Minimum Housing Guidelines
 
@@ -177,7 +177,7 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 
 **For archival materials:**
 
-* Collection-level catalog (MARC) records that includes standard required notes fields (abstract, restrictions, language, summary, etc.) and has associated item records for each container being sent to the LSC is required.
+* Collection-level catalog (MARC) records that include standard required notes fields (abstract, restrictions, language, summary, etc.) and has associated item records for each container being sent to the LSC is required.
 * Collection-level finding aid with complete required notes fields per DACS.
 * Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.   
 
