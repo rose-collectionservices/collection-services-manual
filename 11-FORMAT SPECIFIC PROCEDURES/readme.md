@@ -45,7 +45,7 @@ For help identifying photographic formats or guidance on processing formats not 
 * Photographs can be stored upright; oversized photographs and particularly fragile photographs should be stored flat
 * Like sizes should be stored together to create even pressure in boxes; if a box contains multiple sizes and materials are slumping or bending, cardboard can be inserted between folders to create more stability (consult with preservation liaison first)
 * Avoid using paperclips and plastiklips on photographs whenever possible
-* Folder inserts or paper envelopes can be used to keep together a subset of photographs within a folder### 6.3.2 Labeling photographs:
+* Folder inserts or paper envelopes can be used to keep together a subset of photographs within a folder
 
 ### 11.1.2 Labeling photographs: 
 
