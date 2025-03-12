@@ -80,7 +80,7 @@ Conduct the following minor preservation work during granular processing:
 * Do not attempt to mend documents with pressure sensitive tape, even tape marketed as "archival."
 * If you encounter moldy materials, see [12.2 Moldy materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/12-PRESERVATION)
 
-For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison and/or Audiovisual Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment.
+For questions about possible preservation needs in a collection, consult the Rose Library Preservation Liaison and/or Audiovisual Liaison. When processing is complete, be sure to bring to the attention of the Preservation Liaison all preservation issues that may need to be sent to Preservation for further treatment. After discussing a preservation issue with the Preservation Liaison, the processing archivist can add the item to the [Conservation List](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfmSH0gzjXpNkiTPPZevGEwBZIjlKLAHV9HARpjV6M-XGQ?e=esu0KI). The Preservation Liaison is the only staff person who may transfer manuscript and archives material to the conservation lab.
 
 ## 10.4 Foldering Materials
 
