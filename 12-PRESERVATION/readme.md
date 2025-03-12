@@ -12,7 +12,7 @@ Content owner: **Becky Sherman**
  * [12.5 Environmental Monitoring](#125-environmental-monitoring)
 
 ## 12.1 Routine preservation during processing
-See [6.2 Routine preservation during processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-PHYSICAL%20PROCESSING#62-routine-preservation-during-processing)
+See [10.3 Routine preservation during processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#103-routine-preservation-during-processing)
 
 
 ## 12.2 Moldy Materials
