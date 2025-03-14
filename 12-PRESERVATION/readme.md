@@ -112,10 +112,12 @@ The process by which books enter and move through the queue is as follows:
 		* One half of the call slip is put in place of the book in the shelving location.
    	* Update the conservation list to reflect that the item has been sent to conservation.
 6. When the item is returned, the Rose Library liaison/Rare Book Cataloger will:
-	* Reshelve the book. 
-	* In Aeon, remove the request from that activity (done on the request itself).
-	* In Aeon, route the request to "Request finished."
- 	* Update the conservation list to reflect that treatment is complete and has been returned. 	 
+	* In Aeon:
+ 		* Remove the request from the preservation activity (done on the request itself).
+		* Route the request to "Request finished."	
+	* Update the conservation list to reflect that treatment is complete and has been returned.
+ 	* Reshelve the book.  
+ 	 
 
 **Special Procedures:**
 
