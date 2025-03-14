@@ -70,25 +70,23 @@ Transferring items to the conservation lab:
 
 Once items have been returned from conservation:
 1. When the item is returned, the Rose Library liaison will:
-	* In Aeon, add a new note to the request including a description of the problem, a description of the treatment, and the date the item was returned. (Re-writing the note is necessary because Aeon will only print the information contained in the most recent note in the record.) 
- 	* Print the Aeon request and file it in the CL-2 file. 	 
- 	* Remove the request from that activity in Aeon (done on the request itself).
-	* Route the request in Aeon to "Request finished."
- 	* Update the conservation list to reflect that treatment is complete and has been returned.
-  	* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.
-   	* Remove any restrictions from the item/s in ArchivesSpace, if necessary.
-   	* Print a hard copy of the [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz) and file it in the CL-2 file.
-   	* Place a hard copy of the [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz) in the box with the item, if appropriate.
-   	* In ArchivesSpace, create an event attached to the resource record to document the conservation treatment.
+	* In Aeon:
+ 		* Remove the request from the preservation activity (done on the request itself).
+		* Route the request to "Request finished."
+ 	* Update the conservation list to reflect that treatment is complete and item has been returned.
+  	* If Preservation staff completed a [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz), print two copies. File one in the CL-2 file and place one in the box with the item, if appropriate.
+    	* In ArchivesSpace, remove any restrictions from the item/s, if necessary.
+     	* In ArchivesSpace, create an event attached to the resource record to document the conservation treatment.
    		*  Event type = Conservation treatment
    	 	*  UTC timestamp = [date items returned from conservation]
    	  	*  Agent = [Preservation Liaison who received material from Preservation staff]
    	  	*  Agent role = Archivist
    	  	*  Record link = [should already link to the resource record]
-   	  	*  External documents
+   	  	*  External documents (required if applicable)
    	  		* Title = [insert title of conservation treatment report]
    	  	 	* Location = [insert link to conservation treatment report]
-   	  	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.     	 
+   	  	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.
+   	  * Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.   	 
 
 
 ### 12.3.2 Books
