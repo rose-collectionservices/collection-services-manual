@@ -68,25 +68,24 @@ Transferring items to the conservation lab:
 3. Rose Library liaison will deliver the item with call slip to the conservation staff during the monthly meeting. 
 4. Rose Library liaison and conservation staff will discuss the level and types of treatment.  A due date for return of the item to the Rose Library should also be determined if appropriate. 
 
-Once items have been returned from conservation:
-1. When the item is returned, the Rose Library liaison will:
-	* In Aeon:
- 		* Remove the request from the preservation activity (done on the request itself).
-		* Route the request to "Request finished."
- 	* Update the conservation list to reflect that treatment is complete and item has been returned.
-  	* If Preservation staff completed a [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz), print two copies. File one in the CL-2 file and place one in the box with the item, if appropriate.
-    	* In ArchivesSpace, remove any restrictions from the item/s, if necessary.
-     	* In ArchivesSpace, create an event attached to the resource record to document the conservation treatment.
-   		*  Event type = Conservation treatment
-   	 	*  UTC timestamp = [date items returned from conservation]
-   	  	*  Agent = [Preservation Liaison who received material from Preservation staff]
-   	  	*  Agent role = Archivist
-   	  	*  Record link = [should already link to the resource record]
-   	  	*  External documents (required if applicable)
-   	  		* Title = [insert title of conservation treatment report]
-   	  	 	* Location = [insert link to conservation treatment report]
-   	  	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.
-   	  * Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.   	 
+When the item is returned from the conservation lab, the Rose Library liaison will:
+* In Aeon:
+ 	* Remove the request from the preservation activity (done on the request itself).
+	* Route the request to "Request finished."
+* Update the conservation list to reflect that treatment is complete and item has been returned.
+* If Preservation staff completed a [conservation treatment report](https://emory.sharepoint.com/:u:/s/EUVRoseLibrary/ESzIgvOBA5JJl7791CCMt7wBlqa2ophHphE0jhK0hd5kwQ?e=GbLglz), print two copies. File one in the CL-2 file and place one in the box with the item, if appropriate.
+* In ArchivesSpace, remove any restrictions from the item/s, if necessary.
+* In ArchivesSpace, create an event attached to the resource record to document the conservation treatment.
+  	*  Event type = Conservation treatment
+   	*  UTC timestamp = [date items returned from conservation]
+  	*  Agent = [Preservation Liaison who received material from Preservation staff]
+   	*  Agent role = Archivist
+  	*  Record link = [should already link to the resource record]
+   	*  External documents (required if applicable)
+   	  	* Title = [insert title of conservation treatment report]
+   	  	* Location = [insert link to conservation treatment report]
+   	* If additional info needs to be recorded in the event record (i.e. the specific items treated) or there is no treatment report to link to in external documents, add that info in the Outcome Note.
+* Refile the item in the collection or reshelve the box. If part of an ongoing processing project, the liaison will return the material to the appropriate archivist.   	 
 
 
 ### 12.3.2 Books
