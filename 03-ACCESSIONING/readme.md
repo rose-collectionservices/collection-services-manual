@@ -12,14 +12,16 @@ Content owner:Laura Starratt
 	* [3.3.1 Acquisition Paperwork and CL-2 Files](#331-Acquisition-paperwork-and-CL-2-files)
 	* [3.3.2 Locate Physical Materials](#332-Locate-Physical-Materials)
 	* [3.3.3 Update the Accession Record in ArchivesSpace](#333-Update-the-accession-record-in-ArchivesSpace)
-		* [3.3.3.1 Events](#3331-events)
-  		* [3.3.3.2 Accession-level Instances](#3332-Accession-level-Instances)
+		* [3.3.3.1 Add Event Records](#3331-add-event-records)
+  		* [3.3.3.2 Remove Accession Record Instances](#3332-Remove-Accession-Record-Instances)
 * [3.4 Processing at the Point of Accessioning](#34-Processing-at-the-Point-of-Accessioning)
 	* [3.4.1 Arranging and Rehousing Collections](#341-Arranging-and-Rehousing-Collections)
-		* [3.4.1.2 Audiovisual Materials](#3412-Audiovisual-Materials)
+		* [3.4.1.1 Paper-based Materials](#3411-paper-based-materials)
+   		* [3.4.1.2 Audiovisual Materials](#3412-Audiovisual-Materials)
 		* [3.4.1.3 Born-digital Materials](#3413-Born-digital-Materials)
-			* [3.4.1.3.1 Collaboration with the Digital Archivist](#34131-Collaboration-with-the-Digital-Archivist)
-		* [3.4.1.4 Published Materials/Cataloging](#3414-Published-Materials/Cataloging)
+			* [3.4.1.3.1 Digital content not on physical media](#34132-digital-content-not-on-physical-media)
+   			* [3.4.1.3.2 Handoff to Digital Archives](#34132-handoff-to-Digital-Archives)
+ 		* [3.4.1.4 Published Materials/Cataloging](#3414-Published-Materials/Cataloging)
 	* [3.4.2 Describing Collections](#342-Describing-Collections)
 		* [3.4.2.1 Spawning a New Resource Record](#3421-Spawning-a-New-Resource-Record)
 		* [3.4.2.2 Updating a Resource Record](#3422-Updating-a-Resource-Record)
@@ -88,6 +90,9 @@ Airtable checklist (optional, but recommended)
 *	As you go through the accessioning process, complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
 
 ### 3.2.2 Tracking of Special Formats (Audiovisual, Born Digital, Web)
+*	Add information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored in the [Digital Archives Tab](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Shelf%20List.xlsx?d=wf0968fe689044379898108b0228a3a62&csf=1&web=1&e=izc57O&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0>) of the  Master Shelf List.
+*	Audiovisual materials should be included in the AV Inventory.
+
 ## 3.3 Accessioning Workflow
 ### 3.3.1 Acquisition Paperwork and CL-2 Files
 Confirm that you have the necessary acquisitions paperwork. 
@@ -141,21 +146,73 @@ The Accession event record should not be added until the collection is going thr
 |Agent Links|<ul>Role: archivist (from drop down menu)</ul><ul>Agents: name of archivist accessioning (from drop down menu)</ul>|
 |Record Links|<ul>Role: Source (should be autofilled, but if not, select from drop down menu)</ul><ul>Record: accession record that this custody record was pulled from (should be autofilled, but if not, select from drop down menu) </ul>
 
-#### 3.3.3.2 Accession-level Instances
+#### 3.3.3.2 Remove Accession Record Instances
 Remove all instances in the Accession record.  
 
 To individually remove instances, click on the x in the top right-hand corner of the Instance sub-record, and click on “Confirm Removal.” There will be no further confirmation.
 
-To bulk remove instances, use the Manage Top Containers option via the Accession search field.  Follow directions in (XXX ArchivesSpace containers)
+To bulk remove instances, use the Manage Top Containers option via the Accession search field.  Follow directions in [16. ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/16-ARCHIVESSPACE#archivesspace>)
 
 ## 3.4 Processing at the Point of Accessioning
+As mentioned in 3.1 Scope of Accessioning Workflow, the Rose Library’s workflow for accessioning includes minimal level processing (and, in some cases, more granular processing) as well as creating a spawned Resource Record for access.  
+
 ### 3.4.1 Arranging and Rehousing Collections
+#### 3.4.1.1 Paper-based Materials
+See the following sections:
+*	[5.1 Rose Library Levels of Arrangement and Description](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#51-levels-of-arrangement-and-description>).
+	*	Use, at the minimum, [Collection-level arrangement](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#512-collection-level>)
+*	[10. Physical Processing](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#physical-processing>)
+
 #### 3.4.1.2 Audiovisual Materials
+See the following sections:
+*	[10.7.3 Quick Guide to Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>)
+	*	Including additions to the AV inventory 
+*	For more granular processing, see [11.2 Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#112-audiovisual-materials>)
+
 #### 3.4.1.3 Born-digital Materials
-##### 3.4.1.3.1 Collaboration with the Digital Archivist  
+See the following sections:
+*	[10.7.4 Quick Guide to Digital Media](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>)
+	*	Refer to controlled vocabulary to describe digital media (see [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>)
+*	[11.3 Born-digital Materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#113-born-digital-materials>)
+*	[Rose Library Digital Archives Manual](<https://github.com/rose-collectionservices/digital-archives?tab=readme-ov-file#rose-library-digital-archives-manual>)
+
+Typically, if we receive laptops or personal computers, we will only retain the internal hard drives following processing. The Digital Archivist will send all other hardware and casings to surplus. You should therefore describe laptops and computers as “hard disks” in accession records (see 10.7.4.1 Digital media controlled vocabulary). If we do have reason to keep the entire computer (either because it features labels and markings intentionally added by the donor/creator that contribute significant meaning or because the entire computer will be required to access and transfer files), describe it as either “computer” or “laptop computer." Consult with the digital archivist if you are unsure of which term to use.
+
+Apart from exceptional cases, you should not accession computer peripherals (monitors, keyboards, etc.), networking hardware (routers, for example), and other electronic components not used to store data unless:
+*	They feature labels and markings intentionally added by the donor/creator that contribute significant meaning to the collection. These should not be labels or markings that simply denote ownership or give instruction on use or function (i.e., “Dorothy’s mouse” or “plug in here”).
+*	In cases where the associated hardware is particularly old or obscure and it has been deemed likely, following consultation with a digital archivist, this equipment will be required in order to access and transfer digital files from the associated hardware.
+
+If you have questions about whether a piece of equipment or media should be accessioned, consult with the digital archivist.
+
+##### 3.4.1.3.1 Digital content not on physical media
+In addition to accessioning any digital media following the instructions in the quick guide, check the acquisitions documentation for mention of file transfers, significant organizational or personal websites (see [11.4 Web Archives](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#114-web-archives>) for selection criteria), or other digital content not already accounted for. With the digital archivist, make a plan to incorporate these materials into the accession and resource records.
+
+##### 3.4.1.3.2 Handoff to Digital Archives
+After a collection archivist documents the presence of digital content and records baseline description, a member of the Digital Archives team is responsible for retrieving the content of physical media and transferring or capturing other content. The handoff from a collection archivist to a digital archivist is accomplished by recording the digital content in the shelf list and/or discussing the collection directly. 
+
+While the collection archivist may proceed with the workflow at this point, the collection will not be fully accessioned until a digital archivist completes the Tier 1 digital processing workflow and updates the accession and resource records accordingly. 
+
 #### 3.4.1.4 Published Materials/Cataloging
+See [10.5.2 Separating materials/Publications](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1052-publications)
+
 ### 3.4.2 Describing Collections
 #### 3.4.2.1 Spawning a New Resource Record
+If the newly accessioned collection establishes a new collection, follow the procedures listed in the ArchivesSpace wiki for Spawn Resource Record from Accession Record
+
+_Confirm that the Publish button is not checked._
+
+You will then complete the following:
+*	Confirm the content in the Resource Record is correct and add required information as explained in 5.1 Levels of Arrangement and Description and according to 6.1 Finding Aids
+*	Add Archival Objects to the Resource Record
+	*	Individually: (see To create resource archival object records under ArchivesSpace Resource Records: Archival Objects)
+		*	Required: Title, Level of Description (file), Click Publish?, Dates, Instances
+		*	Optional, but suggested when adding to miscellany collections: Accession Links,
+		*	Creating a Top container if a new box is created
+	*	Via spreadsheet (more information found at ArchivesSpace Importing Archival Objects from Excel or CSV File)
+o	Using the Rapid Data Entry (RDE) Tool (also see How to Create an RDE Template)
+•	If the accession establishes a new collection, or there is a significant addition, the finding aid should be sent for review via the procedures found in 6.3 Reviewing and editing finding aids
+•	Once a finding aid has been reviewed and/or all changes to the resource record have been finalized, publish the resource record.
+
 #### 3.4.2.2 Updating a Resource Record
 ### 3.4.3 Finding Aid Review
 ## 3.5 Cataloging at the Point of Accessioning
