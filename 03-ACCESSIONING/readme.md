@@ -24,7 +24,7 @@ Content owner:Laura Starratt
  		* [3.4.1.4 Published Materials/Cataloging](#3414-Published-Materials/Cataloging)
 	* [3.4.2 Describing Collections](#342-Describing-Collections)
 		* [3.4.2.1 Spawning a New Resource Record](#3421-Spawning-a-New-Resource-Record)
-		* [3.4.2.2 Updating a Resource Record](#3422-Updating-a-Resource-Record)
+		* [3.4.2.2 Updating an Existing Resource Record](#3422-Updating-an-Existing-Resource-Record)
 	* [3.4.3 Finding Aid Review](#343-Finding-Aid-Review)
 * [3.5 Cataloging at the Point of Accessioning](#35-Cataloging-at-the-Point-of-Accessioning)
 	* [3.5.1 MARC Records in OCLC Connexion](#351-MARC-records-in-OCLC-Connexion)
@@ -166,7 +166,7 @@ See the following sections:
 #### 3.4.1.2 Audiovisual Materials
 See the following sections:
 *	[10.7.3 Quick Guide to Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>)
-	*	Including additions to the AV inventory 
+	*	Including additions to the [AV inventory](<https://airtable.com/appeplPMjN4DSeF3K?>) _current link directly to inventory_
 *	For more granular processing, see [11.2 Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#112-audiovisual-materials>)
 
 #### 3.4.1.3 Born-digital Materials
@@ -187,6 +187,8 @@ If you have questions about whether a piece of equipment or media should be acce
 ##### 3.4.1.3.1 Digital content not on physical media
 In addition to accessioning any digital media following the instructions in the quick guide, check the acquisitions documentation for mention of file transfers, significant organizational or personal websites (see [11.4 Web Archives](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#114-web-archives>) for selection criteria), or other digital content not already accounted for. With the digital archivist, make a plan to incorporate these materials into the accession and resource records.
 
+If there are websites related to the collection that we should track as part of our web archiving program, please complete this form. [link to documentation that doesn’t exist yet]
+
 ##### 3.4.1.3.2 Handoff to Digital Archives
 After a collection archivist documents the presence of digital content and records baseline description, a member of the Digital Archives team is responsible for retrieving the content of physical media and transferring or capturing other content. The handoff from a collection archivist to a digital archivist is accomplished by recording the digital content in the shelf list and/or discussing the collection directly. 
 
@@ -195,8 +197,15 @@ While the collection archivist may proceed with the workflow at this point, the 
 #### 3.4.1.4 Published Materials/Cataloging
 See [10.5.2 Separating materials/Publications](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1052-publications)
 
-### 3.4.2 Describing Collections
-#### 3.4.2.1 Spawning a New Resource Record
+## 3.4.2 Label and barcode the boxes
+Once the finding aid is completed and reviewed, complete procedures found in [10. Physical Processing](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#physical-processing>) including:
+*	[10.9 Labeling boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#109-labeling-boxes>)
+	*	[13.2.2 Box naming conventions based on shelving locations](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/13-STACKS MANAGEMENT#1312-box-naming-conventions-based-on-shelving-locations>)
+*	[10.10 Barcoding boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1010-barcoding-boxes>)
+	*	File the barcode folder in the appropriate filing cabinet in 973B.
+
+### 3.4.3 Describing Collections
+#### 3.4.3.1 Spawning a New Resource Record
 If the newly accessioned collection establishes a new collection, follow the procedures listed in the ArchivesSpace wiki for Spawn Resource Record from Accession Record
 
 _Confirm that the Publish button is not checked._
@@ -213,7 +222,33 @@ o	Using the Rapid Data Entry (RDE) Tool (also see How to Create an RDE Template)
 •	If the accession establishes a new collection, or there is a significant addition, the finding aid should be sent for review via the procedures found in 6.3 Reviewing and editing finding aids
 •	Once a finding aid has been reviewed and/or all changes to the resource record have been finalized, publish the resource record.
 
-#### 3.4.2.2 Updating a Resource Record
+#### 3.4.2.2 Updating an Existing Resource Record
+*	Add Archival Objects to the Resource Record in the process most relevant to your materials (e.g., if there are items or a single folder, add the archival object individually)
+	*	Individually (see _To create resource archival object records_ under [ArchivesSpace Resource Records: Archival Objects](<https://archivesspace.atlassian.net/wiki/x/-gBLNQ>))
+		*	Required: Title, Level of Description (file), Click _Publish?_, Dates, Instances
+		*	Optional, but suggested: Accession Links
+		*	[Creating a Top container if a new box is created](<https://archivesspace.atlassian.net/wiki/x/DQBSNQ>)
+	*	[Via spreadsheet](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Manuals/ArchivesSpace/Guide_load via spreadsheet_ASpace.docx?d=w7768e7be34cb42cc987a5e44adc46353&csf=1&web=1&e=TyMgcK>) (more information found at [_ ArchivesSpace Importing Archival Objects from Excel or CSV File_](<https://archivesspace.atlassian.net/wiki/x/LoD4RQ>))
+	*	[Using the Rapid Data Entry (RDE) Tool](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>) (also see [How to Create an RDE Template](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>))
+*	Update [Collection-level Dates](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#617-dates>), [Extents](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#618-extent>), and other notes if necessary
+*	Publish Resource Record
+
+#### 3.4.2.3 Recording Physical Information
+Label and barcode any new boxes that are added to the collection, noting any physical concerns. More information about the creation and placement of labels and barcode and other box concerns are found in [10.9 Labeling boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#109-labeling-boxes>).  
+
+Print the barcode worksheet and complete the workflow explained in [10.10 Barcoding boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1010-barcoding-boxes>). File the barcode folder.
+
+Update information in ArchivesSpace via [Top Container Management](<>)
+*	[Barcodes](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Add-or-change-barcodes-associated-with-top-containers>)
+*	[Shelf Locations](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-locations-for-containers-stored-at-a-single-location>)
+*	[Container profiles](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-profiles>)
+
+Update information in [Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/_layouts/15/Doc.aspx?sourcedoc=%7BF0968FE6-8904-4379-8981-08B0228A3A62%7D&file=Shelf%20List.xlsx&action=default&mobileredirect=true>) (see tabs for Manuscript, EUA, Digital Archives, and AV Drives)
+*	Main Entry/Title
+*	Extents
+*	Locations
+*	Restrictions
+
 ### 3.4.3 Finding Aid Review
 ## 3.5 Cataloging at the Point of Accessioning
 ### 3.5.1 MARC Records in OCLC Connexion
