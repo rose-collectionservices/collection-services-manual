@@ -1,44 +1,40 @@
 
-# Accessioning workflow [Not complete]
+# Accessioning
 
 Content owner:Laura Starratt
 
-
 * [3.1 Scope of Accessioning Workflow](#31-scope-of-accessioning-workflow)
-* [3.2 Moving from Acquisition to Accessioning](#32-Moving-from-Acquisition-to-Accessioning)
-	* [3.2.1 Tracking New Acquisitions in Airtable](#321-Tracking-New-Acquisitions-in-Airtable)
-	* [3.2.2 Tracking of Special Formats (Audiovisual, Born Digital, Web)](#322-Tracking-of-Special-Formats-(Audiovisual,-Born-Digital,-Web))
-* [3.3 Accessioning Workflow](#33-Accessioning-workflow)
-	* [3.3.1 Acquisition Paperwork and CL-2 Files](#331-Acquisition-paperwork-and-CL-2-files)
-	* [3.3.2 Locate Physical Materials](#332-Locate-Physical-Materials)
-	* [3.3.3 Update the Accession Record in ArchivesSpace](#333-Update-the-accession-record-in-ArchivesSpace)
+* [3.2 Moving from Acquisition to Accessioning](#32-moving-from-acquisition-to-accessioning)
+	* [3.2.1 Tracking New Acquisitions in Airtable](#321-tracking-new-acquisitions-in-airtable)
+	* [3.2.2 Tracking of Special Formats](#322-tracking-of-special-formats)
+* [3.3 Accessioning Workflow](#33-accessioning-workflow)
+	* [3.3.1 Acquisition Paperwork and CL-2 Files](#331-acquisition-paperwork-and-cl-2-files)
+	* [3.3.2 Locate Physical Materials](#332-locate-physical-materials)
+	* [3.3.3 Update the Accession Record in ArchivesSpace](#333-update-the-accession-record-in-archivesspace)
 		* [3.3.3.1 Add Event Records](#3331-add-event-records)
-  		* [3.3.3.2 Remove Accession Record Instances](#3332-Remove-Accession-Record-Instances)
-* [3.4 Processing at the Point of Accessioning](#34-Processing-at-the-Point-of-Accessioning)
-	* [3.4.1 Arranging and Rehousing Collections](#341-Arranging-and-Rehousing-Collections)
-		* [3.4.1.1 Paper-based Materials](#3411-paper-based-materials)
-   		* [3.4.1.2 Audiovisual Materials](#3412-Audiovisual-Materials)
-		* [3.4.1.3 Born-digital Materials](#3413-Born-digital-Materials)
-			* [3.4.1.3.1 Digital content not on physical media](#34132-digital-content-not-on-physical-media)
-   			* [3.4.1.3.2 Handoff to Digital Archives](#34132-handoff-to-Digital-Archives)
- 		* [3.4.1.4 Published Materials/Cataloging](#3414-Published-Materials/Cataloging)
-	* [3.4.2 Describing Collections](#342-Describing-Collections)
-		* [3.4.2.1 Spawning a New Resource Record](#3421-Spawning-a-New-Resource-Record)
-		* [3.4.2.2 Updating an Existing Resource Record](#3422-Updating-an-Existing-Resource-Record)
-	* [3.4.3 Finding Aid Review](#343-Finding-Aid-Review)
-* [3.5 Cataloging at the Point of Accessioning](#35-Cataloging-at-the-Point-of-Accessioning)
-	* [3.5.1 MARC Records in OCLC Connexion](#351-MARC-records-in-OCLC-Connexion)
-	* [3.5.2 ALMA](#352-ALMA)
-* [3.6 Finalizing the Accession](#36-Finalizing-the-Accession)
-	* [3.6.1 Label and Barcode](#361-Label-and-barcode)
-	* [3.6.2 Stacks Management](#362-Stacks-Management)
-	* [3.6.3 Tracking Accession Workflow and Output](#363-Tracking-accession-workflow-and-output)
-* [3.7 Create the CL-2 File](#37-Create-the-CL-2-File)
-	* [3.7.1 Creating a Manuscript Collection File (CL-2 Files)](#371-Creating-a-manuscript-collection-file-CL-2-files)
-		* [3.7.1.1 “Legacy” Electronic CL-2 File (Vital Docs Folder)](#3711-“Legacy”-Electronic-CL-2-File-(Vital-Docs-Folder))
-	* [3.7.2 Creating an EUA Collection file (CL-2 Files)](#372-Creating-an-EUA-collection-file-(CL-2-files))
-	* [3.7.3 Using Collection Files (CL-2 files)](#373-Using-collection-files-(CL-2-files))
-* [3.8 Accessioning Checklist](#38-Accessioning-Checklist)
+  		* [3.3.3.2 Remove Accession Record Instances](#3332-remove-accession-record-instances)
+* [3.4 Arrangement and Description at the Point of Accessioning](#34-arrangement-and-description-at-the-point-of-accessioning)
+	* [3.4.1 Processing Paper-based Materials](#341-processing-paper-based-materials)
+	* [3.4.2 Processing Audiovisual Materials](#342-processing-audiovisual-materials)
+   	* [3.4.3 Processing Born-digital Materials](#343-processing-born-digital-materials)
+		* [3.4.3.1 Disposition of Computer Equipment](#3431-disposition-of-computer-equipment)
+		* [3.4.3.2 Digital Accessioning Workflows](#3432-digital-accessioning-workflows)
+   	* [3.4.4 Separating Publications for Cataloging](#344-separating-publications-for-cataloging)
+ * [3.5 Label and Barcode the boxes](#35-label-and-barcode-the-boxes)
+* [3.6 Creating Access Points at the Point of Accessioning](#36-creating-access-points-at-the-point-of-accessioning)
+* [3.6.1 Spawning a New Resource Record](#361-spawning-a-new-resource-record)
+	* [3.6.2 Updating an Existing Resource Record](#362-updating-an-existing-resource-record)
+	* [3.6.3 Recording Physical Information](#363-recording-physical-information)
+* [3.7 Cataloging at the Point of Accessioning](#37-cataloging-at-the-point-of-accessioning)
+	* [3.7.1 MARC Records in OCLC Connexion](#371-marc-records-in-oclc-connexion)
+	* [3.7.2 ALMA](#372-alma)
+* [3.8 Tracking Accession Workflow and Output](#38-tracking-accession-workflow-and-output)
+* [3.9 Create the CL-2 File](#39-create-the-cl-2-file)
+* [3.9.1 Creating a Manuscript Collection File](#391-creating-a-manuscript-collection-file)
+* [3.9.1.1 Legacy Electronic Collection File](#3911-legacy-electronic-collection-file)
+	* [3.9.2 Creating an EUA Collection File](#392-creating-an-eua-collection-file)
+* [3.10 Accessioning Checklist](#310-accessioning-checklist)
+
 
 Accessioning is the formal act of taking legal and physical control of an archival or manuscript collection. Formally, accessioning establishes the authenticity of the material through documenting the chain of custody. It also gives the Rose Library administrative and custodial control over collections and shows that the library is acting in good faith when accepting archival material by documenting the transfer and its terms.
 
@@ -63,7 +59,7 @@ When acquisitions are ready to move to the accessioning stage?:
 *	Information from curators (including notes taken by the Head of Processing during monthly Acquisition Strategies meetings and [Collection Information Sheets](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared Documents/Collection Development/Collection Information Sheets?csf=1&web=1&e=bQxH3V>) is passed on to the archivists responsible for the accessions
 
 ### 3.2.1 Tracking New Acquisitions in Airtable
-_For more background information about Airtable, see [2.3.2 Airtable](<>) _
+_For more background information about Airtable, see [2.3.2 Airtable](<>)_
 
 Once an accession has been assigned to an archivist, it will appear in their personal view (see 2.3.2 Airtable for more information including how to adjust your personal view). At this stage, an Airtable record should, at minimum, include the following fields: (see table in 2.3.2.1 Manuscript and Book Acquisitions in Airtable for more information on content)
 *	Creator
@@ -89,7 +85,7 @@ Airtable checklist (optional, but recommended)
 	*	_In cases where there are multiple accessions with similar, if not the same, accession titles, confirm that you have linked to the correct accession record by clicking through the record once you have attached it. Scroll to the bottom of that record, click on the button to “Show (#) fields” and search for the Accession record number to confirm that you have linked to the correct accession. If you’ve chosen the wrong accession record, go back to the checklist and hover over the box in the Acquisitions & Accessioning Table Link until the “x” appears. -Identifying the "Date of Invoice" can also help you select the correct record as it displays in the selection_
 *	As you go through the accessioning process, complete the steps in the Airtable checklist and confirm by clicking the checkboxes.
 
-### 3.2.2 Tracking of Special Formats (Audiovisual, Born Digital, Web)
+### 3.2.2 Tracking of Special Formats
 *	Add information regarding any known born-digital media and/or hardware to the born-digital inventory, which is stored in the [Digital Archives Tab](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Shelf%20List.xlsx?d=wf0968fe689044379898108b0228a3a62&csf=1&web=1&e=izc57O&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0>) of the  Master Shelf List.
 *	Audiovisual materials should be included in the AV Inventory.
 
@@ -110,7 +106,7 @@ If only the digital copy of the acquisition paperwork is available, print out a 
 
 When the accession is an addition to an established collection, review the documentation in the CL-2 file for background information on the papers or any conflicting information regarding disposition or restrictions. 
 
-For information about creating CL-2 files , (see ## Section to be Created about CL-2 files).
+For information about creating CL-2 files , (see 3.7 Create the CL-2 File).
 
 ### 3.3.2 Locate Physical Materials
 Confirm you have all the containers before you start the accession process. Check acquisitions documentation for any mention of file transfers or other digital content not already accounted for and make a plan to discuss born digital materials with the Digital Archivist.
@@ -131,7 +127,7 @@ Typically, the Head of Processing or University Archivist will create the prelim
 *	Extents
 *	Dates
 
-#### 3.3.3.1 Events
+#### 3.3.3.1 Add Event Records
 Confirm the Custody Transfer and Agreement Signed event records are added (see 2.2.3.10 Event Records for more information) by clicking on the view option for the Accession Record and scrolling to the bottom. Content for these records is usually found in the acquisition paperwork in either Airtable or ArchivesSpace or within fields in Airtable. 
 
 The Accession event record should not be added until the collection is going through the accession workflow. This record identifies the action taken by the archivist at this point and signifies, in ArchivesSpace, that accessioning has been completed.
@@ -153,116 +149,179 @@ To individually remove instances, click on the x in the top right-hand corner of
 
 To bulk remove instances, use the Manage Top Containers option via the Accession search field.  Follow directions in [16. ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/16-ARCHIVESSPACE#archivesspace>)
 
-## 3.4 Processing at the Point of Accessioning
-As mentioned in 3.1 Scope of Accessioning Workflow, the Rose Library’s workflow for accessioning includes minimal level processing (and, in some cases, more granular processing) as well as creating a spawned Resource Record for access.  
+## 3.4 Arrangement and Description at the Point of Accessioning
+As mentioned in 3.1 Scope of Accessioning Workflow, the Rose Library’s workflow for accessioning includes minimal level processing (and, in some cases, more granular processing) including the spawning of a Resource Record for access.  
 
-### 3.4.1 Arranging and Rehousing Collections
-#### 3.4.1.1 Paper-based Materials
+### 3.4.1 Processing Paper-based Materials
 See the following sections:
 *	[5.1 Rose Library Levels of Arrangement and Description](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#51-levels-of-arrangement-and-description>).
 	*	Use, at the minimum, [Collection-level arrangement](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#512-collection-level>)
 *	[10. Physical Processing](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#physical-processing>)
 
-#### 3.4.1.2 Audiovisual Materials
+### 3.4.2 Processing Audiovisual Materials
 See the following sections:
 *	[10.7.3 Quick Guide to Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>)
 	*	Including additions to the [AV inventory](<https://airtable.com/appeplPMjN4DSeF3K?>) _current link directly to inventory_
 *	For more granular processing, see [11.2 Audiovisual materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#112-audiovisual-materials>)
 
-#### 3.4.1.3 Born-digital Materials
+### 3.4.3 Processing Born-digital Materials
 See the following sections:
 *	[10.7.4 Quick Guide to Digital Media](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>)
-	*	Refer to controlled vocabulary to describe digital media (see [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>)
+	*	Refer to controlled vocabulary to describe digital media (see [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>))
 *	[11.3 Born-digital Materials](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#113-born-digital-materials>)
 *	[Rose Library Digital Archives Manual](<https://github.com/rose-collectionservices/digital-archives?tab=readme-ov-file#rose-library-digital-archives-manual>)
 
-Typically, if we receive laptops or personal computers, we will only retain the internal hard drives following processing. The Digital Archivist will send all other hardware and casings to surplus. You should therefore describe laptops and computers as “hard disks” in accession records (see 10.7.4.1 Digital media controlled vocabulary). If we do have reason to keep the entire computer (either because it features labels and markings intentionally added by the donor/creator that contribute significant meaning or because the entire computer will be required to access and transfer files), describe it as either “computer” or “laptop computer." Consult with the digital archivist if you are unsure of which term to use.
+#### 3.4.3.1 Disposition of Computer Equipment
+Typically, if we receive laptops or personal computers, we will only retain the internal hard drives following processing. The Digital Archivist will send all other hardware and casings to surplus. You should therefore describe laptops and computers as “hard disks” in accession records (see  [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>)). If we do have reason to keep the entire computer (either because it features labels and markings intentionally added by the donor/creator that contribute significant meaning or because the entire computer will be required to access and transfer files), describe it as either “computer” or “laptop computer." **Consult with the digital archivist if you are unsure of which term to use**.
 
 Apart from exceptional cases, you should not accession computer peripherals (monitors, keyboards, etc.), networking hardware (routers, for example), and other electronic components not used to store data unless:
 *	They feature labels and markings intentionally added by the donor/creator that contribute significant meaning to the collection. These should not be labels or markings that simply denote ownership or give instruction on use or function (i.e., “Dorothy’s mouse” or “plug in here”).
 *	In cases where the associated hardware is particularly old or obscure and it has been deemed likely, following consultation with a digital archivist, this equipment will be required in order to access and transfer digital files from the associated hardware.
 
-If you have questions about whether a piece of equipment or media should be accessioned, consult with the digital archivist.
+If you have questions about whether a piece of equipment or media should be accessioned, consult with the Digital Archivist.
 
-##### 3.4.1.3.1 Digital content not on physical media
-In addition to accessioning any digital media following the instructions in the quick guide, check the acquisitions documentation for mention of file transfers, significant organizational or personal websites (see [11.4 Web Archives](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#114-web-archives>) for selection criteria), or other digital content not already accounted for. With the digital archivist, make a plan to incorporate these materials into the accession and resource records.
+#### 3.4.3.2 Digital Accessioning Workflows
+ Like all collection material, born-digital media and files should not be accessioned until paperwork has been completed. The workflow will vary slightly depending on the method of transfer or if the born-digital material is part of a hybrid collection. 
+ 
+ *	Check the acquisitions documentation for mention of file transfers, significant organizational or personal websites (see [11.4 Web archives](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#114-web-archives>) for selection criteria), or other digital content not already accounted for. With a digital archivist, make a plan to incorporate these materials into the accession and resource records.
+ *	Upon identifying and documenting the presence of digital content and records baseline description, the collection archivist will reach out to a member of the Digital Archives team to retrieve the content of physical media and transfer or capture other content. 
 
-If there are websites related to the collection that we should track as part of our web archiving program, please complete this form. [link to documentation that doesn’t exist yet]
+*	If the acquisition includes known born-digital media and/or hardware:
+	*	The collection archivist accessions the born-digital media and/or hardware with the rest of the collection, following the steps in the [10.7.4 Quick Guide to Digital Media](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>) and using [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>) to describe what is included.
+ 	*	Collection archivists should keep smaller pieces of born-digital media such as floppy disks or flash drives with the collection when moved to the stacks or sent to the LSC.
+  	*	This information must be recorded in [Born-digital Inventory](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Shelf%20List.xlsx?d=wf0968fe689044379898108b0228a3a62&csf=1&web=1&e=gWF3Ft&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0>) and shared with the Digital Archivist.
+  	*	While the collection archivist may proceed with the accessioning workflow at this point, the collection will not be considered fully accessioned until the Digital Archivist completes the [Tier 1 digital processing workflow](<https://github.com/rose-collectionservices/digital-archives/blob/master/Processing%20Tiers/Tier%201.md>) and updates the accession and resource records accordingly. 
 
-##### 3.4.1.3.2 Handoff to Digital Archives
-After a collection archivist documents the presence of digital content and records baseline description, a member of the Digital Archives team is responsible for retrieving the content of physical media and transferring or capturing other content. The handoff from a collection archivist to a digital archivist is accomplished by recording the digital content in the shelf list and/or discussing the collection directly. 
+*	If the acquisition is comprised exclusively of born-digital media and/or hardware:
+	*	Following the steps in the [10.7.4 Quick Guide to Digital Media](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#1073-processing-audiovisual-media>), the Digital Archivist accessions the born-digital media and/or hardware.
+	*	When possible, the Digital Archivist will also image disks, create digital object records, and ingest preservation copies into the digital repository at the point of accessioning.
 
-While the collection archivist may proceed with the workflow at this point, the collection will not be fully accessioned until a digital archivist completes the Tier 1 digital processing workflow and updates the accession and resource records accordingly. 
+*	If the acquisition includes a file transfer or websites:
+	*	Collection archivist will check the acquisitions documentation for mention of file transfers, significant organizational or personal websites (see [11.4 Web Archives](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#114-web-archives>) for selection criteria) or any other unaccounted for digital content.
+ 	*	The Digital Archivist moves the transferred files to a temporary storage location on the digital archive lab’s local hard drives or the LIBSAFE Go accessioning node.
+	*	The Digital Archivist includes this information in the [Born-digital Inventory](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/Shared%20Documents/aczebla_emory_edu/MARBL_Master%20SHELF%20LIST/Shelf%20List.xlsx?d=wf0968fe689044379898108b0228a3a62&csf=1&web=1&e=gWF3Ft&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0>) and notes whether they have ingested the files into the digital repository, sharing this information with the collection archivist (or, if not assigned, with the Head of Processing to include in the acquisition notes).
+	*	The collection archivist accessions the file transfer with the rest of the collection, using the term “digital files” from [10.7.4.1 Digital Media Controlled Vocabulary](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10741-digital-media-controlled-vocabulary>) to describe what is included.
+	*	If there are websites related to the collection that requiring tracking as part of our web archiving program, please complete this form. [link to documentation that doesn’t exist yet]
 
-#### 3.4.1.4 Published Materials/Cataloging
+### 3.4.4 Separating Publications for Cataloging
 See [10.5.2 Separating materials/Publications](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1052-publications)
 
-## 3.4.2 Label and barcode the boxes
+## 3.5 Label and Barcode the boxes
 Once the finding aid is completed and reviewed, complete procedures found in [10. Physical Processing](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#physical-processing>) including:
 *	[10.9 Labeling boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#109-labeling-boxes>)
 	*	[13.2.2 Box naming conventions based on shelving locations](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/13-STACKS MANAGEMENT#1312-box-naming-conventions-based-on-shelving-locations>)
 *	[10.10 Barcoding boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1010-barcoding-boxes>)
 	*	File the barcode folder in the appropriate filing cabinet in 973B.
 
-### 3.4.3 Describing Collections
-#### 3.4.3.1 Spawning a New Resource Record
-If the newly accessioned collection establishes a new collection, follow the procedures listed in the ArchivesSpace wiki for Spawn Resource Record from Accession Record
+## 3.6 Creating Access Points at the Point of Accessioning
+### 3.6.1 Spawning a New Resource Record
+If the newly accessioned collection establishes a new collection, follow the procedures listed in the ArchivesSpace wiki for [Spawn Resource Record from Accession Record](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/893878578/Creating+a+Minimal+Resource+Record>)
 
 _Confirm that the Publish button is not checked._
 
 You will then complete the following:
-*	Confirm the content in the Resource Record is correct and add required information as explained in 5.1 Levels of Arrangement and Description and according to 6.1 Finding Aids
+*	Confirm the content in the Resource Record is correct and add required information as explained in [5.1 Levels of Arrangement and Description](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#51-levels-of-arrangement-and-description>) and according to [6.1 Finding Aids](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#61-finding-aids>)
 *	Add Archival Objects to the Resource Record
-	*	Individually: (see To create resource archival object records under ArchivesSpace Resource Records: Archival Objects)
+	*	Individually: (see To create resource archival object records under _[ArchivesSpace Resource Records: Archival Objects](<https://archivesspace.atlassian.net/wiki/x/-gBLNQ>)_)
 		*	Required: Title, Level of Description (file), Click Publish?, Dates, Instances
 		*	Optional, but suggested when adding to miscellany collections: Accession Links,
-		*	Creating a Top container if a new box is created
-	*	Via spreadsheet (more information found at ArchivesSpace Importing Archival Objects from Excel or CSV File)
-o	Using the Rapid Data Entry (RDE) Tool (also see How to Create an RDE Template)
-•	If the accession establishes a new collection, or there is a significant addition, the finding aid should be sent for review via the procedures found in 6.3 Reviewing and editing finding aids
+		*	_[Creating a Top container if a new box is created](<https://archivesspace.atlassian.net/wiki/x/DQBSNQ>)_
+	*	[Via spreadsheet](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Manuals/ArchivesSpace/Guide_load via spreadsheet_ASpace.docx?d=w7768e7be34cb42cc987a5e44adc46353&csf=1&web=1&e=TyMgcK>) (more information found at _[ArchivesSpace Importing Archival Objects from Excel or CSV File](<https://archivesspace.atlassian.net/wiki/x/LoD4RQ>)_)
+o	Using the_ [Rapid Data Entry (RDE) Tool](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>) _(also see [How to Create an RDE Template](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Manuals/ArchivesSpace/Guide_Create RDE template_ASpace.docx?d=w44b5e20a2e0a422e9aaaa94cee5c19d5&csf=1&web=1&e=oE8PzO>))
+•	If the accession establishes a new collection, or there is a significant addition, the finding aid should be sent for review via the procedures found in [6.3 Reviewing and Editing Finding Aids](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#63-reviewing-and-editing-finding-aids>)
 •	Once a finding aid has been reviewed and/or all changes to the resource record have been finalized, publish the resource record.
 
-#### 3.4.2.2 Updating an Existing Resource Record
+### 3.6.2 Updating an Existing Resource Record
 *	Add Archival Objects to the Resource Record in the process most relevant to your materials (e.g., if there are items or a single folder, add the archival object individually)
-	*	Individually (see _To create resource archival object records_ under [ArchivesSpace Resource Records: Archival Objects](<https://archivesspace.atlassian.net/wiki/x/-gBLNQ>))
+	*	Individually (see _To create resource archival object records_ under_ [ArchivesSpace Resource Records: Archival Objects](<https://archivesspace.atlassian.net/wiki/x/-gBLNQ>)_)
 		*	Required: Title, Level of Description (file), Click _Publish?_, Dates, Instances
 		*	Optional, but suggested: Accession Links
-		*	[Creating a Top container if a new box is created](<https://archivesspace.atlassian.net/wiki/x/DQBSNQ>)
-	*	[Via spreadsheet](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Manuals/ArchivesSpace/Guide_load via spreadsheet_ASpace.docx?d=w7768e7be34cb42cc987a5e44adc46353&csf=1&web=1&e=TyMgcK>) (more information found at [_ ArchivesSpace Importing Archival Objects from Excel or CSV File_](<https://archivesspace.atlassian.net/wiki/x/LoD4RQ>))
-	*	[Using the Rapid Data Entry (RDE) Tool](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>) (also see [How to Create an RDE Template](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>))
+		*	_[Creating a Top container if a new box is created](<https://archivesspace.atlassian.net/wiki/x/DQBSNQ>)_
+	*	[Via spreadsheet](<https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared Documents/Cataloging and Collection Processing/Collection Processing/Manuals/ArchivesSpace/Guide_load via spreadsheet_ASpace.docx?d=w7768e7be34cb42cc987a5e44adc46353&csf=1&web=1&e=TyMgcK>) (more information found at_ [ArchivesSpace Importing Archival Objects from Excel or CSV File_](<https://archivesspace.atlassian.net/wiki/x/LoD4RQ>)_)
+	*	_[Using the Rapid Data Entry (RDE) Tool](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>)_ (also see_ [How to Create an RDE Template](<https://archivesspace.atlassian.net/wiki/x/VwFJNQ>)_)
 *	Update [Collection-level Dates](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#617-dates>), [Extents](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#618-extent>), and other notes if necessary
 *	Publish Resource Record
 
-#### 3.4.2.3 Recording Physical Information
-Label and barcode any new boxes that are added to the collection, noting any physical concerns. More information about the creation and placement of labels and barcode and other box concerns are found in [10.9 Labeling boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#109-labeling-boxes>).  
+### 3.6.3 Recording Physical Information
+*	Update information in ArchivesSpace via [Top Container Management](<>)
+	*	_[Barcodes](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Add-or-change-barcodes-associated-with-top-containers>)
+	*	[Shelf Locations](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-locations-for-containers-stored-at-a-single-location>)
+	*	[Container profiles](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-profiles>)_
 
-Print the barcode worksheet and complete the workflow explained in [10.10 Barcoding boxes](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL PROCESSING#1010-barcoding-boxes>). File the barcode folder.
+*	Update information in [Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/_layouts/15/Doc.aspx?sourcedoc=%7BF0968FE6-8904-4379-8981-08B0228A3A62%7D&file=Shelf%20List.xlsx&action=default&mobileredirect=true>) (see tabs for Manuscript, EUA, Digital Archives, and AV Drives) according to [13.1.3 Master Shelf List](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/13-STACKS%20MANAGEMENT#131-systems-of-record-for-location-management>)
+	*	Main Entry/Title
+	*	Extents
+	*	Locations
+	*	Restrictions
 
-Update information in ArchivesSpace via [Top Container Management](<>)
-*	[Barcodes](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Add-or-change-barcodes-associated-with-top-containers>)
-*	[Shelf Locations](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-locations-for-containers-stored-at-a-single-location>)
-*	[Container profiles](<https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894402619/Performing+Bulk+Operations+on+Top+Containers#Update-container-profiles>)
+*	Update information in [Airtable](<https://airtable.com/appxehhHnKmdPpzld?>)
+	*	If you used the Airtable checklist (information found in 3.2.1 Tracking New Acquisitions through Airtable), mark the collection as “complete” by using the checkbox at the bottom
+	*	In the Acquisition and Accessioning table, confirm that Stage is updated to “Accessioning and/or Cataloging Completed” via the drop-down menu
+	*	Update the Linear Feet, MSS Items and Extent Type as well as any other Special Format fields
+	*	Enter the current date in the Accession Date field
 
-Update information in [Shelf List](<https://emory.sharepoint.com/:x:/r/sites/BoxDeletedUsers14/_layouts/15/Doc.aspx?sourcedoc=%7BF0968FE6-8904-4379-8981-08B0228A3A62%7D&file=Shelf%20List.xlsx&action=default&mobileredirect=true>) (see tabs for Manuscript, EUA, Digital Archives, and AV Drives)
-*	Main Entry/Title
-*	Extents
-*	Locations
-*	Restrictions
+## 3.7 Cataloging at the Point of Accessioning
+### 3.7.1 MARC Records in OCLC Connexion
+Create an OCLC catalog record for newly established collections using the workflow found in [17.1.2 Creating an OCLC Catalog Record for Archival Collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-CATALOGING#1712-creating-an-oclc-catalog-record-for-archival-collections>).
 
-### 3.4.3 Finding Aid Review
-## 3.5 Cataloging at the Point of Accessioning
-### 3.5.1 MARC Records in OCLC Connexion
-### 3.5.2 ALMA
-## 3.6 Finalizing the Accession
-### 3.6.1 Label and Barcode
-### 3.6.2 Stacks Management
-### 3.6.3 Tracking Accession Workflow and Output
-## 3.7 Create the CL-2 File
-### 3.7.1 Creating a Manuscript Collection File (CL-2 files)
-#### 3.7.1.1 “Legacy” Electronic CL-2 File (Vital Docs Folder)
-### 3.7.2 Creating an EUA Collection File (CL-2 Files)
-### 3.7.3 Using Collection Files (CL-2 Files)
-## 3.8 Accessioning Checklist
+Updating the OCLC catalog record for acquisitions that are additions primarily consists of updating the extent and date, but other updates may be necessary depending on the addition.
+
+### 3.7.2 ALMA
+As part of the OCLC Connexion workflow, the created/updated record is exported to ALMA. However, holdings and item records must also be created or updated in Alma using the workflow found in [17.2.2 Creating Alma holdings records and item records for archival collections](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-CATALOGING#1722-creating-alma-holdings-records-and-item-records-for-archival-collections>). **Be sure to use the correct holdings location based on the final location of the materials**. 
+
+
+### 3.8 Tracking Accession Workflow and Output
+*	Update the processing statistics in the [Sharepoint Annual Processing Reports](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/Annual%20Processing%20Reports.xlsx?d=we8382d29282646d8a17b240c1a701e96&csf=1&web=1&e=Vf16FH>) file
+*	Announce new collections or significant additions on the #collections Slack channel
+*	Inform or request that curators inform donors and/or creators that new collections are now open
+
+## 3.9 Create the CL-2 File
+After the collections archivist has finished an accession, the acquisitions paperwork must be placed in a collection file. 
+
+### 3.9.1 Creating a Manuscript Collection File
+The Collections Archivist will create a CL-2 file, if one is not already established: 
+*	Write the creator and MSS number on the top of a letter-sized folder (add photo) 
+*	If there is not a physical copy of the acquisition paperwork, print out a copy from the Sharepoint Acquisitions folder (locating via ArchivesSpace external documents field)
+*	Confirm that the accession number has been written on top of the acquisitions paperwork before placing it in the folder
+*	File the folder alphabetically by creator in the CL-2 cabinets in the L9 BizHub room 
+
+(For more information about Collection Files, see TBD)
+
+#### 3.9.1.1 Legacy Electronic Collection File
+There are [legacy collection files in Sharepoint](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL%20Files/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=9CyCXr>) that include information that overlaps with the physical CL-2 files. These files are not currently supported or updated, but they do contain information that may not be found elsewhere.
+
+### 3.9.2 Creating an EUA Collection File
+TBD
+
+## 3.10 Accessioning Checklist
+*	Locate acquisition paperwork and print out if necessary. Write accession number on paperwork.
+*	Locate materials to be accessioned, including checking for digital content.
+*	Create/update accession record in ArchivesSpace 
+	*	Confirm Custody Transfer and Agreement Signed events
+	*	Add Accession event
+	*	Delete instances
+*	Arrange and re-house
+*	Handle special formats
+	*	If there is AV, add to AV inventory
+	*	If there is digital media, record on the shelf list Digital Archives tab
+	*	If there is a website to be added to the list of web crawls, notify digital archivist
+	*	Separate published materials for cataloging
+*	Create or update the Resource Record and add Archival Objects
+*	Request finding aid review if necessary 
+*	Publish the resource record in ASpace
+*	Label and barcode boxes
+*	Top container management in ASpace
+*	Create or update MARC catalog record in OCLC
+*	In Alma, create holdings record if necessary and add item records
+*	Move containers to final locations, with new collections typically being sent to the LSC
+	*	Confirm locations are correct in ASpace
+	*	Update shelf list
+*	Update processing statistics spreadsheet
+*	Announce new collections or significant additions on the #collections Slack channel
+*	Inform or request that curators inform donors and/or creators that new collections are now open
+*	Create or update the collection file
+*	File the barcode worksheets
+*	Update Airtable record and mark as complete
 
 
 
