@@ -217,7 +217,7 @@ This quick guide outlines the steps to take when you encounter digital media whi
 	* 	If media are filed in a manuscript box with non-media materials, they may be foldered individually in regular archival folders.
 	* 	Consult a digital archivist if the media appears to require specialized housing because it is large, unusually shaped, or fragile. 
 2. Record the media in the Digital Archives tab of the shelf list by adding the number of each media type and their location.
-	* 	If there is already an entry for the collection, add the new media, specify what you added and when in the notes field, and update the "Imaged" column if necessary (for example, if it says "Y," change to "Partly").  
+	* 	If there is already an entry for the collection, add the new items to the counts in the "Digital Media" section, note what you added in the "Notes about Media/Hardware" field, update the "Date Last Updated by Collection Archivist" field, and change the status in the "Imaged" column if necessary (for example, if it says "Y," change to "Partly").  
 3. If you need to preview the content, you may safely access most CDs and DVDs using a USB optical drive. For other media, talk to a digital archivist.
 	* 	Previewing optical disc content is encouraged during granular processing projects and optional during accessioning.
 	* 	If media could contain either audiovisual or data content and you do not preview the content, handle it based on your best guess. A digital archivist or audiovisual liaison will reroute media that ends up in the wrong workflow. 
