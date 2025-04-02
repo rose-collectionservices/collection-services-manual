@@ -308,7 +308,7 @@ TBD
 	*	Separate published materials for cataloging
 *	Create or update the Resource Record and add Archival Objects
 *	Request finding aid review if necessary 
-*	Publish the resource record in ASpace
+*	Finalize and publish the resource record in ASpace
 *	Label and barcode boxes
 *	Top container management in ASpace
 *	Create or update MARC catalog record in OCLC
