@@ -126,7 +126,7 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * Cellulose acetates should also be stored in alkaline buffered paper envelopes or sleeves and placed in cold storage
 
 ### 11.2 Audiovisual materials
-
+[Draft in SharePoint](https://emory-my.sharepoint.com/:w:/g/personal/aaust29_emory_edu/EUV5iBM4EnFFsMCKQGSbViwBEOPHNzVTKzHh0dQcLfx1Mw?e=fPrO0Y)
 ### 11.3 Born-digital materials
 
 This section is under construction and will eventually contain detailed instructions for imaging, processing, and preserving born-digital content. For now, refer to the <a href="https://github.com/rose-collectionservices/digital-archives">Rose Library Digital Archives Manual</a>.
