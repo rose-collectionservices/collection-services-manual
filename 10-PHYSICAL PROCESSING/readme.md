@@ -19,10 +19,7 @@ Content owner: **Becky Sherman**
 * [10.7 Quick guide to processing special formats](#107-quick-guide-to-processing-special-formats)
 	* [10.7.1 Newspaper clippings](#1071-newspaper-clippings)
 	* [10.7.2 Quick guide to processing photographs](#1072-quick-guide-to-processing-photographs)
-   	* [10.7.3 Processing audiovisual media] [This section needs to be updated]
-   		* [10.7.3.1 Accessioning and Minimal Level Processing of AV](#10731-accessioning-and-minimal-level-processing-of-AV)
-   	 	* [10.7.3.2 Granular Processing of AV](#10732-granular-processing-of-AV)
-   	  	* [10.7.3.3 Notes on Access to Commercial Recordings](#10733-notes-on-access-to-commercial-recordings)
+   	* [10.7.3 Processing audiovisual media] [Draft]
 	* [10.7.4 Processing digital media](#1074-processing-digital-media) 
 * [10.8 Boxing collections and numbering boxes](#108-boxing-collections-and-numbering-boxes)
 	* [10.8.1 General guidelines](#1081-general-guidelines)
@@ -189,21 +186,9 @@ For additional guidelines and detailed information about processing photographs,
 
 ### 10.7.3 Processing Audiovisual Media
 
-[This section needs to be updated.]
+[Draft in SharePoint](https://emory-my.sharepoint.com/:w:/g/personal/aaust29_emory_edu/EUV5iBM4EnFFsMCKQGSbViwBEOPHNzVTKzHh0dQcLfx1Mw?e=fPrO0Y)
 
 
-
-#### 10.7.3.1 Accessioning and Minimal Level Processing of AV
-
-
-
-
-#### 10.7.3.2 Granular Processing of AV
-
-
-
-
-#### 10.7.3.3 Notes on Access to Commercial Recordings
 
 
 
