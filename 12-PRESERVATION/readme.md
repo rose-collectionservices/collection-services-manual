@@ -2,6 +2,8 @@
 
 Content owner: **Becky Sherman**
 
+Last revised: 5/8/25
+
 * [12.1 Routine preservation during processing](#121-routine-preservation-during-processing)
 * [12.2 Moldy Materials](#122-moldy-materials)
 * [12.3 Sending collection material to the Conservation Lab](#123-sending-collection-material-to-the-conservation-lab)
@@ -125,16 +127,11 @@ The process by which books enter and move through the queue is as follows:
 
 ### 12.3.3 Audiovisual Material
 
-The audiovisual liaison is responsible for identifying audiovisual mateiral in manuscript collections, reviewing the material, and sending items to the Conservation Lab for preservation. Due to the instability of magnetic tape as a format, all non-commercial audiovisual materials are digitally reformatted to preserve the content of the tape, and researchers can only access that content via digital surrogate in our reading room. The process by which manuscript and archives items enter and move through the queue is as follows:
+Content Owner: **Anicka Austin**
 
-1. During processing, audiovisual materials should be physically grouped together, and the [Audiovisual Inventory Update Form](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Link%20to%20the%20Audiovisual%20Inventory%20Update.docx?d=w1cf2158bab644c5aa833b6c668e29299&csf=1&web=1&e=jkox6V) should be filled out for the collection. This information will be marked as priority for digitization. **Note:** Commercial recordings are not necessarily removed at this time since access may be granted on the rarity of the items.
-2. Rose Library liaison will add the item to the [Conservation List](https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Orders/AV%20Conservation%20List?csf=1&web=1&e=4qcHyL) on Box 
-3. Rose Library liaison assesses priority of the material as well as the risk assessment for digitization.
-4. If [items are requested by patrons](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Audiovisual%20Materials/Audiovisual%20documentation_administrative/Procedures_Orders_Patron_AV.docx?d=w943d180d84104230815e029643cfbf15&csf=1&web=1&e=tTbXDC), Research Services staff will track the transaction in AEON 
-5. Rose Library liaison will create a collection-level record in the Keep, and deliver item and Audiovisual Conservator on demand, updating the Conservation List with dates of delivery.
-6. Rose Library liaison and Audiovisual Conservator will discuss the estimated return date.
-7. Once returned, the Rose Library liaison will update the Conservation List, the rights statement, and Keep metadata as well as create digital access object tags in the encoded finding aid.  Research Services staff will be notified if the transaction is patron driven. 
-8. Rose Library liaison will return materials to shelf
+Last reviewed: 5/8/25 [revision needed]
+
+[AV Liaison workflow](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpiAi24IHROgi3PXAI0Zl0BABeuTOOGkuSjHkl4aduVLw?e=xIlb2P)
 
 ### 12.4 Pest Management
 
