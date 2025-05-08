@@ -58,7 +58,7 @@ Transferring items to the conservation lab:
    	* In Aeon, document that the item is being sent to conservation:	
 		* Add a note to the notes field on the request, which describes the preservation problem and states that the item is being sent down to the conservation lab. 
 		* Assign that request to the activity "Rose - Preservation - MSS, EUA, and books."
-		* Route the request to "In Conservation - Normal Workflow."
+		* Route the request to "Item Checked Out to Activity."
    	* In Aeon, using the "Reprint Callslip" button, print one copy of the call slip.  
 		* One half of the call slip stays with the item as it travels to the conservation lab.
 		* One half of the call slip is put in place of the box in the shelving location, or in the case of single items is placed inside the box from which the item was removed.
@@ -90,27 +90,27 @@ When the item is returned from the conservation lab, the Rose Library liaison wi
 
 ### 12.3.2 Books
 
-The Rose Library preservation liaison is currently responsible for managing and tracking the workflow of books to the conservation lan. (The Rare Book Cataloger would normally be responsible for this.) 
+The Rose Library preservation liaison is currently responsible for managing and tracking the workflow of books to the conservation lan. (The Rare Book Librarian would normally be responsible for this.) 
 
-Collection Services staff may identify items that need repair at the point of cataloging, during stacks walk-throughs, in the reading room, or before items go on or return from exhibition. Very infrequently items are too fragile to catalog and move directly to Preservation. Any item that needs preservation should be brought to the attention of the Rare Book Cataloger.  
+Collection Services staff may identify items that need repair at the point of cataloging, during stacks walk-throughs, in the reading room, or before items go on or return from exhibition. Very infrequently items are too fragile to catalog and move directly to Preservation. Any item that needs preservation should be brought to the attention of the Rare Book Librarian.  
 
 The process by which books enter and move through the queue is as follows: 
 
-1. The Rare Book Cataloger sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers.
+1. The Rare Book Librarian sends all books with boards or covers that are flaking, fraying, or showing additional damage to preservation for acid free enclosures. They also send all rare books with jackets to preservation for mylar jacket covers.
 2. Preservation issues identified at point of cataloging: catalogers will flag items for Preservation on the tab where they notate the call number and send them to Marking.
 3. After the item is properly marked, the Marking student moves those items to the designated “PreservationPrep” bays.
 4. Items are added to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).
-5. Once the Rose Library liaison/Rare Book Cataloger is ready to send an item down to the conservation lab:
+5. Once the Rose Library liaison/Rare Book Librarian is ready to send an item down to the conservation lab:
 	* Create an Aeon request for the item.
    	* In Aeon, document that the item is being sent to conservation:	
 		* Add a note to the notes field on the request, which describes the preservation problem and states that the item is being sent down to the conservation lab. 
 		* Assign that request to the activity "Rose - Preservation - MSS, EUA, and books."
-		* Route the request to "In Conservation - Normal Workflow."
+		* Route the request to "Item Checked OUt to Activity."
    	* In Aeon, using the "Reprint Callslip" button, print one copy of the call slip.  
 		* One half of the call slip stays with the item as it travels to the conservation lab.
 		* One half of the call slip is put in place of the book in the shelving location.
    	* Update the conservation list to reflect that the item has been sent to conservation.
-6. When the item is returned, the Rose Library liaison/Rare Book Cataloger will:
+6. When the item is returned, the Rose Library liaison/Rare Book Librarian will:
 	* In Aeon:
  		* Remove the request from the preservation activity (done on the request itself).
 		* Route the request to "Request finished."	
@@ -120,8 +120,8 @@ The process by which books enter and move through the queue is as follows:
 
 **Special Procedures:**
 
-* Bring any vault items that need treatment to the attention of the Rare Book Cataloger immediately. The Rare Book Cataloger will send these items directly to Preservation, and they have priority for treatment. 
-* Give any items showing mold, or suspected of being moldy to the Rare Book Cataloger for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Rose Library preservation liaison. 
+* Bring any vault items that need treatment to the attention of the Rare Book Librarian immediately. The Rare Book Librarian will send these items directly to Preservation, and they have priority for treatment. 
+* Give any items showing mold, or suspected of being moldy to the Rare Book Librarian for immediate delivery to Preservation, whether or not they have been cataloged. If the cataloger is out of the office, give the items to the Rose Library preservation liaison. 
 
 ### 12.3.3 Audiovisual Material
 
