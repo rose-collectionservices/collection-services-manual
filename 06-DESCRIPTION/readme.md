@@ -1,6 +1,9 @@
 
 # Description
 
+Last revised June 2025. Content owners: Laura Starratt and Becky Sherman
+
+
 * [6.1 Finding aids](#61-finding-aids)
 	* [6.1.1 Main entry/creator](#611-main-entrycreator)
 	* [6.1.2 Title](#612-title)	
@@ -811,7 +814,9 @@ Processing notes are used at the series and/or subseries level when it is necess
 *Basic notes:*
 
 * Arranged and described at the folder level by Haylee Harrell, Ingrid Meintjes, and Sarah Quigley, 2017. 
-* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016. 
+* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016.
+* Arranged and described at the collection level by Sarah Quigley, 2014. Additions arranged and described at the collection level by Sarah Quigley, February 2020.
+ 
 
 *Information about original order and/or archivist imposed organization:*
 
