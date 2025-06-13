@@ -76,6 +76,7 @@ At this initial point, the Collection archivist will confirm the following in Ai
 *	That the accession number is entered and correct
 *	The Assigned To field includes your name
 *	That Paperwork field links to the correct file in the [Sharepoint Acquisition folder](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared Documents/Acquisitions?csf=1&web=1&e=MpfOmW>)
+*	That, if establishing a new collection, what the next available collection number is via either the [Manuscript Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Registers%20and%20Inventories/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=9NhESE>) or the [EUA Series Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Registers%20and%20Inventories/EUA%20Register.xlsx?d=w2f2db20ced8147f5bd839feedd092db1&csf=1&web=1&e=VElGec>)
 
 Airtable checklist (optional, but recommended)
 *	Click on the Accessioning Checklist tab in the Acquisitions and Accessioning base and navigate to “(yourname)’s View” under the "My personal views" view.
@@ -150,13 +151,15 @@ To individually remove instances, click on the x in the top right-hand corner of
 To bulk remove instances, use the Manage Top Containers option via the Accession search field.  Follow directions in [16. ArchivesSpace](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/16-ARCHIVESSPACE#archivesspace>)
 
 ## 3.4 Arrangement and Description at the Point of Accessioning
-As mentioned in 3.1 Scope of Accessioning Workflow, the Rose Library’s workflow for accessioning includes minimal level processing (and, in some cases, more granular processing) including the spawning of a Resource Record for access.  
+As mentioned in 3.1 Scope of Accessioning Workflow, the Rose Library’s workflow for accessioning includes minimal level processing (and, in some cases, more granular processing) including the spawning of a Resource Record for access. 
 
 ### 3.4.1 Processing Paper-based Materials
 See the following sections:
 *	[5.1 Rose Library Levels of Arrangement and Description](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#51-levels-of-arrangement-and-description>).
 	*	Use, at the minimum, [Collection-level arrangement](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION#512-collection-level>)
 *	[10. Physical Processing](<https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#physical-processing>)
+*	Use the [Manuscript Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Registers%20and%20Inventories/Manuscript%20Register.xlsx?d=w870976b852d84f80b0d6490280b167e5&csf=1&web=1&e=9NhESE>) or the [EUA Series Register](<https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Registers%20and%20Inventories/EUA%20Register.xlsx?d=w2f2db20ced8147f5bd839feedd092db1&csf=1&web=1&e=VElGec>) to identify the next collection number for the new collection.
+
 
 ### 3.4.2 Processing Audiovisual Materials
 See the following sections:
