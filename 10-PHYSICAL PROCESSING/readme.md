@@ -31,7 +31,8 @@ Content owner: **Becky Sherman**
   	  	* [10.8.4.3 Oversized folders larger than 20x24" and up to 38x34" (OPs)]
   	  	* [10.8.4.4 Oversized folders larger than 38x36" and up to 56x34" (XOPs)]
   		* [10.8.5.5 Legacy content: Bound volumes]
-  	 	* [10.8.5.6 Framed items]	
+  	 	* [10.8.5.6 Framed items]
+  	  	* [10.8.5.7 Scroll boxes] 	
 * [10.9 Labeling boxes](#109-labeling-boxes)
  	* [10.9.1 Creating general labels](#1091-creating-general-labels)
   	* [10.9.2 Printing labels](#1092-printing-labels)
@@ -334,10 +335,14 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
 		* The framed item serves as a top container in ASpace. Container profile in ASpace = [blank]
   		* If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison.
     		* Do not add any framed items to the art racks without first identifying and labeling them appropriately. 
-
-
-
-
+* #### 10.8.4.7 Scroll boxes
+	* When materials come in rolled, they can be placed in scroll boxes for storage
+ 		* Ideally, materials should be laid flat, but this option keeps materials safe in the meantime
+   		* Should be used for materials that will see less activity in the reading room
+     	* There are two sizes for scroll boxes:
+      		* 4" x 4" x 28" with the label and barcode on the short end of the box (use the small box labels and place the barcode under the label)
+        	* 4" x 4" x 48" with the label and barcode on the long end of the box (use the large box labels and place the barcode next to the label)
+         * Scroll boxes can stay on-site or reside at the LSC.                	 
 ## 10.9 Labeling boxes
 
 ### 10.9.1 Creating general labels
