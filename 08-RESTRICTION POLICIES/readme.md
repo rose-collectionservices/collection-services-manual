@@ -91,6 +91,7 @@ For EUA collections of personal papers (i.e. faculty papers), consult [8.1 Donor
   * Letters of recommendation for faculty written for the purpose of grants, etc. do not need to be restricted.
 
 * G.	Medical records and patient/client files are restricted for 100 years from the date of creation.
+  * Attorney-client privileged records are restricted for 100 years. This applies to legal documents reflecting an exchange with a client or a potential client made for the purpose of obtaining professional legal advice.
 
 ## 8.5 Restricting and redacting materials during physical processing
 
