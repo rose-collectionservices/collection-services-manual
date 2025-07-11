@@ -19,7 +19,7 @@ Content owner: **Becky Sherman**
 * [10.7 Quick guide to processing special formats](#107-quick-guide-to-processing-special-formats)
 	* [10.7.1 Newspaper clippings](#1071-newspaper-clippings)
 	* [10.7.2 Quick guide to processing photographs](#1072-quick-guide-to-processing-photographs)
-   	* [10.7.3 Processing audiovisual media] [Draft]
+   	* [10.7.3 Processing audiovisual media](#1073-processing-audiovisual-media)
 	* [10.7.4 Processing digital media](#1074-processing-digital-media) 
 * [10.8 Boxing collections and numbering boxes](#108-boxing-collections-and-numbering-boxes)
 	* [10.8.1 General guidelines](#1081-general-guidelines)
