@@ -128,6 +128,8 @@ Labeling photographs should be rare. However, if you can identify the subject or
 ### 11.2 Audiovisual materials
 [Processing Sound and Moving Image Media Quide](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbhJBWrDpbxIlh48n13WypEBX7G0OpYqQ6mkfW9f9rD1fA?e=PGym3K)
 
+[AV Liaison workflow](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpiAi24IHROgi3PXAI0Zl0BABeuTOOGkuSjHkl4aduVLw?e=OJP4iD)
+
 ### 11.3 Born-digital materials
 
 This section is under construction and will eventually contain detailed instructions for imaging, processing, and preserving born-digital content. For now, refer to the <a href="https://github.com/rose-collectionservices/digital-archives">Rose Library Digital Archives Manual</a>.
