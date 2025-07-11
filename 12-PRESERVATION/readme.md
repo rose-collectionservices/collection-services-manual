@@ -127,11 +127,9 @@ The process by which books enter and move through the queue is as follows:
 
 ### 12.3.3 Audiovisual Material
 
-Content Owner: **Anicka Austin**
+Content Owner: AV Liaison
 
-Last reviewed: 5/8/25 [revision needed]
-
-[AV Liaison workflow](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpiAi24IHROgi3PXAI0Zl0BABeuTOOGkuSjHkl4aduVLw?e=xIlb2P)
+[AV Liaison workflow](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpiAi24IHROgi3PXAI0Zl0BABeuTOOGkuSjHkl4aduVLw?e=qmqpkm)
 
 ### 12.4 Pest Management
 
