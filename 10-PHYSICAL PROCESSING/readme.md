@@ -187,7 +187,7 @@ For additional guidelines and detailed information about processing photographs,
 
 ### 10.7.3 Processing Audiovisual Media
 
-[Draft in SharePoint](https://emory-my.sharepoint.com/:w:/g/personal/aaust29_emory_edu/EUV5iBM4EnFFsMCKQGSbViwBEOPHNzVTKzHh0dQcLfx1Mw?e=fPrO0Y)
+[Processing Sound and Moving Image Media guide](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbhJBWrDpbxIlh48n13WypEBX7G0OpYqQ6mkfW9f9rD1fA?e=PGym3K)
 
 
 
