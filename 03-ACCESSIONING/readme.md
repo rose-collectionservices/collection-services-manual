@@ -311,6 +311,7 @@ TBD
 	*	If there is digital media, record on the shelf list Digital Archives tab
 	*	If there is a website to be added to the list of web crawls, notify digital archivist
 	*	Separate published materials for cataloging
+*	Confirm/identify collection number via MSS or EUA register
 *	Create or update the Resource Record and add Archival Objects
 *	Request finding aid review if necessary 
 *	Finalize and publish the resource record in ASpace
