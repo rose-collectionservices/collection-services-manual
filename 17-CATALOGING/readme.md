@@ -1,9 +1,10 @@
 # Cataloging
 
 * [17.1 OCLC Connexion](#171-oclc-connexion)
-   * [17.1.1 OCLC Client Set Up to export to Alma](#1712-OCLC-client-set-up-to-export-to-alma)
-   * [17.1.2 Creating an OCLC catalog record for archival collections](#1711-creating-an-oclc-catalog-record-for-archival-collections)
-   * [17.1.3 Deleting OCLC holdings and OCLC records](#1713-deleting-oclc-holdings-and-oclc-records)
+   * [17.1.1 OCLC Client Set Up for New User](#1711-OCLC-client-set-up-for-new-user)
+   * [17.1.2 OCLC Client Set Up to export to Alma](#1712-OCLC-client-set-up-to-export-to-alma)
+   * [17.1.3 Creating an OCLC catalog record for archival collections](#1713-creating-an-oclc-catalog-record-for-archival-collections)
+   * [17.1.4 Deleting OCLC holdings and OCLC records](#1714-deleting-oclc-holdings-and-oclc-records)
  
 * [17.2 Alma](#172-alma)
   * [17.2.1 Master list of Alma holdings record locations used in Rose](#1721-master-list-of-alma-holdings-record-locations-used-in-rose)
@@ -14,17 +15,20 @@
 
 ## 17.1 OCLC Connexion
 
-### 17.1.1 OCLC Client Set Up to export to Alma
+### 17.1.1 OCLC CLient Set Up for New Users
+See [OCLC's "What are the steps for completing the Access and Authorization form?"](https://help.oclc.org/Metadata_Services/Connexion/Troubleshooting/What_are_the_steps_for_completing_the_Access_and_Authorization_form?sl=en)
+
+### 17.1.2 OCLC Client Set Up to export to Alma
 
 See [OCLC Client Set Up in Emory University Libraries Alma Documentation](https://emory.screenstepslive.com/s/alma/m/settings/l/522172-oclc-client-set-up-production)
 
 * The OCLC gateway export password is in SharePoint at the bottom of [OCLC_connexion_collection_cataloging](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eb4s4Rso_RZMoAWbJ72_pecB9_tRLxjzYY77SCbR0oEEfw?e=gE31g6)
 
-### 17.1.2 Creating an OCLC catalog record for archival collections
+### 17.1.3 Creating an OCLC catalog record for archival collections
 
 See instructions in SharePoint in [OCLC_connexion_collection cataloging](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eb4s4Rso_RZMoAWbJ72_pecB9_tRLxjzYY77SCbR0oEEfw?e=gE31g6)
 
-### 17.1.3 Deleting OCLC holdings and OCLC records
+### 17.1.4 Deleting OCLC holdings and OCLC records
 
 See instructions in SharePoint in [OCLC_connexion_deleting OCLC holdings and OCLC records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZsVdhx86UxGhYsyhH7fx58Bv6XpuAxoX3hxSGnuYLq1uw?e=o5NJOU)
 
