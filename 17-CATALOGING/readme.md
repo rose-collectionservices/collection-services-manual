@@ -9,7 +9,8 @@
 * [17.2 Alma](#172-alma)
   * [17.2.1 Master list of Alma holdings record locations used in Rose](#1721-master-list-of-alma-holdings-record-locations-used-in-rose)
   * [17.2.2 Creating Alma holdings records and item records for archival collections](#1722-creating-alma-holdings-records-and-item-records-for-archival-collections)
-  * [17.2.3 Emory University Libraries Alma Documentation](#1723-emory-university-libraries-alma-documentation)
+  * [17.2.3 Restoring Deleted Alma records](#1723-restoring-deleted-alma-records)
+  * [17.2.4 Emory University Libraries Alma Documentation](#1724-emory-university-libraries-alma-documentation)
 * [17.3 Cataloging manuals](#172-cataloging-manuals)
 
 
@@ -31,7 +32,6 @@ See instructions in SharePoint in [OCLC_connexion_collection cataloging](https:/
 ### 17.1.4 Deleting OCLC holdings and OCLC records
 
 See instructions in SharePoint in [OCLC_connexion_deleting OCLC holdings and OCLC records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZsVdhx86UxGhYsyhH7fx58Bv6XpuAxoX3hxSGnuYLq1uw?e=o5NJOU). 
-This document includes instructions for how to restore records that are accidentally deleted.
 
 
 ## 17.2 Alma
@@ -51,9 +51,12 @@ This document includes instructions for how to restore records that are accident
 
 ### 17.2.2 Creating Alma holdings records and item records for archival collections
 
-See instructions in SharePoint in [ALMA_holding and item records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUApomTliJNCpIVaKpK-OpwBeRZzGQ6qPjZySzEZP_u1KQ?e=MKClae)
+See instructions in SharePoint in [ALMA_holding and item records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUApomTliJNCpIVaKpK-OpwBeRZzGQ6qPjZySzEZP_u1KQ?e=MKClae).
 
-### 17.2.3 Emory University Libraries Alma Documentation
+### 17.2.3 Restoring Deleted Alma Records
+See instructions in SharePoint in [Alma_restoring deleted records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EUF5y-zvEeNCrK6X2j78ClYBSHIP5rB6R2K9FreYjDEq5A?e=gafl6K). 
+
+### 17.2.4 Emory University Libraries Alma Documentation
 
 See [Emory University Libraries Alma Documentation for cataloging](https://emory.screenstepslive.com/s/alma/m/cat)
 
