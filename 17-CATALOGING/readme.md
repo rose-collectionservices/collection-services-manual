@@ -30,7 +30,8 @@ See instructions in SharePoint in [OCLC_connexion_collection cataloging](https:/
 
 ### 17.1.4 Deleting OCLC holdings and OCLC records
 
-See instructions in SharePoint in [OCLC_connexion_deleting OCLC holdings and OCLC records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZsVdhx86UxGhYsyhH7fx58Bv6XpuAxoX3hxSGnuYLq1uw?e=o5NJOU)
+See instructions in SharePoint in [OCLC_connexion_deleting OCLC holdings and OCLC records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EZsVdhx86UxGhYsyhH7fx58Bv6XpuAxoX3hxSGnuYLq1uw?e=o5NJOU). 
+This document includes instructions for how to restore records that are accidentally deleted.
 
 
 ## 17.2 Alma
