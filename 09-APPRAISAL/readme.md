@@ -65,12 +65,31 @@ Appraisal work is a shared responsibility between curators and archivists and sh
 It is important to remember that while archivists at the Rose rarely separate materials from collections based on their content, relevance, condition, or other factors, they do perform appraisal on collections when they make decisions about the levels to which to arrange, describe, and preserve collections. Archival appraisal is, at heart, the application of value to materials, an activity that is fundamental to processing. 
  
 ## 9.4 Procedures for Discarding Material
+In many cases, materials will be sent to the Rose Library that do not fit in the collecting areas and will not be added to the collection.  During the donation process, donors have the option to identify how they would like dispose of the materials within the deed paperwork.  While some donors are content to have us dispose of the materials, others are less comfortable with the destruction of these items. If the deed requires a return of materials or if there is no information on disposition, the materials should be reviewed by the curator of the collecting area for return to the donor or their family.
 
-Material removed from collections should be disposed of in a secure manner.  If at all possible collection material should be placed in the confidential shredding bins in the processing area, or, for AV or born digital material, the AV shredding bin.  Material that does not fit in the bin or that cannot be disposed of in that manner (e.g., computer hardware) for any reason should be placed in opaque black trash bags.  You should never use your desk trash or recycling bins for collection material.  Items removed from collections must be discarded and cannot be adopted by staff members. 
+**If the deed allows for disposition by the library, and:**
+- The materials hold no research value (and deed/paperwork allows for disposition of materials), the archivist can destroy materials via the confidential shred bin.
+	- Material removed from collections should be disposed of in a secure manner.  If at all possible collection material should be placed in the confidential shredding bins in the processing area, or, for AV or born digital material, the AV shredding bin.  Material that does not fit in the bin or that cannot be disposed of in that manner (e.g., computer hardware) for any reason should be placed in opaque black trash bags.  You should never use your desk trash or recycling bins for collection material.  Items removed from collections must be discarded and cannot be adopted by staff members. 
+- The materials have research value, but it doesn’t fit our collecting areas, the archivist can reach out to other organizations where the materials are a better fit and transfer materials to that repository.
+- The materials hold no research value but may hold sentimental value to the donor or family, the archivist should plan to return materials.
+
+**When the processing archivist identifies materials that should be sent to the donor/family, the archivist should:**
+- Confirm disposal requirements in the deed/donor paperwork.  
+- Email the curator of the collecting area (cc’ing Head of Collection Development) with the size of the return, link to the donation paperwork, donor/family name and contact information, and a short explanation of why the materials is being removed.
+
+**The curator should:**
+- Review the donation paperwork for disposition needs
+- Review the materials for context
+- Reach out to the donor/family (via email or letter) about the return and ask for preferred return type (FedEx, local drop off, etc.)
+- Update the archivist when the initial contact is made
+- Update the archivist with follow up information to start the shipping/return process
+
+- The archivist is responsible for boxing and shipping the materials back
+- The curator is responsible for in-person returns 
 
 While most appraisal decisions will vary depending on the collection, there are certain born-digital items that should not typically be transferred to the library. These include computer peripherals (e.g., keyboards, mice, monitors) and networking hardware (e.g., routers, modems). In cases where the library acquires whole computers or laptops, all hardware and casing, with the important exception of any hard drives, can typically be disposed of once disk imaging is complete. Contact Jack Scott to arrange surplus pick-up.  
 
-Do not dispose of casing and additional hardware only: 
+Dispose of casing and additional hardware only: 
 
 * If they feature labels and markings intentionally added by the donor/creator that contribute significant meaning to the collection. These should not be labels or markings that simply denote ownership or give instruction on use or function (i.e., “Dorothy’s mouse” or “plug in here”). 
 * In cases where the associated hardware is particularly old or obscure and it has been deemed likely, following consultation with the digital archivist, that this equipment will be required in order to access and transfer digital files from the associated hardware. 
