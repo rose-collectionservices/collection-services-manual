@@ -1002,7 +1002,8 @@ When describing restrictions, precede the first restriction note with "Special r
 * The collection contains some copies of original materials held by [other institutions (identify by name if materials come from only one or a few institutions; use "(an)other institution(s) if unknown or too numerous to identify by name)]; these copies may not be reproduced without the permission of the owner of the originals. 
 * The use of personal cameras is prohibited. 
 * Printed or manuscript music in this collection that is still under copyright protection and is not in the Public Domain may not be photocopied or photographed.  Researchers must provide written authorization from the copyright holder to request copies of these materials. 
-* Researchers are not permitted to copy or download any of the digital files from the computer workstation.  
+* Researchers are not permitted to copy, download, or photograph any of the digital files from the computer workstation. [Currently used if the collection includes digital material with a photography/photocopy restriction. A version of this note might appear on older finding aids that do allow personal photography or copy requests; check for any restriction information to determine whether they should be permitted.]
+* Researchers are not permitted to transfer or download any digital files from reading room laptops. Copies may be available upon request through Rose Library's reprographic services. [Use this version if the collection includes digital materials that can be photographed or requested, even though transfers directly from access workstations to researcher devices or accounts are never allowed for security reasons.]
 
 **Other examples:**
 
