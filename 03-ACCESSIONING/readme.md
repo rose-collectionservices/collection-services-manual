@@ -127,6 +127,7 @@ Typically, the Head of Processing or University Archivist will create the prelim
 *	Content description
 *	Extents
 *	Dates
+*	Related Resource Record
 
 #### 3.3.3.1 Add Event Records
 Confirm the Custody Transfer and Agreement Signed event records are added (see 2.2.3.10 Event Records for more information) by clicking on the view option for the Accession Record and scrolling to the bottom. Content for these records is usually found in the acquisition paperwork in either Airtable or ArchivesSpace or within fields in Airtable. 
