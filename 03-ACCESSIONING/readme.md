@@ -304,6 +304,7 @@ TBD
 *	Create/update accession record in ArchivesSpace 
 	*	Confirm Custody Transfer and Agreement Signed events
 	*	Add Accession event
+    *	Add related Resource Record
 	*	Delete instances
 *	Arrange and re-house
 *	Handle special formats
