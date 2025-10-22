@@ -4,6 +4,8 @@
 * [18.2] Checklist for adding a new container to an existing collection
 * [18.3] Checklists for logging acquisitions
 * [18.4] Digital collections procedures
+* [18.5] Checklist for MSS accessioning
+* [18.6] Checklist for MSS processing
 
 
 ## 18.1 Checklists for sending materials to the LSC
@@ -31,3 +33,9 @@
 [Emory Digital Collections workflows](https://emorylib.atlassian.net/wiki/spaces/DLPP/overview)
 
 [LIBSAFE Go workflows](https://emorylib.atlassian.net/wiki/spaces/LG/overview)
+
+## 18.5 Checklist for MSS accessioning
+[MSS Accessioning Checklist](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides%20and%20checklists/checklists/Checklist%20-%20accessioning.docx?d=wdb02115cc34c4b5785932da1e84d6d3f&csf=1&web=1&e=wtjqa2)
+
+## 18.6 Checklist for MSS processing
+[MSS Processing Checklist](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Manuals/Procedure%20Guides%20and%20checklists/checklists/Checklist%20-%20processing.docx?d=w0d0789f35c294cdd8a1f996763d87b31&csf=1&web=1&e=SAsB4a)
