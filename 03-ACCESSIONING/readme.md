@@ -300,37 +300,7 @@ There are [legacy collection files in Sharepoint](<https://emory.sharepoint.com/
 TBD
 
 ## 3.10 Accessioning Checklist
-*	Locate acquisition paperwork and print out if necessary. Write accession number on paperwork.
-*	Locate materials to be accessioned, including checking for digital content.
-*	Create/update accession record in ArchivesSpace 
-	*	Confirm Custody Transfer and Agreement Signed events
-	*	Add Accession event
-    *	Add related Resource Record
-	*	Delete instances
-*	Arrange and re-house
-*	Handle special formats
-	*	If there is AV, add to AV inventory
-	*	If there is digital media, record on the shelf list Digital Archives tab
-	*	If there is a website to be added to the list of web crawls, notify digital archivist
-	*	Separate published materials for cataloging
-*	Confirm/identify collection number via MSS or EUA register
-*	Create or update the Resource Record and add Archival Objects
-*	Request finding aid review if necessary 
-*	Finalize and publish the resource record in ASpace
-*	Label and barcode boxes
-*	Top container management in ASpace
-*	Create or update MARC catalog record in OCLC
-*	In Alma, create holdings record if necessary and add item records
-*	Move containers to final locations, with new collections typically being sent to the LSC
-	*	Confirm locations are correct in ASpace
-	*	Update shelf list
-*	Update processing statistics spreadsheet
-*	Announce new collections or significant additions on the #collections Slack channel
-*	Inform or request that curators inform donors and/or creators that new collections are now open
-*	Create or update the collection file
-*	File the barcode worksheets
-*	Update Airtable record and mark as complete
-
+See [18.5 Checklist for MSS accessioning](https://github.com/rose-collectionservices/collection-services-manual/tree/master/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS#185-checklist-for-mss-accessioning)
 
 
 
