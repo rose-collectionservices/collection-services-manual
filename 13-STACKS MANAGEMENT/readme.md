@@ -14,7 +14,6 @@ Current owner: **Becky Sherman**
 * [13.3 Offsite Storage Locations]
 	* [13.3.1 Library Service Center (LSC)]
  	* [13.3.2 Access Storage]
-  	* [13.3.3 CV Fine Art]
   	   
 * [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
 	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
@@ -143,10 +142,6 @@ Historically Rose Library has used several different nomenclature/box numbering 
 ### 13.3.2 Access Storage
 
 Rose Library has material stored at Access Storage. The University Records Manager places all requests to retrieve material from Access. 
-
-### 13.3.3 CV Fine Art
-
-Rose Library has some material stored at CV Fine Art.
 
 
 ## 13.2 LSC Ingest Policies and Procedures
