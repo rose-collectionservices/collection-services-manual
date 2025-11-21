@@ -333,10 +333,10 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
  	* Framed Items
   		* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above on oversized boxes.
 		* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. 
-		* Framed items that are too large to be boxed should be handled as an "object" (see section below) and stored on the art racks on L11 if possible.
-  		* Legacy information: Previously, framed items were given an FR number to indicate that it is being stored onsite on the framed art shelves. Since the FR nomenclature is no longer necessary to indicate a shelving location, it will not be used going forward.
+		* Framed items that are too large to be boxed should be handled as an unboxed object (see below) and stored on the art racks on L11 if possible.
+  		* Legacy information: Previously, framed items were given an FR number to indicate that it is being stored onsite on the framed art shelves. Since the FR nomenclature is no longer necessary to indicate a shelving location, it will not be used going forward and will be replaced by OBJ.
   	* Unboxed Objects
-		* Any item that cannot be boxed (including unboxed framed items, artwork, etc.) should be handled as an unboxed object. 	 
+		* Any item that cannot be boxed (including framed items, artwork, etc.) should be handled as an unboxed object. 	 
  		* In ASpace:
   			* The item itself is the top container in ASpace, as it has no additional container.
   	    	* Container type = object
