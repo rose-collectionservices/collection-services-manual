@@ -342,8 +342,9 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   	    	* Container type = object
   	     	* Give the item an OBJ number as the indicator, which indicates that it is an unboxed object. In a collection OBJs should be given a separate sequence of numbers from the general box number sequence (i.e. OBJ1, OBJ2, etc.), with no space between OBJ and the number.
   	  		* Container profile =
-  	    	* Add the location
-  	    * Label the item. Do not affix labels directly to the frame or item. Attach it in whatever way makes sense, such as printing a small (4" x 2") label, affixing the label to a strip of acid free card stock, punching a hole in the card stock, and tying the label to the item or the hanger on the frame. 
+  	    	* Add barcode
+  	     	* Add the location
+  	    * Label and barcode the item. Do not affix labels directly to the frame or item. Attach it in whatever way makes sense, such as printing a small (4" x 2") label, affixing the label to a strip of acid free card stock, punching a hole in the card stock, and tying the label to the item or the hanger on the frame. 
   	* Storage of unboxed objects
   		* Framed items should be stored on the art racks on L11 if space is available. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison.
   	 	* Unboxed objects may also be stored in other locations based on size and available space, including the L11 storage closet, the machine room, or on display in the Matheson Reading Room. 
