@@ -31,7 +31,7 @@ Content owner: **Becky Sherman**
   	  	* [10.8.4.3 Oversized folders larger than 20x24" and up to 38x34" (OPs)]
   	  	* [10.8.4.4 Oversized folders larger than 38x36" and up to 56x34" (XOPs)]
   		* [10.8.5.5 Legacy content: Bound volumes]
-  	 	* [10.8.5.6 Framed items]
+  	 	* [10.8.5.6 Unboxed items]
   	  	* [10.8.5.7 Scroll boxes] 	
 * [10.9 Labeling boxes](#109-labeling-boxes)
  	* [10.9.1 Creating general labels](#1091-creating-general-labels)
@@ -326,9 +326,10 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   	* Under rare circumstances you may need to create a new OBV if a volume is too large for a 20x24" box and must be stored onsite. In those rare cases, it should be identified with a strip of acid-free card stock inserted into the volume, given an OBV number, and stored on the OBV shelves on L11.
  
         
-* #### 10.8.4.6 3-D Objects, Memorabilia, and Framed items
+* #### 10.8.4.6 Unboxed items
 	* When possible, all 3-D objects, memorabilia, and framed items should be boxed.
  	* **Do not send glass items to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP. Affix a label that says "caution: glass".
+    * Items that are too large or heavy to box should be handled as unboxed objects.
  	* Framed Items
   		* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above on oversized boxes.
 		* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. 
