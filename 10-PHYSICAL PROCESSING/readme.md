@@ -344,6 +344,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   	  		* Container profile =
   	    	* Add barcode
   	     	* Add the location
+  	      	* Add a Conditions Governing Access note if the item should be restricted and not requestable	 
   	    * Label and barcode the item. Do not affix labels directly to the frame or item. Attach it in whatever way makes sense, such as printing a small (4" x 2") label, affixing the label to a strip of acid free card stock, punching a hole in the card stock, and tying the label to the item or the hanger on the frame. 
   	* Storage of unboxed objects
   		* Framed items should be stored on the art racks on L11 if space is available. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison.
