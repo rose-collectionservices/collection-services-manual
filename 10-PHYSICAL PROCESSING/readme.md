@@ -341,7 +341,7 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   			* The item itself is the top container in ASpace, as it has no additional container.
   	    	* Container type = object
   	     	* Give the item an OBJ number as the indicator, which indicates that it is an unboxed object. In a collection OBJs should be given a separate sequence of numbers from the general box number sequence (i.e. OBJ1, OBJ2, etc.), with no space between OBJ and the number.
-  	  		* Container profile =
+  	  		* Container profile = Unboxed [regardless of dimensions]
   	    	* Add barcode
   	     	* Add the location
   	      	* Add a Conditions Governing Access note if the item should be restricted and not requestable	 
