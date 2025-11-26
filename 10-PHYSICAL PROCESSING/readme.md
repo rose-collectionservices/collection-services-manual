@@ -327,21 +327,23 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
  
         
 * #### 10.8.4.6 Unboxed items
-	* When possible, all 3-D objects, memorabilia, and framed items should be boxed.
- 	* **Do not send glass items to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP. Affix a label that says "caution: glass".
-    * Items that are too large or heavy to box should be handled as unboxed objects.
+	* When possible, all materials should be boxed.
+ 	* Items that are too large or heavy to box should be handled as unboxed objects.
+    * **Do not send glass items to the LSC.** Boxes containing glass must be stored onsite and should be handled as an OP. Affix a label that says "caution: glass".
+
  	* Framed Items
-  		* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above on oversized boxes.
-		* If it is not possible to remove the frame but the frame will fit in an oversized box, put it in an appropriately sized box and pad the item with pH buffered paper or bubble wrap. 
+  		* When possible, framed items such as photographs, certificates, or artwork should be unframed and boxed according to the size of the item. See guidance above in 10.8.4 Oversized materials.
+		* Materials that can't be unframed should be put it in an appropriately sized box if possible, with the item padded with pH buffered paper or bubble wrap. 
 		* Framed items that are too large to be boxed should be handled as an unboxed object (see below) and stored on the art racks on L11 if possible.
-  		* Legacy information: Previously, framed items were given an FR number to indicate that it is being stored onsite on the framed art shelves. Since the FR nomenclature is no longer necessary to indicate a shelving location, it will not be used going forward and will be replaced by OBJ.
+  		* Legacy information: Previously, framed items were assigned an "FR" number to indicate that it is being stored onsite on the framed art shelves. Since the FR nomenclature is no longer necessary to indicate a shelving location, it will not be used going forward and will be replaced by OBJ.
+      
   	* Unboxed Objects
 		* Any item that cannot be boxed (including framed items, artwork, etc.) should be handled as an unboxed object. 	 
  		* In ASpace:
   			* The item itself is the top container in ASpace, as it has no additional container.
   	    	* Container type = object
-  	     	* Give the item an OBJ number as the indicator, which indicates that it is an unboxed object. In a collection OBJs should be given a separate sequence of numbers from the general box number sequence (i.e. OBJ1, OBJ2, etc.), with no space between OBJ and the number.
-  	  		* Container profile = Unboxed [regardless of dimensions]
+  	     	* Assign the item an OBJ number as the indicator. In a collection OBJs should be given a separate sequence of numbers from the general box number sequence (i.e. OBJ1, OBJ2, etc.), with no space between OBJ and the number.
+  	  		* Container profile = Unboxed (regardless of dimensions--it is not necessary to include dimensions in ASpace for unboxed items as we do not need this information for space management purposes)
   	    	* Add barcode
   	     	* Add the location
   	      	* Add a Conditions Governing Access note if the item should be restricted and not requestable	 
@@ -350,13 +352,13 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   		* Framed items should be stored on the art racks on L11 if space is available. If the frame does not have hanging hardware on the back, consult with the Rose Library Preservation Liaison.
   	 	* Unboxed objects may also be stored in other locations based on size and available space, including the L11 storage closet, the machine room, or on display in the Matheson Reading Room. 
 * #### 10.8.4.7 Scroll boxes
-	* When materials come in rolled, they can be placed in scroll boxes for storage
- 		* Ideally, materials should be laid flat, but this option keeps materials safe in the meantime
-   		* Should be used for materials that will see less activity in the reading room
-     	* There are two sizes for scroll boxes:
-      		* 4" x 4" x 28" with the label and barcode on the short end of the box (use the small box labels and place the barcode under the label)
-        	* 4" x 4" x 48" with the label and barcode on the long end of the box (use the large box labels and place the barcode next to the label)
-         * Scroll boxes can stay onsite or be sent to the LSC.                	 
+	* Rolled materials can be placed in scroll boxes for storage
+ 	* Ideally, materials should be sent to Preservation to be flattened, but storing rolled items in a scroll box is an acceptable option for items that are infrequently requested.
+    * There are two sizes of scroll boxes:
+    	* 	4" x 4" x 28" --place the label and barcode on the short end of the box (use the small box labels and place the barcode under the label)
+     	* 	4" x 4" x 48" --place the label and barcode on the long end of the box (use the large box labels and place the barcode next to the label)
+    * It is preferred to send scroll boxes to the LSC. Scroll boxes up to 48" long can be sent to the LSC.
+                      	 
 ## 10.9 Labeling boxes
 
 ### 10.9.1 Creating general labels
