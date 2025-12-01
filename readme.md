@@ -2,7 +2,7 @@
 
 * [Table of contents](#table-of-contents)
 * [GitHub Wiki: Markdown Cheatsheet for GitHub](#github-wiki-markdown-cheatsheet-for-github)
-* [Rose Library Collection Services documentation approval policy](#rose-library-collection-services-documentation-approval-policy1)
+* [Rose Library Collection Services documentation policy](#rose-library-collection-services-documentation-policy)
 
 
 ## Table of contents
@@ -31,33 +31,55 @@ See https://github.com/rose-collectionservices/collection-services-manual/wiki/1
 
 For more resources, see https://github.com/rose-collectionservices/collection-services-manual/wiki/2:-Additional-Markdown-Resources
 
-## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
-
-Documentation created by the Collection Services department of the Stuart A. Rose Manuscript, Archives, and Rare Book Library includes the policies, workflows, processes, manuals, and forms that are integral to the operations of Collection Services and are intended for long-term use. In order for staff to control, use, and share this documentation, Collection Services is stored and maintained using GitHub. All documentation on the platform is publicly available.<a href="#anchor1"><sup>2</sup></a>  This facilitates transparency and version control of our institutional processes, as well as an opportunity to share archival documentation with the larger archival community and other interested users. 
-
-This policy defines the process by which existing documentation is expanded and revised.
-
-All public content is shared under a [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) (CC0) public domain dedication.
-
-### Revising or removing documentation
-
-It is expected and encouraged that documentation be reviewed and revised periodically to ensure that it is accurate and reflects current practice. All changes should be submitted through a pull request in the corresponding GitHub repository.
-
-* Staff may commit changes directly to the master branch where revisions are very minor (e.g., small stylistic changes, minor corrections, etc.).
-
-All other changes must be submitted via a pull request:
-
-* If a staff member revises documentation following a broader Collection Services discussion or is the listed content owner of the documentation in question, they may merge the resulting pull request without further approval but are encouraged to invite at least one other member of staff to review their changes including, where appropriate, the listed content owner.
-* Substantive changes should be reviewed and approved by at least one other member of staff including, where relevant, the listed content owner. Where required, review should take place within three working days of a request being made.
-* If a determination is made to remove a piece of documentation in its entirety, notify any Collection Services team member with administrative access to the Collection Services GitHub account.
-
-Refer to the Rose Library guide to GitHub for technical instructions (forthcoming) on how to revise existing Collection Services documentation stored in GitHub.
 
 
----
+## Rose Library Collection Services documentation policy
 
-*Footnotes:*
+### Purpose 
+This policy outlines the high-level principles and requirements governing the management of Rose Library’s collection services documentation. Detailed guidelines related to platforms and procedures follow the formal policy. 
 
-<a id="anchor1">[1]</a> Language and process borrowed in large part and with much gratitude from the Rockefeller Archive Center Documentation Site Content Approval Policy: http://docs.rockarch.org/docs-policy/
+### Scope 
 
-<a id="anchor2">[2]</a> In some cases, links from Collection Services repositories to information that cannot be shared publicly require authentication.
+This policy governs documentation owned and managed by the collection services staff of the Stuart A. Rose Manuscript, Archives, and Rare Book Library (defined as staff working in processing, cataloging, or digital archives units or roles). This documentation includes the policies, workflows, processes, guides, manuals, and forms integral to collection services functions and intended for long-term use.  
+
+Collection services staff also rely on documentation maintained by other Rose Library departments, other divisions of Emory Libraries, professional associations and standards bodies, and vendors. While this policy requires collection services manuals link to such documentation for awareness and ease of use, external documentation is otherwise outside the scope of this policy. 
+
+### Ownership 
+
+Each file or manual section constituting official collection services documentation should have a designated owner, typically the job role that directly oversees the documented program or function. Whenever possible, the content owner’s job title or name should be recorded at the top of the relevant page or document. The content owner is responsible for monitoring and maintaining their assigned documentation, advising on revisions, committing changes to official copies, and notifying others when significant changes are made. When necessitated by job responsibilities or personnel change, changes in documentation ownership should be recorded and communicated in a timely manner.  
+
+### Documentation Locations 
+
+Policies governing the creation and management of documentation apply regardless of the platform(s) in use and should remain consistent even if storage locations change over time.  
+
+All current documentation should be indexed in one central location. Information should not be repeated between platforms, manuals, or sections; rather, the central documentation should identify and direct users to any information stored elsewhere. Similarly, files containing documentation should not be copied and placed in multiple locations for convenience or to support project-based worked; project instructions should instead direct users to versions of record.
+
+### Access 
+
+When selecting documentation platforms and setting permissions, staff should make every effort to keep documentation publicly available. This facilitates transparency and version control of our institutional processes, as well as providing an opportunity to share archival documentation with the larger archival community and other interested users. All public content is shared under a Creative Commons Zero (CC0) public domain dedication. Sharing of non-public content with stakeholders outside of Emory should be done in accordance with relevant Rose Library policies and approved by the content owner.
+
+### Review and Approval of Documentation 
+
+Any staff member may propose, draft, or revise documentation; however, only designated content owners may commit changes to official copies.  
+
+Content owners may edit documentation directly, without additional consultation or review, where revisions are minor (e.g., small stylistic changes, small corrections or clarifications, etc.). 
+
+Substantive additions or edits, including removals, must be reviewed by the content owner and one additional person before implementation. Documentation that will be broadly used, such as processing workflows, should ideally be reviewed by all staff involved in the process or function it documents. Review should take place within one week of a request being made. 
+
+Creation of or revisions to official policies require additional layers of approval, including, at minimum, consultation with the Rose Library Associate Director and discussion at a meeting of the collection services units. Policies that impact Rose Library teams and functions beyond collection services also require review and approval by Rose Library’s leadership team. 
+
+### Revision of Documentation 
+
+Documentation should be reviewed and revised at regular intervals. More frequent revisions to align documentation with current practices should occur whenever practices change.  
+
+  * The central collection services manual should be reviewed, as a whole or section by section, every five years at minimum.  
+  * Staff should review and revise documentation when implementing new workflows or systems, when best practices and guidance from professional organizations change, when a new staff person assumes responsibility for a workflow or system, and when staff agree that current documentation is inadequate. 
+  * Staff should review and clean up project-specific documentation upon completion of the project. This process includes deleting extra copies of documentation, moving outdated documentation to the legacy folder, and filing other useful information with administrative or collection records. 
+
+Staff should make every effort to keep active documentation current. When documentation is known to be inaccurate, the content owner must clearly label it with a status statement [link to procedures] until revisions are complete.  
+
+### Revision of Documentation Management Policy 
+
+This policy may be changed at the direction of Rose Library’s Associate Director or with the agreement of all collection services staff; changes must be announced to and reviewed by all affected stakeholders prior to implementation.  
+
+The documentation procedures that follow this policy are expected to change more frequently to accommodate changes in staffing, workflows, and systems. Procedural changes documented below are subject to the general revision guidelines for collection services documentation. 
