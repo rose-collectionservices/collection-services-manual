@@ -1,5 +1,5 @@
 # Appraisal
-
+Last revised September 2025. Content owners: Carrie Hintz and Laura Starratt
 
 * [9.1 Before processing](#91-before-processing)
 * [9.2 During arrangement](#92-during-arrangement)
