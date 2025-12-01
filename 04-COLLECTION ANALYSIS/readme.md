@@ -1,7 +1,7 @@
 
 # Collection Analysis
 
-Content owner: 
+Last revised in 2019. Content owner: Laura Starratt
 
 * [4.1 Determine provenance and original order](#41-determine-provenance-and-original-order)
 * [4.2 Condition assessment/physical inventory](#42-condition-assessmentphysical-inventory)
