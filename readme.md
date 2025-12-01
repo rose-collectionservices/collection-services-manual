@@ -1,32 +1,29 @@
 # About the Collection Services Manual
 
-* [Introduction](#introduction)
 * [Table of contents](#table-of-contents)
 * [Rose Library Collection Services documentation approval policy](#rose-library-collection-services-documentation-approval-policy1)
 
-## Introduction
-
-Placeholder for Carrie's introductory text
 
 ## Table of contents
 
 * [01: Overview of archival processing](/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING)
-* [02: Accessioning and precustodial work](/02-ACCESSIONING%20AND%20PRECUSTODIAL%20WORK)
-* [03: Collection analysis](/03-COLLECTION%20ANALYSIS)
-* [04: Levels of arrangement and description](/04-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
-* [05: Description](/05-DESCRIPTION)
-* [06: Physical processing](/06-LOCAL%20PRACTICE)
-* [07: Restriction](/07-RESTRICTION%20AND%20SEPARATION)
-* [08: Appraisal](/08-APPRAISAL)
-* [09: Preservation](/09-PRESERVATION)
-* [10: Project management](/10-PROJECT-MANAGEMENT)
-* [11: Assessment and reporting](/11-ASSESSMENT%20AND%20REPORTING)
-* [12: Workplace and environment](/12-WORKPLACE%20AND%20ENVIRONMENT)
-* [13: Supplies](/13-SUPPLIES)
-* [14: Packing and shipping](/14-PACKING%20AND%20SHIPPING)
-* [15: FedEx guidelines](/15-FEDEX%20GUIDELINES)
-* [16: Stacks management](/16-STACKS%20MANAGEMENT)
-* [17: Formatting and style guide](/17-FORMATTING%20AND%20STYLE%20GUIDE)
+* [02: Acquisitions](/02-ACQUISITIONS)
+* [03: Accessioning](/03-ACCESSIONING)
+* [04: Collection Analysis](/04-COLLECTION%20ANALYSIS)
+* [04: Levels of Arrangement and Description](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
+* [06: Description](/06-DESCRIPTION)
+* [07: Formatting and Style Guidelines](/07-FORMATTING%20AND%20STYLE%20GUIDELINES)
+* [08: Restriction Policies](/07-RESTRICTION%20POLICIES)
+* [09: Appraisal](/09-APPRAISAL)
+* [10: Physical Processing](/10-PHYSICAL-PROCESSING)
+* [11: Format Specific Procedures](/11-FORMAT-SPECIFIC-PROCEDURES)
+* [12: Preservation](/12-PRESERVATION)
+* [13: Stacks Management](/13-STACKS-MANAGEMENT)
+* [14: Administrative](/14-ADMINISTRATIVE)
+* [15: Assessment and Reporting](/15-ASSESSMENT-AND-REPORTING)
+* [16: ArchivesSpace](/16-ARCHIVESSPACE)
+* [17: Cataloging](/17-CATALOGING)
+* [18: Procedure Guides and Checklists](/18-PROCEDURE-GUIDES-AND-CHECKLISTS)
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
