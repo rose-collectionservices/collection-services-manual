@@ -123,7 +123,7 @@ Documentation used to support collection services functions but created and main
 
 1. Consult with content owner if proposer/drafter does not own the documentation 
 2. Draft revised documentation 
-3. Share draft for review by the people required by the policy [link] 
+3. Share draft for review by the people required by the policy (see https://github.com/rose-collectionservices/collection-services-manual/blob/master/readme.md#review-and-approval-of-documentation) 
 4. Discuss at collection services meeting, if necessary 
 5. Incorporate feedback 
 6. Upload to appropriate location 
