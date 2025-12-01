@@ -31,9 +31,9 @@ Content owner: Carrie Hintz
 * [18: Procedure Guides and Checklists](/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS)
 
 ## GitHub Wiki: Markdown Cheatsheet for Github
-See https://github.com/rose-collectionservices/collection-services-manual/wiki/1:-Markdown-Cheatsheet
+For GitHub markdown cheatsheet, see https://github.com/rose-collectionservices/collection-services-manual/wiki/1:-Markdown-Cheatsheet
 
-For more resources, see https://github.com/rose-collectionservices/collection-services-manual/wiki/2:-Additional-Markdown-Resources
+For more markdown resources, see https://github.com/rose-collectionservices/collection-services-manual/wiki/2:-Additional-Markdown-Resources
 
 
 
