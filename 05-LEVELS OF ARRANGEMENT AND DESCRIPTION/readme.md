@@ -1,7 +1,7 @@
 
 # Rose Library Levels of Arrangement and Description
 
-Content owner: **Sarah Quigley**
+Last revised in 2019. Content owner: Laura Starratt
 
 * [5.1 Levels of arrangement and description](#51-levels-of-arrangement-and-description)
 	* [5.1.1 Accessioned](#511-accessioned)
