@@ -1,7 +1,7 @@
 
 # Accessioning
-
-Content owner:Laura Starratt
+Last revised April 2025. 
+Content owner: Laura Starratt
 
 * [3.1 Scope of Accessioning Workflow](#31-scope-of-accessioning-workflow)
 * [3.2 Moving from Acquisition to Accessioning](#32-moving-from-acquisition-to-accessioning)
