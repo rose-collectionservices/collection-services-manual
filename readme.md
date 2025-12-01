@@ -13,17 +13,17 @@
 * [04: Levels of Arrangement and Description](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 * [06: Description](/06-DESCRIPTION)
 * [07: Formatting and Style Guide](/07-FORMATTING%20AND%20STYLE%20GUIDE)
-* [08: Restriction Policies](/08-RESTRICTION-POLICIES)
+* [08: Restriction Policies](/08-RESTRICTION%20POLICIES)
 * [09: Appraisal](/09-APPRAISAL)
-* [10: Physical Processing](/10-PHYSICAL-PROCESSING)
-* [11: Format Specific Procedures](/11-FORMAT-SPECIFIC-PROCEDURES)
+* [10: Physical Processing](/10-PHYSICAL%20PROCESSING)
+* [11: Format Specific Procedures](/11-FORMAT%20SPECIFIC%20PROCEDURES)
 * [12: Preservation](/12-PRESERVATION)
-* [13: Stacks Management](/13-STACKS-MANAGEMENT)
+* [13: Stacks Management](/13-STACKS%20MANAGEMENT)
 * [14: Administrative](/14-ADMINISTRATIVE)
-* [15: Assessment and Reporting](/15-ASSESSMENT-AND-REPORTING)
+* [15: Assessment and Reporting](/15-ASSESSMENT%20AND%20REPORTING)
 * [16: ArchivesSpace](/16-ARCHIVESSPACE)
 * [17: Cataloging](/17-CATALOGING)
-* [18: Procedure Guides and Checklists](/18-PROCEDURE-GUIDES-AND-CHECKLISTS)
+* [18: Procedure Guides and Checklists](/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS)
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
