@@ -1,4 +1,5 @@
 # Formatting and Style Guide
+Last revised in 2018. Content owner: 
 
 - [7.1 Capitalization](#71-capitalization)
 - [7.2 Dates](#72-dates)
