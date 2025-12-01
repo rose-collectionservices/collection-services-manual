@@ -13,7 +13,7 @@
 * [04: Levels of Arrangement and Description](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 * [06: Description](/06-DESCRIPTION)
 * [07: Formatting and Style Guide](/07-FORMATTING%20AND%20STYLE%20GUIDE)
-* [08: Restriction Policies](/07-RESTRICTION%20POLICIES)
+* [08: Restriction Policies](/08-RESTRICTION-POLICIES)
 * [09: Appraisal](/09-APPRAISAL)
 * [10: Physical Processing](/10-PHYSICAL-PROCESSING)
 * [11: Format Specific Procedures](/11-FORMAT-SPECIFIC-PROCEDURES)
