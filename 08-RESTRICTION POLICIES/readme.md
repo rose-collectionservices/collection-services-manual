@@ -1,4 +1,5 @@
 # Restriction Policies
+Last revised July 2025. Content owners: Laura Starratt and Becky Sherman
 
 * [8.1 Donor imposed restrictions](#81-donor-imposed-restrictions)
 * [8.2 Preservation restrictions](#82-preservation-restrictions)
