@@ -1,6 +1,6 @@
 # Physical Processing
 
-Content owner: **Becky Sherman**
+Last revised November 2025. Content owner: Becky Sherman
 
 * [10.1 Sorting](#101-sorting)
 * [10.2 Appraisal and weeding during processing](#102-appraisal-and-weeding-during-processing)
