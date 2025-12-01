@@ -1,4 +1,7 @@
 # About the Collection Services Manual
+Last revised December 2025 to include updated documentation policy and documentation procedures approved by the Collection Services Documentation Task Force.
+
+Content owner: Carrie Hintz
 
 * [Table of contents](#table-of-contents)
 * [GitHub Wiki: Markdown Cheatsheet for GitHub](#github-wiki-markdown-cheatsheet-for-github)
