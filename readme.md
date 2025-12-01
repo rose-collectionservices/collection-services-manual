@@ -1,6 +1,7 @@
 # About the Collection Services Manual
 
 * [Table of contents](#table-of-contents)
+* [GitHub Wiki: Markdown Cheatsheet for GitHub](#github-wiki-markdown-cheatsheet-for-github)
 * [Rose Library Collection Services documentation approval policy](#rose-library-collection-services-documentation-approval-policy1)
 
 
@@ -24,6 +25,11 @@
 * [16: ArchivesSpace](/16-ARCHIVESSPACE)
 * [17: Cataloging](/17-CATALOGING)
 * [18: Procedure Guides and Checklists](/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS)
+
+## GitHub Wiki: Markdown Cheatsheet for Github
+See https://github.com/rose-collectionservices/collection-services-manual/wiki/1:-Markdown-Cheatsheet
+
+For more resources, see https://github.com/rose-collectionservices/collection-services-manual/wiki/2:-Additional-Markdown-Resources
 
 ## Rose Library Collection Services documentation approval policy<a href="#anchor1"><sup>1</sup></a>
 
