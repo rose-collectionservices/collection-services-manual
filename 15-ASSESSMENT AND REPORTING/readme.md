@@ -1,6 +1,6 @@
 # Assessment and Reporting
 
-Current owner: **Sarah Quigley**
+Last revised in 2019. Content owner: Laura Starratt
 
 * [11.1 Output Metrics and Statistics](#111-output-metrics-and-statistics)
 	* [11.1.1 Accessioning](#1111-accessioning)
