@@ -1,5 +1,5 @@
 # Format-Specific Procedures
-
+Content owners: Laura Starratt [photographs]; AV liaison [AV materials]; Katherine Fisher [born digital materials and web archives]
 
 * [11.1 Photographs](#111-photographs) [finalized]
     * [11.1.1 General rules](#1111-general-rules)
