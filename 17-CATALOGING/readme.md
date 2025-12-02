@@ -1,4 +1,5 @@
 # Cataloging
+Last revised September 2025. Content owners: Laura Starratt, Becky Sherman, and Dylan Lewis
 
 * [17.1 OCLC Connexion](#171-oclc-connexion)
    * [17.1.1 OCLC Client Set Up for New User](#1711-OCLC-client-set-up-for-new-user)
