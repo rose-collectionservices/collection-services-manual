@@ -1,5 +1,5 @@
 # Administrative [This section needs to be updated]
-Last revised in 2019. Content owner: Laura Starratt
+Some sections revised in 2025 but other sections need to be updated and have not been revised since 2019. Content owner: Laura Starratt
 
 * [14.1 Project Management](#141-project-management)
 	* [14.1.1 Team processing](#1411-team-processing)
