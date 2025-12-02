@@ -18,6 +18,7 @@ Content owners: Laura Starratt [photographs]; AV liaison [AV materials]; Katheri
 * [11.4 Web archives](#114-web-archives) [draft]
 
 ### 11.1 Photographs
+**Last revised 2019. Content owner: Laura Starratt**
 
 Archivists will use the following guidelines and their professional discretion to determine appropriate levels of arrangement and description for photographs in Rose Library collections. These guidelines are meant to offer general guidance for archivists working with photographs, though there are a few prescriptive rules.
 
@@ -126,18 +127,20 @@ Labeling photographs should be rare. However, if you can identify the subject or
 * Cellulose acetates should also be stored in alkaline buffered paper envelopes or sleeves and placed in cold storage
 
 ### 11.2 Audiovisual materials
-Last revised July 2025. Content owner: AV Liaison
+**Last revised July 2025. Content owner: AV Liaison**
 
 [Processing Sound and Moving Image Media Quide](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbhJBWrDpbxIlh48n13WypEBX7G0OpYqQ6mkfW9f9rD1fA?e=PGym3K)
 
 [AV Liaison workflow](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpiAi24IHROgi3PXAI0Zl0BABeuTOOGkuSjHkl4aduVLw?e=OJP4iD)
 
 ### 11.3 Born-digital materials
-Content owner: Katherine Fisher
+**Content owner: Katherine Fisher**
 
 This section is under construction and will eventually contain detailed instructions for imaging, processing, and preserving born-digital content. For now, refer to the <a href="https://github.com/rose-collectionservices/digital-archives">Rose Library Digital Archives Manual</a>.
 
 ### 11.4 Web archives
+**Last revised February 2025. Content owner: Katherine Fisher**
+
 Web archives are a type of born-digital content but have unique acquisition and management processes. For policies and workflows, see the <a href="https://github.com/rose-collectionservices/digital-archives/blob/master/web_archives.md">Web Archives section of the Digital Archives manual</a>.
 
 #### Accessioning Web Archives 
