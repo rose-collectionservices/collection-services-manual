@@ -222,18 +222,17 @@ This quick guide outlines the steps to take when you encounter digital media whi
 		*	Digital photographs [compact discs (10 CD-Rs)], 2000-2005
 		*	Computer backups [hard drives (2 WD My Book)], 2012-2014
 5. Enter a date as you would for any other AO.
-6. Restrict the AOs and add the following file-level Conditions Governing Access note: “Original digital media restricted.”
-7. Organize the AOs within the resource record tree.
+6. Organize the AOs within the resource record tree.
 	* 	In many cases, leaving the AOs at the top level is fine.
 	* 	If you are doing a granular processing project and know where to intellectually arrange the AOs, place them in the correct series/subseries or title them appropriately to be grouped with similar items.
 	* 	Following accessioning or processing of the digital files, the digital archivist will rearrange the AOs if need. 
-8. Make sure the digital material is included in the scope and content note.
+7. Make sure the digital material is included in the scope and content note.
 	* 	A digital archivist will update other finding aid fields after accessioning the content of the digital media.
-9. Add an instance for each AO using the box you placed the media in.
+8. Add an instance for each AO using the box you placed the media in.
 	* 	If the content is a file transfer and there is no physical carrier, leave the AO without an instance.
 	* 	When the digital files are fully accessioned or processed, the digital archivist will add a DO record as an additional instance. 
-10. Add the following collection-level Conditions Governing Access note to the finding aid: "Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials." A digital archivist will change the note after the media are processed. 
-11. Notify a digital archivist directly in the following situations: large volume of digital media, oversized media or computer equipment, priority processing project, known researcher demand, unusual or unidentifiable media, poor condition. Otherwise, the digital archivist will use the shelf list to identity and prioritize media for accessioning and processing. 
+9. Add the following collection-level Conditions Governing Access note to the finding aid: "Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials. Use of the original digital media is restricted." A digital archivist will change the note after the media are processed. 
+10. Notify a digital archivist directly in the following situations: large volume of digital media, oversized media or computer equipment, priority processing project, known researcher demand, unusual or unidentifiable media, poor condition. Otherwise, the digital archivist will use the shelf list to identity and prioritize media for accessioning and processing. 
 
 #### 10.7.4.1 Digital media controlled vocabulary
 Based on AAT with local modifications. If other terms are needed, consult AAT first and then a digital archivist. 
