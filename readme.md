@@ -80,7 +80,7 @@ Documentation should be reviewed and revised at regular intervals. More frequent
   * Staff should review and revise documentation when implementing new workflows or systems, when best practices and guidance from professional organizations change, when a new staff person assumes responsibility for a workflow or system, and when staff agree that current documentation is inadequate. 
   * Staff should review and clean up project-specific documentation upon completion of the project. This process includes deleting extra copies of documentation, moving outdated documentation to the legacy folder, and filing other useful information with administrative or collection records. 
 
-Staff should make every effort to keep active documentation current. When documentation is known to be inaccurate, the content owner must clearly label it with a status statement [link to procedures] until revisions are complete.  
+Staff should make every effort to keep active documentation current. When documentation is known to be inaccurate, the content owner must clearly label it with a [status statement](#status-statements) until revisions are complete.  
 
 ### Revision of Documentation Management Policy 
 
