@@ -149,9 +149,9 @@ Content owners may delete from SharePoint superseded or unused files that are pu
 ### 1.3.1 GitHub account administration
 The GitHub account rose-collectionservices is administered by an account that can be accessed using the login and password in [SharePoint](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQDBWhaBRDJRRI6GGCVoqjbNAcYHT9OU5j56mMCTLqkrpFw?e=d17QaN> "SharePoint").
 
-### 1.3.2 Creating an account and gaining access
+### 1.3.2 Creating an account and gaining collaborator access
 
-In order to make changes to Rose Library documentation stored using GitHub, you will need a [GitHub account](https://github.com). Choose a username and password, enter your email address, and click "Sign up for GitHub."
+In order to make changes to Rose Library documentation stored in GitHub, you will need a [GitHub account](https://github.com). Choose a username and password, enter your email address, and click "Sign up for GitHub."
 
-Once you have a GitHub account, an administrator for the Rose-CollectionServices account must add you as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
+Once you have a GitHub account, contact the Associate Director who has administrator access for the Rose-CollectionServices account to add you as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
 
