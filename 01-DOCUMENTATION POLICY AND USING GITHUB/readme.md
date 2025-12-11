@@ -157,3 +157,12 @@ In order to make changes to Rose Library documentation stored in GitHub, you wil
 
 Once you have a GitHub account, contact the Associate Director who has administrator access for the Rose-CollectionServices account and request to be added as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
 
+### 1.3.3 Editing in GitHub
+
+Before making substantive revisions in GitHub, review and follow [1.2.2 Process for Substantive Revisions](#122-process-for-substantive-revisions). 
+
+1. Select the page that you wish to edit.
+2. Click the small edit icon (it looks like a pencil) on the top right-hand side of the page.
+3. Make your edit to the page. You may preview your changes by selecting the *Preview* tab.
+4. Once happy with your changes, scroll to the top of the page and click *Commit changes*. Enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. Use the present tense. For example: "Correct typos" or "Update 1.3.3." You may add an extended description in the message body if necessary. 
+
