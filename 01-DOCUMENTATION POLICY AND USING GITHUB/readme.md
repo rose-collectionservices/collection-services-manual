@@ -1,7 +1,7 @@
 # Documentation Policy and Using Github
 Last revised December 2025.
 
-Content owners: Carrie Hintz, Associate Director (for documentation policy and procedures) and Katherine Fisher (for GitHub instructions)
+Content owners: Carrie Hintz, Associate Director (documentation policy and procedures) and Katherine Fisher (GitHub instructions)
 
 * [1.1 Rose Library Collection Services Documentation Policy](#11-rose-library-collection-services-documentation-policy)
 * [1.2 Rose Library Collection Services Documentation Procedures](#12-rose-library-collection-services-documentation-procedures)
