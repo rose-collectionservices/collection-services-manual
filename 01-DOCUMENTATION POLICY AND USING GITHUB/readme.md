@@ -11,6 +11,8 @@ Content owners: Carrie Hintz, Associate Director (for documentation policy and p
      * [1.2.4 File-Naming Conventions](#124-file-naming-conventions)
      * [1.2.5 Removal of Documentation](#125-removal-of-documentation)
 * [1.3 Revising Documentation in GitHub](#13-revising-documentation-in-github)
+    * [1.3.1 GitHub account administration]
+    * [1.3.2 Creating an account and gaining collaborator access] 
 * [1.4 Markdown Cheat Sheet for GitHub](#14-markdown-cheat-sheet-for-github)
 
 ## 1.1 Rose Library Collection Services Documentation Policy
@@ -153,5 +155,5 @@ The GitHub account rose-collectionservices is administered by an account that ca
 
 In order to make changes to Rose Library documentation stored in GitHub, you will need a [GitHub account](https://github.com). Choose a username and password, enter your email address, and click "Sign up for GitHub."
 
-Once you have a GitHub account, contact the Associate Director who has administrator access for the Rose-CollectionServices account to add you as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
+Once you have a GitHub account, contact the Associate Director who has administrator access for the Rose-CollectionServices account and request to be added as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
 
