@@ -1,6 +1,8 @@
 # Documentation Policy and Using Github
 Last revised December 2025 to include updated documentation policy and documentation procedures approved by the Collection Services Documentation Task Force and update section 1.3.
 
+Content owner: Carrie Hintz, Associate Director (for documentation policy and procedures) and Katherine Fisher (for GitHub instructions)
+
 * [1.1 Rose Library Collection Services Documentation Policy](#11-rose-library-collection-services-documentation-policy)
 * [1.2 Rose Library Collection Services Documentation Procedures](#12-rose-library-collection-services-documentation-procedures)
      * [1.2.1 Platforms and Storage Locations](#121-platforms-and-storage-locations)
