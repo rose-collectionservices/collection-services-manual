@@ -3,6 +3,11 @@ Last revised December 2025 to include updated documentation policy and documenta
 
 * [1.1 Rose Library Collection Services Documentation Policy](#11-rose-library-collection-services-documentation-policy)
 * [1.2 Rose Library Collection Services Documentation Procedures](#12-rose-library-collection-services-documentation-procedures)
+     * [1.2.1 Platforms and Storage Locations](#121-platforms-and-storage-locations)
+     * [1.2.2 Process for Substantive Revisions](#122-process-for-substantive-revisions)
+     * [1.2.3 Status Statements](#123-status-statements)
+     * [1.2.4 File-Naming Conventions](#124-file-naming-conventions)
+     * [1.2.5 Removal of Documentation](#125-removal-of-documentation)
 * [1.3 Revising Documentation in GitHub](#13-revising-documentation-in-github)
 * [1.4 Markdown Cheat Sheet for GitHub](#14-markdown-cheat-sheet-for-github)
 
@@ -59,7 +64,7 @@ The documentation procedures that follow this policy are expected to change more
 
 ## 1.2 Rose Library Collection Services Documentation Procedures
 
-### Platforms and Storage Locations 
+### 1.2.1 Platforms and Storage Locations 
 
 Below are the approved platforms for collection services documentation and the types of documentation each may contain. 
 
@@ -88,7 +93,7 @@ Documentation used to support collection services functions can also be found on
 
 Documentation used to support collection services functions but created and maintained by external organizations (e.g., SAA manuals, professional standards, software user guides) should be linked rather than duplicated in SharePoint or GitHub. Supplemental information about local adaptations may appear alongside a link.  
 
-### Process for Substantive Revisions 
+### 1.2.2 Process for Substantive Revisions 
 
 1. Consult with content owner if proposer/drafter does not own the documentation 
 2. Draft revised documentation 
@@ -99,7 +104,7 @@ Documentation used to support collection services functions but created and main
 7. Add or update status label 
 8. Announce changes to #collection_services Slack channel (and other Slack channels as appropriate)
 
-### Status Statements 
+### 1.2.3 Status Statements 
 
 Actively used documentation should contain a status statement added by the content owner with the following elements: 
  * “Last revised” (used after any substantive change) or “Last reviewed” (used when a piece of documentation is confirmed to be current but no changes were made upon review).
@@ -116,7 +121,7 @@ In GitHub, content owners should indicate the appropriate status by adding the s
 
 Documentation in SharePoint should also contain a status or revision statement with the aforementioned elements, although the format is flexible. The content owner should note the status below the header or title,  in the filename, in  the text of the document, and/or in another visible location (depending on what makes the most sense).  
 
-### File-naming Conventions  
+### 1.2.4 File-naming Conventions  
 
 Filenames in SharePoint should include “legacy” or “draft” when applicable, preferably at the beginning of the filename to increase visibility in lists of search results.  
 
@@ -124,7 +129,7 @@ Version numbers or dates in filenames are recommended.
 
 While staff should link to versions of record rather than creating and storing additional copies of documentation, when creating derivative or convenience copies is unavoidable, staff must rename files to differentiate from the versions of record.  
 
-### Removal of Documentation 
+### 1.2.5 Removal of Documentation 
 
 If a determination is made to remove a manual section or other piece of documentation in its entirety from GitHub, the content owner must notify team members of their intention to remove the content and solicit feedback if appropriate before proceeding.  
 
