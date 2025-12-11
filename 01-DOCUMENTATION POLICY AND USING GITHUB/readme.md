@@ -147,7 +147,7 @@ Content owners may delete from SharePoint superseded or unused files that are pu
 ## 1.3 Revising Documentation in GitHub
 
 ### 1.3.1 GitHub account administration
-The GitHub account rose-collectionservices is administered by an account that can be accessed using the login and password in [SharePoint] (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQDBWhaBRDJRRI6GGCVoqjbNAcYHT9OU5j56mMCTLqkrpFw?e=d17QaN).
+The GitHub account rose-collectionservices is administered by an account that can be accessed using the login and password in [SharePoint](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQDBWhaBRDJRRI6GGCVoqjbNAcYHT9OU5j56mMCTLqkrpFw?e=d17QaN> "SharePoint").
 
 ### 1.3.2 Creating an account and gaining access
 
