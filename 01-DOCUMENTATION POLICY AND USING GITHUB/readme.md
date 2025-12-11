@@ -284,11 +284,11 @@ The text contained within speech marks will appear if a user hovers over the lin
 
 To create a link to another GitHub document, use the following syntax: `[hyperlinked text](path/to/GitHub/document)`
 
-For example, when linking to a page within the same repository, like [01-Overview of Archival Processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING#overview-of-archival-processing), the following syntax should be used:
+For example, when linking to a page within the same repository, like [08-RESTRICTION POLICIES](/08-RESTRICTION%20POLICIES), the following syntax should be used:
 
 ```
 when linking to a page within the same repository, like
-[01-Overview of Archival Processing](/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING),
+[08-RESTRICTION POLICIES](/08-RESTRICTION%20POLICIES),
 the following syntax should be used
 ```
 
