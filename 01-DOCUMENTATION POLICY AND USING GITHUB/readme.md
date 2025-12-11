@@ -11,9 +11,9 @@ Content owners: Carrie Hintz, Associate Director (for documentation policy and p
      * [1.2.4 File-Naming Conventions](#124-file-naming-conventions)
      * [1.2.5 Removal of Documentation](#125-removal-of-documentation)
 * [1.3 Revising Documentation in GitHub](#13-revising-documentation-in-github)
-    * [1.3.1 GitHub account administration]
-    * [1.3.2 Creating an account and gaining collaborator access]
-    * [1.3.3 Editing in GitHub] 
+    * [1.3.1 GitHub account administration](#131-github-account-administration)
+    * [1.3.2 Creating an account and gaining collaborator access](#132-creating-an-account-and-gaining-collaborator-access)
+    * [1.3.3 Editing in GitHub](#133-editing-in-github) 
 * [1.4 Markdown Cheat Sheet for GitHub](#14-markdown-cheat-sheet-for-github)
     * [1.4.1 Headings](#141-headings)
     * [1.4.2 Emphasis](#142-emphasis)
