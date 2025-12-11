@@ -142,4 +142,16 @@ If GitHub is the content’s only location, the content owner should save a Word
 Content owners may delete from SharePoint superseded or unused files that are purely procedural. When the information in SharePoint files relates to broader policies or might be needed as a record of past practice, the content owner should do the following: 
 1. Insert a note at the top of the first page indicating the document’s status (e.g. “Obsolete as of 5/22/24” or “Replaced by CS Manual”). When possible, make clear whether the documentation is obsolete (incorrect or officially superseded) vs. legacy (accurate and usable but not reflecting current practice). 
 2. Add “Legacy” to the beginning of the filename to signal in lists of search results that the content should not be used. 
-3. Move the copy of record into ​Folder icon Legacy CS Documentation.  
+3. Move the copy of record into ​Folder icon Legacy CS Documentation.
+
+## 1.3 Revising Documentation in GitHub
+
+### 1.3.1 GitHub account administration
+The GitHub account rose-collectionservices is administered by an account that can be accessed using the login and password in SharePoint (https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQDBWhaBRDJRRI6GGCVoqjbNAcYHT9OU5j56mMCTLqkrpFw?e=d17QaN).
+
+### 1.3.2 Creating an account and gaining access
+
+In order to make changes to Rose Library documentation stored using GitHub, you will need a [GitHub account](https://github.com). Choose a username and password, enter your email address, and click "Sign up for GitHub."
+
+Once you have a GitHub account, an administrator for the Rose-CollectionServices account must add you as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
+
