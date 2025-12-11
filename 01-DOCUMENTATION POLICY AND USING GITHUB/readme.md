@@ -165,5 +165,8 @@ Before making substantive revisions in GitHub, review and follow [1.2.2 Process 
 1. Select the page that you wish to edit.
 2. Click the small edit icon (it looks like a pencil) on the top right-hand side of the page.
 3. Make your edit to the page. You may preview your changes by selecting the *Preview* tab.
-4. Once happy with your changes, scroll to the top of the page and click *Commit changes*. Enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. Use the present tense. For example: "Correct typos" or "Update 1.3.3." You may add an extended description in the message body if necessary. 
+4. Once happy with your changes, scroll to the top of the page and click *Commit changes*.
+    * Enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. Use the present tense. For example: "Correct typos" or "Update 1.3.3." You may add an extended description in the message body if necessary.
+    * Ensure that "commit directly to the master branch" is selected.
+    * Click *Commit changes*.
 
