@@ -1,13 +1,54 @@
 
-# Collection Analysis
+# Overview of Archival Processing and Collection Analysis
 
 Last revised in 2019. Content owner: Laura Starratt
 
-* [4.1 Determine provenance and original order](#41-determine-provenance-and-original-order)
-* [4.2 Condition assessment/physical inventory](#42-condition-assessmentphysical-inventory)
-* [4.3 Determine level of arrangement and description](#43-determine-level-of-arrangement-and-description)
-	* [4.3.1 Identifying intellectual units within collections](#431-identifying-intellectual-units-within-collections)
+* [4.1 Overview of archival processing](#41-overview-of-archival-processing)
+	* [4.1.1 What it means to process](#411-what-it-means-to-process)
+	* [4.1.2 What we do and do not do when we process](#412-what-we-do-and-do-not-do-when-we-process)
+* [4.2 Collection analysis](#42-collection-analysis)
+	* [4.2.1 Overview of collection analysis](#421-overview-of-collection-analysis)
+	* [4.2.2 Determining provenance and original order](#422-determining-provenance-and-original-order)
+	* [4.2.3 Condition assessment/physical inventory](#423-condition-assessmentphysical-inventory)
+	* [4.2.4 Determining level of arrangement and description](#424-determining-level-of-arrangement-and-description)
+	* [4.2.5 Identifying intellectual units within collections](#425-identifying-intellectual-units-within-collections)
 
+## 4.1 Overview of Archival Processing
+
+### 4.1.1 What it means to process:
+
+A collection is "processed" when sufficient physical and intellectual control is imposed upon the collection by an archivist to facilitate its use.  A processed collection has been at least minimally described through basic inventories and narrative description that includes administrative information as well as contextual information about the collection.   
+
+Archivists process collections by applying their knowledge of professional best practices in collections management, arrangement, description, and preservation to the documents in the collection to make it accessible to researchers.  Processing also includes research about the collection creator and other topics that shed light on the context in which the collection was created and used before acquisition.  Archivists provide this information to patrons in the form descriptive documents such as finding aids and bibliographic catalog records. 
+
+### 4.1.2 What we do and do not do when we process:
+
+### We do:
+
+*	Try to provide enough description of a collection's structure and content 
+	that a user can navigate the collection and locate research material.
+*	Reflect the meaningful relationships that we identify between records, and 
+	between records and their creators. 
+*	Provide scope and content notes that indicate what a user might find in a 
+	collection, series, or file-and what might be missing or unascertainable. 
+*	Focus on groupings and aggregations of materials and the relationships between 
+	them.
+*	Focus on context rather than content.
+*	Seek to be as transparent as possible about the actions that we take on 
+	records and the changes that we make to collections.
+*	Use professional training and judgment to determine appropriate levels of 
+	arrangement and description for collections. 
+
+### We do not:
+
+*	Read every file or document in the collection. 
+*	Interpret the meaning or possible use of a collection or document.
+*	Arrange items within files or folders.
+*	Promise to identify every occurrence of personal information.
+
+## 4.2 Collection Analysis
+
+### 4.2.1 Overview of Collection Analysis
 The first step in processing is conducting a thorough collection analysis.  The 
 analysis is the foundation for all decisions about levels of arrangement and 
 description and enables the imposition of both physical and intellectual control onto 
@@ -18,7 +59,7 @@ a collection.
 *	Physical control:  The function of tracking the storage of records to ensure that 
 	they can be located.<a href="#anchor1"><sup>1</sup></a>
 	
-## 4.1 Determine Provenance and Original Order
+### 4.2.2 Determining Provenance and Original Order
 
 *	Provenance: 1. The origin or source of something. - 2. Information regarding the 
 	origins, custody, and ownership of an item or collection.
@@ -49,7 +90,7 @@ on the collection.  Significant time and effort should not be spent recreating
 original order when it's not apparent.  Carefully document your decision-making 
 process, as it will form the basis of the processing note (see [5.1.17 Processing note](/05-DESCRIPTION#5117-processing-note) for more information).  
 
-## 4.2 Condition Assessment/Physical Inventory
+### 4.2.3 Condition Assessment/Physical Inventory
 
 Assess the current physical condition of the collection (this will actually be done 
 concurrently with determining original order).  Begin by briefly examining the 
@@ -65,7 +106,7 @@ materials found there (e.g. correspondence, minutes, financial records), general
 extremely fragile material.  Refer to the [Preservation During Processing](/9-PRESERVATION/readme.md/#preservation-during-processing) 
 section for additional information.
 
-## 4.3 Determine Level of Arrangement and Description
+### 4.2.4 Determining Level of Arrangement and Description
 
 Start by analyzing the records (their content and context) at a high level. What does 
 the collection as a whole tell us? What are the major pieces of the collection and 
@@ -88,7 +129,7 @@ effectively and efficiently meet those goals. In general, you are looking for th
 "golden minimum," the least granular level of arrangement and description that will 
 meet the stated access and use goals for the collection. [Greene and Meissner](<www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf> "www.archivists.org/prof-education/pre-readings/IMPLP/AA68.2.MeissnerGreene.pdf")
 
-### 4.3.1 Identifying intellectual units within collections:
+### 4.2.5 Identifying intellectual units within collections:
 
 Archivists will always describe records, at minimum, at the collection level, but 
 most large or more complex collections will have additional groupings of material. These groupings (which could be series and/or subseries) may correlate to the 
