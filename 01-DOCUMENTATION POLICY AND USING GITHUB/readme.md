@@ -15,8 +15,17 @@ Content owners: Carrie Hintz, Associate Director (for documentation policy and p
     * [1.3.2 Creating an account and gaining collaborator access]
     * [1.3.3 Editing in GitHub] 
 * [1.4 Markdown Cheat Sheet for GitHub](#14-markdown-cheat-sheet-for-github)
+    * [1.4.1 Headings](#141-headings)
+    * [1.4.2 Emphasis](#142-emphasis)
+    * [1.4.3 Lists](#143-lists)
+    * [1.4.4 Links](#144-links)
+    * [1.4.5 Images](#145-images)
+    * [1.4.6 Footnotes](#146-footnotes)
+    * [1.4.7 Tables](#147-tables)
+    * [1.4.8 Code and syntax](#148-code-and-syntax)
+    * [1.4.9 Additional markdown resources](#149-additional-markdown-resources)
 
-## 1.1 Rose Library Collection Services Documentation Policy
+# 1.1 Rose Library Collection Services Documentation Policy
 Documentation policy approved by the Collection Services Documentation Task Force in May 2025.
 
 ### Purpose 
@@ -68,7 +77,7 @@ This policy may be changed at the direction of Rose Library’s Associate Direct
 
 The documentation procedures that follow this policy are expected to change more frequently to accommodate changes in staffing, workflows, and systems. Procedural changes documented below are subject to the general revision guidelines for collection services documentation. 
 
-## 1.2 Rose Library Collection Services Documentation Procedures
+# 1.2 Rose Library Collection Services Documentation Procedures
 Documentation procedures approved by the Collection Services Documentation Task Force in May 2025.
 
 ### 1.2.1 Platforms and Storage Locations 
@@ -147,7 +156,7 @@ Content owners may delete from SharePoint superseded or unused files that are pu
 2. Add “Legacy” to the beginning of the filename to signal in lists of search results that the content should not be used. 
 3. Move the copy of record into ​Folder icon Legacy CS Documentation.
 
-## 1.3 Revising Documentation in GitHub
+# 1.3 Revising Documentation in GitHub
 
 ### 1.3.1 GitHub account administration
 The GitHub account rose-collectionservices is administered by an account that can be accessed using the login and password in [SharePoint](<https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQDBWhaBRDJRRI6GGCVoqjbNAcYHT9OU5j56mMCTLqkrpFw?e=d17QaN> "SharePoint").
@@ -169,4 +178,235 @@ Before making substantive revisions in GitHub, review and follow [1.2.2 Process 
     * Enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. Use the present tense. For example: "Correct typos" or "Update 1.3.3." You may add an extended description in the message body if necessary.
     * Ensure that "commit directly to the master branch" is selected.
     * Click *Commit changes*.
+
+# 1.4 Markdown Cheat Sheet for GitHub
+
+Collection Services documentation in GitHub is encoded using Markdown. The following explains how to encode the features most commonly found in Collection Services' manuals and documents. For information on additional features not covered by this cheat sheet, see [1.4.9 Additional Markdown resources](#149-Additional-markdown-resources).
+
+## 1.4.1 Headings
+
+Use 1-6 hash marks (#) at the beginning of a heading. The number of hash marks used corresponds to the equivalent HTML header. A space is required between the final hash mark and the heading.
+
+For example, the headings used in this post are encoded like this:
+
+```
+# 1.4 Markdown cheat sheet
+## 1.4.2 Emphasis
+### Bold text
+```
+
+---
+
+## 1.4.2 Emphasis
+
+### Bold text
+
+Use double asterisks (`**`).
+
+For example, `**bold text**` displays as **bold text**.
+
+### Italicized text
+
+Use a single asterisk (`*`) **or** a single underscore (`_`).
+
+For example, both `*italicized text*` and `_italicized text_` displays as _italicized text_.
+
+---
+
+## 1.4.3 Lists
+
+### Unordered lists
+
+Use an asterisk (`*`) followed by a space to create a bulleted list. Use the tab key to indent the asterisk to create a sub-list. A blank line is required both before and after the list.
+
+For example:
+
+``` 
+    * Item one
+    * Item two
+        * Sub-item one
+```
+
+The above example will display like this:
+
+* Item one
+* Item two
+   * Sub-item one
+
+### Ordered lists
+
+```
+1. Item one
+2. Item two
+   1. Sub-item one
+3. Item three
+```
+
+The above example will display like this:
+
+1. Item one
+2. Item two
+   1. Sub-item one
+3. Item three
+
+*Note:* The numbers used in creating an ordered list don't actually matter. For example, the following:
+
+```
+1. Item one
+1. Item two
+1. Item three
+```
+
+will still display like this:
+
+1. Item one
+1. Item two
+1. Item three
+
+---
+
+## 1.4.4 Links
+
+### External links
+
+To create a link to an external site, use the following syntax: `[hyperlinked text](<www.websiteAddress.com> "www.websiteAddress")`
+
+For example, the following was used to create this link to [Emory University](<www.emory.edu> "www.emory.edu"):
+
+```
+The following was used to create this link to 
+[Emory University](<www.emory.edu> "www.emory.edu").
+```
+
+The text contained within speech marks will appear if a user hovers over the linked text.
+
+### Links to other GitHub documents
+
+To create a link to another GitHub document, use the following syntax: `[hyperlinked text](path/to/GitHub/document)`
+
+For example, when linking to a page within the same repository, like [01-Overview of Archival Processing](https://github.com/rose-collectionservices/collection-services-manual/tree/master/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING#overview-of-archival-processing), the following syntax should be used:
+
+```
+when linking to a page within the same repository, like
+[01-Overview of Archival Processing](/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING),
+the following syntax should be used
+```
+
+*Note:* When a file name contains spaces, use `%20` in place of the space (as in the above example).
+
+### Links to headings within the same GitHub document
+
+To create a link to a heading within the current GitHub document, us the following syntax: `[hyperlinked text](#heading)`.
+
+For example, this link to [section 1.0](#10-headings) of this document is encoded like this:
+
+```
+[section 1.0](#10-headings)
+```
+
+*Note:* In the second set of parentheses, remove any punctuation, replace spaces with a dash (`-`), and use all lower caps.
+
+---
+
+## 1.4.5 Images
+
+To add an image to a document:
+
+1. Move a copy of the image files into the relevant image folder in GitHub.
+2. At the position in the document where you would like the image to display, use the following syntax:
+
+```
+![Description of image](path/to/image/file "Description of image")
+```
+
+For example:
+
+```
+![Figure 1: Example accession record](/06-LOCAL%20PRACTICE/Images/accessionRecord.jpg "Figure 1: 
+Example accession record")
+```
+
+*Note:* When a file name contains spaces, use `%20` in place of the space (as in the above example).
+
+---
+
+## 1.4.6 Footnotes
+
+1. Add an in-text reference to a footnote using the following syntax:
+
+```
+<a href="#anchor1"><sup>1</sup></a>
+```
+
+2. Add footnote text using the following syntax at the end of your document:
+
+```
+<a id="anchor1">[1]</a> Here is my footnote.
+```
+
+For example:
+
+```
+I create a reference to a footnote like this <a href="#anchor1"><sup>1</sup></a>.
+```
+
+```
+<a id="anchor1">[1]</a>And I create the footnote itself like this.
+```
+
+The example listed above will display like this:
+
+I create a reference to a footnote like this <a href="#anchor1"><sup>1</sup></a>.
+
+---
+
+## 1.4.7 Tables
+
+You can 'draw' tables in Markdown using a series of dashes (`-`) and pipes (`|`). However, this can be time-consuming. I recommend populating a spreadsheet with your data and uploading it as a CSV file [here](https://www.tablesgenerator.com/markdown_tables# "https://www.tablesgenerator.com/markdown_tables#"). This will generate the Markdown table code, which you can simply copy and paste into your document.
+
+---
+
+## 1.4.8 Code and syntax
+
+Use a single back tick (`) to highlight code or syntax in a sentence.
+
+For example: 
+```
+`Inline code` has `back ticks` around it
+```
+
+displays as: `inline code` has `back ticks` around it.
+
+Use triple back ticks (```) to create a code block.
+
+For example:
+
+```
+
+```This is a code block.```
+
+```
+
+displays as
+
+```
+This is a code block.
+```
+
+------
+
+## 1.4.9 Additional Markdown resources
+
+* [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet")
+* [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "https://daringfireball.net/projects/markdown/")
+* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf")
+* [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables# "https://www.tablesgenerator.com/markdown_tables#")
+
+------
+
+*Footnotes:*
+
+<a id="anchor1">[1]</a>And I create the footnote itself like this.
+
+
 
