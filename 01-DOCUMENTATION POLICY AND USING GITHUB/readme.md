@@ -398,7 +398,6 @@ This is a code block.
 
 * [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet")
 * [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "https://daringfireball.net/projects/markdown/")
-* [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf")
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables# "https://www.tablesgenerator.com/markdown_tables#")
 
 ------
