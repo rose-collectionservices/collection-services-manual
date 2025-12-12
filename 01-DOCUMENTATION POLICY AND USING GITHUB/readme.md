@@ -269,16 +269,15 @@ will still display like this:
 
 ### External links
 
-To create a link to an external site, use the following syntax: `[hyperlinked text](<www.websiteAddress.com> "www.websiteAddress")`
+To create a link to an external site, use the following syntax: `[hyperlinked text](<https://www.websiteAddress.com>)`
 
-For example, the following was used to create this link to [Emory University](www.emory.edu "www.emory.edu"):
+For example, the following was used to create this link to [Emory University](https://www.emory.edu/home/index.html):
 
 ```
 The following was used to create this link to 
-[Emory University](www.emory.edu "www.emory.edu").
+[Emory University](https://www.emory.edu/home/index.html).
 ```
 
-The text contained within speech marks will appear if a user hovers over the linked text.
 
 ### Links to other GitHub documents
 
