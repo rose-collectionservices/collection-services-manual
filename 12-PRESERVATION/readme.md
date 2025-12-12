@@ -1,6 +1,6 @@
 # Preservation
 
-Last revised May 2025. Content owner: Becky Sherman
+Last revised December 2025. Content owner: Becky Sherman
 
 * [12.1 Routine preservation during processing](#121-routine-preservation-during-processing)
 * [12.2 Moldy Materials](#122-moldy-materials)
