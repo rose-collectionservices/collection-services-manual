@@ -165,7 +165,7 @@ The GitHub account rose-collectionservices is administered by an account that ca
 
 In order to make changes to Rose Library documentation stored in GitHub, you will need a [GitHub account](https://github.com). Choose a username and password, enter your email address, and click "Sign up for GitHub."
 
-Once you have a GitHub account, contact the Associate Director who has administrator access for the Rose-CollectionServices account and request to be added as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
+Once you have a GitHub account, contact the Associate Director who has administrator access for the rose-collectionservices account and request to be added as a collaborator to each rose-collectionservices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
 
 ### 1.3.3 Editing in GitHub
 
