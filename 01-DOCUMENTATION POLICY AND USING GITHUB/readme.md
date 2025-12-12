@@ -361,7 +361,7 @@ I create a reference to a footnote like this <a href="#anchor1"><sup>1</sup></a>
 
 ## 1.4.7 Tables
 
-You can 'draw' tables in Markdown using a series of dashes (`-`) and pipes (`|`). However, this can be time-consuming. I recommend populating a spreadsheet with your data and uploading it as a CSV file [here](https://www.tablesgenerator.com/markdown_tables# "https://www.tablesgenerator.com/markdown_tables#"). This will generate the Markdown table code, which you can simply copy and paste into your document.
+You can 'draw' tables in Markdown using a series of dashes (`-`) and pipes (`|`). However, this can be time-consuming. Another option is to populate a spreadsheet with your data and upload it as a CSV file [here](https://www.tablesgenerator.com/markdown_tables# "https://www.tablesgenerator.com/markdown_tables#"). This will generate the Markdown table code, which you can simply copy and paste into your document.
 
 ---
 
