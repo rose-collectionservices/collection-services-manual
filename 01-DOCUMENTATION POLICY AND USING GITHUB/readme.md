@@ -297,10 +297,10 @@ the following syntax should be used
 
 To create a link to a heading within the current GitHub document, us the following syntax: `[hyperlinked text](#heading)`.
 
-For example, this link to [section 1.0](#10-headings) of this document is encoded like this:
+For example, this link to [1.1 Rose Library Collection Services Documentation Policy](#11-rose-library-collection-services-documentation-policy) of this document is encoded like this:
 
 ```
-[section 1.0](#10-headings)
+[1.1 Rose Library Collection Services Documentation Policy](#11-rose-library-collection-services-documentation-policy)
 ```
 
 *Note:* In the second set of parentheses, remove any punctuation, replace spaces with a dash (`-`), and use all lower caps.
