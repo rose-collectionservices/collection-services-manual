@@ -1,6 +1,6 @@
 # Stacks Management
 
-**This section needs to be updated. Some portions updated in 2025. Current owner: Becky Sherman**
+**This section needs to be updated. Some portions updated in 2025. Content owner: Becky Sherman**
 
 * [13.1 Systems of record for location management](#131-systems-of-record-for-location-management)
 	* [13.1.1 Airtable]
