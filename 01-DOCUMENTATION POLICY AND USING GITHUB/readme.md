@@ -311,7 +311,7 @@ For example, this link to [1.1 Rose Library Collection Services Documentation Po
 
 To add an image to a document:
 
-1. Move a copy of the image files into the relevant image folder in GitHub.
+1. Move a copy of the image files into the relevant image folder for that section of the manual in GitHub.
 2. At the position in the document where you would like the image to display, use the following syntax:
 
 ```
@@ -321,8 +321,8 @@ To add an image to a document:
 For example:
 
 ```
-![Figure 1: Example accession record](/06-LOCAL%20PRACTICE/Images/accessionRecord.jpg "Figure 1: 
-Example accession record")
+*![Figure17](/06-DESCRIPTION/Images/Figure17.jpg "Example of dates fields for inclusive dates and bulk dates.")
+
 ```
 
 *Note:* When a file name contains spaces, use `%20` in place of the space (as in the above example).
