@@ -1,16 +1,12 @@
 # About the Collection Services Manual
 Content owner: Carrie Hintz, Associate Director
 
-* [Table of contents](#table-of-contents)
-* [GitHub Wiki: Markdown Cheatsheet for GitHub](#github-wiki-markdown-cheatsheet-for-github)
-
-
 ## Table of contents
 
-* [01: Overview of archival processing](/01-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING)
+* [01: Documentation Policy and Using GitHub](/01-DOCUMENTATION%20POLICY%20AND%20USING%20GITHUB)
 * [02: Acquisitions](/02-ACQUISITIONS)
 * [03: Accessioning](/03-ACCESSIONING)
-* [04: Collection Analysis](/04-COLLECTION%20ANALYSIS)
+* [04: Overview of Archival Processing and Collection Analysis](/04-OVERVIEW%20OF%20ARCHIVAL%20PROCESSING%20AND%20COLLECTION%20ANALYSIS)
 * [04: Levels of Arrangement and Description](/05-LEVELS%20OF%20ARRANGEMENT%20AND%20DESCRIPTION)
 * [06: Description](/06-DESCRIPTION)
 * [07: Formatting and Style Guide](/07-FORMATTING%20AND%20STYLE%20GUIDE)
@@ -26,10 +22,7 @@ Content owner: Carrie Hintz, Associate Director
 * [17: Cataloging](/17-CATALOGING)
 * [18: Procedure Guides and Checklists](/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS)
 
-## GitHub Wiki: Markdown Cheatsheet for Github
-For GitHub markdown cheatsheet, see https://github.com/rose-collectionservices/collection-services-manual/wiki/1:-Markdown-Cheatsheet
 
-For more markdown resources, see https://github.com/rose-collectionservices/collection-services-manual/wiki/2:-Additional-Markdown-Resources
 
 
 
