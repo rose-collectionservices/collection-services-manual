@@ -143,4 +143,4 @@ Updates to this spreadsheet will be monitored by the Conservator, who is respons
 
 ### 12.5 Environmental Monitoring
 
-Dataloggers are located on L9-L11 and monitored by Preservation staff. Preservation staff sends monthly environmental reports to Rose Library staff each month and an annual report at the end of the calendar year. Rose staff should review to ensure that there have been no significant changes to temperatures and relative humidity over the course of the reporting period. These reports then get filed in a OneDrive folder: EUV Rose Library > Cataloging and Collection Processing > Preservation > Environmental Reports. 
+Dataloggers are located on L9-L11 and monitored by Preservation staff. Preservation staff sends monthly environmental reports to the Associate Director each month and an annual report at the end of the calendar year. The Associate Director should review to ensure that there have been no significant changes to temperatures and relative humidity over the course of the reporting period. These reports then get filed in a OneDrive folder: EUV Rose Library > Cataloging and Collection Processing > Preservation > Environmental Reports. 
