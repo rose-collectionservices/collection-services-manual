@@ -297,7 +297,7 @@ The Collections Archivist will create a CL-2 file, if one is not already establi
 There are [legacy collection files in Sharepoint](<https://emory.sharepoint.com/:f:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/CL%20Files/CL-2%20Permanent%20Manuscript%20Collection%20Files?csf=1&web=1&e=9CyCXr>) that include information that overlaps with the physical CL-2 files. These files are not currently supported or updated, but they do contain information that may not be found elsewhere.
 
 ### 3.9.2 Creating an EUA Collection File
-TBD
+See [Precustodial and Acquisitions Workflows](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQCg4fP_o5YpR4mzNfEr09pXAdtaOGhxzqFdrBmgyv2oAao?e=8Tbbbw)
 
 ## 3.10 Accessioning Checklist
 See [18.5 Checklist for MSS accessioning](https://github.com/rose-collectionservices/collection-services-manual/tree/master/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS#185-checklist-for-mss-accessioning)
