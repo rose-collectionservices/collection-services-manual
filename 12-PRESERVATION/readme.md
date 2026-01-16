@@ -21,7 +21,7 @@ When you encounter moldy materials while processing or accessioning:
 * Segregate the damaged items from the rest of the collection. 
 * Consult with the Rose Library Preservation Liaison to determine how to treat the items. Very minor mold presence may be treated with a microfiber cloth. More signifcant damage will need to be treated by professional conservators. Depending on the volume of damaged material, we may need to outsource the treatment. Small amounts of material can more easily be handled by the Emory Libraries conservation lab.
 * If moldy items/boxes need to be sent to the conservation lab for treatment, add that information to the [conservation list](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Preservation/Rose%20Library%20Conservation%20(non-exhibit)/MARBL_Conservation_List.xlsx?d=w481f92f98d334d7a9224cf3d97af184c&csf=1&web=1&e=3J99CG).
-* Moldy items awaiting treatment for mold should be stored in a separate box with an ["awaiting treatment for mold" label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eehvcn_molpJsIzuBOZTRY0BgOTSxpOaPlu_JiyR6Op0SA?e=AyfQP4), printed on **bright pink paper**. Items may also be placed in plastic bags. Items awaiting treatment for mold **cannot be sent to the LSC.**
+* Moldy items awaiting treatment for mold should be stored in a separate box with an ["awaiting treatment for mold" label](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Eehvcn_molpJsIzuBOZTRY0BgOTSxpOaPlu_JiyR6Op0SA?e=AyfQP4), printed on **bright pink paper**. Items may also be placed in plastic bags, especially if it's a small quantity. Items awaiting treatment for mold **cannot be sent to the LSC.**
 
 When contaminated materials return from being treated:
 * The Preservation Liaison will follow the instructions in [9.3.1](#931-manuscript-and-archival-material) for items that have been returned from conservation.
@@ -29,6 +29,10 @@ When contaminated materials return from being treated:
 * Add the archival objects to ArchivesSpace if necessary. In manage top containers, add the box's barcode, container profile, and location.
 * Label the outside of the box(es) with a [mold notice label](https://emory.sharepoint.com/:b:/s/EUVRoseLibrary/EWuF3Lzs0JxClM8yNxB0KjABep0uDkgZWXzg1RZFiNGIQQ?e=wdOjNb) according to the instructions in  [6.6.2 Boxing collections](/06-LOCAL%20PRACTICE#662-boxing-collections).
 * It is highly preferred to send items that have been treated for mold to the LSC following treatment. Boxes that were previously treated for mold but must remain onsite should be shelved with the rest of the location.
+
+Deaccessioning moldy materials:
+* Moldy collection material that is being removed from a collection and needs to be shredded should be boxed/bagged separately for disposal.
+* Contact David Horne (Supervisor, Emory Recycles and Emory Shredding Services) to arrange for a separate pickup of those moldy items to be shredded.
    
 
 ## 12.3 Sending Collection Material to the Conservation Lab 
