@@ -197,6 +197,7 @@ Required elements for web archives described in ArchivesSpace resource records:
   * Examples:
     * Alice Walker: The Official Website [web archive]
     * Statements and open letters [web archive]
+    * Office of Spiritual and Religious Life website [web archive]
 * Dates (file level, required)
   * One-time capture:
     * Type: Single
@@ -251,7 +252,7 @@ Required elements for web archives described in ArchivesSpace resource records:
     * Publish both the DO and the file version.
 
 ##### Archive-It 
-Selected metadata recorded in ArchivesSpace should be copied to Archive-It to support management and integration. Archive-It metadata is currently the responsibility of the Digital Archives unit.
+Selected metadata recorded in ArchivesSpace should ideally be copied to Archive-It to support management and integration. Archive-It metadata is currently the responsibility of the Digital Archives unit, but this work is currently deprioritized and most seeds lack descriptive metadata in Archive-It.
 
 Seed-level metadata in Archive-It describes individual websites and their captures. This metadata can be searched/browsed in Archive-It’s front-end interface (link), although ArchivesSpace remains the system of record for descriptive metadata and the primary access point for archived websites. 
 
@@ -259,10 +260,10 @@ For more information about how to add seed-level metadata (including batch edits
 
 Note that collection-level metadata for Archive-It collections should not be changed. These collections exist for administrative purposes and do not correspond with provenance-based collections in ArchivesSpace. Seeds within the Archive-It collections are associated with various archival collections and ArchivesSpace resource records.
 
-Complete the following fields for each seed, skipping other fields available in Archive-It:
-* Title (“Title” field in Archive-It): Must match AO title.
-* Call Number (custom field in Archive-It): Collection identifier formatted as in Cor (e.g., "MSS 930")
-* Holding Repository (custom field in Archive-It): Choose from controlled list (Stuart A. Rose Manuscript, Archives, and Rare Book Library; Emory University. General Libraries; Pitts Theology Library; Oxford College Library (Oxford, Ga.); Robert W. Woodruff Health Science Center. Library; MacMillan Law Library; Emory University Archives).
+For optimal description in Archive-It, complete the fields listed below for each seed, skipping other fields available in Archive-It. Alternatively, for a minimal approach, complete only the fields with an asterisk.
+* Title (“Title” field in Archive-It): Must match AO title.*
+* Call Number (custom field in Archive-It): Collection identifier formatted as in Cor (e.g., "MSS 930")*
+* Holding Repository (custom field in Archive-It): Choose from controlled list (Stuart A. Rose Manuscript, Archives, and Rare Book Library; Emory University. General Libraries; Pitts Theology Library; Oxford College Library (Oxford, Ga.); Robert W. Woodruff Health Science Center. Library; MacMillan Law Library; Emory University Archives).*
 * Creator (“Creator” field in Archive-It): Use LCNAF when possible.
 * Date Created (“Date” field in Archive-It): Describe the dates of the capture (year + month), not the site itself. Enter as a single date or range, using ISO 8601 date format, which calls for a forward slash separating start and end dates. Example: 2012-02/2022-12
 * Primary Language (“Language” field in Archive-It): Assume English unless another language is known to be present. Use ISO 639-2 Code (e.g., eng).
