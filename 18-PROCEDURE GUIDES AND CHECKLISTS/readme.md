@@ -26,7 +26,9 @@ Content owners: Becky Sherman and Laura Starratt
 
 [Checklist_MSS acquisitions](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/Ef9JxpXxJ-RIoN-Z63XED-wB8L5mfsIbPOLsPh-uCykwjg?e=UWFb6Z)
 
-[Checklist_EUA acquisitions](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EbpxEXZiYSFIhsQEt6SFPioB6x5HkZfBPyRZFmHbsDGFlQ?e=B4msmv)
+[Checklist_EUA acquisitions_paper records](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQC6cRF2YmEhSIbEBLekhT4qAeseR5GXwT8kWRZh27AxhZU?e=kedJcM)
+
+[Checklist_EUA acquisitions_digital transfers](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQCCMszr_CwKQZn7a8bM5yH6ARORILufXwTYUXJKj4_rnYk?e=megVp8)
 
 ## 18.4 Digital collections procedures
 Content owner: Katherine Fisher
