@@ -276,14 +276,7 @@ To order shipping supplies:
 ### 14.3.4 Barcodes
 To order barcodes:
 
-* Email Laura Trittin, who coordinates the barcodes for the Libraries) to alert her that we will be ordering barcodes. She will respond with the first barcode number that we should request when we put in our order.
-* Send a request to Library Finance via Service Now with the following information:
-	* Number of barcodes to be ordered (10,000 is common, but not mandated);
-	* Vendor information (Vernon Library Supplies);
-	* Font: Kumdure;
-	* The first barcode number (which you have received from Anna);
-	* The SpeedType to use;
-	* A sample of the barcodes (scan one sheet of unused barcodes from a package, make sure the barcodes read Rose Library at the top of the label).
+* Laura Trittin coordinates barcode ordering for the Libraries. When you need to order additional barcodes, email her with the number of barcodes you would like (we usually order in batches of 10,000) and she will place the order. 
 
 ### 14.3.5 Paying for Supplies using Service Now
 * If you paid for supplies using your corporate card, complete a LITS Travel and Expense Report for reimbursement.
