@@ -14,12 +14,12 @@
   	* [13.2.3 Maintenance of movable shelving units](#1323-maintenance-of-movable-shelving-units)
 * [13.3 Offsite Storage: Access Storage](#133-offsite-storage:-access-storage)  	   
 * [13.4 Offsite Storage: Library Service Center - DRAFT] 
-	
- * [13.3 Documenting missing boxes and items](#133-documenting-missing-boxes-and-items)
- 	* [13.3.1 Documenting missing boxes](#1331-documenting-missing-boxes)
-  	* [13.3.2 Documenting missing items and folders](#1332-documenting-missing-items-and-folders)
-   	* [13.3.3 Documenting missing items and folders without an identified container](#1333-documenting-missing-items-and-folders-without-an-identified-container)
-   	* [13.3.4 Documenting missing books](#1334-documenting-missing-books)
+* [13.5 Caiasoft]	
+* [13.6 Documenting missing boxes and items](#136-documenting-missing-boxes-and-items)
+ 	* [13.6.1 Documenting missing boxes](#1361-documenting-missing-boxes)
+  	* [13.6.2 Documenting missing items and folders](#1362-documenting-missing-items-and-folders)
+   	* [13.6.3 Documenting missing items and folders without an identified container](#1363-documenting-missing-items-and-folders-without-an-identified-container)
+   	* [13.6.4 Documenting missing books](#1364-documenting-missing-books)
 
 ## 13.1 Location Management
 
@@ -138,7 +138,7 @@ See the [policy document in SharePoint.](https://emory.sharepoint.com/:w:/s/EUVR
 
 ### 13.4.2 Determining Eligibility for Transfer to LSC
 
-LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections.
+The LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections after accessioning.
 
 The following types of materials cannot be sent to the LSC:
 * Fragile materials
@@ -147,13 +147,13 @@ The following types of materials cannot be sent to the LSC:
 * Oil paintings
 
 ### 13.4.3 Basic Minimum Housing Guidelines
-Materials sent to the LSC must be the basic minimum housing guidelines below.
 
 **For archival materials:**
 * All materials should be housed in an appropriate top container, either a box or a flat folder. Unboxed objects cannot be sent to the LSC.
+* Records center boxes must have intact handles.
 * Boxes must have adequately fitting lids.  
 * Flat boxes should have lids the cover the entire box; if a flat box has a half-lid that does not cover the entire box and is likely to come off in transit, the lid should be tied down.  
-* Records center boxes must have intact handles.  
+* For 16x20" and 20x24" boxes, it is preferred to use 3" high boxes for materials that will be sent to the LSC.
 * Boxes must be under 40lbs in weight.
 * Boxes must be packed fully or with spacers or by other means to ensure materials are secure through transit.
 * Boxes must have a label and a barcode, affixed according to the instructions in [10.9 Labeling boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes) and [10.10 Barcoding boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes).
@@ -166,12 +166,10 @@ Materials sent to the LSC must be the basic minimum housing guidelines below.
 Materials sent to the LSC must be appropriately sized for storage there; LSC shelving is 36" x 53.25".
 
 * All standard sized containers that meet the minimum housing guidelines can be sent to the LSC.
-* For 16x20" and 20x24" boxes, it is preferred to use 3" high boxes for materials that will be sent to the LSC.
-* Scroll boxes up to 4x4x48" can be sent to the LSC. [See 10.8.4.7 for more information on scroll boxes.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10847-scroll-boxes)
-* Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.)
 * Oversized flat boxes up to 28x22x3" can be sent.
-* For oversized flat boxes larger than 28x22x3", you must ask LSC staff.
-* XOP folders up to 49x36" (to be stored in the flat file drawers at the LSC, which are 50x37"). 
+* For oversized flat boxes larger than 28x22x3", you must ask LSC staff.Scroll boxes up to 4x4x48" can be sent to the LSC. [See 10.8.4.7 for more information on scroll boxes.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10847-scroll-boxes)
+* Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.)
+* XOP folders up to 49x36" may be sent to the LSC (to be stored in the flat file drawers at the LSC, which are 50x37"). 
 
 ### 13.4.5 Basic Minimum Description Guidelines
 
@@ -195,15 +193,15 @@ See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-
 
 ## 13.5 Caiasoft
 
-## 13.2.7 Removing Boxes from Caiasoft
+## 13.5.1 Deaccessioning boxes from Caiasoft
 
-If a barcode needs to be removed from the LSC, email the LSC listserv with the barcode(s) that need to be removed.  
+If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed.  
 
 
 
-## 13.3 Documenting missing boxes and items
+## 13.6 Documenting missing boxes and items
 
-### 13.3.1 Documenting missing boxes
+### 13.6.1 Documenting missing boxes
 
 * If a MSS or EUA box is missing (and you can reasonably conclude that the container actually existed at one point):
   	* In In ASpace, change the current location for that container to “MISSING."
@@ -222,7 +220,7 @@ If a barcode needs to be removed from the LSC, email the LSC listserv with the b
    		* Local Access Restriction Type = Select restricted
 		* Content = Box is missing as of (date)
 
-### 13.3.2 Documenting missing items and folders
+### 13.6.2 Documenting missing items and folders
 * In ASpace, for the archival object that is missing, add after the title of the AO [MISSING]
 * In ASpace, for the archival object that is missing, add a Conditions Governing Access Note:
   	* Publish = true
@@ -235,7 +233,7 @@ If a barcode needs to be removed from the LSC, email the LSC listserv with the b
 	* Delete the Archival Object in ASpace
 	* Add a memo to the CL-2 file documenting that the item was declared permanently missing and deleted from the finding aid.
 
-### 13.3.3 Documenting missing items and folders without an identified container
+### 13.6.3 Documenting missing items and folders without an identified container
 
 * On rare occasions, a folder/item cannot be located due to containers being renumbered. For example, OPs in a collection were renumbered at some point and now an OP folder cannot be located.
 * Check other logical containers (i.e. oversized folders and boxes) to try and locate the item. If the item cannot be located and you cannot identify the container that it should be in, document as follows.
@@ -259,7 +257,7 @@ If a barcode needs to be removed from the LSC, email the LSC listserv with the b
   	* Content = Item/folder is missing as of (date)
 * Add the missing item to the [Missing Manuscript Items spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/Ecxmy26MqsJMkF11zYyEG7wBB6TjioNCqMvxwRIzjhDg-g?e=DIInor)
 
-### 13.3.4 Documenting missing books
+### 13.6.4 Documenting missing books
   
 * Missing books should be added to the [Missing books spreadsheet](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EfTaM8c26vROpWCkE5obViABudgB1RfE2MynHNIGMTyyrQ?e=1qSuPa). 
 * The Rare Book Librarian will mark the item as missing in Alma [LINK TO CATALOGING MANUAL]  
