@@ -193,7 +193,7 @@ See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-
 
 ## 13.5 Caiasoft
 
-## 13.5.1 Deaccessioning boxes from Caiasoft
+### 13.5.1 Deaccessioning boxes from Caiasoft
 
 If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed.  
 
