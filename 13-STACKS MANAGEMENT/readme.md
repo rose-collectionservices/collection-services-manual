@@ -12,7 +12,7 @@
 	* [13.2.1 Onsite Storage Locations](#1311-onsite-storage-locations)
  	* [13.2.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
   	* [13.3.3 Maintenance of movable shelving units]
-* [13.3 Offsite Storage Locations]
+* [13.3 Offsite Storage Locations: Access Storage]
 	* [13.3.1 Library Service Center (LSC)]
  	* [13.3.2 Access Storage]
   	   
@@ -136,14 +136,12 @@ Historically Rose Library has used several different nomenclature/box numbering 
 * We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
 
 
-## 13.3 Offsite storage locations
-
-### 13.3.1 Library Service Center (LSC)
-
-### 13.3.2 Access Storage
+## 13.3 Offsite storage locations: Access Storage
 
 Rose Library has material stored at Access Storage. The University Records Manager places all requests to retrieve material from Access. 
 
+
+## 13.4 Offsite storage locations: Library Service Center (LSC) 
 
 ## 13.2 LSC Ingest Policies and Procedures
 
