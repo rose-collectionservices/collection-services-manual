@@ -2,7 +2,7 @@
 
 **This section needs to be updated. Some portions updated in 2025. Content owner: Becky Sherman**
 
-* [13.1 Systems of record for location management](#131-systems-of-record-for-location-management)
+* [13.1 Location Management](#131-location-management)
 	* [13.1.1 Airtable]
  	* [13.1.2 ArchivesSpace]
   	* [13.1.3 Master Shelf List]
@@ -21,19 +21,19 @@
    	* [13.3.3 Documenting missing items and folders without an identified container](#1333-documenting-missing-items-and-folders-without-an-identified-container)
    	* [13.3.4 Documenting missing books](#1334-documenting-missing-books)
 
-## 13.1 Systems of Record for Location Management
+## 13.1 Location Management
 
 #### 13.1.1 Airtable (acquisitions and unaccessioned material)
 
-The [Acquisitions and Accessioning base in Airtable](https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide) is the system of record for locations of unaccessioned manuscript and EUA material. Going forward, all new accessions should also have ArchivesSpace instances that include the location.
+The [Acquisitions and Accessioning base in Airtable](https://airtable.com/appxehhHnKmdPpzld/tblVOysdj8gmTooGt/viwM1W5reGNIwQRe3?blocks=hide) is the system of record for locations of unaccessioned manuscript and EUA material. Going forward, ArchivesSpace is also a system of record for location management for unaccessioned manuscript and EUA material. All new acquisitions should also have ArchivesSpace instances that include the location.
 
-[Legacy note: The Pending Acquisitions tab of the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EeaPlvAEiXlDiYEIsCKKOmIBvtqxGMDbM50pZ5qmZaBWdg?e=QDYZBe) is no longer updated, but contains some legacy information about locations of unaccessioned materials in the backlog that may be useful.] 
+[Legacy note: The Pending Acquisitions tab of the [Master Shelf List](https://emory.sharepoint.com/:x:/s/BoxDeletedUsers14/EeaPlvAEiXlDiYEIsCKKOmIBvtqxGMDbM50pZ5qmZaBWdg?e=QDYZBe) is no longer updated, but it contains some legacy information about locations of unaccessioned materials in the backlog that may be useful.] 
 
 #### 13.1.2 ArchivesSpace (accessioned MSS and EUA collections)
 
 [ArchivesSpace](https://archives.libraries.emory.edu/staff/?login=true) is the system of record for locations of all accessioned MSS and EUA collections.
 
-Going forward, all new accessions should also have ArchivesSpace instances that include the location.
+Going forward, all new acquisitions should also have ArchivesSpace instances that include the location.
 
 #### 13.1.3 Master Shelf List (updated for accessioned MSS and EUA collections; born digital inventory)
 
@@ -54,11 +54,11 @@ The Master Shelf List also has a tab for the born digital inventory
 
 
 #### 13.1.4 Alma holdings location
-
+All accessioned manuscript and EUA materials should have an Alma bib record with the correct holdings record that indicates the location of the material.
 
 #### 13.1.5 Book Finding Aid
 
-The [Book Finding Aid](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EWcl1ejWBbxGsBOCt63VnyEBaZUth59gnSMWr7h2w6rymw?e=6RrgQf)  provides locations for books collections in the Level 9 stacks.
+The [Book Finding Aid](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EWcl1ejWBbxGsBOCt63VnyEBaZUth59gnSMWr7h2w6rymw?e=6RrgQf) serves as a guide to locations for books collections in the Level 9 stacks.
 
 
 ## 13.2 Onsite Stacks Management 
