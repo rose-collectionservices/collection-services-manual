@@ -142,11 +142,11 @@ Rose Library has material stored at Access Storage. The University Records Manag
 
 ## 13.4 Offsite storage locations: Library Service Center (LSC) 
 
-## 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
+### 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
 
 See document in SharePoint [https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQBgwxmZw7ZCTZZe_EbcKcKnAdmPb9vcGWpMMyXvaqvbjmk?e=wu2Spc]
 
-## 13.4.2 Determining Eligibility for Transfer to LSC
+### 13.4.2 Determining Eligibility for Transfer to LSC
 
 LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections.
 
@@ -156,20 +156,31 @@ The following types of materials cannot be sent to the LSC:
 * Materials with active mold (materials that have been treated for mold may be transferred)
 * Oil paintings
 
+### 13.4.3 Basic Minimum Housing Guidelines
+Materials sent to the LSC must be the basic minimum housing guidelines below.
 
-## 13.4.3 Physical Processing<a href="#anchor2"><sup>2</sup></a>
- 
-In order for material to be safely transferred to the LSC and easily identifiable once it is there, all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
-
-## 13.2.3 Basic Minimum Housing Guidelines
-
-* Boxes containing archival materials must have adequately fitting lids.  
-* Flat boxes should have lids the cover the entire box; if these boxes have half-lids that do not cover the entire box, these lids must be tied-down.  
+**For archival materials:**
+* All materials should be housed in an appropriate top container, either a box or a flat folder. Unboxed objects cannot be sent to the LSC.
+* Boxes must have adequately fitting lids.  
+* Flat boxes should have lids the cover the entire box; if a flat box has a half-lid that does not cover the entire box and is likely to come off in transit, the lid should be tied down.  
 * Records center boxes must have intact handles.  
-* To the extent possible, flat boxes should also be over 3 inches tall.
 * Boxes must be under 40lbs in weight.
-* Boxes with archival materials must be packed fully or with spacers or by other means to ensure materials are secure through transit.
-* Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.) 
+* Boxes must be packed fully or with spacers or by other means to ensure materials are secure through transit.
+* Boxes must have a label and a barcode, affixed according to the instructions in [10.9 Labeling boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes) and [10.10 Barcoding boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes).
+
+**For print materials:**
+* 
+
+
+### 13.4.4 Guidelines on Size of Materials and Containers
+Materials sent to the LSC must be appropriately sized for storage there; LSC shelving is 36" x 53.25".
+
+* All standard sized containers that meet the minimum housing guidelines can be sent to the LSC.
+* For 16x20" and 20x24" boxes, it is preferred to use 3" high boxes for materials that will be sent to the LSC.
+* Scroll boxes up to 4x4x48" can be sent to the LSC. [See 10.8.4.7 for more information on scroll boxes.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10847-scroll-boxes)
+* Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.)
+* Oversized flat boxes up to 28x22x3" can be sent.
+* For oversized flat boxes larger than 28x22x3", you must receive permission  
 
 ## 13.2.4 Basic Minimum Description Guidelines
 
@@ -177,37 +188,11 @@ In order for material to be safely transferred to the LSC and easily identifiabl
 
 * Collection-level catalog (MARC) records that include standard required notes fields (abstract, restrictions, language, summary, etc.) and has associated item records for each container being sent to the LSC is required.
 * Collection-level finding aid with complete required notes fields per DACS.
-* Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.   
+* Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.
+* Alma  
 
-## 13.2.5 Labels and Barcoding
 
-All boxes must be labeled.  All labels need to include owning library, Collection Number, Title, and Box Number. 
 
-All boxes going to the LSC must be barcoded, and the barcodes will need to be added to both Alma and the Finding aid. 
-
-Barcodes should be placed above (preferred) or adjacent to the container label as follows:  
-
-| Container             | Barcode location                                                                                                                                                                                                                                                                                                                                                                      |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Record center cartons | On center above container label, below box lid.                                                                                                                                                                                                                                                                                                                                       |
-| Document boxes        | On bottom center of attached box lid, above container label.                                                                                                                                                                                                                                                                                                                          |
-| Flat/oversize boxes   | At a minimum, one label/barcode adjacent to box label on outward facing side of box; Preferably, two labels/barcodes adjacent to box labels on adjacent sides of box (one on a short side, the other on a long side).                                                                                                                                                                 |
-| Oversize folders      | Adjacent to folder label (preferably located on open side of folder); For oversize folders (architectural drawings), I’d like to recommend we change the location of the barcodes as they will increase the height of the folders. I recommend we alternate to left, middle and then right. I think the label can remain constant. We typically put them on the right but can change. |
-| Other                 | Above or adjacent to box label, below box lid if unattached.                                                                                                                                                                                                                                                                                                                          |
-
-First, affix the barcode the box, placing it according to the physical handling recommendations listed above.  Always use a barcode protector strip to reinforce the barcode and prevent damage to the barcode.   
-
-As you barcode, place one (or, in the case of flat boxes, 2) barcodes on the container and the duplicate copy of the barcode on the barcode sheet.  Once the barcode sheet(s) is completed it will be placed in a folder and filed.  
-
-Add the barcodes to the Alma record. To do this, first create a holdings record for the collection.  The holdings record should have MARBL in subfield b of the 852 field and MSSTK in subfield c if the collection is remaining onsite, or LSC in subfield b and RSTORM in subfield c if the collection is going to the LSC.  If a collection is split between the locations you will need to make two holdings records, one for each holdings location.  The record will look like this:  
-
-![Figure 1: Alma holdings record](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/Figure1.jpg "Alma holdings record")
-
-Then add item records to that holdings record for each item in the collection.  Item records will need to include the barcode, a material type of Mixed Materials, an item policy of “Non-circ, reading RM Only” and the box number should be in the Description field.  The record will look like this: 
-
-![Figure 2: Alma item record](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/Figure2.jpg "Alma item record")
-
-Once all barcodes are entered into Alma you will need to wait overnight and then you can run the barcode script to insert the barcodes into the EAD finding aid for the collection.<a href="#anchor3"><sup>3</sup></a>
 
 ## 13.2.6 Sending Items to the LSC
 
