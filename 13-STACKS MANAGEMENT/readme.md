@@ -113,7 +113,7 @@ We communicate stack locations by giving a range and bay for an item:
 ### 13.2.2 Box naming conventions based on shelving locations
 Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
 * OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
-* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". 
+* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". XOPs may be stored onsite or at the LSC.
 * BV (bound volume)--generally not used for new collections
 * OBV (oversized bound volume)--generally not used for new collections  
 * FR (framed item)--primarily stored on art racks on 11-
