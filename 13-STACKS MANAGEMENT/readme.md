@@ -122,16 +122,15 @@ Historically Rose Library has used several different nomenclature/box numbering 
   
 ### 13.2.3 Maintenance of movable shelving units
 
-* Rose Library has unit... 
-* We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
+* We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope.  
 
 
 ## 13.3 Offsite Storage: Access Storage
 
-Rose Library has material stored at Access Storage. The University Records Manager places all requests to retrieve material from Access. 
+Rose Library has material stored at Access Storage. The Records Manager has access to the database of records stored at Access and places all requests to retrieve material from Access. 
 
 
-## 13.4 Offsite Storage: Library Service Center (LSC) - DRAFT
+## 13.4 Offsite Storage: Library Service Center - DRAFT
 
 ### 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
 
