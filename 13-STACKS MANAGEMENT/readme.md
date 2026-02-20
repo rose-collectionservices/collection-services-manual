@@ -134,7 +134,7 @@ Rose Library has material stored at Access Storage. The Records Manager has acce
 
 ### 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
 
-See document in SharePoint [https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQBgwxmZw7ZCTZZe_EbcKcKnAdmPb9vcGWpMMyXvaqvbjmk?e=wu2Spc]
+See the [policy document in SharePoint.](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQBgwxmZw7ZCTZZe_EbcKcKnAdmPb9vcGWpMMyXvaqvbjmk?e=wu2Spc)
 
 ### 13.4.2 Determining Eligibility for Transfer to LSC
 
