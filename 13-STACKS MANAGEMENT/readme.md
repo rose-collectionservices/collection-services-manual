@@ -75,7 +75,7 @@ The [Book Finding Aid](https://emory.sharepoint.com/:x:/s/EUVRoseLibrary/EWcl1ej
 
   
 
-The Senior Collections Processing Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Senior Collections Processing Archivist will periodically conduct inventories of these spaces and maintain shelf lists and other documentation related to collection storage space.  
+The Senior Collections Processing Archivist is responsible for maintaining the physical spaces where collection material is housed, primarily the stacks on levels 9 and 11. The Senior Collections Processing Archivist will maintain documentation related to locations and collection storage space.  
 
 
 ### 13.2.1 Onsite Storage Locations 
@@ -92,7 +92,7 @@ The Senior Collections Processing Archivist is responsible for maintaining the p
 		* Oversized bound volumes (OBVs) from MSS collections 
 		* Bound volumes (BVs)from EUA collections
   		* Oversized papers (OPs) from EUA collections
-    		* Storage closet contains some collection material  	 
+        * Storage closet contains some collection material  	 
 
 	* The Nunnery 
 		* Manuscript collections (both accessioned and unaccessioned) 
