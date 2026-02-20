@@ -18,7 +18,6 @@
   	   
 * [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
 	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
-	* [13.2.2 Physical processing](#1322-physical-processing2)
 	* [13.2.3 Basic minimum housing guidelines](#1323-basic-minimum-housing-guidelines)
 	* [13.2.4 Basic minimum description guidelines](#1324-basic-minimum-description-guidelines)
 	* [13.2.5 Labels and barcoding](#1325-labels-and-barcoding)
@@ -143,17 +142,22 @@ Rose Library has material stored at Access Storage. The University Records Manag
 
 ## 13.4 Offsite storage locations: Library Service Center (LSC) 
 
-## 13.2 LSC Ingest Policies and Procedures
+## 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
 
-## 13.2.1 Determining Eligibility for Transfer to LSC<a href="#anchor1"><sup>1</sup></a>
+See document in SharePoint [https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQBgwxmZw7ZCTZZe_EbcKcKnAdmPb9vcGWpMMyXvaqvbjmk?e=wu2Spc]
 
-LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections larger than 10 boxes, though smaller collections may also be selected for offsite storage.
+## 13.4.2 Determining Eligibility for Transfer to LSC
 
-No glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images are eligible for transfer. 
+LSC is the preferred storage location for most types of collection materials and will be the default storage location for newly acquired manuscript and archival collections.
 
-No collection that has active mold may be transferred to the LSC; however, materials that were treated for mold may be transferred.
+The following types of materials cannot be sent to the LSC:
+* Fragile materials
+* Glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images
+* Materials with active mold (materials that have been treated for mold may be transferred)
+* Oil paintings
 
-## 13.2.2 Physical Processing<a href="#anchor2"><sup>2</sup></a>
+
+## 13.4.3 Physical Processing<a href="#anchor2"><sup>2</sup></a>
  
 In order for material to be safely transferred to the LSC and easily identifiable once it is there, all boxes must be clearly and accurately labeled and in containers that are both ingestible by the LSC and provide adequate support and protection for the material during transfer.   
 
