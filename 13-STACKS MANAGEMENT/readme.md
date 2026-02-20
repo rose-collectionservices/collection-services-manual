@@ -6,24 +6,15 @@
 	* [13.1.1 Airtable]
  	* [13.1.2 ArchivesSpace]
   	* [13.1.3 Master Shelf List]
-  	* [13.1.4 Alma holdings locations]
-  	* [13.1.5 Book Finding Aid] 
-* [13.2 Onsite Stacks Management](#131-onsite-stacks-management)
-	* [13.2.1 Onsite Storage Locations](#1311-onsite-storage-locations)
- 	* [13.2.2 Box naming conventions based on shelving locations](#1312-box-naming-conventions-based-on-shelving-locations)
-  	* [13.3.3 Maintenance of movable shelving units]
-* [13.3 Offsite Storage Locations: Access Storage]
-	* [13.3.1 Library Service Center (LSC)]
- 	* [13.3.2 Access Storage]
-  	   
-* [13.2 LSC Ingest Policies and Procedures](#132-LSC-ingest-policies-and-procedures) 
-	* [13.2.1 Determining eligibility for transfer to LSC](#1321-determining-eligibility-for-transfer-to-lsc1)
-	* [13.2.3 Basic minimum housing guidelines](#1323-basic-minimum-housing-guidelines)
-	* [13.2.4 Basic minimum description guidelines](#1324-basic-minimum-description-guidelines)
-	* [13.2.5 Labels and barcoding](#1325-labels-and-barcoding)
-	* [13.2.6 Sending items to the LSC](#1326-sending-items-to-the-lsc)
-	* [13.2.7 Removing boxes from the LSC](#1327-removing-boxes-from-the-lsc)
-	* [13.2.8 LSC ingest checklist](#1328-lsc-ingest-checklist)
+  	* [13.1.4 Alma holdings records]
+  	* [13.1.5 Book Finding Aid]
+* [13.2 Onsite Stacks Management](#132-onsite-stacks-management)
+	* [13.2.1 Onsite Storage Locations](#1321-onsite-storage-locations)
+ 	* [13.2.2 Box naming conventions based on shelving locations](#1322-box-naming-conventions-based-on-shelving-locations)
+  	* [13.2.3 Maintenance of movable shelving units](#1323-maintenance-of-movable-shelving-units)
+* [13.3 Offsite Storage: Access Storage](#133-offsite-storage:-access-storage)  	   
+* [13.4 Offsite Storage: Library Service Center - DRAFT] 
+	
  * [13.3 Documenting missing boxes and items](#133-documenting-missing-boxes-and-items)
  	* [13.3.1 Documenting missing boxes](#1331-documenting-missing-boxes)
   	* [13.3.2 Documenting missing items and folders](#1332-documenting-missing-items-and-folders)
@@ -135,12 +126,12 @@ Historically Rose Library has used several different nomenclature/box numbering 
 * We contract with Patterson Pope for maintenance of shelving in the stacks. If a compact shelving unit needs service, please notify the Senior Collections Processing Archivist who will contact facilities, who will contact Patterson Pope. During service calls, security will accompany service providers to the floor.   
 
 
-## 13.3 Offsite storage locations: Access Storage
+## 13.3 Offsite Storage: Access Storage
 
 Rose Library has material stored at Access Storage. The University Records Manager places all requests to retrieve material from Access. 
 
 
-## 13.4 Offsite storage locations: Library Service Center (LSC) 
+## 13.4 Offsite Storage: Library Service Center (LSC) - DRAFT
 
 ### 13.4.1 LSC Ingest Policy on Preservation Specifications (2014)
 
