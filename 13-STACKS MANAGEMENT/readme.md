@@ -113,12 +113,12 @@ We communicate stack locations by giving a range and bay for an item:
 ### 13.2.2 Box naming conventions based on shelving locations
 Historically Rose Library has used several different nomenclature/box numbering conventions that are based on shelving locations. Some of these are still in use, while others should not typically be used for new collections:
 * OP (oversized paper)--current usage is for folders larger than 20x24" but smaller than 38x34". These folders serve as top containers [container profile in ArchivesSpace= box folder (56x34 or less)]. Rolled items and scroll boxes that will fit on 38x34" shelves are also OPs.
-* XOP (extra-oversized paper)--current usage is for folders that are too large to fit on the OP shelves, up to 56x34". XOPs may be stored onsite or at the LSC.
+* XOP (extra-oversized paper)--current usage is for all folders that are too large to fit on the OP shelves, up to 56x34". XOPs may be stored onsite or at the LSC.
 * BV (bound volume)--generally not used for new collections
 * OBV (oversized bound volume)--generally not used for new collections  
-* FR (framed item)--primarily stored on art racks on 11-
-* LP--phonograph record boxes that are stored on 11-
-* CLP (combined LP)--phonograph record boxes that contain items from multiple collections and are stored on 11-
+* FR (framed item)--historically used for framed items stored on the art racks on L11. Going forward, OBJ should be used for unboxed objects instead of FR. [See 10.8.4.6 Unboxed objects](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10846-unboxed-items)
+* LP--historically used for LP boxes stored on L11. Going forward, phonograph boxes will continue to receive an LP number but will typically be stored at the LSC.
+* CLP (combined LP)--current usage is for phonograph record boxes that contain items from multiple collections and are stored on L11.
   
 ### 13.2.3 Maintenance of movable shelving units
 
@@ -159,7 +159,7 @@ Materials sent to the LSC must be the basic minimum housing guidelines below.
 * Boxes must have a label and a barcode, affixed according to the instructions in [10.9 Labeling boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes) and [10.10 Barcoding boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes).
 
 **For print materials:**
-* 
+* All items must be barcoded. There must be a 1:1 correlation between the item/container and the barcode.
 
 
 ### 13.4.4 Guidelines on Size of Materials and Containers
@@ -170,63 +170,35 @@ Materials sent to the LSC must be appropriately sized for storage there; LSC she
 * Scroll boxes up to 4x4x48" can be sent to the LSC. [See 10.8.4.7 for more information on scroll boxes.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#10847-scroll-boxes)
 * Phonograph boxes 13x13x6" may be sent to the LSC. (Phonograph boxes 17x17x6" cannot be sent to the LSC and must be stored onsite.)
 * Oversized flat boxes up to 28x22x3" can be sent.
-* For oversized flat boxes larger than 28x22x3", you must receive permission  
+* For oversized flat boxes larger than 28x22x3", you must ask LSC staff.
+* XOP folders up to 49x36" (to be stored in the flat file drawers at the LSC, which are 50x37"). 
 
-## 13.2.4 Basic Minimum Description Guidelines
+### 13.4.5 Basic Minimum Description Guidelines
 
 **For archival materials:**
 
-* Collection-level catalog (MARC) records that include standard required notes fields (abstract, restrictions, language, summary, etc.) and has associated item records for each container being sent to the LSC is required.
-* Collection-level finding aid with complete required notes fields per DACS.
-* Box-level inventory that includes basic description of format and estimated date range is **required**. General content description at the box-level and a folder-list is **preferred**.
-* Alma  
+* Collection-level bib record in Alma, with a holdings record for the LSC and associated item records [see 17.2.2 Creating Alma holdings records and item records for archival collections](https://github.com/rose-collectionservices/collection-services-manual/tree/master/17-CATALOGING#1722-creating-alma-holdings-records-and-item-records-for-archival-collections)
+* In ArchivesSpace:
+     * Collection-level resource record with required notes fields per DACS [See 6 Description](https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION)
+     * All containers must be in ArchivesSpace with correct barcodes and a location of LSC
+
+**For print materials:**
+* Bib record in Alma, with a holdings record for the LSC.
+* Serials must have associated item records within the holdings record for the LSC.
 
 
+### 13.4.6 Sending Items to the LSC
 
+See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS#181-checklists-for-sending-materials-to-the-lsc)
 
-## 13.2.6 Sending Items to the LSC
+**Be sure to wait overnight after updating the Alma holdings record before sending the box to the LSC.**
 
-Make sure the holdings record in Alma indicates the LSC as the holding library and the sublocation as RSTORM (Rose- Storage-Manuscripts).  The 852 field of your holdings record should look like this: 
+## 13.5 Caiasoft
 
-![Figure 3: 852 field](/16-LSC%20TRANSFER%20POLICIES%20AND%20PROCEDURES/Images/Figure3.jpg "852 field")
-
-Update the shelf list with the new LSC location.
-
-If it is not a brand new acquisition (so a collection that has been on site and available to researchers for a while) then post a notice in the Collections channel on Slack to let people know that the collection is moving offsite.
-
-Update finding aid to include the new location in the access restrictions note: 
-
-``	
-<accessrestrict encodinganalog="506">
-		<head>Restrictions on Access</head>
-		<p>Unrestricted access.</p>
-		<p>Collection stored off-site. Researchers must contact the Rose Library in advance to access this collection.</p>
-	</accessrestrict>
-	``
-	
-You will need to wait 24 hours after changing the Alma holdings record to an LSC location before you can send the physical boxes offsite (this will ensure that the automated script that loads new barcodes into the LSC inventory control system has time to run and the new barcodes get into the system). 
-
-**Put boxes on the designated shelving in the CTR.**
-
-If you have oversized boxes that are 20x24 or larger, email Nathan to alert him that there are oversized boxes slated for pickup. 
-
-## 13.2.7 Removing Boxes from the LSC
+## 13.2.7 Removing Boxes from Caiasoft
 
 If a barcode needs to be removed from the LSC, email the LSC listserv with the barcode(s) that need to be removed.  
 
-If the barcode needs to be removed from Alma right click on the "actions" button in the item list and select "withdraw" to remove the item record.
-
-## 13.2.8 LSC Ingest Checklist
-
-
-
-*Footnotes:*
-
-<a id="anchor1">[1]</a> For a full set of guidelines and criteria for sending material to the LSC please see the [Rose-LSC Policy and Criteria Document](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Stacks%20Management/Rose-LSC_Policy_Criteria.docx?d=web794d841d474991b44387ec87b59741&csf=1&web=1&e=CsUInY) and [16.3 Basic Minimum Housing Guidelines](#163-basic-minimum-housing-guidelines).
-
-<a id="anchor2">[2]</a> Additional details on physical processing requirements can be found in the Rose Library LSC Physical Processing Requirements document and the LSC Policy Decision Document- Physical Processing of Materials.
-
-<a id="anchor3">[3]</a> Detailed instructions for running this script are included in the EAD manual.
 
 
 ## 13.3 Documenting missing boxes and items
