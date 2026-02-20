@@ -382,7 +382,7 @@ Indicates the extent and the physical nature of the materials being described. T
 **Required:** Required at the collection level only.  
 
 This field describes the collection's linear footage, number of boxes, extent of oversized material, number of boxes of audiovisual material, and bytes of 
-data and/or extent of physical media for born digital content.  
+data and/or extent of physical media for born-digital content.  
 
 **Extent Subrecord in ArchivesSpace:**
 
@@ -401,7 +401,7 @@ data and/or extent of physical media for born digital content.
 *	(2 microfilm reels (MF))
 *	(1 framed item (FR))
 *	(3 AV Masters (AV))
-*	(5.8 megabytes (484 files) born digital material (3 BD boxes))
+*	(5.8 megabytes (484 files) born-digital material (3 BD boxes))
 *	(54 boxes; 9 oversized papers boxes (OP); 1 extra-oversized paper (XOP); 3 bound volumes (BV); 2 oversized bound volumes (OBV); and 3 AV 
 	Masters (AV))
 *	(8 boxes; 1 oversized papers box and 1 oversized papers folder (OP); and AV materials (1 AV Master, 1 film canister, and 1 CLP))
@@ -484,7 +484,7 @@ collection).  It may duplicate, with slight changes, the first sentence or two o
 **Examples:**
 
 *	Papers of African American businessman, educator, and politician, Michael Lomax, including personal and professional papers, printed material, 
-	photographs, audiovisual material, and born digital material.
+	photographs, audiovisual material, and born-digital material.
 *	Records of the Atlanta, Georgia, LGBT arts organization, Southeastern Arts, Media & Education Project, including financial records, meeting minutes, 
 	internal communications and mailings, membership records, the records of the journal Amethyst, production files for plays produced by the 
 	organization, and event files.
@@ -585,8 +585,8 @@ If a collection is divided into series, the collection level arrangement note mu
 
 * Describe how the collection has been organized into units. 
 	* Examples:
-		* Organized into seven series: (1) Correspondence and personal papers, (2) Writings by Grennan, (3) Writings by others, (4) Diaries, (5) Printed material, (6) Photographs, and (7) Born digital materials.  
-		* Organized into 21 series: (1) Board of Directors records, (2) Office of the President records, (3) Office of the Executive Vice President records, (4) Office of the Executive Director and National Administrator records, (5) Department of Chapters and Affiliates records, (6) Department of Communications records, (7) Department of Direct Action records, (8) Crisis Intervention Committee records, (9) Department of Student Affairs records, (10) Programs Department records, (11) Martin Luther King Speaks records, (12) Other department records, (13) Personnel records, (14) Financial records, (15) Southern Christian Leadership Foundation records, (16) Legal records, (17) Printed material, (18) Photographs, (19) Audiovisual, (20) Artifacts and memorabilia, and (21) Born digital materials. 
+		* Organized into seven series: (1) Correspondence and personal papers, (2) Writings by Grennan, (3) Writings by others, (4) Diaries, (5) Printed material, (6) Photographs, and (7) Born-digital materials.  
+		* Organized into 21 series: (1) Board of Directors records, (2) Office of the President records, (3) Office of the Executive Vice President records, (4) Office of the Executive Director and National Administrator records, (5) Department of Chapters and Affiliates records, (6) Department of Communications records, (7) Department of Direct Action records, (8) Crisis Intervention Committee records, (9) Department of Student Affairs records, (10) Programs Department records, (11) Martin Luther King Speaks records, (12) Other department records, (13) Personnel records, (14) Financial records, (15) Southern Christian Leadership Foundation records, (16) Legal records, (17) Printed material, (18) Photographs, (19) Audiovisual, (20) Artifacts and memorabilia, and (21) Born-digital materials. 
 
 If you have arranged a collection into series, the series level arrangement note must: 
 
@@ -765,7 +765,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 * Acquired by Curator of African American Collections, Pellom McDaniels, III, as part of the Rose Library's holdings in the history of African Americans and Sports.  Sarah Quigley and Pellom McDaniels, III, removed .5 linear feet of newspaper clippings from the collection due to their ready availability. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
 * Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in American Literature.  The original acquisition included 12 linear feet of photocopies of Judith Malina's journals held at the Beinecke Library, Yale University.  Staff removed these photocopies from the collection and securely shredded them in 2016. A detailed appraisal report is included as part of the processing plan and is available from the repository. 
 * Acquired by Curator of Literary Collections and the Danowski Poetry Library, Kevin Young, as part of the Rose Library's holdings in Poetry.  Dorothy Waugh removed one megabyte of records related to Trethewey's teaching at the donor's request.  Dorothy Waugh and Kevin Young made appraisal decisions for digital material in this collection, and Sarah Quigley and Kevin Young made appraisal decisions for paper records in the collection.  All appraisal decisions were made in consultation with Natasha Trethewey. 
-* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. Laura Starratt returned duplicates to the donor after processing in 2017.  Dorothy Waugh photographed and securely disposed of hardware containing born digital records. 
+* Acquired by Curator of Modern Political and Historical Collections, Randy Gue, as part of the Rose Library's holdings in LGBT history and culture. Laura Starratt returned duplicates to the donor after processing in 2017.  Dorothy Waugh photographed and securely disposed of hardware containing born-digital records. 
 * Acquired by Curator of Literary Collections, Steve Ennis, as part of the Rose Library's holdings in Irish poetry.  Due to current copyright law, the Rose Library cannot make digital copies of commercially produced music or video recordings available to researchers.  Therefore, Carrie Hintz removed and securely shredded 18 commercially produced CDs in 2010. 
 
 **List of Rose Library Collecting Areas (subareas can be used if appropriate, but are not necessary):**
@@ -805,16 +805,16 @@ Provides information about actions of the archivist, custodians, or creators of 
 
 The information provided in this field is iterative.  The archivist should add to the note each time significant arrangement and description is done on all or part of the collection.  Always retain previous information.  At minimum, the processing note should include the level of arrangement and description, the names of individuals involved in processing, the names of individuals who wrote the finding aid (if different than those who did the arrangement), and the date(s) of arrangement and description.  The note should also include information about original order and whether or not the archivist imposed the organization, as well as any significant information about creator supplied folder titles or archivist devised folder titles.  The note may include information about preservation work done on the collection such as refoldering and rehousing, preservation photocopying, sleeving photographs, or more significant conservation. The note should document if information was redacted from collection materials. 
 
-For born digital material, include information about transfer of the data, reformatting that was done, if data could not be captured or retained and why (virus, etc.), and redaction of personally identifiable information (PII).  Describe any information that may affect a patron's understanding of the files, such as the fact that migration to PDF always changes the file dates, and point out any efforts made to provide original metadata.   
+For born-digital material, include information about transfer of the data, reformatting that was done, if data could not be captured or retained and why (virus, etc.), and redaction of personally identifiable information (PII).  Describe any information that may affect a patron's understanding of the files, such as the fact that migration to PDF always changes the file dates, and point out any efforts made to provide original metadata.   
 
-Processing notes are used at the series and/or subseries level when it is necessary to describe processing decisions made specifically for that component that go beyond the decisions described in the collection level note.  Series level notes are typically more detailed, especially for born digital material.  This field can be used to describe any reformatting of audiovisual material or to describe how archivists distinguished between types of material (such as personal and professional correspondence). 
+Processing notes are used at the series and/or subseries level when it is necessary to describe processing decisions made specifically for that component that go beyond the decisions described in the collection level note.  Series level notes are typically more detailed, especially for born-digital material.  This field can be used to describe any reformatting of audiovisual material or to describe how archivists distinguished between types of material (such as personal and professional correspondence). 
 
 **Examples:**
 
 *Basic notes:*
 
 * Arranged and described at the folder level by Haylee Harrell, Ingrid Meintjes, and Sarah Quigley, 2017. 
-* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born digital materials processed by Dorothy Waugh, January, 2016.
+* Arranged and described at the folder level by Sarah Quigley, Ingrid Meintjes, and Allison Pilatsky, 2015. Born-digital materials processed by Dorothy Waugh, January, 2016.
 * Arranged and described at the collection level by Sarah Quigley, 2014. Additions arranged and described at the collection level by Sarah Quigley, February 2020.
  
 
@@ -822,7 +822,7 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 * The collection arrived at the Rose Library in no discernible order. Meaghan O'Riordan aggregated the records by record type during accessioning.   
 * The organization of this collection was primarily devised by Sarah Quigley and Rebecca Sherman during processing in 2012.  However, the collected poetry subseries (2.1a) reflects a combination of Grennan's original order and archivist imposed arrangement.  The collected poetry was arranged by archivists in chronological order by publication date.  Grennan frequently changed the title of a collection during the process of compiling and revising the typescript. Typescripts with these variant titles have been arranged by archivists in alphabetical order within each work, with different drafts in chronological order to the extent that could be determined.  Material for collected works also include working files that contain poems considered for publication in that work but which ultimately were not included.  Some also include working files titled "Towards [work]," as labeled by Grennan.  The original arrangement of these folders has been retained to preserve evidence of early drafting efforts. Many poems in the subseries have multiple drafts which may be located with typescripts of a complete work, working files, and the folder for that individual poem. Not all collected works contain all of these materials. 
-* Processed by Sarah Quigley, October 2015. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
+* Processed by Sarah Quigley, October 2015. Photograph album descriptions in the container list are copied from the inside covers of each album. Information not included on the covers was provided by Randy Gue, the curator who acquired the collection and is indicated by brackets. Names, titles, locations, and dates have not been checked for accuracy.  Born-digital materials processed by Dorothy Waugh, December 2015. Files have been organized according to the event that they document. File names and dates last modified have not been changed. 
 * Material arrived at the Rose Library organized broadly by subject by the donor.  Rose Staff retained these categories.
 * The collection arrived at Rose Library primarily in labeled folders but with limited organization; archivists devised the arrangement, refoldered materials, foldered loose items, and provided or clarified folder titles. Archivists left photographs in the folders or context in which they were found; loose photographs were interfiled by subject. 
 
@@ -833,11 +833,11 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 *Collection level born digital processing note:*
 
-* Born digital materials processed by Dorothy Waugh, January 2016. The born digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born digital materials. 
+* Born-digital materials processed by Dorothy Waugh, January 2016. The born-digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born-digital materials. 
 
 *Series level born digital processing note:*
 
-* The born digital materials currently available to researchers are from two of Trethewey's laptop computers, a Dell Latitude D800 and a Dell Latitude X300. Individual files from both computers were extracted from forensic images of the hard drives and were scanned for viruses using McAfee's anti-virus software. Text-based files were migrated to PDF and image files to JPEG to create access copies. Files have been screened for private information. Files have been organized into five series matching the arrangement of the collection's paper component: 1) Correspondence and personal papers; 2) Writings by Trethewey; 3) Writings by others; 4) Printed material; and 5) Photographs. File and directory names were maintained and the original directory structure has been replicated. In cases where Natasha Trethewey originally grouped files into directories by book title or project, the complete directory will be located in the most relevant series. When necessary, a Writings by others folder was added to distinguish writings from Trethewey's own work when this is otherwise unclear.
+* The born-digital materials currently available to researchers are from two of Trethewey's laptop computers, a Dell Latitude D800 and a Dell Latitude X300. Individual files from both computers were extracted from forensic images of the hard drives and were scanned for viruses using McAfee's anti-virus software. Text-based files were migrated to PDF and image files to JPEG to create access copies. Files have been screened for private information. Files have been organized into five series matching the arrangement of the collection's paper component: 1) Correspondence and personal papers; 2) Writings by Trethewey; 3) Writings by others; 4) Printed material; and 5) Photographs. File and directory names were maintained and the original directory structure has been replicated. In cases where Natasha Trethewey originally grouped files into directories by book title or project, the complete directory will be located in the most relevant series. When necessary, a Writings by others folder was added to distinguish writings from Trethewey's own work when this is otherwise unclear.
 
 *Harmful language statement:*
 
@@ -954,9 +954,9 @@ also identify materials that require special handling that goes beyond standard 
 *	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
 	access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
 	access to audiovisual material.
-*	[**For unprocessed born digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born digital materials. Use of the original digital media is restricted.
-*	[**For processed born digital materials:**] Access to processed born digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original digital media is restricted.
-*	Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born digital materials.
+*	[**For unprocessed born-digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials. Use of the original digital media is restricted, but media is available to view upon request. 
+*	[**For processed born-digital materials:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original digital media is restricted, but media is available to view upon request. 
+*	Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born-digital materials.
 
 **Other examples:**
 
