@@ -144,7 +144,7 @@ The following types of materials cannot be sent to the LSC:
 * Fragile materials
 * Glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images
 * Materials with active mold (materials that have been treated for mold may be transferred)
-* Oil paintings
+* Oil paintings (Preservation has recommended that oil paintings NOT be sent to the LSC because the environmental conditions are not ideal)
 
 ### 13.4.3 Basic Minimum Housing Guidelines
 
