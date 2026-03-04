@@ -383,7 +383,7 @@ All top containers should have a printed label, including OP folders that serve 
 
 
 * There are two options for creating labels:
-	* Generate a label via ASpace (if that works on your computer).
+	* [Generate a label via ASpace (if that works on your computer)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQBGyAz3qFiKTouEj89cDfafAcV7cYtN0KHDlDpjyZZDRA4?e=TWN2dG).
  	* Use one of the Word templates for labels. Download the template and edit your personal copy; do not edit the template directly.
   		* [Label template for record storage boxes, document cases, OP folders, and XOP folders](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWOhXTD0nqJMk-QNkvfUO-8Bv9Ius4Ywi4ao1KLrVinn-A?e=njaXWJ) (uses 4" x 3 1/3" labels)
     		* [Label template for slim document cases and oversized boxes that are 3" in depth](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/ES0MGTNXDERNpM6NJFoev4QBPDvMlJgek7BEtgKsOQj4RA?e=gnSQTp) (uses 4" x 2" labels)
