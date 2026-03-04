@@ -14,7 +14,9 @@
   	* [13.2.3 Maintenance of movable shelving units](#1323-maintenance-of-movable-shelving-units)
 * [13.3 Offsite Storage: Access Storage](#133-offsite-storage:-access-storage)  	   
 * [13.4 Offsite Storage: Library Service Center - DRAFT] 
-* [13.5 Caiasoft]	
+* [13.5 Caiasoft]
+	* [13.5.1 Deaccessioning boxes from Caiasoft]
+ 	* [13.5.2 Running a report on Caiasoft new ingest stats] 	 	
 * [13.6 Documenting missing boxes and items](#136-documenting-missing-boxes-and-items)
  	* [13.6.1 Documenting missing boxes](#1361-documenting-missing-boxes)
   	* [13.6.2 Documenting missing items and folders](#1362-documenting-missing-items-and-folders)
@@ -197,7 +199,13 @@ See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-
 
 If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed.  
 
+### 13.5.2 Running a report on Caiasoft new ingest stats
 
+* Under the Reporting tab, click on "Collection Metrics."
+* Edit the "accessioned from" and "accessioned to" fields to include the correct range of dates.
+* Under "Collection," select "Sort by Bib Location Codes."
+* Leave Material Type as "All."
+* Adjust other search parameters.
 
 ## 13.6 Documenting missing boxes and items
 
