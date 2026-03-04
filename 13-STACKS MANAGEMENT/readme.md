@@ -185,7 +185,7 @@ Materials sent to the LSC must be appropriately sized for storage there; LSC she
 * Serials must have associated item records within the holdings record for the LSC.
 
 
-### 13.4.6 Sending Items to the LSC
+### 13.4.6 Sending Manuscript and EUA Items to the LSC
 
 See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-collectionservices/collection-services-manual/tree/master/18-PROCEDURE%20GUIDES%20AND%20CHECKLISTS#181-checklists-for-sending-materials-to-the-lsc)
 
