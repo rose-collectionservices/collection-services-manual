@@ -133,11 +133,25 @@ If an item merits separation, the archivist should create a [separation sheet](h
 In the case of an audio or video recording accompanying a letter or other document, fill out the separation form and file it with the original document. Create a cross reference to the document in an item level scope and content note in the container list for the audio or video recording. For example [Originally filed in Series 1: Correspondence, Letter from April Chung to May Riley, January 24, 1999]
 
 ### 10.5.2 Publications
-Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed and cataloged. Serials typically should be left with the collection and only removed and cataloged separately in rare cases. 
+Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed from collection materials and cataloged. Serials typically should be left with the collection and only removed and cataloged separately in rare cases. 
 
-* For publications that do not contain any annotations, signatures, or other unique features, the processing archivist should check the catalog to see if the Rose Library already holds a copy. If so, the item can likely be deaccessioned. Confer with the curator responsible for acquisition of the collection to determine if there's a compelling reason to keep the copy in question with the collection.
-* If an item is being removed from the collection to be cataloged separately, complete a ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL), insert it into the publication, and shelve the item on the designated range on Level 9. When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. Do not leave books in records center cartons or other boxes on the rare book shelves. When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal.
-* If the publication is being deaccessioned, either return to the donor or to Better World Books as appropriate.
+Once selected, published materials/books should be removed from archival or manuscript collection boxes to be cataloged and added to the library catalog. 
+* A completed ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL) should be inserted into each item that is being reviewed for cataloging.
+* Materials should be shelved on 09-028b-A-D for cataloging review (not boxed).
+
+If the book falls outside of scope of the collection:
+	* Confer with the responsible curator to determine if there's a compelling reason to keep the copy in question with the collection as a separated material.
+ 	* If not, place the item on 09-022a-D-F shelves ("out of scope") or return to the donor depending on language in the deed
+	
+If the books falls within the scope of the collection:
+	* Confirm that the item does not duplicate our holdings.
+ 		* If it does, identify any annotations, signatures, or other unique features that offer a compelling reason to keep this copy with the collection as a separated material.
+ 			* If there is no compelling reason, place the items on 09-022a-A-C for possible transfer to Better World Books or return to the donor depending on language in the deed
+      		* If there is a compelling reason to keep materials, print out the ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL) and insert into each item that is being reviewed.
+        		* When dealing with large quantities, it is more efficient to complete the form electronically and print out the appropriate number of flags. 
+				* Shelve the items on the designated range on Level 9 (09-028b-A-D; F-I) without a box.	
+
+When publications are attached to documents and that provenance must be preserved, complete the [Separation Form (Books)](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EQ7V6fQc9g1Bl8hqPq1NSTwBNcXKH5h0gIqhxVGAvnrwqw?e=dxjkzg) and follow the procedures as normal. 
 
 ## 10.6 Restricting and redacting materials
 
