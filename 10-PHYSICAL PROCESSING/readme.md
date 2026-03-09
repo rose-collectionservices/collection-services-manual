@@ -418,6 +418,10 @@ Barcodes should be covered with a clear barcode cover to help them stay on.
 
 <img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure6new.jpg" width="300" />
 
+*OP or XOP folder:* Label should be placed in the bottom left corner of the folder. The barcode should be placed to the right of the label.
+
+<img src="https://github.com/rose-collectionservices/collection-services-manual/blob/master/10-PHYSICAL%20PROCESSING/Images/Figure20.jpg" width="300" />
+
 ### 10.9.4 Labels for materials treated for mold
 
 Boxes that have been treated for mold must be housed separately from the rest of the collection and should be labeled with a [mold notice label](https://emory.sharepoint.com/:b:/s/EUVRoseLibrary/EWuF3Lzs0JxClM8yNxB0KjABep0uDkgZWXzg1RZFiNGIQQ?e=f2JQDk), which should be printed on white paper. (Legacy note: Previous versions of mold labels were printed on bright colored paper; we have moved away from this so the labels are less alarming to researchers.) The label should be affixed to the end of the box. Oversized boxes may not always have enough space on the front for the label. In this case, put the label in a logical place on the front and/or top of the box so they are visible to staff and patrons. Use scotch tape to affix the label to the box but make sure the labels are taped on all sides. See figures 7-9 for examples.
