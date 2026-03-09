@@ -147,7 +147,6 @@ The following types of materials cannot be sent to the LSC:
 * Glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images
 * Materials with active mold (materials that have been treated for mold may be transferred)
 * Oil paintings (Preservation has recommended that oil paintings NOT be sent to the LSC because the environmental conditions are not ideal)
-* XOP folders larger than 50x37" (the size of the oversized flat file drawers at the LSC)
 
 ### 13.4.3 Basic Minimum Housing Guidelines
 
