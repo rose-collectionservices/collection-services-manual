@@ -147,6 +147,7 @@ The following types of materials cannot be sent to the LSC:
 * Glass-based photographic material including glass-plate negatives, lantern slides, daguerreotypes, ambrotypes, and other cased images
 * Materials with active mold (materials that have been treated for mold may be transferred)
 * Oil paintings (Preservation has recommended that oil paintings NOT be sent to the LSC because the environmental conditions are not ideal)
+* XOP folders larger than 50x37" (the size of the oversized flat file drawers at the LSC)
 
 ### 13.4.3 Basic Minimum Housing Guidelines
 
@@ -158,6 +159,7 @@ The following types of materials cannot be sent to the LSC:
 * For 16x20" and 20x24" boxes, it is preferred to use 3" high boxes for materials that will be sent to the LSC.
 * Boxes must be under 40lbs in weight.
 * Boxes must be packed fully or with spacers or by other means to ensure materials are secure through transit.
+* XOP folders cannot be larger 50x37". Materials within XOP folders cannot extend beyond the edges of the folders and XOP folders should not be overstuffed.
 * Boxes must have a label and a barcode, affixed according to the instructions in [10.9 Labeling boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes) and [10.10 Barcoding boxes](https://github.com/rose-collectionservices/collection-services-manual/tree/master/10-PHYSICAL%20PROCESSING#109-labeling-boxes).
 
 **For print materials:**
