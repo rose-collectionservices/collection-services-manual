@@ -16,6 +16,8 @@ Content owner: Becky Sherman
 
 [Checklist - sending a collection to the LSC including renumbering OPs, etc](https://emory.sharepoint.com/:b:/s/EUVRoseLibrary/ERtt3X8gnLBCpBTS0qpuB1cBT4ZjpNeF1DcG5aA02PjT1A?e=hqxUCG)
 
+[Checklist - sending XOPs to the LSC](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/IQCcerhI5IjwQK8v79NXkdQjAUdFDwBCSoiIUMuafAEFyNc?e=F3Cxqy)
+
 ## 18.2 Checklist for adding a new container to an existing collection
 Content owner: Becky Sherman
 
