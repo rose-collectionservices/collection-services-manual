@@ -312,8 +312,9 @@ See [Section 13.2 Box naming conventions by shelving location](https://github.co
   	  	* Scroll box container profile = scroll box [choose best size]
   	* OP folders should be given OP numbers to indicate that they are being stored onsite on the OP shelves. In a collection OPs should be given a separate sequence of numbers from the general box number sequence (i.e. OP1, OP2, etc.). When making the label, there is no space between OP and the number (i.e. OP1).
  * #### 10.8.4.4 Oversized folders larger than 38x36" and up to 56x34" (XOPs)
- 	* Any oversized material larger than 38x36" should be handled as an XOP because it will need to be stored on the XOP shelves in the Nunnery.
+ 	* Any oversized material larger than 38x36" should be handled as an XOP.
   	* Oversized artifacts and computer hardware that need to be stored on the XOP shelves due to size should also be handled as XOPs.
+    * XOP folders can be stored onsite in the Nunnery or sent to the LSC. XOP folders sent to the LSC should continue to have a container indicator of "XOP1" to indicate that it is an oversized folder.
   	* XOPs serve as top containers in ASpace
    		* XOP folder container profile in ASpace = box folder (56x34 or less)
      		* Rolled item container profile = rolled item
