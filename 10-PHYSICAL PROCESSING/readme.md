@@ -135,15 +135,15 @@ In the case of an audio or video recording accompanying a letter or other docume
 ### 10.5.2 Publications
 Published monographs, broadsides, and periodicals that are rare or are closely connected to our broader collecting areas should be removed from collection materials and cataloged. Serials typically should be left with the collection and only removed and cataloged separately in rare cases. 
 
-Once selected, published materials/books should be removed from archival or manuscript collection boxes to be cataloged and added to the library catalog. 
-* A completed ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL) should be inserted into each item that is being reviewed for cataloging.
-* Materials should be shelved on 09-028b-A-D for cataloging review (not boxed).
+* Once selected, published materials/books should be removed from archival or manuscript collection boxes to be cataloged and added to the library catalog. 
+	* A completed ["Removed from MSS Collection (to be cataloged)" flag](https://emory.sharepoint.com/:w:/s/EUVRoseLibrary/EWRcr9mWsX5Cocagr52UkrgBBmgc-G_MTueHiRd_GBArWg?e=SW7XAL) should be inserted into each item that is being reviewed for cataloging.
+	* Materials should be shelved on 09-028b-A-D for cataloging review (not boxed).
 
-If the book falls outside of scope of the collection:
+* If the book falls outside of scope of the collection:
 	* Confer with the responsible curator to determine if there's a compelling reason to keep the copy in question with the collection as a separated material.
  	* If not, place the item on 09-022a-D-F shelves ("out of scope") or return to the donor depending on language in the deed
 	
-If the books falls within the scope of the collection:
+* If the books falls within the scope of the collection:
 	* Confirm that the item does not duplicate our holdings.
  		* If it does, identify any annotations, signatures, or other unique features that offer a compelling reason to keep this copy with the collection as a separated material.
  			* If there is no compelling reason, place the items on 09-022a-A-C for possible transfer to Better World Books or return to the donor depending on language in the deed
