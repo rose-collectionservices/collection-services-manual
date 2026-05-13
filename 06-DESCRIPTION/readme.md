@@ -954,8 +954,8 @@ also identify materials that require special handling that goes beyond standard 
 *	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
 	access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
 	access to audiovisual material.
-*	[**For unprocessed born-digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials. Use of the original digital media is restricted, but media is available to view upon request. 
-*	[**For processed born-digital materials:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original digital media is restricted, but media is available to view upon request. 
+*	[**For unprocessed born-digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials. Use of the original storage media is restricted, but media is available to view upon request. 
+*	[**For processed born-digital materials:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original storage media is restricted, but media is available to view upon request. 
 *	Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born-digital materials.
 
 **Other examples:**
