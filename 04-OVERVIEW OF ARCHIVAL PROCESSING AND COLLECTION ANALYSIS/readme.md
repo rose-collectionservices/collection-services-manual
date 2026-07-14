@@ -12,6 +12,7 @@ Last revised in 2019. Content owner: Laura Starratt
 	* [4.2.3 Condition assessment/physical inventory](#423-condition-assessmentphysical-inventory)
 	* [4.2.4 Determining level of arrangement and description](#424-determining-level-of-arrangement-and-description)
 	* [4.2.5 Identifying intellectual units within collections](#425-identifying-intellectual-units-within-collections)
+* [4.3 Processing Workplan](#43-processing-workplan)
 
 ## 4.1 Overview of Archival Processing
 
@@ -61,7 +62,7 @@ a collection.
 	
 ### 4.2.2 Determining Provenance and Original Order
 
-*	Provenance: 1. The origin or source of something. - 2. Information regarding the 
+*	Provenance: 1. The origin or source of something. 2. Information regarding the 
 	origins, custody, and ownership of an item or collection.
 *	Original order:  The organization and sequence of records established by the 
 	creator (and possibly users) of the records.
@@ -171,6 +172,14 @@ works by other individuals.  Similarly, if a collection contains material create
 a mother and daughter, it would be inappropriate to title the collection the Jane 
 Smith papers rather than the Jane and Julie Smith papers or the Jane Smith family 
 papers. 
+## 4.3 Processing Workplan
+The Rose Library archivists complete a workplan that is reviewed by the Head of Archival Processing as well as any interested stakeholders that might have insight to offer[^1].
+[^1]: Access completed workplans through [Sharepoint Processing Workplans](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Grants/NEH%202026%20Collections%20Stewardship/NEH%20Photographs-quick-cost-estimator.xlsx?d=wc50dda0d625645c294d1bf64557bdb7c&csf=1&web=1&e=zsPcEU)
 
+There are three workplan templates available based on size and content format:
+* [Digital Archives Processing Plan template](https://emory.sharepoint.com/:u:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Processing%20Workplans/Digital%20Archives%20processing%20plans%20-%20Shortcut.lnk?csf=1&web=1&e=93qce1)
+* [Workplan template for small collections](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Processing%20Workplans/Workplan%20template%20for%20small%20collections.docx?d=w6a897c7e410b42a59f7e3c2c9b7ac227&csf=1&web=1&e=dwAQhg)
+* [Workplan template](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Cataloging%20and%20Collection%20Processing/Collection%20Processing/Processing%20Workplans/Workplan%20Template_Draft.docx?d=w21ef5d9a20164a82916bf5a7bf80107b&csf=1&web=1&e=gbZmBX)
 
-<a id="anchor1">[1]</a>All definitions in this document taken from:  [Society of American Archivists, A Glossary of Archival and Records Terminology, 2005](https://www2.archivists.org/glossary). 
+In addition, we base most of our processing calculations on [Yale University Beinecke Library's processing rates](https://msu-processing-manual.beinecke.library.yale.edu/252-rates-processing) which can be utilized through our [Processing Calculator](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Reports%20and%20Statistics/Collection%20Services/Manuscript%20Processing%20Statistics/processing%20calculator.xls?d=w258b3f9c7f324006989a9ed5001deaf7&csf=1&web=1&e=Rpoavc).  In addition, we take advantage of calculators already in use elsewhere like [NEH Photographs-quick-cost-estimator](https://emory.sharepoint.com/:x:/r/sites/EUVRoseLibrary/Shared%20Documents/Grants/NEH%202026%20Collections%20Stewardship/NEH%20Photographs-quick-cost-estimator.xlsx?d=wc50dda0d625645c294d1bf64557bdb7c&csf=1&web=1&e=zsPcEU)
+
