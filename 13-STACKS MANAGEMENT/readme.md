@@ -1,6 +1,6 @@
 # Stacks Management
 
-**This section needs to be updated. Some portions updated in 2025. Content owner: Becky Sherman**
+**This section needs to be updated. Some portions updated in 2025 and 2026. Content owner: Becky Sherman**
 
 * [13.1 Location Management](#131-location-management)
 	* [13.1.1 Airtable]
@@ -16,7 +16,8 @@
 * [13.4 Offsite Storage: Library Service Center - DRAFT] 
 * [13.5 Caiasoft]
 	* [13.5.1 Deaccessioning boxes from Caiasoft]
- 	* [13.5.2 Running a report on Caiasoft new ingest stats] 	 	
+ 	* [13.5.2 Running a report on Caiasoft new ingest stats]
+    * [13.5.3 Caiasoft container profiles]	 	
 * [13.6 Documenting missing boxes and items](#136-documenting-missing-boxes-and-items)
  	* [13.6.1 Documenting missing boxes](#1361-documenting-missing-boxes)
   	* [13.6.2 Documenting missing items and folders](#1362-documenting-missing-items-and-folders)
@@ -207,6 +208,13 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * Under "Collection," select "Sort by Bib Location Codes."
 * Leave Material Type as "All."
 * Adjust other search parameters.
+
+### 13.5.3 Caiasoft container profiles
+
+* BB = records center box
+* S = document case
+* SX = slim document case
+* V = other
 
 ## 13.6 Documenting missing boxes and items
 
