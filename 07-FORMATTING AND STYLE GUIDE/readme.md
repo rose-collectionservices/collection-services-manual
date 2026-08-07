@@ -151,7 +151,7 @@ If you are unsure of how to title, please refer to DACS.
 	- Retain the article in foreign-language titles
 		- She reads *Le Monde* every day.
 
-- Use italics for books, periodicals, magazines, plays, newspapers, films, ships, and lawsuits.
+- Use italics for books, periodicals, magazines, plays, newspapers, films, ships, zines, and lawsuits.
 
 - Titles of a series of works are capitalzied, roman, and not in quotes
 	- Frank Stella's Black paintings; Picasso's Bathers; the A.W. Mellon Lectures in the Fine Arts
