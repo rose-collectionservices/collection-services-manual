@@ -215,6 +215,7 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * S = document case
 * SX = slim document case
 * V = other
+* T = flat file folder
 
 ## 13.6 Documenting missing boxes and items
 
