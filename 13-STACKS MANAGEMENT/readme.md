@@ -227,6 +227,23 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * V = other
 * T = flat file folder
 
+### 13.5.4 Alma to Caiasoft translation table
+
+![Figure 21: Alma to Caiasoft translation table](/13-STACKS%20MANAGEMENT/Images/Figure21.jpg)
+
+* This table dictates what happens when an item is accessioned into Caiasoft, based on the Alma holdings record bib location code. 
+* Currently if an item with any of the Alma holdings locations listed below is accessioned into Caiasoft, the Alma holdings location will be automatically updated to LSC/RSTORR.
+	* MARBL/STACK
+	* MARBL/SPOZ
+	* MARBL/MAP
+	* MARBL/MEDIA
+	* MARBL/REF
+* Currently if an item with an Alma holdings location of MARBL/MSSTK (indicating that it is manuscript material) is accessioned into Caiasoft, the Alma holdings location will remain unchanged and the item will generate an error in Caiasoft.
+
+NOTE: The most up to date version of this table can be found in Caiasoft in the API Dashboard. Viewing this table requires Caiasoft admin privileges.
+* Click on API Dashboard, then click on "API Configuration."
+* In the Configuration & Keys table, click on view for "ALMA (emory)." [Note that there are two entries for "ALMA (emory)" which appear to take you to the same table.]
+
 ## 13.6 Documenting missing boxes and items
 
 ### 13.6.1 Documenting missing boxes
