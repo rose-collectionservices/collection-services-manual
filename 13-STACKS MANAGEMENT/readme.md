@@ -16,7 +16,7 @@
 * [13.4 Offsite Storage: Library Service Center - DRAFT] 
 * [13.5 Caiasoft]
 	* [13.5.1 Deaccessioning boxes from Caiasoft]
- 	* [13.5.2 Running a report on Caiasoft new ingest stats]
+ 	* [13.5.2 Running reports in Caiasoft]
     * [13.5.3 Caiasoft container profiles]	 	
 * [13.6 Documenting missing boxes and items](#136-documenting-missing-boxes-and-items)
  	* [13.6.1 Documenting missing boxes](#1361-documenting-missing-boxes)
@@ -201,7 +201,17 @@ See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-
 
 If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed.  
 
-### 13.5.2 Running a report on Caiasoft new ingest stats
+### 13.5.2 Running reports in Caiasoft
+
+#### 13.5.2.1. Report of barcodes accessioned during a period of time
+
+* Under the Reporting tab, under Export Data, click on "Item Barcodes."
+* Under "Collection/Bib Location," select the desired bib location.
+* Leave "Material Type" as "All."
+* Edit the "accessioned from" and "accessioned to" fields to include the correct range of dates.
+* For "Include Title Info," select "yes."
+
+#### 13.5.2.2 Report on Caiasoft new ingest stats
 
 * Under the Reporting tab, click on "Collection Metrics."
 * Edit the "accessioned from" and "accessioned to" fields to include the correct range of dates.
