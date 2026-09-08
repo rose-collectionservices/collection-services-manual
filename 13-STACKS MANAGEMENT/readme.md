@@ -229,7 +229,7 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 
 ### 13.5.4 Alma to Caiasoft translation table
 
-![Figure 21: Alma to Caiasoft translation table](/13-STACKS%20MANAGEMENT/Images/Figure21.jpg)
+![Figure 5: Alma to Caiasoft translation table](/13-STACKS%20MANAGEMENT/Images/Figure5.jpg)
 
 * This table dictates what happens when an item is accessioned into Caiasoft, based on the Alma holdings record bib location code. 
 * Currently if an item with any of the Alma holdings locations listed below is accessioned into Caiasoft, the Alma holdings location will be automatically updated to LSC/RSTORR.
@@ -255,9 +255,9 @@ NOTE: The most up to date version of this table can be found in Caiasoft in the 
   	  	* Note = add note if there is additional relevant info to document, including the previous location where the box was supposed to be located.
   	  	* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
   	* Figure 16: Example of location field for a missing container
-  ![Figure 16: Missing box location field 1](/16-STACKS%20MANAGEMENT/Images/Figure16.jpg)
+  ![Figure 2: Missing box location field 1](/13-STACKS%20MANAGEMENT/Images/Figure2.jpg)
 	* Figure 17: Another example of location field for a missing container
-  ![Figure 17: Missing box location field 2](/16-STACKS%20MANAGEMENT/Images/Figure17.jpg)
+  ![Figure 3: Missing box location field 2](/13-STACKS%20MANAGEMENT/Images/Figure3.jpg)
 
 	* For EACH of the archival objects linked to that container, add a Conditions Governing Access Note to restrict the item and make it not requestable.
 		* Publish = true
@@ -293,7 +293,7 @@ NOTE: The most up to date version of this table can be found in Caiasoft in the 
 		* Location = Stuart A. Rose Manuscript, Archives, and Rare Book Library, Missing [MISSING, MSSTK]
     	* Figure 18: Example of an artificial container that is missing
        
-![Figure 18: Artificial container that is missing](/16-STACKS%20MANAGEMENT/Images/Figure18.jpg)
+![Figure 4: Artificial container that is missing](/13-STACKS%20MANAGEMENT/Images/Figure4.jpg)
 
 * In ASpace, for the archival object that is missing, add a Conditions Governing Access Note to restrict the item and make it not requestable.
   	* Publish = true
