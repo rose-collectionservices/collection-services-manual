@@ -638,7 +638,8 @@ Gift, Purchase, and Transfer are the three main ways that the Rose Library acqui
 * Purchased from James S. Jaffe Rare Books, representing Linda Gregg, 2015 
 * Purchased from Glenn Horowitz Bookseller, 2011 
 * Transferred from the Poynter Institute for Media Studies, 2016 
-* Transferred from Emory University Office of the President, 1983  
+* Transferred from Emory University Office of the President, 1983
+* Collection was compiled from various sources by Emory University Archives staff.  
 
 **Corresponding MARC field:**  541
 
@@ -722,6 +723,7 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 * Acquired by Curator of African American Collections, N'Kosi Oates, PhD, as part of the Rose Library's holdings in the history of African Americans and the arts.
 * Acquired by Assistant Director of Collection Development and Curator of Political, Cultural, and Social Movements, Randy Gue, as part of the Rose Library’s holdings documenting arts and culture in Atlanta.
 * Acquired by Assistant Director and University Archivist, John Bence, as part of the Emory University Archives.
+* [For EUA collections, in the absence of other information] Archives staff assembled this collection from records originating from various sources.
  
 *Documenting if appraisal activities took place and any associated destruction actions (Required):*
 
