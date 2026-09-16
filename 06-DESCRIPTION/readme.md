@@ -751,7 +751,8 @@ Examples below are for the most common kinds of appraisal notes and are listed i
 
 * The Rose Library has retained a complete disk image of the hard drive in this collection for preservation purposes; Dorothy Waugh removed files related to the court case OBERGEFELL V.  HODGES from the processed collection to protect attorney client privilege.   
 * [In cases of files transfers:] Dorothy Waugh selected and transferred digital files to the Rose Library based on discussion with the donor. 
-* Digital files available to researchers represent content created or saved by [the donor or content creator]. System files, log files, and other computer-generated files have not been made available [EITHER: at the request of the donor; OR: Please contact the Rose Library if you would like access to these files.] 
+* Digital files available to researchers represent content created or saved by [the donor or content creator]. System files, log files, and other computer-generated files have not been made available [EITHER: at the request of the donor; OR: Please contact the Rose Library if you would like access to these files.]
+*  Blank and/or broken disks have been discarded.
 
 *Disposition Schedules (Required if applicable):*
 
@@ -835,7 +836,9 @@ Processing notes are used at the series and/or subseries level when it is necess
 
 *Collection level born digital processing note:*
 
-* Born-digital materials processed by Dorothy Waugh, January 2016. The born-digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born-digital materials. 
+* [**Baseline requirement:**] Born-digital materials processed, arranged, and described by [name], [date]. Born-digital materials include files taken from [list of items].
+* [**For a collection without series or with born-digital material in multiple series (revise to reflect actual processing steps):**] Forensic disk images were created from the [material] using [program]. Individual files were extracted using FTK Imager and scanned for viruses using McAfee’s anti-virus software; none were found. Duplicate and system files have been removed, and files were scanned for personally identifiable information; none were found. Text-based files were migrated to PDF using Adobe Acrobat and image files were migrated to JPG using Microsoft Paint. File dates have been changed from the original creation date. Access copies retain original folder titles and file names.
+* [**For a collection with a born-digital series:**] Born-digital materials processed by [name], January 2016. The born-digital materials currently available to researchers include files taken from two of Natasha Trethewey's personal laptops, a Dell Latitude D800 and a Dell Latitude X300. For information as to how these materials were processed, see the processing note in the description of series 7, Born-digital material [or series the born-digital material is found in]. 
 
 *Series level born digital processing note:*
 
@@ -942,8 +945,7 @@ When applicable, the following language is used for EUA use restriction notes:
 Provides information about physical access restrictions due to physical characteristics or storage locations that limit, restrict, delay, or otherwise 
 affect access to the materials being described.
 
-**Required:** Required, when applicable, at the collection level.  Required at the series and sub-series levels when restrictions on those components are 
-present.
+**Required:** Required, when applicable, at the collection level.  Required at the series and sub-series levels when restrictions on those components are present.
 
 This field identifies collections that are stored off-site, collections in which audiovisual materials are not yet digitized, and collections in which 
 born-digital materials are not yet processed.  It also provides instructions for requesting access to such materials.  This field notes where researchers 
@@ -953,12 +955,16 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of notes that must be used verbatim:**
 
 *	Collection stored off-site; materials must be requested two business days in advance of appointment.
-*	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for 
-	access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
+*	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
 	access to audiovisual material.
-*	[**For unprocessed born-digital materials:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials. Use of the original storage media is restricted, but media is available to view upon request. 
-*	[**For processed born-digital materials:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original storage media is restricted, but media is available to view upon request. 
-*	Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born-digital materials.
+*	[**For unprocessed born-digital materials (not yet imaged/transferred/ingested or processed only to Tier 1:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials.
+*	[**For born-digital materials processed to Tier 2/2b/3:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original storage media is restricted, but media is available to view upon request. 
+
+In addition to the required text above, the following language is recommended for born-digital material when applicable:
+*	[**At the collection level when some material cannot be made available:**] Due to technical complications, the Rose Library is currently unable to provide access to remaining unprocessed born-digital materials.
+*	[**At the collection level when processed material includes files in formats that will not render in the access system:**] Some digital files might not be accessible in their current form for technical reasons. Contact Rose Library to inquire about alternative possibilities for access.
+*	[**At the file level for material not yet been processed to Tier 2/2b/3:**] This born-digital material is unprocessed. Researchers must contact the Rose Library in advance for access. Use of the original digital media is restricted.
+*	[**At the file level for media that could not be imaged or from which no usable content was recovered:**] Due to technical complications, the Rose Library is currently unable to provide access to this unprocessed born-digital material. 
 
 **Other examples:**
 
@@ -1170,7 +1176,8 @@ ArchivesSpace instructions for linking to indices removed from the record (due t
 
 * An index of respondents to the questionnaires for Horace Mann Bond's "A Study of the Factors Involved in the Identification and Encouragement of Unusual Academic Talent among Underprivileged Populations" (Project 458) is available. 
 * An index to correspondence in Series 2 and to [Ralph] McGill's daily editorial columns in Series 9 is available. 
-* The preliminary inventory of the Douglas Turner Ward papers, created by Boo Hooray when the collection was packed, is available.  See Rose Library staff for access. 
+* The preliminary inventory of the Douglas Turner Ward papers, created by Boo Hooray when the collection was packed, is available.  See Rose Library staff for access.
+* An inventory of the individual born-digital files available in the collection is <extref xlink:href="[TreeSizeReportURL]">available to researchers as an HTML page</extref>.
 
 **Corresponding MARC field:**  555
 
