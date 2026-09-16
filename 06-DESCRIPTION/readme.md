@@ -960,9 +960,8 @@ also identify materials that require special handling that goes beyond standard 
 **Examples of notes that must be used verbatim:**
 
 *	Collection stored off-site; materials must be requested two business days in advance of appointment.
-*	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide 
-	access to audiovisual material.
-*	[**For unprocessed born-digital materials (not yet imaged/transferred/ingested or processed only to Tier 1:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials.
+*	[**For unprocessed audiovisual materials:**] Use copies have not been made for audiovisual material in this collection. Researchers must contact the Rose Library at least two weeks in advance for access to these items. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to audiovisual material.
+*	[**For unprocessed born-digital materials (not yet imaged/transferred/ingested or processed only to Tier 1:**] Researchers must contact the Rose Library in advance for access to unprocessed born-digital materials in this collection. Collection restrictions, copyright limitations, or technical complications may hinder the Rose Library's ability to provide access to unprocessed born-digital materials. Use of the original digital media is restricted.
 *	[**For born-digital materials processed to Tier 2/2b/3:**] Access to processed born-digital materials is only available in the Stuart A. Rose Manuscript, Archives, and Rare Book Library (the Rose Library). Use of the original storage media is restricted, but media is available to view upon request. 
 
 In addition to the required text above, the following language is recommended for born-digital material when applicable:
