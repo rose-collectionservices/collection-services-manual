@@ -16,8 +16,10 @@
 * [13.4 Offsite Storage: Library Service Center - DRAFT] 
 * [13.5 Caiasoft]
 	* [13.5.1 Deaccessioning boxes from Caiasoft]
- 	* [13.5.2 Running reports in Caiasoft]
-    * [13.5.3 Caiasoft container profiles]	 	
+ 	* [13.5.2 Refreshing bib info in Caiasoft]
+ 	* [13.5.3 Running reports in Caiasoft]
+    * [13.5.4 Caiasoft container profiles]
+    * [13.5.5 Alma to Caiasoft translation table]	 	
 * [13.6 Documenting missing boxes and items](#136-documenting-missing-boxes-and-items)
  	* [13.6.1 Documenting missing boxes](#1361-documenting-missing-boxes)
   	* [13.6.2 Documenting missing items and folders](#1362-documenting-missing-items-and-folders)
@@ -199,11 +201,36 @@ See [18.1 Checklists for sending materials to the LSC.](https://github.com/rose-
 
 ### 13.5.1 Deaccessioning boxes from Caiasoft
 
-If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed.  
+If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris with the barcode(s) that need to be removed. If a container profile for a box has changed, that barcode needs to be deaccessioned and then reaccessioned.  
 
-### 13.5.2 Running reports in Caiasoft
+### 13.5.2 Refreshing bib info in Caiasoft
 
-#### 13.5.2.1. Report of barcodes accessioned during a period of time
+When a barcode is accessioned into Caiasoft, Caiasoft pulls the bibliographic information from Alma. If at a later point the bib info in Alma changes, or if the descriptive information needs to be changed on an item record in Caiasoft, use one of the following options.
+
+* To update bib info for a single barcode using the "Refresh Items via API" button:
+	* In Storage Management, look up a barcode.
+ 	* Click the "Refresh Items via API" button.
+  	* Verify that the item has been updated correctly.
+
+* To update bib info for a single barcode manually:
+	* In Storage Management, look up a barcode.
+ 	* Click "Edit Item (All Info)."
+  	* Manually change the collection or other descriptive info to match what is in Alma.
+  	* NOTE: Do NOT manually edit the container profile. If a container profile needs to be changed, it's necessary to email the LSC to deaccession the barcode and then reaccession it.
+  	    
+* To update bib info for a batch of barcodes:
+	* Create a text file with the barcodes that you want to refresh. Save the file.
+ 	* Go to API Dashboard/API Configuration
+  	* Under "Quick Generate API Calls," click on "ALMA Data Refresh & Scan In (emory)"
+  	* Scroll down to "ALMA Refresh Info Call."
+  	* Click on "Browse" and navigate to your file.
+  	* Double click on the file, or single click on the file and click "Open".
+  	* Click on "Send Multiple via File."
+
+
+### 13.5.3 Running reports in Caiasoft
+
+#### 13.5.3.1. Report of barcodes accessioned during a period of time
 
 * Under the Reporting tab, under Export Data, click on "Item Barcodes."
 * Under "Collection/Bib Location," select the desired bib location.
@@ -211,7 +238,7 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * Edit the "accessioned from" and "accessioned to" fields to include the correct range of dates.
 * For "Include Title Info," select "yes."
 
-#### 13.5.2.2 Report on Caiasoft new ingest stats
+#### 13.5.3.2 Report on Caiasoft new ingest stats
 
 * Under the Reporting tab, click on "Collection Metrics."
 * Edit the "accessioned from" and "accessioned to" fields to include the correct range of dates.
@@ -219,7 +246,7 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * Leave Material Type as "All."
 * Adjust other search parameters.
 
-### 13.5.3 Caiasoft container profiles
+### 13.5.4 Caiasoft container profiles
 
 * BB = records center box
 * S = document case
@@ -227,7 +254,7 @@ If a barcode needs to be deaccessioned from Caiasoft, email Nathan and Chris wit
 * V = other
 * T = flat file folder
 
-### 13.5.4 Alma to Caiasoft translation table
+### 13.5.5 Alma to Caiasoft translation table
 
 ![Figure 5: Alma to Caiasoft translation table](/13-STACKS%20MANAGEMENT/Images/Figure5.jpg)
 
