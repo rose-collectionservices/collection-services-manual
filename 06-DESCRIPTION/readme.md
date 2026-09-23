@@ -1345,9 +1345,7 @@ Steps for review:
 * The archivist who accessioned or processed the collection reviews feedback, updates the resource record in ArchivesSpace, and publishes the finding aid and/or unrestricts the collection.
 
 ### 6.3.3 Reviews outside of Collection Services
-Depending on the nature of the collection, once Collection Services staff has reviewed the finding aid and all updates are made, the processing archivist may send the finding aid to the curator of the collecting area for additional review.
-
-If the curator advises, the processing archivist can send the completed finding aid (after publishing and using the permanent link) to the donor. 
+Each Curator has been added to the finding aid Slack channel.  Curators are responsible for reviewing the finding aids and making suggestions in a timely manner.   Curatorial sign off is not required for publishing the finding aid, but the curator may forward the completed finding aid to the donor once it is published.
 
 **It is not necessary to delay publication of a finding aid in order to seek feedback from either the curator or collection donor.**
 
