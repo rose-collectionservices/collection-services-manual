@@ -138,10 +138,10 @@ Create an orientation packet for a new student's first day. Include:
 * Rose Library orientation materials include:
 	* Rose Library promotional material
 	* [Rose Library welcome and rules](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Student%20Employees/Collection%20Services%20Student%20Employees/CS%20Student%20Orientation%20Files/Student%20welcome%20and%20rules.docx?d=w51e94aca14914c2e91d71771e6376b13&csf=1&web=1&e=iFQfBG)
-	* [Emory University Libraries' Student Employee Handbook]([https://hr.emory.edu/eu/_includes/documents/sections/hr-rep-resources/student-new-hire-training-manual.pdf)
+	* [Emory University Libraries' Student Employee Handbook](https://emorywiki.atlassian.net/wiki/spaces/LHR/pages/69044958/Student+Handbook#)
 	* [Emergency procedures](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Student%20Employees/Collection%20Services%20Student%20Employees/CS%20Student%20Orientation%20Files/Emergency%20Procedures%20for%20Students.doc?d=w084f098c41b64decbd6f3a721267dd06&csf=1&web=1&e=LAmtzh](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/_layouts/15/Doc.aspx?sourcedoc=%7BA83BC881-2BEA-4590-811D-EF6AB6114E2C%7D&file=STUDENT%20EMPLOYEE%20HANDBOOK%2020-21-1.doc&action=default&mobileredirect=true))
 	* Student attendance policy
-	* Collection Services manual
+	* [Collection Services manual](https://github.com/rose-collectionservices/collection-services-manual)
 * Professional readings [for manuscript and archival processing assistants only]:
 	* Roe, Kathleen D., Arranging and Describing Archives and Manuscripts, Society of American Archivists, 2005. Chapters 1, 2 and 4.
 	* O'Toole, James M. and Richard Cox, Understanding Archives and Manuscripts, Society of American Archivists, 2006. Chapters 3 and 4 (including chapter 2 for an optional historical perspective).
@@ -156,6 +156,7 @@ It's helpful at this point to remind them that they aren't expected to memorize 
 #### 14.2.1.2 New Staff
 In advance of a new staff person starting work, review the Rose Library on-boarding checklist, the [Emory University Libraries checklist]([https://emory-my.sharepoint.com/:w:/g/personal/lstarra_emory_edu/IQBXBSXwkT33QoRV4wNSYmegAcvxvYKn7oaO1teqOB2zw6U?e=GihYDZ](https://emory.sharepoint.com/:w:/r/sites/EmoryUniversityLibraries/EUL_HR/_layouts/15/Doc.aspx?sourcedoc=%7BA78DE1A7-29D6-4A73-A1B2-238543008781%7D&file=EUL%20New%20Hire%20Employee%20Checklist.docx&action=default&mobileredirect=true)), [Handbook Governing The Librarian Series for Faculty-Equivalent Librarians within Emory Libraries](https://emory.sharepoint.com/:b:/s/EmoryUniversityLibraries/IQDkxnr6_DsZRo6Q_1SKTy9tAZYw3_qKYmqaz6XBjxO2LHs?e=HKfFJ4), and the [Rose Library Staff Handbook](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/RL%20Staff%20Handbook.docx?d=w304e80a217a245bb8444a8dfbc304917&csf=1&web=1&e=dHt6iv).
 
+[Outline for full onboarding list](https://emory-my.sharepoint.com/:w:/g/personal/lstarra_emory_edu/IQD8gkmp2ToTQaGEfqbGA1RZAZ1tw5dkpnY2MRqIyKThyGg?e=MhXxrL)
 Setting up the IT on-boarding system through [Service Now](https://emory.service-now.com/sp?id=sc_cat_item&sys_id=0174f11f93199a10076cfb4e1dba1053)
 
 New professional staff will have the benefit of graduate training in library and/or archival theory, and may also have prior professional experience. It won't be necessary to spend a lot of time reviewing basic practice with them. However, it is important to gauge their experience and knowledge and plan training accordingly. Most training will be focused on local practice and ensuring the new staff person's performance meets expectations for consistency, clarity, attention to detail, and problem solving. Set expectations early and continue to reinforce training as the person gains proficiency. Remember that the nature of special collections work means that training will occur over a period of months, not weeks.
