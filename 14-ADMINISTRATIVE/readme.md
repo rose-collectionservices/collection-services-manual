@@ -7,7 +7,7 @@ Some sections revised in 2025 but other sections need to be updated and have not
   	* [14.1.3 Asana](#1413-asana)
   	* [14.1.4 Clockify](#1414-clockify)
 * [14.2 Workplace and Environment](#142-workplace-and-environment)
-	* [14.2.1 Training](#1421-training)
+	* [14.2.1 Hiring and Training](#1421-training)
  		* [14.2.1.1 Students](#14211-students)
   		* [14.2.1.2 New Staff](#14212-new-staff)
    	* [14.2.2 Self-care during processing](#1422-self-care-during-processing)
@@ -127,14 +127,13 @@ Clockify is the time tracking software used by Collection Services.
 
 ## 14.2 Workplace and Environment
 
-### 14.2.1 Training
+### 14.2.1 Hiring and Training
 Approaches to training for students and new professional staff will vary. Students need introductions to both basic archival principles and local practices, while new professional staff may only need orientation to local practice. Training for new staff may also include training in advanced concepts relating to cataloging and systems. All training is iterative and will occur as new skills become necessary.
 
 #### 14.2.1.1 Students
 [Handbook for hiring Student Library Workers](https://hr.emory.edu/eu/_includes/documents/sections/hr-rep-resources/student-new-hire-training-manual.pdf)
 
 Create an orientation packet for a new student's first day. Include:
-
 * Rose Library orientation materials include:
 	* Rose Library promotional material
 	* [Rose Library welcome and rules](https://emory.sharepoint.com/:w:/r/sites/EUVRoseLibrary/Shared%20Documents/Student%20Employees/Collection%20Services%20Student%20Employees/CS%20Student%20Orientation%20Files/Student%20welcome%20and%20rules.docx?d=w51e94aca14914c2e91d71771e6376b13&csf=1&web=1&e=iFQfBG)
