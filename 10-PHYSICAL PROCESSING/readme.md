@@ -211,7 +211,7 @@ For additional guidelines and detailed information about processing photographs,
 Content owner: **Katherine Fisher**
 
 This quick guide outlines the steps to take when you encounter digital media while accessioning or processing a collection. For processing of digital content beyond handling of physical carriers, see [11.3 Born digital materials](https://github.com/rose-collectionservices/collection-services-manual/tree/master/11-FORMAT%20SPECIFIC%20PROCEDURES#113-born-digital-materials).
-1. Create a BD box to contain the media. Restrict the box in ArchivesSpace.
+1. Create a BD box to contain the media. If it contains fragile media (e.g., hard disks) that will not be processed right away, consider restricting the box in ArchivesSpace to minimize handling.
 	* If the collection contains only a small amount of digital media, you may leave it in a regular box or combine it with AV.
 	* 	House all fragile media in appropriate cases, sleeves, or envelopes. For example, compact discs, floppy disks, and hard disks should be individually housed to prevent damage. Hard drives and flash drives do not require individual housing. Retain original housings unless badly damaged.
 	* 	If media are filed in a manuscript box with non-media materials, they may be foldered individually in regular archival folders.
